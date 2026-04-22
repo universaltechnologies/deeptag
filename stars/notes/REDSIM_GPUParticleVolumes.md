@@ -1,0 +1,26 @@
+---
+title: "REDSIM/GPUParticleVolumes"
+repo: https://github.com/REDSIM/GPUParticleVolumes
+homepage: ""
+language: HLSL
+stars: 44
+topics: []
+starred_at: "2025-12-05T06:00:14Z"
+tags:
+  - graphic
+  - shader
+  - vfx
+  - unity
+  - hlsl
+  - vr
+---
+
+# REDSIM/GPUParticleVolumes
+
+> Ultra fast GPU based particles with VRC Light Volumes support.
+
+- **Repo**: https://github.com/REDSIM/GPUParticleVolumes
+- **Language**: HLSL
+- **Stars**: 44
+
+![[readme/REDSIM_GPUParticleVolumes]]
