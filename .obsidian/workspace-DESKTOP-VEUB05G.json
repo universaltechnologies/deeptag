@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "fe916b995811df15",
+    "type": "split",
+    "children": [
+      {
+        "id": "7285ca7487770646",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8726aac45b0e15b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tools/git/when_git_meet_ai.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "when_git_meet_ai"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0462accdab266392",
+    "type": "split",
+    "children": [
+      {
+        "id": "08f9495561387958",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dae4654ac81f05c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "watermark",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a94cb932de5b0961",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "33068e02b993f04b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "11fb9eafb19f2e12",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 465.5
+  },
+  "right": {
+    "id": "5d51eb76a403f555",
+    "type": "split",
+    "children": [
+      {
+        "id": "645ee8c33c61e809",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "488583e258a14ff7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "rivergame/task/board.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for board"
+            }
+          },
+          {
+            "id": "df4b6702e4aeeb85",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3c5bd705e8819ed5",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "4780692a9e34c519",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "691fcc9947af47bb",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "card-board:CardBoard": false
+    }
+  },
+  "active": "d8726aac45b0e15b",
+  "lastOpenFiles": [
+    "tools/domain",
+    "tools/water_mark/知乎原图_冲突文件_Administrator_20250628171723.md",
+    "rivergame/task/board.canvas",
+    "game/戴森球计划/blueprint.md",
+    "game/戴森球计划/玩法.md",
+    "game/戴森球计划/材料合成/磁铁.md",
+    "tools/git/when_git_meet_ai.md",
+    "temp.md",
+    "tools/ai/ai_api_keys.md",
+    "tools/ai",
+    "tools/git/git commands.md",
+    "tools/water_mark/知乎原图.md",
+    "tools/water_mark/腾讯视频.md",
+    "joplin/csdn-blog-md/定时器工作不正常：由缓存池回收机制引发的血案.md",
+    "graphic/shadow/假阴影.md",
+    "graphic/shadow/attachments/img_v3_02mn_b879a38b-9c31-4795-9167-f0da9743051g.jpg",
+    "graphic/shadow/attachments",
+    "graphic/shadow",
+    "graphic/other/global illumination techniques in game engines research report.md",
+    "graphic/other/game pathfinding techniques analysis and comparison.md",
+    "graphic/api/vulkan/Understanding Vulkan® Objects.md",
+    "graphic/新建文件夹",
+    "graphic/api/vulkan/pass.md",
+    "graphic/buffer/vao abo ebo.md",
+    "graphic/buffer/vao.md",
+    "graphic/buffer/ubo.md",
+    "graphic/buffer/fbo.md",
+    "graphic/api/vulkan/vulkan_pipeline.md",
+    "graphic/api/vulkan/framework.md",
+    "graphic/api/vulkan/descriptor_layout.md",
+    "tools/video/ffmpeg.md",
+    "tools/git/git@gitee.com Permission denied (publickey)..md",
+    "coding/unity/utilities/Untitled",
+    "game/戴森球计划/Untitled Kanban.md.baiduyun.uploading.cfg",
+    "game/戴森球计划/blueprint.md.baiduyun.uploading.cfg",
+    "graphic/api/vulkan/Understanding Vulkan® Objects.png",
+    "rivergame/task/board.canvas.baiduyun.uploading.cfg",
+    "coding/unity/gpu",
+    "coding/cocos",
+    "coding/performance/attachments/gpu_particle_order.jpg",
+    "coding/performance/attachments/cM9LzCe9X1.jpg",
+    "other/头像/attachments/剑非道.jpg",
+    "graphic/cartoon/attachments/combine_shadow_and_cartoon_shadow.png",
+    "graphic/cartoon/attachments/cartoon_shadow.png",
+    "graphic/cartoon/attachments/cartoon_outline_with_vertex_color_alpha_lerp.jpg",
+    "graphic/cartoon/attachments/cartoon_outline_without_vertex_color_alpha_lerp.jpg",
+    "graphic/cartoon/attachments/combine_shadow_and_cartoon_shadow2.png",
+    "Untitled.canvas",
+    "未命名.canvas",
+    "task.canvas",
+    "未命名 1.canvas",
+    "未命名 2.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}

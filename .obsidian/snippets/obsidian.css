@@ -1,0 +1,7 @@
+.markdown-preview-view ul > li.task-list-item.is-checked {
+  /*opacity: 75%;*/
+  text-decoration: line-through;
+  /*text-decoration-color: rgb(255, 90, 255);*/
+  text-decoration-color: rgb(127, 45, 127);
+  /*text-decoration: none;*/
+}

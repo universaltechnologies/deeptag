@@ -1,0 +1,12 @@
+{
+  "translucency": false,
+  "interfaceFontFamily": "幼圆,Consolas",
+  "baseFontSize": 16,
+  "accentColor": "",
+  "theme": "obsidian",
+  "textFontFamily": "幼圆",
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "obsidian"
+  ]
+}

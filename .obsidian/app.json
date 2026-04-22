@@ -1,0 +1,20 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "useTab": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "readableLineLength": false,
+  "promptDelete": false,
+  "attachmentFolderPath": "./attachments",
+  "alwaysUpdateLinks": true,
+  "spellcheckLanguages": null,
+  "spellcheck": false,
+  "showLineNumber": true,
+  "showFrontmatter": true
+}

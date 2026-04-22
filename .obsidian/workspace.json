@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "bedd1763329b6fed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4cf91a10a1499a0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0462accdab266392",
+    "type": "split",
+    "children": [
+      {
+        "id": "08f9495561387958",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11fb9eafb19f2e12",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "dae4654ac81f05c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "2a92a80935f109d1",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "recent-files"
+            }
+          },
+          {
+            "id": "a94cb932de5b0961",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "33068e02b993f04b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.5
+  },
+  "right": {
+    "id": "5d51eb76a403f555",
+    "type": "split",
+    "children": [
+      {
+        "id": "645ee8c33c61e809",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "488583e258a14ff7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "rivergame/task/board.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for board"
+            }
+          },
+          {
+            "id": "df4b6702e4aeeb85",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4780692a9e34c519",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "691fcc9947af47bb",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 380.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:查看关系图谱": false,
+      "command-palette:打开命令面板": false,
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "bases:新建数据库": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "b4cf91a10a1499a0",
+  "lastOpenFiles": [
+    "stars/notes/adcimon_mesh-deformer.md",
+    "stars/notes/0install_0install.md",
+    "_tag_proposal.md",
+    "stars/notes/1Panel-dev_1Panel.md",
+    "stars/notes/0xFA11_MultiplayerNetworkingResources.md",
+    "stars/notes/0voice_cpp_new_features.md",
+    "stars/notes/0kk470_pil4.md",
+    "stars/notes/LuaJIT_LuaJIT.md",
+    "stars/readme/LuaJIT_LuaJIT.md",
+    "stars/readme/gpuweb_gpuweb.md",
+    "stars/readme/GameTechDev_TAA.md",
+    "stars/readme/halak_unity-editor-icons.md",
+    "stars/readme/agarcialeon_awesome-unity.md",
+    "stars/notes/halak_unity-editor-icons.md",
+    "stars/notes/agentbillwh_unilic.md",
+    "stars/readme/nigels-com_glew.md.baiduyun.uploading.cfg",
+    "stars/readme/mattdesl_graphics-resources.md.baiduyun.uploading.cfg",
+    "stars/readme/horde3d_Horde3D.md.baiduyun.uploading.cfg",
+    "stars/readme/glfw_glfw.md.baiduyun.uploading.cfg",
+    "stars/readme/CesiumGS_cesium.md.baiduyun.uploading.cfg",
+    "stars/readme/AcademySoftwareFoundation_openexr.md.baiduyun.uploading.cfg",
+    "stars/notes/nigels-com_glew.md.baiduyun.uploading.cfg",
+    "stars/notes/mattdesl_graphics-resources.md.baiduyun.uploading.cfg",
+    "stars/notes/horde3d_Horde3D.md.baiduyun.uploading.cfg",
+    "stars/notes/glfw_glfw.md.baiduyun.uploading.cfg",
+    "stars/notes/AcademySoftwareFoundation_openexr.md",
+    "stars/readme/AcademySoftwareFoundation_openexr.md",
+    "stars/notes/mattdesl_graphics-resources.md",
+    "stars/readme/mattdesl_graphics-resources.md",
+    "stars/notes/horde3d_Horde3D.md",
+    "stars/readme/horde3d_Horde3D.md",
+    "stars/notes/CesiumGS_cesium.md",
+    "stars/readme/CesiumGS_cesium.md",
+    "stars/notes/nigels-com_glew.md",
+    "stars/readme/nigels-com_glew.md",
+    "stars/notes/glfw_glfw.md",
+    "rivergame/task/board.canvas",
+    "tools/git/attachments/tortoise icon overlays.png",
+    "tools/git/attachments/ShellIconOverlayIdentifiers.png",
+    "attachments/Diagram.svg",
+    "Untitled Diagram.svg",
+    "Untitled Diagram 1.svg",
+    "graphic/gpu_technology/attachments/gpu_particle_converter_workflow_sequence.png",
+    "graphic/gpu_technology/attachments/render_batch_example.png",
+    "graphic/gpu_technology/attachments/gpu_particle_runtime.png",
+    "graphic/gpu_technology/attachments/gpu_particle_converter.png",
+    "graphic/gpu_technology/attachments/gpu_particle_converter_workflow.png",
+    "Untitled.canvas",
+    "未命名.canvas",
+    "task.canvas",
+    "未命名 1.canvas",
+    "未命名 2.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}
