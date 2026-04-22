@@ -1,0 +1,177 @@
+<h1 align="center">OpenGoat</h1>
+<p align="center"><strong>Build AI Autonomous Organizations of OpenClaw Agents.</strong></p>
+
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT License" /></a>
+  <a href="https://www.npmjs.com/package/opengoat"><img src="https://img.shields.io/npm/v/opengoat?style=flat-square" alt="npm version" /></a>
+  <a href="https://github.com/marian2js/opengoat/actions"><img src="https://img.shields.io/github/actions/workflow/status/marian2js/opengoat/ci.yml?branch=main&style=flat-square" alt="CI" /></a>
+  <img src="https://img.shields.io/badge/node-%3E%3D20.11-brightgreen?style=flat-square" alt="Node >= 20.11" />
+  <a href="https://discord.gg/JWGqXJMwYE"><img src="https://img.shields.io/badge/discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
+
+**OpenGoat** allows you to build herarchical organizations of AI agents that coordinate work across multiple tools, including Claude Code, Codex, Cursor, GitHub Copilot CLI, Lovable, and more.
+
+[![OpenGoat UI](/assets/org-example.png)](https://opengoat.ai)
+
+---
+
+## Installation
+
+```bash
+# Install OpenClaw and OpenGoat
+npm i -g openclaw opengoat
+
+# Setup OpenClaw
+openclaw onboard
+
+# Start OpenGoat
+opengoat start
+```
+
+That's it. Open `http://127.0.0.1:19123` and start messaging Goat, your AI co-founder.
+
+### Alternative: Docker
+
+```bash
+docker build -t opengoat:latest .
+docker run --rm -p 19123:19123 -v opengoat-data:/data/opengoat opengoat:latest
+```
+
+Then open `http://127.0.0.1:19123`.
+
+### From Source (without global npm install)
+
+```bash
+pnpm install
+pnpm build
+./bin/opengoat --help
+```
+
+### Documentation (Mintlify)
+
+```bash
+cd docs
+mintlify dev
+```
+
+Use `mintlify broken-links` before publishing documentation changes.
+
+When agents execute commands from their OpenGoat workspace, use the workspace shim:
+
+```bash
+sh ./opengoat agent list
+sh ./opengoat agent info goat
+```
+
+### CLI Quick Start (Optional)
+
+Runtime: Node `>=20.11`.
+
+```bash
+npm i -g openclaw opengoat
+openclaw onboard
+opengoat init
+opengoat project create https://myproject.com
+opengoat agent --message "Set up a CTO and two engineers for this project."
+```
+
+Run the production UI server from the CLI:
+
+```bash
+opengoat start
+```
+
+Restart a running UI server:
+
+```bash
+opengoat restart
+```
+
+Use an external OpenClaw gateway:
+
+```bash
+opengoat onboard --external \
+  --gateway-url ws://host:18789 \
+  --gateway-token <token> \
+  --non-interactive
+```
+
+## Typical Workflows
+
+### Create a project CMO
+
+```bash
+opengoat project create https://myproject.com
+```
+
+This provisions a project-scoped CMO agent workspace at
+`~/.opengoat/projects/<project>/cmo`, installs the `agent-browser` skill by
+default, and bootstraps the CMO with an internal first-run prompt sequence
+derived from the project URL.
+
+### Build the organization
+
+```bash
+opengoat agent create "CTO" --manager --reports-to goat
+opengoat agent create "Engineer" --individual --reports-to cto --skill coding
+opengoat agent create "Designer" --individual --reports-to cto
+opengoat agent list
+```
+
+### Run role-based work
+
+```bash
+opengoat agent cto --message "Plan the Q2 engineering roadmap and split it into streams."
+opengoat agent engineer --message "Implement the auth middleware for this sprint."
+```
+
+### Configure the default entry agent
+
+```bash
+# Persist in config.json
+opengoat agent set-default stone
+
+# Or override at runtime
+export OPENGOAT_DEFAULT_AGENT=stone
+```
+
+You can also set `defaultAgent` directly in `~/.opengoat/config.json`.
+
+### Keep session continuity
+
+```bash
+opengoat agent goat \
+  --session saaslib-planning \
+  --message "Create a release checklist for v1.2"
+
+opengoat agent goat \
+  --session saaslib-planning \
+  --message "Now draft the changelog"
+```
+
+### Operate with tasks
+
+```bash
+opengoat task create --title "Ship auth" --description "Finish middleware + tests" --owner cto --assign engineer
+opengoat task list --as engineer
+opengoat task status <task-id> doing
+```
+
+## Skills
+
+```bash
+opengoat skill install og-boards --from /path/to/skill
+opengoat skill install jira-tools --from /path/to/skill
+opengoat skill list --agent goat
+```
+
+Role skill behavior:
+
+- OpenClaw agents use role-specific board skills:
+  - managers: `og-board-manager`
+  - individuals: `og-board-individual`
+- Non-OpenClaw agents use one board skill: `og-boards`
+
+# License
+
+MIT

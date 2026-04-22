@@ -1,0 +1,32 @@
+# Apple Unity Plug-Ins
+
+## Overview
+The Apple Unity Plug-Ins expose a selection of Apple platform frameworks to Unity developers.
+
+To get started with integration of these plug-ins into your Unity projects, run `python3 build.py` and use the `.tgz` packages in the `Build/` directory. For a more detailed walkthrough, please check out the [Quick Start Guide](Documentation/Quickstart.md), which also includes introductions to each plug-in.
+
+| [Home](README.md) | [Feedback](Documentation/Feedback.md) | [Quick Start Guide](Documentation/Quickstart.md) | [Build Script](Documentation/BuildScript.md) |
+| :---: | :---: | :---: | :---: |
+
+| Plug-In | Description |
+| :------ | :---------- |
+| Apple.Core | Provides integrated build post process management and Editor UI.<br/>**Note:** Apple.Core is a dependency of all Apple Unity plug-ins.|
+| Apple.Accessibility | Provides Apple's accessibility to Unity developers allowing adding supports to Apple's built-in assistive technologies such as VoiceOver.|
+| Apple.CoreHaptics | Brings Apple's Core Haptics framework to Unity developers, enabling for customizable haptic patterns and in-depth playback control on supported devices. This Plug-In also includes UIKit's UIFeedbackGenerator API.|
+| Apple.GameController | Exposes Apple's GameController framework to Unity developers allowing for rich controller features in macOS, iOS, and tvOS apps. |
+| Apple.GameKit | Allows Unity developers to easily integrate GameKit features such as leaderboards, achievements, and match making. |
+| Apple.PHASE | The PHASE plug-in allows Unity developers to take full advantage of Apple's new geometry and material aware spatial audio system. |
+| Apple.SpatialController | Exposes Apple's AccessoryTracking and GameController frameworks to Unity developers on visionOS allowing for spatial controller features in visionOS apps. Requires visionOS 26.0 |
+
+## Minimum Supported OS Versions
+| OS | Version |
+| :- | :------ |
+| iOS | 15.6 |
+| macOS | 11.5 |
+| tvOS | 15.6 |
+| visionOS | 1.3 |
+| watchOS | not supported |
+
+
+## Leaving Feedback
+Leave an issue for the community or see the [Feedback](Documentation/Feedback.md) documentation for more information.
