@@ -9,8 +9,10 @@ starred_at: "2020-09-29T08:45:12Z"
 tags:
   - tools
   - game
-  - json
-  - cli
+  - coding
+  - data
+  - tool
+  - performance
 ---
 
 # davyxu/tabtoy

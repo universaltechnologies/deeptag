@@ -8,9 +8,11 @@ topics: [alerting, analytics, business-intelligence, dashboard, data-visualizati
 starred_at: "2021-03-06T20:29:32Z"
 tags:
   - coding
-  - visualization
+  - web
+  - ui
   - monitoring
-  - frontend
+  - visualization
+  - framework
 ---
 
 # grafana/grafana

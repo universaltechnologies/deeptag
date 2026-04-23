@@ -8,9 +8,10 @@ topics: []
 starred_at: "2026-01-27T17:01:34Z"
 tags:
   - coding
+  - ai
+  - inference
   - proxy
-  - api
-  - llm
+  - tool
 ---
 
 # zhangrr/claude-nvidia-proxy

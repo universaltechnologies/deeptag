@@ -9,10 +9,10 @@ starred_at: "2026-04-17T20:23:33Z"
 tags:
   - coding
   - ai
+  - llm
   - agent
   - automation
-  - browser
-  - self-hosted
+  - framework
 ---
 
 # lsdefine/GenericAgent

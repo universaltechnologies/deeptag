@@ -8,12 +8,11 @@ topics: []
 starred_at: "2023-03-17T21:39:51Z"
 tags:
   - coding
+  - graphic
   - shader
   - depth
-  - post-processing
-  - unity
   - vfx
-  - rendering
+  - unity
 ---
 
 # chenjd/UnitySpecialEffectWithDepth

@@ -8,10 +8,10 @@ topics: [c, cross-platform, library, portable]
 starred_at: "2025-05-17T04:00:43Z"
 tags:
   - coding
-  - library
+  - c
   - concurrency
+  - library
   - cross-platform
-  - header-only
 ---
 
 # bdwgc/libatomic_ops

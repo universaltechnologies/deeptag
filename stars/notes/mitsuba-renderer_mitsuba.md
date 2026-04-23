@@ -8,11 +8,10 @@ topics: []
 starred_at: "2023-11-06T18:12:56Z"
 tags:
   - graphic
-  - pbr
-  - path-tracing
   - rendering
-  - volume
+  - path-tracing
   - cpp
+  - tool
 ---
 
 # mitsuba-renderer/mitsuba

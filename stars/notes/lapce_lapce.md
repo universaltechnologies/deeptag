@@ -10,8 +10,7 @@ tags:
   - coding
   - editor
   - rust
-  - ui
-  - performance
+  - tool
 ---
 
 # lapce/lapce

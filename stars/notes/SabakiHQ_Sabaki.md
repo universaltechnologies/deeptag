@@ -8,11 +8,10 @@ topics: [baduk, board-game, electron, go, goban, igo, javascript, linux, macos, 
 starred_at: "2020-01-04T09:38:22Z"
 tags:
   - coding
+  - web
   - electron
-  - ui
-  - game
-  - desktop
   - tools
+  - tool
 ---
 
 # SabakiHQ/Sabaki

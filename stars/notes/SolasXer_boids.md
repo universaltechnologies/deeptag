@@ -8,8 +8,9 @@ topics: []
 starred_at: "2025-12-18T17:33:56Z"
 tags:
   - coding
-  - algorithm
+  - game
   - simulation
+  - algorithm
 ---
 
 # SolasXer/boids

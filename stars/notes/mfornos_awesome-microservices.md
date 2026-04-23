@@ -7,8 +7,10 @@ stars: 14253
 topics: [awesome, cloud-computing, cloud-native, microservices, microservices-architecture]
 starred_at: "2022-03-09T16:33:02Z"
 tags:
-  - awesome
   - coding
+  - architecture
+  - distributed
+  - awesome
 ---
 
 # mfornos/awesome-microservices

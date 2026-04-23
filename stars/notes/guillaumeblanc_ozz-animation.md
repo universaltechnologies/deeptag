@@ -7,12 +7,11 @@ stars: 2823
 topics: [animation, collada, data-oriented, fbx, game, mit-license, simd, soa, sse]
 starred_at: "2017-02-07T03:51:11Z"
 tags:
-  - graphic
+  - coding
+  - cpp
   - animation
-  - skeletal
-  - simd
-  - runtime
   - library
+  - performance
 ---
 
 # guillaumeblanc/ozz-animation

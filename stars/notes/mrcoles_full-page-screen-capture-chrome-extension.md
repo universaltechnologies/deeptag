@@ -7,9 +7,9 @@ stars: 1452
 topics: []
 starred_at: "2023-04-21T04:50:09Z"
 tags:
+  - tools
   - coding
-  - image
-  - browser
+  - web
   - plugin
 ---
 

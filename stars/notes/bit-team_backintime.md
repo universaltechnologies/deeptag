@@ -8,10 +8,9 @@ topics: [backintime, backup, backups, good-first-issue, good-first-issues, hardl
 starred_at: "2022-03-13T17:17:21Z"
 tags:
   - tools
-  - automation
-  - ui
   - linux
   - cli
+  - gui
 ---
 
 # bit-team/backintime

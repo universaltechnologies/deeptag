@@ -9,7 +9,7 @@ starred_at: "2025-04-23T07:19:01Z"
 tags:
   - graphic
   - mesh
-  - math
+  - tool
 ---
 
 # christopherbatty/SDFGen

@@ -8,11 +8,11 @@ topics: [astc, computeshader, gpu-texture-compression, texture-compression]
 starred_at: "2024-03-15T14:42:30Z"
 tags:
   - graphic
-  - compression
   - texture
+  - shader
   - compute-shader
-  - directx
-  - cli
+  - compression
+  - tool
 ---
 
 # niepp/astc_encoder

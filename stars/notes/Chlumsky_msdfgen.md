@@ -9,9 +9,8 @@ starred_at: "2017-05-26T12:42:07Z"
 tags:
   - graphic
   - font
-  - 2d
-  - cpp
-  - algorithm
+  - library
+  - tool
 ---
 
 # Chlumsky/msdfgen

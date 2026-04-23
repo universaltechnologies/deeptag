@@ -8,10 +8,11 @@ topics: []
 starred_at: "2020-08-26T04:25:42Z"
 tags:
   - coding
+  - web
   - frontend
-  - ui
   - gui
   - component
+  - library
 ---
 
 # scratchfoundation/scratch-gui

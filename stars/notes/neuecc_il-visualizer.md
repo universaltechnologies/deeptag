@@ -10,7 +10,7 @@ tags:
   - coding
   - dotnet
   - debug
-  - editor
+  - tool
 ---
 
 # neuecc/il-visualizer

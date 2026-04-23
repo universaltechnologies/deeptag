@@ -8,8 +8,9 @@ topics: [c-sharp, code-generation, csharp, design-pattern, design-patterns, ecs,
 starred_at: "2023-09-28T19:57:26Z"
 tags:
   - coding
-  - ecs
-  - unity
+  - engine
+  - game
+  - framework
   - performance
 ---
 

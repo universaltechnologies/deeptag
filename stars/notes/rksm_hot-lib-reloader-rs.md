@@ -7,11 +7,11 @@ stars: 745
 topics: []
 starred_at: "2023-02-14T10:25:32Z"
 tags:
-  - coding
   - rust
-  - hotfix
-  - ffi
   - library
+  - tool
+  - hotfix
+  - debug
 ---
 
 # rksm/hot-lib-reloader-rs

@@ -7,13 +7,11 @@ stars: 4010
 topics: [egret, game-engine, html5-canvas, html5-game, javascript, typescript, webgl]
 starred_at: "2016-01-22T03:16:36Z"
 tags:
-  - graphic
-  - rendering
-  - webgl
-  - 2d
   - coding
   - engine
   - web
+  - typescript
+  - javascript
   - cross-platform
 ---
 

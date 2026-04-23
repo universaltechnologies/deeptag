@@ -7,13 +7,10 @@ stars: 56741
 topics: [azure-blob, azure-blob-storage, azure-files, backblaze-b2, cloud-storage, dropbox, encryption, ftp, fuse-filesystem, go, golang, google-cloud-storage, google-drive, onedrive, openstack-swift, rclone, s3, sftp, sync, webdav]
 starred_at: "2022-03-13T16:32:13Z"
 tags:
-  - coding
   - tools
-  - network
-  - cloud
   - storage
-  - cli
-  - filesystem
+  - cloud
+  - tool
 ---
 
 # rclone/rclone

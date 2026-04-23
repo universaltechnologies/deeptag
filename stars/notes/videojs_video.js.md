@@ -8,10 +8,11 @@ topics: [dash, hls, html, html5, html5-audio, html5-video, javascript, player, v
 starred_at: "2025-10-13T10:36:29Z"
 tags:
   - coding
-  - frontend
-  - video
-  - plugin
   - web
+  - frontend
+  - media
+  - library
+  - cross-platform
 ---
 
 # videojs/video.js

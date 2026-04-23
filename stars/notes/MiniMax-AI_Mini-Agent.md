@@ -8,11 +8,11 @@ topics: [agent, llm, minimax]
 starred_at: "2026-04-09T06:29:37Z"
 tags:
   - coding
+  - ai
   - agent
   - llm
-  - cli
-  - automation
-  - workflow
+  - mcp
+  - practice
 ---
 
 # MiniMax-AI/Mini-Agent

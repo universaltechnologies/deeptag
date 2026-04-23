@@ -9,7 +9,9 @@ starred_at: "2017-12-07T11:41:56Z"
 tags:
   - coding
   - compression
-  - algorithm
+  - library
+  - performance
+  - cross-platform
 ---
 
 # google/brotli

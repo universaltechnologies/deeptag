@@ -7,10 +7,9 @@ stars: 24657
 topics: [calibre, ebook, ebook-formats, ebook-manager, ebook-reader, ebooks, epub, epub-generation, kindle, python]
 starred_at: "2026-02-03T01:38:39Z"
 tags:
+  - coding
   - tools
   - cross-platform
-  - ui
-  - database
 ---
 
 # kovidgoyal/calibre

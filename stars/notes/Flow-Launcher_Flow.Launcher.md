@@ -8,10 +8,10 @@ topics: [alfred, application-launcher, desktop, finder, flow-launcher, hacktober
 starred_at: "2025-12-20T10:42:19Z"
 tags:
   - tools
+  - productivity
   - windows
   - plugin
   - csharp
-  - productivity
 ---
 
 # Flow-Launcher/Flow.Launcher

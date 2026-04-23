@@ -7,12 +7,11 @@ stars: 1257
 topics: []
 starred_at: "2023-12-25T12:19:37Z"
 tags:
-  - graphic
-  - vfx
+  - coding
+  - engine
   - unity
-  - image
-  - texture
-  - atlas
+  - vfx
+  - tool
 ---
 
 # Unity-Technologies/VFXToolbox

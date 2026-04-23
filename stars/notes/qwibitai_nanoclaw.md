@@ -10,9 +10,7 @@ tags:
   - coding
   - ai
   - agent
-  - docker
-  - security
-  - automation
+  - library
 ---
 
 # qwibitai/nanoclaw

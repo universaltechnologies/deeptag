@@ -8,9 +8,11 @@ topics: [python, vulkan]
 starred_at: "2020-06-01T18:00:41Z"
 tags:
   - graphic
-  - binding
+  - platform
   - vulkan
-  - python
+  - coding
+  - binding
+  - library
 ---
 
 # realitix/vulkan

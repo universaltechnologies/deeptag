@@ -9,10 +9,9 @@ starred_at: "2026-03-05T08:27:38Z"
 tags:
   - coding
   - ai
-  - agent
   - llm
-  - workflow
-  - ui
+  - agent
+  - library
 ---
 
 # cft0808/edict

@@ -8,11 +8,11 @@ topics: [cpp, cuda, gpu, high-performance, ispc, metal, optix, path-tracing, ray
 starred_at: "2022-10-31T07:55:58Z"
 tags:
   - graphic
+  - rendering
   - path-tracing
   - ray-tracing
-  - rendering
-  - gpu
-  - cpp
+  - framework
+  - cross-platform
 ---
 
 # LuisaGroup/LuisaRender

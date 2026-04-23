@@ -10,9 +10,7 @@ tags:
   - coding
   - gui
   - library
-  - binding
   - cross-platform
-  - desktop
 ---
 
 # fltk-rs/fltk-rs

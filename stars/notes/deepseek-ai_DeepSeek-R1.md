@@ -10,8 +10,8 @@ tags:
   - coding
   - ai
   - llm
-  - inference
   - deep-learning
+  - framework
 ---
 
 # deepseek-ai/DeepSeek-R1

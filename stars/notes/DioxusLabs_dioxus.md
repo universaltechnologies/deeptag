@@ -8,10 +8,9 @@ topics: [android, css, desktop, html, ios, native, react, rust, ssr, ui, virtual
 starred_at: "2023-02-24T03:17:15Z"
 tags:
   - coding
-  - framework
   - web
-  - ui
-  - rust
+  - frontend
+  - framework
   - cross-platform
 ---
 

@@ -7,12 +7,9 @@ stars: 502
 topics: []
 starred_at: "2017-11-10T13:08:35Z"
 tags:
-  - graphic
-  - rendering
-  - opengl
-  - 3d
+  - coding
   - engine
-  - library
+  - cpp
 ---
 
 # zaki/irrlicht

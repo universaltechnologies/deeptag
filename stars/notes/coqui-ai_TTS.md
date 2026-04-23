@@ -10,8 +10,7 @@ tags:
   - coding
   - ai
   - deep-learning
-  - audio
-  - inference
+  - library
 ---
 
 # coqui-ai/TTS

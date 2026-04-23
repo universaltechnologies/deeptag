@@ -7,8 +7,9 @@ stars: 2
 topics: []
 starred_at: "2017-03-29T03:05:44Z"
 tags:
-  - graphic
   - coding
+  - language
+  - cpp
 ---
 
 # google-code-export/dtentity

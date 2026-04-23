@@ -7,12 +7,11 @@ stars: 2533
 topics: []
 starred_at: "2025-08-07T11:52:56Z"
 tags:
-  - coding
+  - tools
   - java
   - android
   - cli
-  - encryption
-  - compression
+  - tool
 ---
 
 # nelenkov/android-backup-extractor

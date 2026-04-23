@@ -10,9 +10,8 @@ tags:
   - coding
   - ai
   - llm
-  - rag
-  - agent
   - cloud
+  - tutorial
 ---
 
 # GoogleCloudPlatform/generative-ai

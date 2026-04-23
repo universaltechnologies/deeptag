@@ -8,11 +8,11 @@ topics: []
 starred_at: "2025-05-15T09:59:10Z"
 tags:
   - coding
+  - data
   - json
+  - library
   - performance
   - dotnet
-  - library
-  - serialization
 ---
 
 # fujieda/DynaJson

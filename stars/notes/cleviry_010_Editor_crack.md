@@ -7,9 +7,9 @@ stars: 49
 topics: [010editor, cracked, reverse]
 starred_at: "2024-08-22T09:04:05Z"
 tags:
-  - tools
+  - coding
   - reverse
-  - misc
+  - tools
 ---
 
 # cleviry/010_Editor_crack

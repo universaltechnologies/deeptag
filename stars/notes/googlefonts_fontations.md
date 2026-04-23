@@ -8,8 +8,9 @@ topics: []
 starred_at: "2025-11-13T12:00:59Z"
 tags:
   - coding
-  - font
-  - parser
+  - media
+  - library
+  - performance
 ---
 
 # googlefonts/fontations

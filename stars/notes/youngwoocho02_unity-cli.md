@@ -8,11 +8,11 @@ topics: [ai-tools, cli, developer-tools, game-development, golang, unity, unity-
 starred_at: "2026-03-25T03:39:58Z"
 tags:
   - coding
-  - cli
   - engine
   - unity
+  - cli
+  - tool
   - automation
-  - cross-platform
 ---
 
 # youngwoocho02/unity-cli

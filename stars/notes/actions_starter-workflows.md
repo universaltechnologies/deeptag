@@ -8,7 +8,6 @@ topics: [actions]
 starred_at: "2024-11-29T08:33:40Z"
 tags:
   - coding
-  - ci
   - automation
   - workflow
 ---

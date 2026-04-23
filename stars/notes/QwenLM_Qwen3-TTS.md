@@ -9,10 +9,8 @@ starred_at: "2026-01-25T00:26:56Z"
 tags:
   - coding
   - ai
-  - audio
-  - inference
-  - framework
-  - llm
+  - tts
+  - library
 ---
 
 # QwenLM/Qwen3-TTS

@@ -7,9 +7,8 @@ stars: 25676
 topics: []
 starred_at: "2025-07-24T16:44:49Z"
 tags:
-  - coding
+  - tools
   - network
-  - automation
 ---
 
 # blackmatrix7/ios_rule_script

@@ -10,6 +10,7 @@ tags:
   - coding
   - algorithm
   - geometry
+  - library
 ---
 
 # mikolalysenko/rectangle-decomposition

@@ -7,8 +7,9 @@ stars: 485
 topics: [3d-graphics, hda, houdini, houdini-digital-assets, houdini-engine, procedural, procedural-generation]
 starred_at: "2023-02-17T02:06:45Z"
 tags:
+  - graphic
+  - vfx
   - awesome
-  - misc
 ---
 
 # wyhinton/AwesomeHoudini

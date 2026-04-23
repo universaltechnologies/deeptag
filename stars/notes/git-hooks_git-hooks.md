@@ -8,9 +8,8 @@ topics: [git, hook-manager]
 starred_at: "2023-02-14T02:44:11Z"
 tags:
   - coding
-  - editor
   - git
-  - cli
+  - tool
 ---
 
 # git-hooks/git-hooks

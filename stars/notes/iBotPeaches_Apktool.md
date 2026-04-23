@@ -8,9 +8,9 @@ topics: [9patch, android, apk, apktool, arsc, reverse-engineering]
 starred_at: "2022-12-26T11:06:41Z"
 tags:
   - coding
-  - tools
   - reverse
   - android
+  - tool
 ---
 
 # iBotPeaches/Apktool

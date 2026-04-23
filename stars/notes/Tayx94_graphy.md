@@ -8,11 +8,11 @@ topics: [fps-counter, stats-for-nerds, stats-monitor, unity, unity-asset]
 starred_at: "2023-02-10T07:59:42Z"
 tags:
   - coding
+  - engine
   - unity
   - debug
   - profiler
-  - ui
-  - performance
+  - plugin
 ---
 
 # Tayx94/graphy

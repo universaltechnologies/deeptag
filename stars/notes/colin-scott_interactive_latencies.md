@@ -8,9 +8,10 @@ topics: []
 starred_at: "2021-10-08T09:47:59Z"
 tags:
   - coding
+  - performance
   - visualization
   - web
-  - frontend
+  - tool
 ---
 
 # colin-scott/interactive_latencies

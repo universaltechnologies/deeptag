@@ -8,11 +8,10 @@ topics: [desktop-capturing, virtual-camera, webcam]
 starred_at: "2025-02-07T12:21:50Z"
 tags:
   - coding
+  - media
   - video
-  - image-processing
-  - cross-platform
   - desktop
-  - capture
+  - cross-platform
 ---
 
 # webcamoid/webcamoid

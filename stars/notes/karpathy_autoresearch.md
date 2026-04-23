@@ -9,10 +9,9 @@ starred_at: "2026-03-16T04:58:28Z"
 tags:
   - coding
   - ai
-  - llm
   - agent
-  - automation
-  - python
+  - llm
+  - library
 ---
 
 # karpathy/autoresearch

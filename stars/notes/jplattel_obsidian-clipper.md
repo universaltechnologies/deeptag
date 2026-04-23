@@ -7,11 +7,9 @@ stars: 752
 topics: [chrome, clipper, extension, obsidian, obsidian-md]
 starred_at: "2022-06-15T03:14:02Z"
 tags:
-  - coding
-  - javascript
-  - browser
+  - web
   - plugin
-  - markdown
+  - tool
 ---
 
 # jplattel/obsidian-clipper

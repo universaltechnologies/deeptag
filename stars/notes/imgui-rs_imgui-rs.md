@@ -10,8 +10,7 @@ tags:
   - coding
   - gui
   - binding
-  - rust
-  - rendering
+  - library
 ---
 
 # imgui-rs/imgui-rs

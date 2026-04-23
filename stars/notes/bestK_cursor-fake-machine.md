@@ -8,8 +8,8 @@ topics: []
 starred_at: "2026-01-08T03:58:58Z"
 tags:
   - coding
-  - editor
-  - javascript
+  - tool
+  - plugin
 ---
 
 # bestK/cursor-fake-machine

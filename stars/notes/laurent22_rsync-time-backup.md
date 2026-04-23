@@ -7,11 +7,10 @@ stars: 3584
 topics: [backup, bash, rsync, shell, time-machine]
 starred_at: "2022-03-13T17:16:35Z"
 tags:
-  - coding
-  - shell
-  - storage
-  - cli
-  - linux
+  - tools
+  - automation
+  - workflow
+  - tool
 ---
 
 # laurent22/rsync-time-backup

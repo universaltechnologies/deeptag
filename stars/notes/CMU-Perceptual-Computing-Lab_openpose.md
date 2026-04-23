@@ -8,9 +8,9 @@ topics: [caffe, computer-vision, cpp, cvpr-2017, deep-learning, face, foot-estim
 starred_at: "2023-03-30T10:08:01Z"
 tags:
   - coding
-  - cv
   - ai
-  - cpp
+  - cv
+  - library
 ---
 
 # CMU-Perceptual-Computing-Lab/openpose

@@ -10,9 +10,8 @@ tags:
   - graphic
   - volume
   - voxel
-  - vfx
   - library
-  - cpp
+  - vfx
 ---
 
 # AcademySoftwareFoundation/openvdb

@@ -10,9 +10,9 @@ tags:
   - coding
   - ai
   - llm
-  - embedded
   - inference
-  - cross-platform
+  - embedded
+  - library
 ---
 
 # sipeed/picoclaw

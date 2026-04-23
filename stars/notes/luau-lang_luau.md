@@ -9,9 +9,10 @@ starred_at: "2024-01-18T02:41:56Z"
 tags:
   - coding
   - language
+  - lua
   - compiler
   - runtime
-  - lua
+  - library
 ---
 
 # luau-lang/luau

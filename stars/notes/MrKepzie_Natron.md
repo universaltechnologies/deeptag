@@ -8,10 +8,11 @@ topics: [c-plus-plus, cross-platform, openfx, vfx]
 starred_at: "2017-03-01T03:08:26Z"
 tags:
   - coding
+  - media
   - vfx
-  - video
-  - image-processing
+  - plugin
   - cross-platform
+  - tool
 ---
 
 # MrKepzie/Natron

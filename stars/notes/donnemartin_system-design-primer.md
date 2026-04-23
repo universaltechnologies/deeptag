@@ -8,11 +8,10 @@ topics: [design, design-patterns, design-system, development, interview, intervi
 starred_at: "2022-06-01T13:05:02Z"
 tags:
   - coding
+  - systems
   - architecture
-  - distributed
-  - database
-  - networking
   - tutorial
+  - awesome
 ---
 
 # donnemartin/system-design-primer

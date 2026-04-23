@@ -8,10 +8,9 @@ topics: [cfw, clash, clash-core, vpn]
 starred_at: "2026-04-07T15:30:29Z"
 tags:
   - coding
-  - go
   - networking
+  - go
   - proxy
-  - cross-platform
 ---
 
 # MerlinKodo/clash-rev

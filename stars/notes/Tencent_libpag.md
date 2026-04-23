@@ -7,13 +7,11 @@ stars: 5661
 topics: [after-effects, animation, keyframes, libpag, pag]
 starred_at: "2022-01-17T10:18:32Z"
 tags:
-  - coding
+  - graphic
   - rendering
   - animation
   - cross-platform
-  - video
-  - mobile
-  - webgpu
+  - library
 ---
 
 # Tencent/libpag

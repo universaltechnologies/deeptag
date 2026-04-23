@@ -7,10 +7,12 @@ stars: 74
 topics: [fog-of-war, unity2d, unity3d]
 starred_at: "2023-02-28T04:43:32Z"
 tags:
-  - graphic
+  - coding
+  - engine
   - unity
+  - graphic
   - shader
-  - mesh
+  - plugin
 ---
 
 # mkwozniak/mangofogunity

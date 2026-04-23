@@ -10,7 +10,6 @@ tags:
   - coding
   - ai
   - agent
-  - llm
   - automation
   - web
 ---

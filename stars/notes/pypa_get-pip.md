@@ -9,8 +9,7 @@ starred_at: "2022-02-25T17:26:46Z"
 tags:
   - coding
   - python
-  - package
-  - automation
+  - tools
 ---
 
 # pypa/get-pip

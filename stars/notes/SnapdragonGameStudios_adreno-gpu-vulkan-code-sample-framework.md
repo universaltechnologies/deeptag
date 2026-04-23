@@ -8,11 +8,12 @@ topics: [adreno, best-practices-snapdragon, gpu, opengl, opengles, qualcomm, sam
 starred_at: "2025-04-15T05:40:22Z"
 tags:
   - graphic
+  - platform
   - vulkan
-  - framework
   - android
-  - windows
-  - rendering
+  - cpp
+  - framework
+  - cross-platform
 ---
 
 # SnapdragonGameStudios/adreno-gpu-vulkan-code-sample-framework

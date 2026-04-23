@@ -10,9 +10,8 @@ tags:
   - coding
   - ai
   - agent
-  - llm
-  - automation
-  - workflow
+  - mcp
+  - tool
 ---
 
 # alchaincyf/darwin-skill

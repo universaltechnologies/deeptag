@@ -7,12 +7,11 @@ stars: 1124
 topics: [anything, awesome, awesome-list, computer-graphics, effects, game, game-dev, game-development, game-engine, gamedev, gameplay, games, graphics, unity, unreal-engine]
 starred_at: "2023-07-25T04:14:32Z"
 tags:
-  - awesome
-  - game
+  - coding
+  - graphic
   - rendering
-  - engine
-  - unity
-  - unreal
+  - post-processing
+  - awesome
 ---
 
 # OTFCG/Awesome-Game-Analysis

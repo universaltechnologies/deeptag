@@ -7,12 +7,12 @@ stars: 3554
 topics: []
 starred_at: "2020-09-27T10:27:40Z"
 tags:
+  - coding
+  - engine
+  - unity
   - graphic
   - vfx
-  - shader
-  - mesh
-  - animation
-  - unity
+  - plugin
 ---
 
 # keijiro/Skinner

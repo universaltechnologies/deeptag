@@ -8,11 +8,9 @@ topics: []
 starred_at: "2022-09-22T06:32:05Z"
 tags:
   - coding
-  - compiler
-  - shader
-  - vulkan
-  - library
   - parser
+  - library
+  - tool
 ---
 
 # KhronosGroup/SPIRV-Tools

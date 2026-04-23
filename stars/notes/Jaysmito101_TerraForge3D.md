@@ -8,10 +8,10 @@ topics: [3d, cpp, game-development, gamedev, gpu-acceleration, hacktoberfest, im
 starred_at: "2023-02-23T17:20:40Z"
 tags:
   - graphic
+  - procedural
   - tools
   - opengl
-  - procedural
-  - 3d
+  - tool
   - cross-platform
 ---
 

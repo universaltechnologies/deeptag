@@ -10,6 +10,8 @@ tags:
   - coding
   - build
   - lua
+  - tool
+  - cross-platform
 ---
 
 # premake/premake-core

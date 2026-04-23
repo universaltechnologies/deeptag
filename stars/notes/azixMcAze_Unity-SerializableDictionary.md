@@ -8,10 +8,10 @@ topics: [property-drawers, unity, unity-editor]
 starred_at: "2022-12-01T17:32:55Z"
 tags:
   - coding
+  - engine
   - unity
-  - serialization
-  - ui
-  - editor
+  - csharp
+  - plugin
 ---
 
 # azixMcAze/Unity-SerializableDictionary

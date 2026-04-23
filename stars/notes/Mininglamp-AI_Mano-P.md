@@ -11,6 +11,7 @@ tags:
   - ai
   - agent
   - inference
+  - desktop
 ---
 
 # Mininglamp-AI/Mano-P

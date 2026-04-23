@@ -7,11 +7,10 @@ stars: 589
 topics: [addressables, unity]
 starred_at: "2025-01-08T11:19:36Z"
 tags:
-  - tools
-  - automation
+  - coding
+  - engine
   - unity
-  - editor
-  - workflow
+  - tool
 ---
 
 # CyberAgentGameEntertainment/SmartAddresser

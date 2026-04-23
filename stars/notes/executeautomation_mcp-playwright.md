@@ -8,10 +8,11 @@ topics: []
 starred_at: "2025-03-24T06:21:38Z"
 tags:
   - coding
+  - ai
+  - mcp
   - automation
   - web
-  - typescript
-  - ai
+  - tool
 ---
 
 # executeautomation/mcp-playwright

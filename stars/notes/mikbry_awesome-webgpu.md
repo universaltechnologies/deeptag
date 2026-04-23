@@ -8,11 +8,8 @@ topics: [3d, awesome, awesome-list, gpu-computing, javascript, w3c, webgl, webgp
 starred_at: "2023-04-07T13:01:09Z"
 tags:
   - graphic
-  - webgpu
+  - platform
   - awesome
-  - rhi
-  - shader
-  - compute-shader
 ---
 
 # mikbry/awesome-webgpu

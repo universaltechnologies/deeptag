@@ -11,7 +11,7 @@ tags:
   - shader
   - toon
   - unity
-  - vfx
+  - framework
 ---
 
 # poiyomi/PoiyomiToonShader

@@ -8,11 +8,11 @@ topics: [billing-7054, owner-computer-vision]
 starred_at: "2023-04-24T13:15:01Z"
 tags:
   - coding
-  - engine
-  - unity
   - ai
   - cv
-  - procedural
+  - engine
+  - unity
+  - plugin
 ---
 
 # Unity-Technologies/com.unity.cv.synthetichumans

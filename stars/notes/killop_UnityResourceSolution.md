@@ -7,12 +7,10 @@ stars: 457
 topics: [ab, assetbundle, bundler, unity, unity-resources]
 starred_at: "2022-12-28T11:37:19Z"
 tags:
-  - unity
+  - coding
   - engine
-  - tools
-  - runtime
-  - automation
-  - workflow
+  - unity
+  - tool
 ---
 
 # killop/UnityResourceSolution

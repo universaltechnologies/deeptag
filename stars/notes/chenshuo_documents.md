@@ -11,7 +11,6 @@ tags:
   - cpp
   - networking
   - concurrency
-  - linux
   - practice
   - book
 ---

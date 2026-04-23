@@ -8,11 +8,10 @@ topics: []
 starred_at: "2016-08-30T00:41:25Z"
 tags:
   - coding
-  - video
-  - audio
+  - media
   - windows
-  - capture
   - cpp
+  - library
 ---
 
 # obsproject/libdshowcapture

@@ -9,10 +9,9 @@ starred_at: "2025-09-16T11:19:40Z"
 tags:
   - coding
   - ai
-  - rag
+  - mcp
   - search
-  - agent
-  - nodejs
+  - plugin
 ---
 
 # zilliztech/claude-context

@@ -10,8 +10,7 @@ tags:
   - coding
   - ai
   - agent
-  - typescript
-  - web
+  - tool
   - gui
 ---
 

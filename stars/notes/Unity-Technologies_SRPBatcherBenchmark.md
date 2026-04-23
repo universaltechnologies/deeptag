@@ -8,11 +8,10 @@ topics: []
 starred_at: "2022-06-28T10:05:58Z"
 tags:
   - coding
+  - engine
   - unity
   - profiler
-  - benchmark
-  - engine
-  - rendering
+  - practice
 ---
 
 # Unity-Technologies/SRPBatcherBenchmark

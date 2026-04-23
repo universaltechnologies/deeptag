@@ -8,9 +8,10 @@ topics: [dear-imgui, unity3d, unity3d-package]
 starred_at: "2023-02-17T05:08:44Z"
 tags:
   - coding
-  - ui
   - engine
   - unity
+  - gui
+  - plugin
 ---
 
 # realgamessoftware/dear-imgui-unity

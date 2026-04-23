@@ -8,7 +8,7 @@ topics: [angelscript, mirror]
 starred_at: "2022-05-16T14:50:18Z"
 tags:
   - coding
-  - library
+  - language
 ---
 
 # codecat/angelscript-mirror

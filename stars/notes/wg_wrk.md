@@ -7,12 +7,11 @@ stars: 40225
 topics: []
 starred_at: "2023-12-12T03:11:20Z"
 tags:
-  - tools
+  - coding
   - networking
   - http
+  - tool
   - performance
-  - lua
-  - benchmark
 ---
 
 # wg/wrk

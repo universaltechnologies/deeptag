@@ -8,10 +8,9 @@ topics: [c-plus-plus, computer-graphics, computer-language, llvm, open-shading-l
 starred_at: "2023-10-17T03:30:53Z"
 tags:
   - coding
+  - graphic
   - shader
-  - rendering
-  - vfx
-  - compiler
+  - language
 ---
 
 # AcademySoftwareFoundation/OpenShadingLanguage

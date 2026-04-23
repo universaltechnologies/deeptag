@@ -8,10 +8,10 @@ topics: [ai, ai-agents, ai-memory, cognitive-architecture, cognitive-memory, con
 starred_at: "2026-04-18T03:08:19Z"
 tags:
   - coding
+  - ai
   - rag
-  - graph
-  - llm
-  - vector
+  - data
+  - library
 ---
 
 # topoteretes/cognee

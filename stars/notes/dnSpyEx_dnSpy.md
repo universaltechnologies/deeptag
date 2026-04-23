@@ -9,8 +9,10 @@ starred_at: "2026-03-25T08:52:49Z"
 tags:
   - coding
   - dotnet
+  - debug
+  - tool
+  - unity
   - reverse
-  - editor
 ---
 
 # dnSpyEx/dnSpy

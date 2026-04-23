@@ -8,10 +8,9 @@ topics: [cargo, rust, script]
 starred_at: "2023-02-24T10:55:19Z"
 tags:
   - coding
+  - language
   - rust
-  - compiler
-  - cli
-  - build
+  - tool
 ---
 
 # fornwall/rust-script

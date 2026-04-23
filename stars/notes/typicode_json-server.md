@@ -8,10 +8,10 @@ topics: [api, fake, frontend, json, mock, rest, test]
 starred_at: "2023-11-21T01:35:02Z"
 tags:
   - coding
+  - web
   - api
-  - json
-  - test
-  - frontend
+  - tool
+  - nodejs
 ---
 
 # typicode/json-server

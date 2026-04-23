@@ -8,8 +8,8 @@ topics: [ruby, zendesk]
 starred_at: "2025-06-21T03:20:12Z"
 tags:
   - coding
-  - api
-  - middleware
+  - web
+  - library
 ---
 
 # zendesk/zendesk_api_client_rb

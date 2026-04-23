@@ -8,10 +8,12 @@ topics: [leveldb, nosql-databases, redis, rocksdb, ssdb]
 starred_at: "2015-11-16T13:45:43Z"
 tags:
   - coding
+  - data
   - database
-  - storage
-  - server
+  - sql
   - cpp
+  - server
+  - tool
 ---
 
 # ideawu/ssdb

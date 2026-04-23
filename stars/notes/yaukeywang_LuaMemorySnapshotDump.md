@@ -8,9 +8,8 @@ topics: []
 starred_at: "2024-10-18T08:18:22Z"
 tags:
   - coding
-  - lua
   - debug
-  - memory
+  - tool
 ---
 
 # yaukeywang/LuaMemorySnapshotDump

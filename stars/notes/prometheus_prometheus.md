@@ -9,9 +9,6 @@ starred_at: "2021-03-02T03:15:29Z"
 tags:
   - coding
   - monitoring
-  - database
-  - server
-  - visualization
 ---
 
 # prometheus/prometheus

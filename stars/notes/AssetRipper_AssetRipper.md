@@ -8,11 +8,9 @@ topics: [csharp, decompiler, games, reverse-engineering, unity, unity3d]
 starred_at: "2022-03-03T16:16:47Z"
 tags:
   - coding
-  - csharp
-  - engine
-  - ui
   - reverse
-  - serialization
+  - tool
+  - unity
 ---
 
 # AssetRipper/AssetRipper

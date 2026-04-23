@@ -8,11 +8,10 @@ topics: []
 starred_at: "2024-09-25T03:21:28Z"
 tags:
   - coding
-  - unity
   - engine
-  - rendering
+  - unity
   - shader
-  - urp
+  - library
 ---
 
 # FredMoreau/com.unity.material-property-provider

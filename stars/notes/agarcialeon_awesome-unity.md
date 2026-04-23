@@ -7,9 +7,10 @@ stars: 134
 topics: [3d-engine, 3d-graphics, awesome, awesome-list, csharp, developer-tools, hacktoberfest, resources, shaders, tools, tutorials, unity3d, utilities]
 starred_at: "2025-08-18T04:14:34Z"
 tags:
-  - awesome
+  - coding
   - engine
-  - csharp
+  - unity
+  - awesome
 ---
 
 # agarcialeon/awesome-unity

@@ -8,14 +8,10 @@ topics: [android, asr, deep-learning, deep-neural-networks, deepspeech, google-s
 starred_at: "2025-12-12T13:33:32Z"
 tags:
   - coding
-  - audio
-  - api
-  - android
-  - ios
-  - linux
-  - windows
-  - cross-platform
   - ai
+  - voice
+  - library
+  - cross-platform
 ---
 
 # alphacep/vosk-api

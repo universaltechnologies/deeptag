@@ -8,10 +8,9 @@ topics: []
 starred_at: "2023-11-06T18:11:10Z"
 tags:
   - graphic
-  - webgl
   - animation
-  - 3d
-  - math
+  - webgl
+  - tutorial
 ---
 
 # akira-cn/graphics

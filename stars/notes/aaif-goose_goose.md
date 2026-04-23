@@ -11,8 +11,8 @@ tags:
   - ai
   - agent
   - llm
-  - cli
-  - desktop
+  - mcp
+  - tool
 ---
 
 # aaif-goose/goose

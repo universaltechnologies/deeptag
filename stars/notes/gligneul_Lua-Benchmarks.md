@@ -8,10 +8,10 @@ topics: []
 starred_at: "2025-05-23T03:50:35Z"
 tags:
   - coding
-  - lua
   - benchmark
+  - lua
+  - tool
   - performance
-  - runtime
 ---
 
 # gligneul/Lua-Benchmarks

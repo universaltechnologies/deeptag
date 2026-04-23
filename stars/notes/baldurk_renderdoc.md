@@ -8,11 +8,10 @@ topics: [d3d11, d3d12, debugger, direct3d, directx, graphics, graphics-programmi
 starred_at: "2018-11-27T06:44:59Z"
 tags:
   - graphic
+  - platform
   - debug
-  - vulkan
-  - opengl
-  - directx
-  - tools
+  - tool
+  - cross-platform
 ---
 
 # baldurk/renderdoc

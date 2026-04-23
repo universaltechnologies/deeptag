@@ -7,11 +7,10 @@ stars: 87
 topics: []
 starred_at: "2024-10-30T12:42:39Z"
 tags:
-  - coding
   - android
   - performance
-  - debug
-  - monitoring
+  - tool
+  - profiler
 ---
 
 # MicroKibaco/BatteryCanary

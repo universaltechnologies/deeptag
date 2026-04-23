@@ -10,9 +10,8 @@ tags:
   - graphic
   - post-processing
   - shader
-  - rhi
-  - hook
-  - hlsl
+  - platform
+  - tool
 ---
 
 # crosire/reshade

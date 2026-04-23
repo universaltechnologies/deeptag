@@ -9,10 +9,9 @@ starred_at: "2023-01-09T03:06:30Z"
 tags:
   - coding
   - cpp
-  - algorithm
-  - networking
+  - systems
   - performance
-  - compression
+  - tool
 ---
 
 # google/cdc-file-transfer

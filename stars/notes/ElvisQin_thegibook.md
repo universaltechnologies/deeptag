@@ -8,9 +8,8 @@ topics: []
 starred_at: "2022-09-19T05:17:03Z"
 tags:
   - graphic
+  - lighting
   - gi
-  - ray-tracing
-  - path-tracing
   - rendering
   - book
 ---

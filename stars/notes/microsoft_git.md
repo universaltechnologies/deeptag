@@ -10,9 +10,7 @@ tags:
   - coding
   - git
   - windows
-  - cli
-  - c
-  - cross-platform
+  - tool
 ---
 
 # microsoft/git

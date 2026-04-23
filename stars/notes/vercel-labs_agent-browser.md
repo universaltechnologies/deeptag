@@ -8,10 +8,10 @@ topics: []
 starred_at: "2026-01-14T06:14:40Z"
 tags:
   - coding
-  - cli
-  - automation
   - ai
-  - browser
+  - agent
+  - automation
+  - tool
 ---
 
 # vercel-labs/agent-browser

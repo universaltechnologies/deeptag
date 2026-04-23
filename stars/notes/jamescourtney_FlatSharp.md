@@ -8,10 +8,10 @@ topics: [csharp, deserialization, fbs-schema, flatbuffer, flatbuffer-schema, fla
 starred_at: "2022-11-08T11:55:16Z"
 tags:
   - coding
-  - serialization
-  - performance
   - csharp
-  - compiler
+  - serialization
+  - library
+  - performance
   - dotnet
 ---
 

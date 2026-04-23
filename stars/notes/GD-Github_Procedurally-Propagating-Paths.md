@@ -10,7 +10,9 @@ tags:
   - coding
   - engine
   - unity
-  - procedural
+  - vfx
+  - tool
+  - plugin
 ---
 
 # GD-Github/Procedurally-Propagating-Paths

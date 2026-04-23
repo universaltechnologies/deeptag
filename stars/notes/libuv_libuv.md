@@ -8,9 +8,8 @@ topics: [asynchronous, deep-io, io, networking, unicorns, unix, velociraptors, w
 starred_at: "2018-06-08T00:43:43Z"
 tags:
   - coding
-  - async
   - networking
-  - concurrency
+  - async
   - library
   - cross-platform
 ---

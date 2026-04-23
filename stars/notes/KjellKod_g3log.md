@@ -8,12 +8,10 @@ topics: [async, asynchronous, c-plus-plus, crash-reporting, crash-safe, logger, 
 starred_at: "2016-07-26T16:18:30Z"
 tags:
   - coding
-  - logging
   - library
-  - cpp
-  - async
-  - concurrency
+  - logging
   - cross-platform
+  - cpp
 ---
 
 # KjellKod/g3log

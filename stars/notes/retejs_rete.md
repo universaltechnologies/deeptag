@@ -8,10 +8,9 @@ topics: [dataflow-programming, flow-based-programming, graph-editor, node-editor
 starred_at: "2025-12-23T10:15:29Z"
 tags:
   - coding
+  - gui
+  - web
   - framework
-  - ui
-  - workflow
-  - visualization
 ---
 
 # retejs/rete

@@ -8,10 +8,10 @@ topics: [android, androidx, app, bar, cache, encode, encrypt, eventbus, file, fr
 starred_at: "2025-07-25T08:38:10Z"
 tags:
   - coding
-  - library
   - android
-  - encryption
-  - regex
+  - java
+  - library
+  - tool
 ---
 
 # Blankj/AndroidUtilCode

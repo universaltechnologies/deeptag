@@ -8,11 +8,9 @@ topics: [dotnet, hacktoberfest, help-wanted]
 starred_at: "2023-02-13T08:02:34Z"
 tags:
   - coding
-  - runtime
+  - language
   - dotnet
-  - gc
-  - compiler
-  - cross-platform
+  - runtime
 ---
 
 # dotnet/runtime

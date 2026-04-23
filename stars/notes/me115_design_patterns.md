@@ -9,8 +9,7 @@ starred_at: "2020-09-29T10:19:16Z"
 tags:
   - coding
   - cpp
-  - architecture
-  - practice
+  - tutorial
 ---
 
 # me115/design_patterns

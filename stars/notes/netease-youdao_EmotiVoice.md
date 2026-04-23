@@ -9,8 +9,9 @@ starred_at: "2023-11-23T18:13:15Z"
 tags:
   - coding
   - ai
-  - audio
-  - inference
+  - tts
+  - deep-learning
+  - library
 ---
 
 # netease-youdao/EmotiVoice

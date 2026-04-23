@@ -10,9 +10,7 @@ tags:
   - coding
   - ai
   - cv
-  - deep-learning
-  - image-processing
-  - diffusion
+  - library
 ---
 
 # sczhou/CodeFormer

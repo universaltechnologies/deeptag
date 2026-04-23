@@ -8,9 +8,10 @@ topics: [assemblyscript, compiler, typescript, wasm, webassembly]
 starred_at: "2024-07-26T12:47:59Z"
 tags:
   - coding
+  - language
   - compiler
   - webassembly
-  - typescript
+  - tool
 ---
 
 # AssemblyScript/assemblyscript

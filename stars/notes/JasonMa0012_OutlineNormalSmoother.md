@@ -7,12 +7,12 @@ stars: 88
 topics: [npr, shader, toon, toonrendering, toonshading, unity]
 starred_at: "2025-08-05T13:30:50Z"
 tags:
-  - graphic
-  - shader
-  - toon
-  - normal
+  - coding
   - engine
   - unity
+  - graphic
+  - shader
+  - plugin
 ---
 
 # JasonMa0012/OutlineNormalSmoother

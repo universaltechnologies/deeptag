@@ -8,9 +8,11 @@ topics: [android, ffi, jni, lua, luajit, native, ndk]
 starred_at: "2024-10-23T18:33:42Z"
 tags:
   - coding
-  - android
-  - ffi
+  - language
   - lua
+  - ffi
+  - android
+  - library
 ---
 
 # koreader/android-luajit-launcher

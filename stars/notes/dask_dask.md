@@ -8,10 +8,9 @@ topics: [dask, numpy, pandas, pydata, python, scikit-learn, scipy]
 starred_at: "2023-11-21T16:02:09Z"
 tags:
   - coding
-  - library
-  - distributed
+  - algorithm
   - concurrency
-  - performance
+  - library
   - python
 ---
 

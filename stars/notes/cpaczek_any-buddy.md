@@ -8,9 +8,8 @@ topics: []
 starred_at: "2026-04-03T05:57:12Z"
 tags:
   - coding
+  - tool
   - cli
-  - automation
-  - workflow
   - terminal
 ---
 

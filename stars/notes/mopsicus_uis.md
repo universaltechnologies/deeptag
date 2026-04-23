@@ -8,11 +8,10 @@ topics: [assets, data-driven, listview, recyclable, scrollrect-control, scrollvi
 starred_at: "2023-03-23T16:50:33Z"
 tags:
   - coding
+  - engine
   - unity
   - ui
-  - component
-  - mobile
-  - misc
+  - plugin
 ---
 
 # mopsicus/uis

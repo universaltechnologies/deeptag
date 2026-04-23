@@ -8,11 +8,11 @@ topics: [mixed-reality, profiler, profiling, unity]
 starred_at: "2023-02-13T07:39:24Z"
 tags:
   - coding
-  - profiler
-  - unity
   - engine
-  - performance
-  - csharp
+  - unity
+  - profiler
+  - debug
+  - plugin
 ---
 
 # microsoft/VisualProfiler-Unity

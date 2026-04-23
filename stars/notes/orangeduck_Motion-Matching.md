@@ -8,10 +8,10 @@ topics: []
 starred_at: "2023-04-27T12:15:23Z"
 tags:
   - coding
+  - algorithm
   - animation
-  - skeletal
   - cpp
-  - webassembly
+  - practice
 ---
 
 # orangeduck/Motion-Matching

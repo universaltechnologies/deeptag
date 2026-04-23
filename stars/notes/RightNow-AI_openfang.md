@@ -8,11 +8,10 @@ topics: [agent-framework, ai-agents, llm, mcp, open-source, openclaw, operating-
 starred_at: "2026-03-06T08:47:46Z"
 tags:
   - coding
-  - agent
-  - llm
   - ai
+  - agent
   - rust
-  - framework
+  - library
 ---
 
 # RightNow-AI/openfang

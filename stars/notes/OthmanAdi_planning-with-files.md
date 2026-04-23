@@ -10,9 +10,7 @@ tags:
   - coding
   - ai
   - agent
-  - automation
-  - workflow
-  - markdown
+  - plugin
 ---
 
 # OthmanAdi/planning-with-files

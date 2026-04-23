@@ -10,8 +10,6 @@ tags:
   - coding
   - ai
   - llm
-  - inference
-  - deep-learning
 ---
 
 # deepseek-ai/DeepSeek-V3

@@ -7,14 +7,11 @@ stars: 593
 topics: []
 starred_at: "2023-02-28T06:11:48Z"
 tags:
-  - graphic
   - coding
-  - 3d
-  - voxel
   - engine
   - unity
+  - game
   - ecs
-  - gameplay
   - tutorial
 ---
 

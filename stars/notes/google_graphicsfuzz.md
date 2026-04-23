@@ -11,7 +11,7 @@ tags:
   - shader
   - glsl
   - vulkan
-  - test
+  - tool
 ---
 
 # google/graphicsfuzz

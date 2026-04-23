@@ -8,11 +8,13 @@ topics: [animation, cginc, compute-shaders, csharp, doxygen-documentation, dual-
 starred_at: "2024-10-22T03:35:18Z"
 tags:
   - coding
+  - engine
+  - unity
+  - graphic
   - animation
   - shader
   - compute-shader
-  - hlsl
-  - unity
+  - plugin
 ---
 
 # KosRud/DQ-skinning-for-Unity

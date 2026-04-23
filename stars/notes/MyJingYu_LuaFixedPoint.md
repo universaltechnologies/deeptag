@@ -8,8 +8,9 @@ topics: []
 starred_at: "2023-09-25T07:49:12Z"
 tags:
   - coding
-  - lua
   - math
+  - lua
+  - tutorial
 ---
 
 # MyJingYu/LuaFixedPoint

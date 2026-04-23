@@ -10,7 +10,7 @@ tags:
   - coding
   - hardware
   - embedded
-  - compiler
+  - library
 ---
 
 # SpinalHDL/VexRiscv

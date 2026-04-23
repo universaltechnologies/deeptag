@@ -9,9 +9,7 @@ starred_at: "2025-07-16T06:12:39Z"
 tags:
   - coding
   - gui
-  - ai
-  - electron
-  - game
+  - tool
 ---
 
 # rooklift/ogatak

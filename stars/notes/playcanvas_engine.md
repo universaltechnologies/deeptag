@@ -7,12 +7,12 @@ stars: 14762
 topics: [3d-gaussian-splatting, game-development, game-engine, gamedev, gaussian-splatting, gltf, hacktoberfest, javascript, nodejs, playcanvas, typescript, virtual-reality, webgl, webgl2, webgpu, webxr]
 starred_at: "2024-08-20T03:24:55Z"
 tags:
-  - graphic
-  - webgl
-  - webgpu
-  - gltf
+  - coding
   - engine
-  - 3d
+  - graphic
+  - platform
+  - webgpu
+  - framework
 ---
 
 # playcanvas/engine

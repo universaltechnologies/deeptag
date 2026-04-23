@@ -8,11 +8,10 @@ topics: [ai, ai-gameframework, ai-network, fantasy, game, gameframework, gameser
 starred_at: "2024-09-26T02:46:09Z"
 tags:
   - coding
-  - csharp
-  - server
-  - framework
+  - game
   - networking
-  - ai
+  - dotnet
+  - framework
 ---
 
 # qq362946/Fantasy

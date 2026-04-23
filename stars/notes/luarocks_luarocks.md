@@ -8,8 +8,8 @@ topics: [lua, lua-modules, luajit, luarocks, package-management, package-manager
 starred_at: "2018-11-13T06:49:53Z"
 tags:
   - coding
-  - package
   - build
+  - tool
   - lua
 ---
 

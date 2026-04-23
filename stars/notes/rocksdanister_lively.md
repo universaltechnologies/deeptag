@@ -9,10 +9,9 @@ starred_at: "2023-11-17T16:17:18Z"
 tags:
   - coding
   - desktop
-  - windows
+  - media
   - video
-  - gpu
-  - ui
+  - tool
 ---
 
 # rocksdanister/lively

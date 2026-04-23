@@ -8,10 +8,11 @@ topics: [dom, xml, xml-parser, xpath]
 starred_at: "2016-05-09T06:49:39Z"
 tags:
   - coding
-  - xml
   - parser
+  - xml
+  - cpp
   - library
-  - performance
+  - header-only
 ---
 
 # zeux/pugixml

@@ -9,10 +9,9 @@ starred_at: "2026-01-09T11:27:20Z"
 tags:
   - coding
   - framework
-  - automation
+  - python
   - distributed
   - cloud
-  - monitoring
 ---
 
 # microsoft/batch-processing-kit

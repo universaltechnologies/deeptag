@@ -7,12 +7,11 @@ stars: 13
 topics: []
 starred_at: "2021-07-16T16:39:31Z"
 tags:
-  - graphic
-  - rendering
+  - coding
   - engine
-  - mobile
-  - cpp
-  - framework
+  - graphic
+  - platform
+  - library
 ---
 
 # shelltdf/egg

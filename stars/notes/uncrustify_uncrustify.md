@@ -8,10 +8,8 @@ topics: [beautifier, beautify, code-style, format, formatter]
 starred_at: "2023-04-24T12:20:40Z"
 tags:
   - coding
-  - lint
   - cpp
-  - csharp
-  - java
+  - tool
 ---
 
 # uncrustify/uncrustify

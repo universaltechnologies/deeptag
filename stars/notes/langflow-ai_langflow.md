@@ -12,7 +12,7 @@ tags:
   - llm
   - agent
   - workflow
-  - ui
+  - tool
 ---
 
 # langflow-ai/langflow

@@ -8,11 +8,10 @@ topics: [unity]
 starred_at: "2023-03-16T18:44:53Z"
 tags:
   - coding
+  - engine
   - unity
   - test
-  - automation
-  - texture
-  - mesh
+  - tool
 ---
 
 # CyberAgentGameEntertainment/AssetRegulationManager

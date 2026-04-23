@@ -10,9 +10,6 @@ tags:
   - coding
   - ffi
   - lua
-  - binding
-  - library
-  - parser
 ---
 
 # facebookarchive/luaffifb

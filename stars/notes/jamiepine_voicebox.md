@@ -9,9 +9,9 @@ starred_at: "2026-04-17T20:38:41Z"
 tags:
   - coding
   - ai
-  - audio
+  - tts
   - inference
-  - desktop
+  - tool
 ---
 
 # jamiepine/voicebox

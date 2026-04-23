@@ -8,11 +8,10 @@ topics: []
 starred_at: "2024-11-14T03:25:52Z"
 tags:
   - coding
+  - language
   - lua
+  - math
   - library
-  - serialization
-  - json
-  - algorithm
 ---
 
 # jzrake/lunum

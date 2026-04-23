@@ -10,8 +10,7 @@ tags:
   - coding
   - gui
   - cpp
-  - ui
-  - framework
+  - library
 ---
 
 # clemenssielaff/ZodiacGraph

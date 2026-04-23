@@ -8,10 +8,8 @@ topics: [backup, perl, rsnapshot, rsync]
 starred_at: "2022-03-13T17:19:11Z"
 tags:
   - coding
-  - filesystem
-  - linux
-  - storage
-  - tools
+  - systems
+  - tool
 ---
 
 # rsnapshot/rsnapshot

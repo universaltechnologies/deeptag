@@ -8,10 +8,8 @@ topics: []
 starred_at: "2026-01-12T08:36:30Z"
 tags:
   - coding
-  - plugin
-  - typescript
   - ai
-  - agent
+  - plugin
 ---
 
 # supermemoryai/opencode-supermemory

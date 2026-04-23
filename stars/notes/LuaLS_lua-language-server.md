@@ -8,8 +8,8 @@ topics: [hacktoberfest, language-server, lpeg, lpeglabel, lsp, lsp-server, lua]
 starred_at: "2023-10-12T06:27:34Z"
 tags:
   - coding
-  - lua
-  - parser
+  - language
+  - tool
 ---
 
 # LuaLS/lua-language-server

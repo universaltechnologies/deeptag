@@ -8,8 +8,8 @@ topics: [dotnet, excel, ooxml, spreadsheet]
 starred_at: "2019-12-14T14:38:23Z"
 tags:
   - coding
+  - data
   - dotnet
-  - office
   - library
 ---
 

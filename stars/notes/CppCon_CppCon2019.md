@@ -7,10 +7,7 @@ stars: 1259
 topics: [cpp, cppcon, cppcon2019]
 starred_at: "2022-10-10T05:04:31Z"
 tags:
-  - coding
   - cpp
-  - tutorial
-  - misc
 ---
 
 # CppCon/CppCon2019

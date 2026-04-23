@@ -9,6 +9,7 @@ starred_at: "2023-09-19T12:29:13Z"
 tags:
   - graphic
   - animation
+  - library
 ---
 
 # readyplayerme/animation-library

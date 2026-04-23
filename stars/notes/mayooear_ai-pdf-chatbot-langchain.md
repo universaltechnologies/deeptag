@@ -9,11 +9,12 @@ starred_at: "2025-11-12T03:01:12Z"
 tags:
   - coding
   - ai
-  - llm
   - agent
   - rag
+  - vector
   - web
   - frontend
+  - framework
 ---
 
 # mayooear/ai-pdf-chatbot-langchain

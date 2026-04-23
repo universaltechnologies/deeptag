@@ -11,8 +11,7 @@ tags:
   - ai
   - agent
   - web
-  - frontend
-  - llm
+  - library
 ---
 
 # THU-MAIC/OpenMAIC

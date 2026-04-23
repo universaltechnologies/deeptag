@@ -8,8 +8,9 @@ topics: [clipboard, clipboard-manager]
 starred_at: "2025-12-21T01:09:20Z"
 tags:
   - coding
+  - tool
   - windows
-  - database
+  - data
 ---
 
 # sabrogden/Ditto

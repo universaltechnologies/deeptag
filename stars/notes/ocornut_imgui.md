@@ -9,10 +9,8 @@ starred_at: "2016-04-02T02:14:31Z"
 tags:
   - coding
   - gui
-  - ui
-  - framework
   - cpp
-  - cross-platform
+  - library
 ---
 
 # ocornut/imgui

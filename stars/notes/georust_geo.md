@@ -8,9 +8,7 @@ topics: [geography, geometry, geospatial, gis, rust]
 starred_at: "2023-02-24T18:30:44Z"
 tags:
   - coding
-  - algorithm
-  - rust
-  - math
+  - library
   - geometry
 ---
 

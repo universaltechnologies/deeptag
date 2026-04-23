@@ -7,10 +7,11 @@ stars: 82
 topics: [animation, unity]
 starred_at: "2023-03-15T02:42:58Z"
 tags:
-  - graphic
+  - coding
   - engine
+  - unity
   - animation
-  - compression
+  - tool
 ---
 
 # fish-ken/unity-animation-compressor

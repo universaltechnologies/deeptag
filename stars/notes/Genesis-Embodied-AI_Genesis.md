@@ -8,11 +8,11 @@ topics: []
 starred_at: "2024-12-21T05:16:02Z"
 tags:
   - coding
-  - physics
+  - ai
   - robotics
   - simulation
-  - rendering
-  - ray-tracing
+  - python
+  - library
 ---
 
 # Genesis-Embodied-AI/Genesis

@@ -10,9 +10,8 @@ tags:
   - coding
   - ai
   - llm
-  - agent
-  - self-hosted
   - rag
+  - self-hosted
 ---
 
 # khoj-ai/khoj

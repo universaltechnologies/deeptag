@@ -8,11 +8,9 @@ topics: [aiot, arm, cortex-a, cortex-m, embedded-systems, iot, kernel, microcont
 starred_at: "2024-03-26T06:54:45Z"
 tags:
   - coding
+  - systems
   - kernel
   - embedded
-  - platform
-  - hardware
-  - driver
 ---
 
 # RT-Thread/rt-thread

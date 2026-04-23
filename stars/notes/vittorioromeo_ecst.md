@@ -8,10 +8,11 @@ topics: [cpp, cpp11, cpp14, entity, entity-component, generic, library, parallel
 starred_at: "2017-03-27T12:52:44Z"
 tags:
   - coding
-  - header-only
-  - ecs
-  - concurrency
+  - game
   - cpp
+  - library
+  - header-only
+  - performance
 ---
 
 # vittorioromeo/ecst

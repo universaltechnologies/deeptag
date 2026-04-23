@@ -8,11 +8,11 @@ topics: []
 starred_at: "2022-07-05T07:05:23Z"
 tags:
   - graphic
+  - platform
   - opengl
   - vulkan
   - directx
   - metal
-  - webgpu
 ---
 
 # google/angle

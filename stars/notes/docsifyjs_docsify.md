@@ -10,8 +10,7 @@ tags:
   - coding
   - web
   - markdown
-  - plugin
-  - ci
+  - tool
 ---
 
 # docsifyjs/docsify

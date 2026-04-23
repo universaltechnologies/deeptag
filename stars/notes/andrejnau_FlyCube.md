@@ -8,11 +8,10 @@ topics: [d3d12, direct3d, directx, directx-12, directx12, dxr, gamedev, graphics
 starred_at: "2025-10-16T03:15:56Z"
 tags:
   - graphic
-  - directx
-  - vulkan
-  - metal
-  - ray-tracing
-  - rhi
+  - rendering
+  - platform
+  - library
+  - cross-platform
 ---
 
 # andrejnau/FlyCube

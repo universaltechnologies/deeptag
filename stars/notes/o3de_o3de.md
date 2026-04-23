@@ -9,11 +9,9 @@ starred_at: "2023-02-18T06:24:10Z"
 tags:
   - coding
   - engine
+  - graphic
   - cpp
-  - physics
-  - animation
   - cross-platform
-  - audio
 ---
 
 # o3de/o3de

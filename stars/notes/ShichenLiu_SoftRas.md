@@ -10,9 +10,8 @@ tags:
   - graphic
   - rendering
   - rasterization
-  - mesh
-  - geometry
-  - 3d
+  - ai
+  - library
 ---
 
 # ShichenLiu/SoftRas

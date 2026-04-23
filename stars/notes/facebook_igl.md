@@ -8,11 +8,10 @@ topics: []
 starred_at: "2024-11-18T14:49:52Z"
 tags:
   - graphic
-  - rhi
-  - opengl
-  - vulkan
-  - metal
+  - platform
+  - library
   - cross-platform
+  - performance
 ---
 
 # facebook/igl

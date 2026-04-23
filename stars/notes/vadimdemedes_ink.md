@@ -8,9 +8,10 @@ topics: [cli, command-line, flexbox, interactive, javascript, react]
 starred_at: "2025-06-28T14:49:28Z"
 tags:
   - coding
+  - web
+  - frontend
   - cli
-  - terminal
-  - typescript
+  - library
 ---
 
 # vadimdemedes/ink

@@ -8,9 +8,10 @@ topics: []
 starred_at: "2022-06-03T17:28:00Z"
 tags:
   - graphic
-  - rasterization
   - rendering
-  - cpp
+  - rasterization
+  - coding
+  - tutorial
 ---
 
 # KrisYu/tinyrender

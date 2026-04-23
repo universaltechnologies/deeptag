@@ -7,10 +7,9 @@ stars: 5297
 topics: [accessibility, activity, ad, android, auto, click, screen, skip, splash, start, startup]
 starred_at: "2023-07-05T05:06:37Z"
 tags:
-  - coding
-  - automation
   - android
-  - java
+  - automation
+  - tool
 ---
 
 # zfdang/Android-Touch-Helper

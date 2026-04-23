@@ -8,9 +8,10 @@ topics: [ado-net, dapper, sql]
 starred_at: "2023-12-20T10:37:14Z"
 tags:
   - coding
-  - database
-  - sql
   - dotnet
+  - data
+  - sql
+  - library
 ---
 
 # DapperLib/Dapper

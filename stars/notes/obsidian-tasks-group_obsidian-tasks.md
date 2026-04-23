@@ -8,8 +8,8 @@ topics: [obsidian-plugin, obsidian-tasks, task-management, task-manager, todo]
 starred_at: "2024-01-23T11:17:06Z"
 tags:
   - coding
-  - typescript
   - plugin
+  - tools
 ---
 
 # obsidian-tasks-group/obsidian-tasks

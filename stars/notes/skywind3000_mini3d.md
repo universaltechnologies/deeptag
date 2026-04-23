@@ -8,11 +8,10 @@ topics: [3d, c, game-engine, graphics, opengl, picture, pixels, rasterizer, rend
 starred_at: "2023-02-15T03:20:16Z"
 tags:
   - graphic
-  - rasterization
   - rendering
-  - texture
-  - depth
-  - math
+  - rasterization
+  - tutorial
+  - c
 ---
 
 # skywind3000/mini3d

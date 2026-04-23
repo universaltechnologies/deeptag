@@ -8,10 +8,9 @@ topics: [javascript, react, video]
 starred_at: "2026-01-22T15:51:03Z"
 tags:
   - coding
+  - media
   - video
   - framework
-  - web
-  - automation
 ---
 
 # remotion-dev/remotion

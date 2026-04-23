@@ -9,10 +9,9 @@ starred_at: "2026-03-23T01:41:38Z"
 tags:
   - coding
   - ai
-  - frontend
-  - android
-  - ios
-  - cross-platform
+  - agent
+  - workflow
+  - tool
 ---
 
 # MiniMax-AI/skills

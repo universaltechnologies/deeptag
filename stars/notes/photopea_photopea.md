@@ -7,11 +7,12 @@ stars: 8205
 topics: []
 starred_at: "2023-03-03T09:21:19Z"
 tags:
-  - tools
-  - image
-  - image-processing
+  - graphic
+  - post-processing
+  - coding
   - web
-  - ui
+  - tool
+  - image-processing
 ---
 
 # photopea/photopea

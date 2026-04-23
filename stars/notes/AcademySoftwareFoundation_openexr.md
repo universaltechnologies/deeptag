@@ -8,10 +8,9 @@ topics: [academy, hdr, image-processing, images, openexr, vfx]
 starred_at: "2015-07-09T12:45:39Z"
 tags:
   - coding
-  - image
+  - media
   - image-processing
-  - vfx
-  - compression
+  - library
 ---
 
 # AcademySoftwareFoundation/openexr

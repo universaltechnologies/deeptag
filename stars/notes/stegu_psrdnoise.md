@@ -10,9 +10,7 @@ tags:
   - graphic
   - shader
   - glsl
-  - hlsl
-  - webgl
-  - math
+  - library
 ---
 
 # stegu/psrdnoise

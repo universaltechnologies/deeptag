@@ -8,11 +8,10 @@ topics: [glsl, hlsl, slang, vulkan, vulkan-api]
 starred_at: "2017-02-20T14:35:05Z"
 tags:
   - graphic
+  - platform
   - vulkan
-  - pbr
-  - ray-tracing
-  - gltf
-  - compute-shader
+  - shader
+  - tutorial
 ---
 
 # SaschaWillems/Vulkan

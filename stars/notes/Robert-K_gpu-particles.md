@@ -9,8 +9,12 @@ starred_at: "2023-10-13T10:37:29Z"
 tags:
   - graphic
   - vfx
+  - shader
   - compute-shader
+  - coding
+  - engine
   - unity
+  - plugin
 ---
 
 # Robert-K/gpu-particles

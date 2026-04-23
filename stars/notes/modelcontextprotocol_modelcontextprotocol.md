@@ -9,9 +9,8 @@ starred_at: "2025-07-02T07:46:25Z"
 tags:
   - coding
   - ai
-  - llm
-  - protocol
-  - json
+  - mcp
+  - spec
 ---
 
 # modelcontextprotocol/modelcontextprotocol

@@ -10,8 +10,8 @@ tags:
   - coding
   - video
   - windows
-  - web
   - networking
+  - tool
 ---
 
 # phoboslab/jsmpeg-vnc

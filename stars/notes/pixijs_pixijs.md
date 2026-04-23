@@ -8,14 +8,9 @@ topics: [canvas, canvas2d, data-visualization, game, glsl, javascript, pixi, pix
 starred_at: "2025-06-25T12:53:19Z"
 tags:
   - graphic
-  - webgl
-  - webgpu
-  - 2d
   - rendering
-  - coding
-  - typescript
+  - 2d
   - library
-  - web
 ---
 
 # pixijs/pixijs

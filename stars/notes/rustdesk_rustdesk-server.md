@@ -10,8 +10,8 @@ tags:
   - coding
   - networking
   - server
-  - self-hosted
   - rust
+  - tool
 ---
 
 # rustdesk/rustdesk-server

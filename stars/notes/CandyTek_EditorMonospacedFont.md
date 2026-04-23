@@ -7,9 +7,10 @@ stars: 55
 topics: []
 starred_at: "2025-04-01T11:56:58Z"
 tags:
+  - tools
   - coding
-  - editor
   - font
+  - awesome
 ---
 
 # CandyTek/EditorMonospacedFont

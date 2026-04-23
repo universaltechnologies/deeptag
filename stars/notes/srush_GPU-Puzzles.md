@@ -8,9 +8,8 @@ topics: [cuda, machine-learning, puzzles]
 starred_at: "2024-11-12T16:31:49Z"
 tags:
   - coding
+  - systems
   - cuda
-  - gpu
-  - algorithm
   - tutorial
 ---
 

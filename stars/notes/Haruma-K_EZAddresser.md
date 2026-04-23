@@ -10,8 +10,8 @@ tags:
   - coding
   - engine
   - unity
-  - editor
-  - automation
+  - tool
+  - plugin
 ---
 
 # Haruma-K/EZAddresser

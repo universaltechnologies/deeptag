@@ -8,10 +8,8 @@ topics: [logging, metrics, opentelemetry, tracing]
 starred_at: "2025-05-19T07:07:27Z"
 tags:
   - coding
-  - logging
   - monitoring
   - library
-  - api
 ---
 
 # open-telemetry/opentelemetry-go

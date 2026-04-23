@@ -7,8 +7,8 @@ stars: 17
 topics: []
 starred_at: "2025-01-07T13:40:10Z"
 tags:
-  - coding
-  - misc
+  - tools
+  - office
 ---
 
 # yangjianlin-c/daodejing

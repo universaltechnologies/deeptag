@@ -8,11 +8,12 @@ topics: []
 starred_at: "2024-02-19T03:09:45Z"
 tags:
   - graphic
-  - unity
-  - urp
+  - lighting
   - ssao
-  - shader
-  - hlsl
+  - coding
+  - engine
+  - unity
+  - tool
 ---
 
 # bladesero/GTAO_URP

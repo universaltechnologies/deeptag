@@ -8,9 +8,8 @@ topics: []
 starred_at: "2016-05-08T15:34:05Z"
 tags:
   - graphic
-  - opengl
   - 3d
-  - tutorial
+  - scene
   - book
 ---
 

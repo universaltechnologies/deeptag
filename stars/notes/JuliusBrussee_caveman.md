@@ -10,7 +10,7 @@ tags:
   - coding
   - ai
   - llm
-  - misc
+  - plugin
 ---
 
 # JuliusBrussee/caveman

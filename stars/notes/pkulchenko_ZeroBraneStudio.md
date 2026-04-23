@@ -8,10 +8,11 @@ topics: [debugger, editor, ide, lua, lua-engines, syntax-highlighting, wxwidgets
 starred_at: "2021-04-20T08:12:34Z"
 tags:
   - coding
-  - editor
-  - cross-platform
-  - ui
+  - ide
   - lua
+  - debug
+  - cross-platform
+  - tool
 ---
 
 # pkulchenko/ZeroBraneStudio

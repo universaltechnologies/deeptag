@@ -8,8 +8,10 @@ topics: []
 starred_at: "2016-06-10T02:30:18Z"
 tags:
   - coding
-  - framework
+  - language
+  - cpp
   - architecture
+  - framework
 ---
 
 # PureMVC/puremvc-cpp-multicore-framework

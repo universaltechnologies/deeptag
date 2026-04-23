@@ -8,10 +8,10 @@ topics: [javascript, jquery, nerv, nervjs, react, react-native, reactjs, taro, t
 starred_at: "2023-07-13T11:21:18Z"
 tags:
   - coding
-  - framework
   - web
+  - frontend
+  - framework
   - cross-platform
-  - mobile
 ---
 
 # NervJS/taro

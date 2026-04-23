@@ -8,10 +8,11 @@ topics: [android, arm-neon, artificial-intelligence, caffe, darknet, deep-learni
 starred_at: "2025-06-18T12:19:18Z"
 tags:
   - coding
+  - ai
   - inference
   - mobile
-  - simd
-  - vulkan
+  - framework
+  - performance
 ---
 
 # Tencent/ncnn

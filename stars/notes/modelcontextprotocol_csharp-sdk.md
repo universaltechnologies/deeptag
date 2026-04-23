@@ -8,6 +8,10 @@ topics: [csharp, dotnet, mcp, mcp-client, mcp-server, modelcontextprotocol]
 starred_at: "2025-07-02T07:46:10Z"
 tags:
   - coding
+  - ai
+  - mcp
+  - dotnet
+  - library
 ---
 
 # modelcontextprotocol/csharp-sdk

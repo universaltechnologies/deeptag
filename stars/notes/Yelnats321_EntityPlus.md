@@ -8,10 +8,9 @@ topics: [entity, entity-component, entity-component-system, gamedev]
 starred_at: "2017-03-27T13:02:56Z"
 tags:
   - coding
-  - ecs
+  - game
+  - library
   - header-only
-  - gameplay
-  - cpp
 ---
 
 # Yelnats321/EntityPlus

@@ -10,10 +10,9 @@ tags:
   - graphic
   - rendering
   - ray-tracing
+  - lighting
   - gi
   - vulkan
-  - pbr
-  - ecs
 ---
 
 # flwmxd/LuxGI

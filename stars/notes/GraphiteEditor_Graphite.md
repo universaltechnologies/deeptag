@@ -10,9 +10,7 @@ tags:
   - graphic
   - 2d
   - vector
-  - editor
-  - image-processing
-  - tools
+  - tool
 ---
 
 # GraphiteEditor/Graphite

@@ -8,10 +8,11 @@ topics: [deep-learning, stable-diffusion, tvm, web-assembly, webgpu, webml]
 starred_at: "2023-04-07T12:52:51Z"
 tags:
   - coding
-  - webgpu
+  - ai
+  - diffusion
+  - web
   - webassembly
-  - inference
-  - deep-learning
+  - library
 ---
 
 # mlc-ai/web-stable-diffusion

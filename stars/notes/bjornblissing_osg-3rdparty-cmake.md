@@ -9,7 +9,7 @@ starred_at: "2016-03-27T09:53:11Z"
 tags:
   - coding
   - build
-  - windows
+  - tool
 ---
 
 # bjornblissing/osg-3rdparty-cmake

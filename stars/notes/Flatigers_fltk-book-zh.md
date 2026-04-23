@@ -8,9 +8,9 @@ topics: []
 starred_at: "2023-02-24T18:24:48Z"
 tags:
   - coding
-  - book
   - rust
   - gui
+  - book
 ---
 
 # Flatigers/fltk-book-zh

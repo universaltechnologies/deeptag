@@ -9,8 +9,6 @@ starred_at: "2022-03-06T14:16:23Z"
 tags:
   - coding
   - reverse
-  - windows
-  - security
 ---
 
 # lvtx/OLEDLG-for-Visual-Assist-X

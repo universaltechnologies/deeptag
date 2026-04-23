@@ -8,10 +8,11 @@ topics: []
 starred_at: "2024-08-27T03:23:08Z"
 tags:
   - coding
+  - systems
   - driver
   - gpu
-  - kernel
   - linux
+  - library
 ---
 
 # NVIDIA/open-gpu-kernel-modules

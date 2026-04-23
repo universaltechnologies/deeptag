@@ -8,10 +8,9 @@ topics: []
 starred_at: "2017-03-10T01:26:27Z"
 tags:
   - coding
+  - data
   - compression
-  - algorithm
-  - voxel
-  - javascript
+  - library
 ---
 
 # mikolalysenko/voxel-crunch

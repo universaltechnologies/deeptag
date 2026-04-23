@@ -8,11 +8,10 @@ topics: [csharp, dotnet, ecs, entity-component-system, game-development, net8]
 starred_at: "2024-07-09T02:52:28Z"
 tags:
   - coding
-  - engine
+  - game
   - ecs
-  - dotnet
+  - library
   - performance
-  - csharp
 ---
 
 # outfox/fennecs

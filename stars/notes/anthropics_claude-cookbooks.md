@@ -10,7 +10,6 @@ tags:
   - coding
   - ai
   - llm
-  - python
   - tutorial
 ---
 

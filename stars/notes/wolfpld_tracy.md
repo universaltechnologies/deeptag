@@ -10,9 +10,8 @@ tags:
   - coding
   - profiler
   - performance
-  - cpp
-  - gpu
-  - engine
+  - library
+  - tool
 ---
 
 # wolfpld/tracy

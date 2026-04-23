@@ -7,16 +7,14 @@ stars: 2985
 topics: [atmospheric-scattering, bindless, bsdf, car-simulation, cpp, cutting-edge, ecs, game-engine, gpu-driven, imgui, livestream, path-tracing, physx, ray-tracing, restir-gi, spartan, ssao, taa, vulkan, xess]
 starred_at: "2023-02-23T17:15:39Z"
 tags:
+  - coding
+  - engine
   - graphic
   - rendering
-  - path-tracing
   - ray-tracing
-  - gi
+  - path-tracing
   - vulkan
-  - engine
-  - rhi
-  - physics
-  - ecs
+  - performance
 ---
 
 # PanosK92/SpartanEngine

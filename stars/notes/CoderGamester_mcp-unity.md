@@ -8,11 +8,11 @@ topics: [antigravity-ide, claudecode, codex-cli, copilot, cursor, game-developme
 starred_at: "2025-08-01T08:37:46Z"
 tags:
   - coding
+  - ai
+  - mcp
+  - engine
   - unity
   - plugin
-  - automation
-  - ai
-  - protocol
 ---
 
 # CoderGamester/mcp-unity

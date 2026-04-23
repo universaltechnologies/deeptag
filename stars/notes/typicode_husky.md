@@ -9,8 +9,7 @@ starred_at: "2026-03-23T10:29:13Z"
 tags:
   - coding
   - git
-  - cli
-  - automation
+  - tool
 ---
 
 # typicode/husky

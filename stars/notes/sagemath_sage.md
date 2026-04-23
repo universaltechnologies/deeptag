@@ -8,12 +8,9 @@ topics: []
 starred_at: "2023-05-11T17:17:08Z"
 tags:
   - coding
+  - tools
   - math
   - python
-  - library
-  - linux
-  - windows
-  - desktop
 ---
 
 # sagemath/sage

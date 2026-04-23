@@ -7,11 +7,13 @@ stars: 4479
 topics: [c, code-generation, cpp, d, egl, generator, gl, glad, gles, gles2, glx, loader-generator, nim, opengl, pascal, python, rust, vulkan, wgl]
 starred_at: "2023-05-20T09:50:01Z"
 tags:
+  - coding
   - graphic
+  - platform
   - opengl
   - vulkan
-  - binding
-  - misc
+  - library
+  - tool
 ---
 
 # Dav1dde/glad

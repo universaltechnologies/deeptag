@@ -8,11 +8,11 @@ topics: [csharp, csv, csv-parser, csv-reader, csv-writer, dotnet, performance, s
 starred_at: "2023-11-13T07:13:00Z"
 tags:
   - coding
-  - performance
-  - simd
+  - data
   - parser
   - dotnet
-  - ml
+  - performance
+  - library
 ---
 
 # nietras/Sep

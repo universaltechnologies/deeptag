@@ -10,9 +10,6 @@ tags:
   - coding
   - ai
   - diffusion
-  - deep-learning
-  - inference
-  - misc
 ---
 
 # harubaru/waifu-diffusion

@@ -9,10 +9,8 @@ starred_at: "2026-01-07T04:15:37Z"
 tags:
   - coding
   - ai
-  - editor
-  - dotnet
-  - windows
-  - cli
+  - tool
+  - ide
 ---
 
 # dliedke/ClaudeCodeExtension

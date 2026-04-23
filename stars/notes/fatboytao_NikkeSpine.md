@@ -7,8 +7,8 @@ stars: 73
 topics: []
 starred_at: "2025-11-02T09:33:15Z"
 tags:
-  - tools
-  - misc
+  - graphic
+  - animation
 ---
 
 # fatboytao/NikkeSpine

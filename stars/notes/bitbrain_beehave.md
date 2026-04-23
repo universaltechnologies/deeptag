@@ -8,9 +8,11 @@ topics: [ai, behavior-tree, game-development, gamedev, gdscript, godot, godot3, 
 starred_at: "2023-09-18T01:30:02Z"
 tags:
   - coding
-  - ai
   - engine
   - godot
+  - ai
+  - game
+  - plugin
 ---
 
 # bitbrain/beehave

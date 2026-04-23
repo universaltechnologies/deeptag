@@ -7,12 +7,12 @@ stars: 3820
 topics: [displacement-texture, ocean, ocean-geometry, sampling-methods, unity, water]
 starred_at: "2023-02-16T08:21:21Z"
 tags:
-  - coding
+  - graphic
   - water
-  - shader
-  - rendering
+  - coding
+  - engine
   - unity
-  - vfx
+  - library
 ---
 
 # wave-harmonic/crest

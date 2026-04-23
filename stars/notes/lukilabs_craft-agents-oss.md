@@ -10,9 +10,8 @@ tags:
   - coding
   - ai
   - agent
-  - typescript
-  - ui
-  - productivity
+  - tool
+  - mcp
 ---
 
 # lukilabs/craft-agents-oss

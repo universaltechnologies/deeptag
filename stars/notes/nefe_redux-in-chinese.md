@@ -8,10 +8,9 @@ topics: [react, redux, tutorial]
 starred_at: "2023-06-01T06:35:38Z"
 tags:
   - coding
-  - framework
-  - tutorial
-  - frontend
+  - web
   - javascript
+  - tutorial
 ---
 
 # nefe/redux-in-chinese

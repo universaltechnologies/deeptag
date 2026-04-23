@@ -9,10 +9,8 @@ starred_at: "2018-04-08T11:49:49Z"
 tags:
   - coding
   - web
-  - browser
   - ai
-  - tools
-  - productivity
+  - plugin
 ---
 
 # hcfyapp/crx-selection-translate

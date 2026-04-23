@@ -9,10 +9,10 @@ starred_at: "2022-10-31T02:51:56Z"
 tags:
   - graphic
   - water
-  - mesh
   - shader
-  - editor
-  - mobile
+  - mesh
+  - procedural
+  - tool
 ---
 
 # AsehesL/WaterByBakeDepth

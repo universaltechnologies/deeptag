@@ -7,12 +7,11 @@ stars: 25021
 topics: [2d, 3d, android, cross-platform, framework, game, game-development, game-engine, gamedev, html5, ios, java, libgdx, linux, macosx, windows]
 starred_at: "2017-11-23T01:11:08Z"
 tags:
-  - graphic
   - coding
+  - engine
   - framework
   - cross-platform
-  - 2d
-  - 3d
+  - java
 ---
 
 # libgdx/libgdx

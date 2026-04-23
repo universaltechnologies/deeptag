@@ -9,8 +9,10 @@ starred_at: "2025-03-31T02:19:14Z"
 tags:
   - coding
   - ai
+  - mcp
+  - csharp
   - cross-platform
-  - ui
+  - tutorial
 ---
 
 # Ming-jiayou/mcp_demo

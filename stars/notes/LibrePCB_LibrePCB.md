@@ -7,12 +7,12 @@ stars: 2867
 topics: [cad, eda, electronics, hacktoberfest, linux, macos, pcb, qt, schematic, unix, windows]
 starred_at: "2023-11-17T15:37:47Z"
 tags:
-  - coding
   - tools
-  - linux
-  - windows
-  - desktop
-  - misc
+  - coding
+  - cpp
+  - gui
+  - cross-platform
+  - tool
 ---
 
 # LibrePCB/LibrePCB

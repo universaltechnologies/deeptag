@@ -8,10 +8,8 @@ topics: [3d-graphics, computer-graphics, materialx, physically-based-rendering, 
 starred_at: "2023-04-10T11:37:15Z"
 tags:
   - graphic
-  - shader
+  - material
   - pbr
-  - rendering
-  - python
   - library
 ---
 

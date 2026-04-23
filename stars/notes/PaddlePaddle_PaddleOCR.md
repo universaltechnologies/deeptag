@@ -9,8 +9,8 @@ starred_at: "2021-12-24T03:04:16Z"
 tags:
   - coding
   - ai
-  - image
-  - rag
+  - cv
+  - library
 ---
 
 # PaddlePaddle/PaddleOCR

@@ -7,9 +7,8 @@ stars: 1320
 topics: []
 starred_at: "2025-07-24T16:36:11Z"
 tags:
-  - coding
+  - tools
   - network
-  - proxy
 ---
 
 # liandu2024/clash

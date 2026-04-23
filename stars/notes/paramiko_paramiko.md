@@ -11,7 +11,6 @@ tags:
   - networking
   - protocol
   - library
-  - security
   - python
 ---
 

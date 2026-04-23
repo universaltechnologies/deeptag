@@ -8,11 +8,9 @@ topics: [android, app-framework, cross-platform, ios, mobile, mobile-development
 starred_at: "2022-12-09T21:24:10Z"
 tags:
   - coding
-  - framework
   - mobile
+  - framework
   - cross-platform
-  - ios
-  - android
 ---
 
 # facebook/react-native

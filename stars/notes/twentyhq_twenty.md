@@ -8,11 +8,9 @@ topics: [crm, crm-system, customer, good-first-issue, graphql, hacktoberfest, ja
 starred_at: "2026-03-26T13:11:11Z"
 tags:
   - coding
-  - typescript
   - web
-  - backend
-  - frontend
   - database
+  - awesome
 ---
 
 # twentyhq/twenty

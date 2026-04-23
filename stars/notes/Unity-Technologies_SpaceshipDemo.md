@@ -7,12 +7,11 @@ stars: 1174
 topics: []
 starred_at: "2023-03-17T21:56:29Z"
 tags:
-  - graphic
+  - coding
+  - engine
   - unity
+  - graphic
   - vfx
-  - urp
-  - rendering
-  - 3d
 ---
 
 # Unity-Technologies/SpaceshipDemo

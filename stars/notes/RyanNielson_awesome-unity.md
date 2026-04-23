@@ -7,13 +7,10 @@ stars: 7069
 topics: [awesome-list, game-development, unity]
 starred_at: "2025-08-18T04:13:59Z"
 tags:
-  - awesome
+  - coding
   - engine
   - unity
-  - misc
-  - gameplay
-  - networking
-  - ui
+  - awesome
 ---
 
 # RyanNielson/awesome-unity

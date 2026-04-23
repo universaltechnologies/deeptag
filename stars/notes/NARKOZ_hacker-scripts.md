@@ -7,11 +7,8 @@ stars: 49458
 topics: []
 starred_at: "2015-11-25T11:56:42Z"
 tags:
-  - coding
   - automation
   - shell
-  - linux
-  - misc
 ---
 
 # NARKOZ/hacker-scripts

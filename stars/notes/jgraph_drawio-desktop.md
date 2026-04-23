@@ -7,11 +7,9 @@ stars: 60553
 topics: [diagram-editor, electron-app, graphics, javascript-applications]
 starred_at: "2025-10-31T07:43:26Z"
 tags:
-  - coding
   - tools
+  - coding
   - electron
-  - ui
-  - security
 ---
 
 # jgraph/drawio-desktop

@@ -9,9 +9,6 @@ starred_at: "2023-03-17T21:30:06Z"
 tags:
   - graphic
   - rendering
-  - shader
-  - pbr
-  - ray-tracing
   - book
 ---
 

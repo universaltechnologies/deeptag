@@ -8,11 +8,9 @@ topics: [apache, canvas, charting-library, charts, data-visualization, data-viz,
 starred_at: "2019-12-16T07:39:39Z"
 tags:
   - coding
-  - visualization
   - web
-  - frontend
-  - svg
-  - misc
+  - visualization
+  - library
 ---
 
 # apache/echarts

@@ -8,11 +8,10 @@ topics: [burst, cpp, csharp, gpu, metal, path-tracing, unity]
 starred_at: "2024-12-27T11:40:24Z"
 tags:
   - graphic
+  - rendering
   - path-tracing
-  - metal
-  - directx
-  - simd
-  - optimization
+  - performance
+  - practice
 ---
 
 # aras-p/ToyPathTracer

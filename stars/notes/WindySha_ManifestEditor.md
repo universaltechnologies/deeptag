@@ -7,10 +7,9 @@ stars: 409
 topics: []
 starred_at: "2024-10-24T07:02:33Z"
 tags:
-  - coding
+  - tools
   - android
-  - parser
-  - cli
+  - tool
 ---
 
 # WindySha/ManifestEditor

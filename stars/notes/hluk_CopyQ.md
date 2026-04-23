@@ -8,10 +8,9 @@ topics: [clipboard, clipboard-manager, copyq, cross-platform, scripting, tray]
 starred_at: "2025-12-22T02:14:03Z"
 tags:
   - tools
+  - gui
   - cross-platform
-  - ui
-  - automation
-  - image
+  - desktop
 ---
 
 # hluk/CopyQ

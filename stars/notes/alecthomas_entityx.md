@@ -8,10 +8,10 @@ topics: []
 starred_at: "2017-03-27T13:05:00Z"
 tags:
   - coding
+  - game
   - ecs
   - cpp
-  - performance
-  - gameplay
+  - library
 ---
 
 # alecthomas/entityx

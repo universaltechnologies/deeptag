@@ -9,9 +9,10 @@ starred_at: "2024-08-27T03:22:45Z"
 tags:
   - coding
   - ai
-  - llm
   - rag
-  - inference
+  - library
+  - pipeline
+  - distributed
 ---
 
 # NVIDIA/NeMo-Retriever

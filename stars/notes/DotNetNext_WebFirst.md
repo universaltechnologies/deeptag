@@ -8,10 +8,9 @@ topics: []
 starred_at: "2019-12-04T01:44:06Z"
 tags:
   - coding
-  - productivity
-  - web
-  - database
   - dotnet
+  - tool
+  - sql
 ---
 
 # DotNetNext/WebFirst

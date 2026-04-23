@@ -7,9 +7,10 @@ stars: 77
 topics: []
 starred_at: "2023-11-30T06:57:59Z"
 tags:
-  - coding
+  - graphic
+  - lighting
+  - ssao
   - csharp
-  - misc
 ---
 
 # MFrankfort84/mfssgi

@@ -8,10 +8,9 @@ topics: [csharp, dragon-ecs, dragonecs, ecs, ecs-framework, entity-component-sys
 starred_at: "2024-03-27T12:01:27Z"
 tags:
   - coding
+  - game
   - ecs
-  - engine
   - framework
-  - csharp
 ---
 
 # DCFApixels/DragonECS

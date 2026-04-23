@@ -8,10 +8,11 @@ topics: []
 starred_at: "2023-10-12T05:22:26Z"
 tags:
   - coding
-  - editor
+  - language
   - lua
-  - debug
+  - ide
   - plugin
+  - debug
 ---
 
 # BabeStudio/BabeLua

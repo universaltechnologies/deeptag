@@ -7,11 +7,11 @@ stars: 160148
 topics: [ai, artificial-intelligence, awesome-list, chatgpt, chatgpt-prompts, claude, gemini, gpt, gpt-4, llm, machine-learning, nextjs, open-source, openai, prompt-engineering, prompts, prompts-chat, typescript]
 starred_at: "2026-03-11T08:20:46Z"
 tags:
-  - awesome
+  - coding
   - ai
   - llm
-  - web
-  - self-hosted
+  - prompt
+  - awesome
 ---
 
 # f/prompts.chat

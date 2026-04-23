@@ -8,11 +8,10 @@ topics: [audio, cms, django, media, mediacms, open-source, react, rest-api, self
 starred_at: "2025-10-13T10:28:53Z"
 tags:
   - coding
+  - web
+  - media
   - video
   - self-hosted
-  - api
-  - docker
-  - web
 ---
 
 # mediacms-io/mediacms

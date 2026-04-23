@@ -8,10 +8,11 @@ topics: []
 starred_at: "2022-06-02T12:55:16Z"
 tags:
   - graphic
-  - post-processing
-  - gi
-  - ssao
+  - lighting
+  - shader
+  - hlsl
   - engine
+  - unity
 ---
 
 # haolange/InfinityScreenSpaceLighting

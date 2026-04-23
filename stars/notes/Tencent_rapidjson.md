@@ -8,11 +8,11 @@ topics: []
 starred_at: "2016-06-28T07:21:03Z"
 tags:
   - coding
+  - data
   - json
+  - cpp
   - parser
   - header-only
-  - performance
-  - simd
 ---
 
 # Tencent/rapidjson

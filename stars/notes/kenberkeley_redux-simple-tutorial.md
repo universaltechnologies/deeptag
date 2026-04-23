@@ -11,8 +11,6 @@ tags:
   - web
   - frontend
   - tutorial
-  - middleware
-  - javascript
 ---
 
 # kenberkeley/redux-simple-tutorial

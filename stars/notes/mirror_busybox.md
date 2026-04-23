@@ -8,11 +8,9 @@ topics: []
 starred_at: "2024-10-31T11:39:38Z"
 tags:
   - coding
-  - embedded
-  - linux
-  - cli
   - c
-  - misc
+  - embedded
+  - tool
 ---
 
 # mirror/busybox

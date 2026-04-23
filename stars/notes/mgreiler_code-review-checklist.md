@@ -8,7 +8,6 @@ topics: [checklist, clean-code, code-quality, code-review, code-review-checklist
 starred_at: "2025-12-04T09:29:25Z"
 tags:
   - coding
-  - tutorial
   - practice
 ---
 

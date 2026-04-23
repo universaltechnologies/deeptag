@@ -7,10 +7,10 @@ stars: 9539
 topics: [awesome, awesome-list, awesome-wasm, awesome-webassembly, list, lists, resources, wasm, webassembly]
 starred_at: "2024-08-02T08:52:22Z"
 tags:
-  - awesome
+  - coding
+  - web
   - webassembly
-  - compiler
-  - runtime
+  - awesome
 ---
 
 # mbasso/awesome-wasm

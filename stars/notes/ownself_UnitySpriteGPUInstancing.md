@@ -7,13 +7,12 @@ stars: 138
 topics: [gpu-instancing, sprites, unity, unity3d]
 starred_at: "2023-11-29T08:11:42Z"
 tags:
-  - graphic
-  - hlsl
-  - gpu
+  - coding
   - engine
   - unity
-  - 2d
-  - mesh
+  - graphic
+  - shader
+  - hlsl
 ---
 
 # ownself/UnitySpriteGPUInstancing

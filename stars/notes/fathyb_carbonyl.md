@@ -10,9 +10,7 @@ tags:
   - tools
   - browser
   - terminal
-  - rust
-  - webgpu
-  - rendering
+  - tool
 ---
 
 # fathyb/carbonyl

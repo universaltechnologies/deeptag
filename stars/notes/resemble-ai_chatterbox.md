@@ -9,9 +9,9 @@ starred_at: "2026-01-02T03:56:05Z"
 tags:
   - coding
   - ai
-  - audio
+  - tts
   - inference
-  - deep-learning
+  - library
 ---
 
 # resemble-ai/chatterbox

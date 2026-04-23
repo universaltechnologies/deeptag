@@ -9,7 +9,7 @@ starred_at: "2025-06-20T03:09:39Z"
 tags:
   - coding
   - ai
-  - llm
+  - prompt
   - awesome
 ---
 

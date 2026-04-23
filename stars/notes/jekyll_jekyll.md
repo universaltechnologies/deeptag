@@ -8,7 +8,9 @@ topics: [blog-engine, jekyll, liquid, markdown, ruby, static-site-generator]
 starred_at: "2018-02-02T11:50:28Z"
 tags:
   - coding
+  - web
   - markdown
+  - tool
 ---
 
 # jekyll/jekyll

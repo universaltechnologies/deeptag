@@ -8,10 +8,9 @@ topics: [cpp, gamedev, imgui, node-editor, tool, ui]
 starred_at: "2023-02-23T17:16:12Z"
 tags:
   - coding
-  - ui
-  - cpp
+  - gui
   - library
-  - editor
+  - header-only
 ---
 
 # Nelarius/imnodes

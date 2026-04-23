@@ -8,8 +8,9 @@ topics: [linter, lua]
 starred_at: "2018-11-13T06:52:19Z"
 tags:
   - coding
-  - lint
-  - parser
+  - language
+  - lua
+  - tool
 ---
 
 # mpeterv/luacheck

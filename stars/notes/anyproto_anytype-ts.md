@@ -8,10 +8,10 @@ topics: [anytype, e2ee, local-first, offline-first, p2p, privacy]
 starred_at: "2024-02-27T12:01:39Z"
 tags:
   - coding
-  - typescript
+  - web
   - p2p
   - electron
-  - encryption
+  - cross-platform
 ---
 
 # anyproto/anytype-ts

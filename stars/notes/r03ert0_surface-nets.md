@@ -8,11 +8,11 @@ topics: []
 starred_at: "2017-03-06T02:01:24Z"
 tags:
   - graphic
+  - scene
   - mesh
-  - voxel
-  - procedural
   - geometry
-  - algorithm
+  - voxel
+  - header-only
 ---
 
 # r03ert0/surface-nets

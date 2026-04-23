@@ -7,9 +7,9 @@ stars: 5426
 topics: [pdf, rust-book, typst, zh-cn]
 starred_at: "2023-09-28T15:41:39Z"
 tags:
-  - coding
-  - rust
   - book
+  - rust
+  - tutorial
 ---
 
 # KaiserY/trpl-zh-cn

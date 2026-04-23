@@ -8,10 +8,10 @@ topics: [3d, deep-learning, octree, python, torch]
 starred_at: "2019-06-14T07:59:06Z"
 tags:
   - coding
-  - inference
+  - ai
   - deep-learning
-  - gpu
   - cv
+  - library
 ---
 
 # griegler/octnet

@@ -7,12 +7,12 @@ stars: 624
 topics: [genshin, genshin-impact, honkai, honkai-impact, honkai-star-rail, honkai3rd, hoyotoon, hoyoverse, impact, shader, starrail, unity, unity3d, vrc, vrchat, waves, wuthering, wuwa]
 starred_at: "2024-01-08T11:08:54Z"
 tags:
-  - coding
+  - graphic
   - shader
-  - unity
+  - pbr
   - toon
-  - rendering
-  - vfx
+  - unity
+  - plugin
 ---
 
 # Hoyotoon/HoyoToon

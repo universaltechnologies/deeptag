@@ -10,9 +10,7 @@ tags:
   - coding
   - algorithm
   - performance
-  - optimization
-  - benchmark
-  - header-only
+  - library
 ---
 
 # Cyan4973/xxHash

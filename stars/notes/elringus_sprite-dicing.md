@@ -8,10 +8,10 @@ topics: [atlas, cli, game-development, godot, rust, sprites, tool, unity]
 starred_at: "2018-11-27T06:25:15Z"
 tags:
   - graphic
-  - atlas
+  - material
   - texture
-  - tools
-  - cli
+  - tool
+  - compression
 ---
 
 # elringus/sprite-dicing

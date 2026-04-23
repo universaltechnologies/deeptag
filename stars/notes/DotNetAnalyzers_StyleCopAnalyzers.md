@@ -9,10 +9,9 @@ starred_at: "2019-04-03T10:01:37Z"
 tags:
   - coding
   - dotnet
-  - lint
   - csharp
-  - ci
-  - plugin
+  - library
+  - tool
 ---
 
 # DotNetAnalyzers/StyleCopAnalyzers

@@ -8,11 +8,10 @@ topics: [marshalling, protobuf, protobuf-runtime, protoc, protocol-buffers, prot
 starred_at: "2017-03-18T13:09:28Z"
 tags:
   - coding
+  - data
   - serialization
-  - compiler
-  - rpc
-  - protocol
-  - runtime
+  - library
+  - cross-platform
 ---
 
 # protocolbuffers/protobuf

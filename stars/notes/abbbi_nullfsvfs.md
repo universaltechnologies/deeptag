@@ -8,10 +8,11 @@ topics: [dev, filesystem, linux, linux-kernel, null, nulldev, nullfs, performanc
 starred_at: "2021-12-02T12:58:38Z"
 tags:
   - coding
-  - filesystem
+  - systems
   - kernel
-  - linux
+  - filesystem
   - performance
+  - linux
 ---
 
 # abbbi/nullfsvfs

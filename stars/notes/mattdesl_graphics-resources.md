@@ -7,12 +7,12 @@ stars: 1847
 topics: []
 starred_at: "2015-09-09T15:58:32Z"
 tags:
-  - awesome
   - graphic
-  - pbr
   - rendering
-  - ray-tracing
-  - math
+  - pbr
+  - lighting
+  - post-processing
+  - awesome
 ---
 
 # mattdesl/graphics-resources

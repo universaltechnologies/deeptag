@@ -9,7 +9,7 @@ starred_at: "2021-07-23T02:10:57Z"
 tags:
   - coding
   - algorithm
-  - rust
+  - practice
 ---
 
 # TheAlgorithms/Rust

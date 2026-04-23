@@ -7,10 +7,9 @@ stars: 3232
 topics: [alpine, alpinelinux, django, end-of-life, eol, hacktoberfest, iphone, java, laravel, mariadb, php, postgres, python, redis, release-policy, release-schedule, rhel, symfony, ubuntu, windows]
 starred_at: "2023-04-13T12:07:51Z"
 tags:
-  - coding
+  - tools
   - web
-  - json
-  - productivity
+  - awesome
 ---
 
 # endoflife-date/endoflife.date

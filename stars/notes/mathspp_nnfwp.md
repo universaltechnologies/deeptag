@@ -9,7 +9,8 @@ starred_at: "2021-11-10T05:26:29Z"
 tags:
   - coding
   - ai
-  - tutorial
+  - ml
+  - book
 ---
 
 # mathspp/nnfwp

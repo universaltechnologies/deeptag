@@ -9,9 +9,8 @@ starred_at: "2018-01-29T01:57:01Z"
 tags:
   - graphic
   - modeling
-  - 3d
-  - plugin
-  - ui
+  - tool
+  - cross-platform
 ---
 
 # makehumancommunity/makehuman

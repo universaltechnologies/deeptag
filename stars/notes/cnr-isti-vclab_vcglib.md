@@ -7,12 +7,11 @@ stars: 1270
 topics: []
 starred_at: "2022-10-27T06:21:24Z"
 tags:
+  - coding
+  - cpp
+  - library
   - graphic
   - mesh
-  - library
-  - cpp
-  - template
-  - algorithm
 ---
 
 # cnr-isti-vclab/vcglib

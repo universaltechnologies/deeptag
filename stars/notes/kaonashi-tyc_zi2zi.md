@@ -10,6 +10,7 @@ tags:
   - coding
   - ai
   - deep-learning
+  - ml
 ---
 
 # kaonashi-tyc/zi2zi

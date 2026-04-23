@@ -8,9 +8,11 @@ topics: [cpp, cpp11, entity-component-system, single-header-lib]
 starred_at: "2022-05-18T05:36:24Z"
 tags:
   - coding
-  - header-only
+  - game
   - ecs
   - cpp
+  - library
+  - header-only
 ---
 
 # redxdev/ECS

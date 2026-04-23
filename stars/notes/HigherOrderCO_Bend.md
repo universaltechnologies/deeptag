@@ -9,9 +9,8 @@ starred_at: "2024-11-27T05:24:23Z"
 tags:
   - coding
   - language
-  - compiler
-  - gpu
-  - concurrency
+  - runtime
+  - cuda
 ---
 
 # HigherOrderCO/Bend

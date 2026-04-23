@@ -10,9 +10,7 @@ tags:
   - coding
   - web
   - ui
-  - framework
-  - input
-  - misc
+  - library
 ---
 
 # pywebio/PyWebIO

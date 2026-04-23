@@ -9,8 +9,9 @@ starred_at: "2017-03-05T06:53:29Z"
 tags:
   - coding
   - windows
-  - ui
+  - gui
   - animation
+  - tutorial
 ---
 
 # microsoft/WindowsCompositionSamples

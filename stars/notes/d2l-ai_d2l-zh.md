@@ -8,11 +8,9 @@ topics: [book, chinese, computer-vision, deep-learning, machine-learning, natura
 starred_at: "2023-02-17T01:57:18Z"
 tags:
   - coding
+  - ai
   - deep-learning
-  - ml
   - book
-  - cv
-  - nlp
   - tutorial
 ---
 

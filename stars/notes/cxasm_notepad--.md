@@ -7,12 +7,11 @@ stars: 9288
 topics: []
 starred_at: "2023-02-01T03:52:15Z"
 tags:
+  - tools
   - coding
-  - editor
-  - cross-platform
-  - windows
-  - linux
   - cpp
+  - cross-platform
+  - editor
 ---
 
 # cxasm/notepad--

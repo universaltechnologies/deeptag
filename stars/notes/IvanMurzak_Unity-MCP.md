@@ -9,11 +9,10 @@ starred_at: "2025-12-24T02:33:52Z"
 tags:
   - coding
   - ai
-  - llm
+  - mcp
   - engine
+  - tool
   - unity
-  - cli
-  - docker
 ---
 
 # IvanMurzak/Unity-MCP

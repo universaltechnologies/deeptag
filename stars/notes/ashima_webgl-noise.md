@@ -9,8 +9,8 @@ starred_at: "2023-03-10T08:39:46Z"
 tags:
   - graphic
   - shader
-  - webgl
-  - procedural
+  - glsl
+  - library
 ---
 
 # ashima/webgl-noise

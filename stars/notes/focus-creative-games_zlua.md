@@ -8,10 +8,13 @@ topics: [hybridclr, luban, obfuz, puerts, slua, tolua, xlua]
 starred_at: "2025-07-31T11:32:48Z"
 tags:
   - coding
-  - lua
-  - unity
-  - performance
   - engine
+  - unity
+  - language
+  - lua
+  - performance
+  - library
+  - plugin
 ---
 
 # focus-creative-games/zlua

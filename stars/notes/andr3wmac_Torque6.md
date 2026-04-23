@@ -7,13 +7,12 @@ stars: 296
 topics: []
 starred_at: "2017-02-07T04:10:26Z"
 tags:
-  - graphic
+  - coding
   - engine
-  - opengl
-  - directx
-  - pbr
+  - graphic
   - rendering
-  - cpp
+  - pbr
+  - physics
 ---
 
 # andr3wmac/Torque6

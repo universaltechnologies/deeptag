@@ -10,8 +10,7 @@ tags:
   - coding
   - editor
   - rust
-  - cli
-  - parser
+  - tool
 ---
 
 # helix-editor/helix

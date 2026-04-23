@@ -8,9 +8,9 @@ topics: []
 starred_at: "2022-09-22T06:31:57Z"
 tags:
   - coding
+  - language
   - header-only
-  - vulkan
-  - parser
+  - tool
 ---
 
 # KhronosGroup/SPIRV-Headers

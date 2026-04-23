@@ -8,10 +8,11 @@ topics: [cel-shading, render-pipeline, scriptable-render-pipeline, shader, shade
 starred_at: "2023-12-01T05:54:56Z"
 tags:
   - graphic
-  - shader
-  - toon
   - rendering
-  - shadow
+  - shader
+  - lighting
+  - coding
+  - engine
   - unity
 ---
 

@@ -7,11 +7,9 @@ stars: 244575
 topics: [declarative, frontend, javascript, library, react, ui]
 starred_at: "2017-10-19T09:14:35Z"
 tags:
-  - coding
-  - framework
+  - web
   - frontend
-  - ui
-  - component
+  - library
 ---
 
 # facebook/react

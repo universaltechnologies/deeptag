@@ -7,12 +7,9 @@ stars: 26845
 topics: []
 starred_at: "2026-02-27T06:05:42Z"
 tags:
-  - coding
   - git
-  - workflow
   - cli
-  - automation
-  - misc
+  - tool
 ---
 
 # nvie/gitflow

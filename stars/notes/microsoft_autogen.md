@@ -9,10 +9,9 @@ starred_at: "2026-02-06T08:33:03Z"
 tags:
   - coding
   - ai
-  - llm
   - agent
+  - llm
   - framework
-  - python
 ---
 
 # microsoft/autogen

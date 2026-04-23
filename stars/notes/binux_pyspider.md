@@ -9,9 +9,7 @@ starred_at: "2017-06-09T05:38:29Z"
 tags:
   - coding
   - web
-  - ui
-  - distributed
-  - database
+  - library
 ---
 
 # binux/pyspider

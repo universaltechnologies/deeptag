@@ -8,8 +8,11 @@ topics: []
 starred_at: "2021-04-19T11:57:02Z"
 tags:
   - coding
-  - parser
+  - tools
   - compression
+  - android
+  - python
+  - tool
 ---
 
 # heisai/zipalign

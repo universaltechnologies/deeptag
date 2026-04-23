@@ -8,10 +8,10 @@ topics: [procjam, unity, wavefunctioncollapse]
 starred_at: "2022-12-05T02:19:37Z"
 tags:
   - coding
-  - procedural
-  - unity
+  - game
   - algorithm
-  - csharp
+  - procedural
+  - tool
 ---
 
 # marian42/wavefunctioncollapse

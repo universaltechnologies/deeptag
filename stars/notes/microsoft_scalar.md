@@ -9,8 +9,7 @@ starred_at: "2026-04-15T11:53:02Z"
 tags:
   - coding
   - git
-  - performance
-  - cli
+  - tool
 ---
 
 # microsoft/scalar

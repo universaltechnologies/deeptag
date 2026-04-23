@@ -7,12 +7,11 @@ stars: 8421
 topics: [git, git-client, git-gui, gitextensions, hacktoberfest]
 starred_at: "2023-10-19T02:35:55Z"
 tags:
-  - coding
   - git
-  - windows
+  - tool
+  - csharp
   - dotnet
-  - ui
-  - editor
+  - windows
 ---
 
 # gitextensions/gitextensions

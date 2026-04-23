@@ -9,10 +9,8 @@ starred_at: "2025-04-23T09:57:14Z"
 tags:
   - coding
   - ai
-  - llm
   - prompt
-  - reverse
-  - misc
+  - awesome
 ---
 
 # elder-plinius/CL4R1T4S

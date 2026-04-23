@@ -9,10 +9,8 @@ starred_at: "2023-05-26T16:40:41Z"
 tags:
   - coding
   - game
+  - gameplay
   - javascript
-  - backend
-  - docker
-  - server
 ---
 
 # open-duelyst/duelyst

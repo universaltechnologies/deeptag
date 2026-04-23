@@ -9,11 +9,6 @@ starred_at: "2017-02-28T09:34:27Z"
 tags:
   - coding
   - awesome
-  - tutorial
-  - book
-  - algorithm
-  - architecture
-  - networking
 ---
 
 # jobbole/awesome-programming-books

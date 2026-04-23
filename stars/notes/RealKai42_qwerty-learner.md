@@ -10,8 +10,7 @@ tags:
   - coding
   - web
   - frontend
-  - typescript
-  - ui
+  - tool
 ---
 
 # RealKai42/qwerty-learner

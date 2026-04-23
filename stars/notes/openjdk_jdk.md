@@ -8,11 +8,10 @@ topics: [java, jvm, openjdk]
 starred_at: "2022-01-19T07:10:56Z"
 tags:
   - coding
+  - language
   - java
-  - compiler
   - runtime
-  - library
-  - platform
+  - compiler
 ---
 
 # openjdk/jdk

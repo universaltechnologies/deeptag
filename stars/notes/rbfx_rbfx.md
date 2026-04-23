@@ -9,15 +9,9 @@ starred_at: "2023-02-23T17:38:28Z"
 tags:
   - coding
   - engine
-  - opengl
-  - vulkan
-  - directx
-  - editor
-  - binding
-  - android
-  - linux
-  - windows
-  - desktop
+  - graphic
+  - platform
+  - framework
   - cross-platform
 ---
 

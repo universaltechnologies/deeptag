@@ -9,10 +9,10 @@ starred_at: "2024-03-19T05:25:49Z"
 tags:
   - coding
   - networking
-  - cross-platform
+  - protocol
   - performance
-  - cpp
-  - c
+  - cross-platform
+  - linux
 ---
 
 # TigerVNC/tigervnc

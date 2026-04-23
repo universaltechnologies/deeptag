@@ -8,10 +8,9 @@ topics: []
 starred_at: "2023-03-28T06:05:23Z"
 tags:
   - coding
-  - python
   - nlp
-  - algorithm
   - library
+  - algorithm
 ---
 
 # fxsjy/jieba

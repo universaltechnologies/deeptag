@@ -7,11 +7,12 @@ stars: 6521
 topics: [android, electron, file-transfer, macos, mtp, nodejs, openmtp, react, reactjs]
 starred_at: "2025-12-21T00:30:31Z"
 tags:
-  - tools
+  - coding
+  - web
+  - nodejs
   - electron
-  - ui
-  - android
-  - protocol
+  - tools
+  - tool
 ---
 
 # ganeshrvel/openmtp

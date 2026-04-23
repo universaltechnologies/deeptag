@@ -8,11 +8,11 @@ topics: [flamegraph, flamegraphs, performance-profiling, performance-tools, perf
 starred_at: "2023-03-08T13:54:25Z"
 tags:
   - coding
-  - performance
   - profiler
-  - visualization
   - web
-  - frontend
+  - webgl
+  - tool
+  - performance
 ---
 
 # jlfwong/speedscope

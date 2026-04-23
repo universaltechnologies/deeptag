@@ -8,9 +8,8 @@ topics: [ansi-colors, emoji, markdown, progress-bar, progress-bar-python, python
 starred_at: "2022-03-11T07:21:37Z"
 tags:
   - coding
-  - library
   - terminal
-  - ui
+  - library
 ---
 
 # Textualize/rich

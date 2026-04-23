@@ -8,9 +8,10 @@ topics: [runtime-validation, schema-validation, static-types, type-inference, ty
 starred_at: "2025-12-27T11:34:06Z"
 tags:
   - coding
+  - language
   - typescript
-  - inference
   - parser
+  - library
 ---
 
 # colinhacks/zod

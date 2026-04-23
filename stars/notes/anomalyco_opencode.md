@@ -10,9 +10,7 @@ tags:
   - coding
   - ai
   - agent
-  - typescript
-  - cli
-  - llm
+  - tool
 ---
 
 # anomalyco/opencode

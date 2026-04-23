@@ -7,10 +7,10 @@ stars: 3726
 topics: [cross-seed, cross-seeding, go, golang, libtorrent, qbit, qbittorrent, workflows]
 starred_at: "2026-02-03T01:38:34Z"
 tags:
+  - coding
   - web
   - automation
-  - networking
-  - tools
+  - tool
 ---
 
 # autobrr/qui

@@ -10,10 +10,9 @@ tags:
   - coding
   - logging
   - performance
-  - cpp
+  - library
   - cross-platform
   - encryption
-  - misc
 ---
 
 # Tencent/BqLog

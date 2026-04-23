@@ -8,11 +8,10 @@ topics: [dawn, emdawnwebgpu, webgpu]
 starred_at: "2025-11-12T16:39:13Z"
 tags:
   - graphic
+  - platform
   - webgpu
-  - vulkan
-  - metal
-  - directx
-  - compiler
+  - library
+  - cross-platform
 ---
 
 # google/dawn

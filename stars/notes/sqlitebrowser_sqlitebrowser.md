@@ -7,10 +7,12 @@ stars: 23935
 topics: [c-plus-plus, cross-platform, database, database-browser, database-gui, sqlite, sqlitebrowser]
 starred_at: "2017-11-28T15:11:40Z"
 tags:
+  - tools
   - coding
+  - data
   - database
-  - sql
   - gui
+  - tool
   - cross-platform
 ---
 

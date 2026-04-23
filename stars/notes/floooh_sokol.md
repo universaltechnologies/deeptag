@@ -7,12 +7,11 @@ stars: 9782
 topics: []
 starred_at: "2022-09-22T06:26:30Z"
 tags:
-  - graphic
   - coding
+  - library
   - header-only
   - cross-platform
-  - webassembly
-  - binding
+  - webgl
 ---
 
 # floooh/sokol

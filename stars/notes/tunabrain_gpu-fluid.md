@@ -7,11 +7,13 @@ stars: 498
 topics: []
 starred_at: "2022-01-21T06:21:37Z"
 tags:
+  - coding
   - graphic
-  - opengl
-  - shader
-  - simulation
   - physics
+  - platform
+  - opengl
+  - cpp
+  - performance
 ---
 
 # tunabrain/gpu-fluid

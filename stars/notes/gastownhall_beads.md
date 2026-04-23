@@ -8,10 +8,11 @@ topics: [agents, claude-code, coding]
 starred_at: "2025-12-04T12:35:47Z"
 tags:
   - coding
-  - agent
   - ai
+  - agent
+  - database
+  - tool
   - sql
-  - cli
 ---
 
 # gastownhall/beads

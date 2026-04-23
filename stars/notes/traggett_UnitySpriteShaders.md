@@ -8,12 +8,11 @@ topics: []
 starred_at: "2023-03-17T21:36:28Z"
 tags:
   - coding
-  - shader
-  - toon
-  - 2d
+  - engine
   - unity
-  - ssao
-  - pbr
+  - graphic
+  - shader
+  - library
 ---
 
 # traggett/UnitySpriteShaders

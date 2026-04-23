@@ -9,9 +9,8 @@ starred_at: "2026-03-13T12:18:41Z"
 tags:
   - coding
   - cli
-  - ai
+  - tool
   - python
-  - automation
 ---
 
 # ZeroSumQuant/claude-conversation-extractor

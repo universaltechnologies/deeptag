@@ -8,9 +8,9 @@ topics: [ecs, parallel-ecs, rust]
 starred_at: "2023-08-03T08:33:27Z"
 tags:
   - coding
+  - game
   - ecs
-  - rust
-  - performance
+  - library
 ---
 
 # amethyst/specs

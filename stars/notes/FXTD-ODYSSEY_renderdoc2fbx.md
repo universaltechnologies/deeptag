@@ -7,11 +7,12 @@ stars: 272
 topics: []
 starred_at: "2023-03-29T07:52:14Z"
 tags:
-  - tools
-  - python
+  - graphic
+  - scene
   - mesh
-  - rendering
-  - geometry
+  - tools
+  - plugin
+  - python
 ---
 
 # FXTD-ODYSSEY/renderdoc2fbx

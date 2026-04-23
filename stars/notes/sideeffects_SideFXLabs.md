@@ -8,10 +8,10 @@ topics: [art, game-development, houdini, procedural, real-time, tech-art, tools,
 starred_at: "2024-01-18T14:36:59Z"
 tags:
   - tools
+  - graphic
   - vfx
+  - scene
   - procedural
-  - engine
-  - plugin
 ---
 
 # sideeffects/SideFXLabs

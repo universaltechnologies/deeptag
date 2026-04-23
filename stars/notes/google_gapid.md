@@ -7,12 +7,12 @@ stars: 2240
 topics: [android, debugger, gles, gles2, golang, gpu, graphics-api, linux, macos, opengl-es, opengles, replay, trace, vulkan, vulkan-api, windows]
 starred_at: "2025-06-05T06:40:23Z"
 tags:
-  - tools
+  - graphic
+  - platform
   - debug
-  - profiler
-  - vulkan
-  - opengl
+  - tool
   - android
+  - vulkan
 ---
 
 # google/gapid

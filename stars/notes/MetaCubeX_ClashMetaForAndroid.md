@@ -9,10 +9,9 @@ starred_at: "2026-04-07T15:58:39Z"
 tags:
   - coding
   - networking
-  - proxy
   - android
-  - kotlin
-  - automation
+  - proxy
+  - tool
 ---
 
 # MetaCubeX/ClashMetaForAndroid

@@ -11,6 +11,7 @@ tags:
   - cpp
   - concurrency
   - header-only
+  - library
 ---
 
 # progschj/ThreadPool

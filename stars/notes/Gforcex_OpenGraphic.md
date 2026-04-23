@@ -7,12 +7,9 @@ stars: 2237
 topics: [computer-graphics, graphics, rendering, shader, unity-3d, unreal-engine]
 starred_at: "2023-11-06T18:09:15Z"
 tags:
-  - awesome
   - graphic
-  - engine
   - rendering
-  - shader
-  - tutorial
+  - awesome
 ---
 
 # Gforcex/OpenGraphic

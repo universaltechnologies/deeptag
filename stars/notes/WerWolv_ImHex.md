@@ -9,10 +9,8 @@ starred_at: "2023-10-09T12:24:59Z"
 tags:
   - coding
   - reverse
-  - editor
-  - plugin
-  - cpp
-  - desktop
+  - tool
+  - gui
 ---
 
 # WerWolv/ImHex

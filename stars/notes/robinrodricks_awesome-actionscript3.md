@@ -7,13 +7,8 @@ stars: 270
 topics: [actionscript, actionscript3, adobe-air, adobe-flash, adobe-flash-player, air-native-extensions, ane, as3, awesome, awesome-list]
 starred_at: "2024-11-14T03:35:48Z"
 tags:
+  - coding
   - awesome
-  - misc
-  - library
-  - framework
-  - desktop
-  - mobile
-  - editor
 ---
 
 # robinrodricks/awesome-actionscript3

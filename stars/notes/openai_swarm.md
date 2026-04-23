@@ -10,9 +10,8 @@ tags:
   - coding
   - ai
   - agent
-  - llm
   - framework
-  - python
+  - library
 ---
 
 # openai/swarm

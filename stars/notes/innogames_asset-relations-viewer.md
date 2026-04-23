@@ -8,9 +8,10 @@ topics: [assets, dependencies, unity]
 starred_at: "2023-01-03T03:52:08Z"
 tags:
   - coding
+  - engine
   - unity
-  - editor
   - plugin
+  - tool
 ---
 
 # innogames/asset-relations-viewer

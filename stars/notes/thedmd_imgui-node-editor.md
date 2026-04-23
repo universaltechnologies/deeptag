@@ -7,10 +7,10 @@ stars: 4390
 topics: [blueprint, blueprints, dear-imgui, game-development, gamedev, imgui, immediate-gui, middleware, node-editor]
 starred_at: "2023-02-23T17:04:37Z"
 tags:
-  - graphic
-  - ui
+  - coding
   - middleware
-  - editor
+  - gui
+  - tool
 ---
 
 # thedmd/imgui-node-editor

@@ -8,11 +8,9 @@ topics: [c-plus-plus, chrome, css, electron, html, javascript, nodejs, v8, works
 starred_at: "2017-03-31T05:29:08Z"
 tags:
   - coding
+  - electron
+  - framework
   - cross-platform
-  - desktop
-  - javascript
-  - nodejs
-  - css
 ---
 
 # electron/electron

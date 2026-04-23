@@ -11,8 +11,7 @@ tags:
   - ai
   - diffusion
   - web
-  - image
-  - inference
+  - tool
 ---
 
 # AUTOMATIC1111/stable-diffusion-webui

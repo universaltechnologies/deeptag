@@ -10,6 +10,7 @@ tags:
   - coding
   - debug
   - lua
+  - library
 ---
 
 # kikito/inspect.lua

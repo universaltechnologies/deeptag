@@ -7,11 +7,11 @@ stars: 25
 topics: [app, automation, data-analysis, data-visualization, exporter, grafana, grafana-dashboard, graph, graphs, guide, homeautomation, iot, lively-wallpaper, metrics, monitoring, prometheus, real-time, tutorial, wallpaper, windows]
 starred_at: "2024-11-15T13:24:40Z"
 tags:
-  - tools
-  - tutorial
+  - coding
+  - visualization
   - monitoring
   - automation
-  - visualization
+  - tutorial
 ---
 
 # luizbizzio/grafana-wallpaper

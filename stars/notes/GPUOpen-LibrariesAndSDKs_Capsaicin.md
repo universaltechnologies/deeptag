@@ -7,12 +7,12 @@ stars: 455
 topics: []
 starred_at: "2023-05-15T05:03:37Z"
 tags:
+  - coding
   - graphic
   - rendering
-  - gi
   - ray-tracing
-  - directx
-  - path-tracing
+  - pipeline
+  - framework
 ---
 
 # GPUOpen-LibrariesAndSDKs/Capsaicin

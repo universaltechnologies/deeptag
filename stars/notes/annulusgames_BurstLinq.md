@@ -8,11 +8,10 @@ topics: [burst-compiler, c-sharp, dots, linq, unity]
 starred_at: "2023-12-11T02:09:22Z"
 tags:
   - coding
-  - library
-  - optimization
-  - performance
+  - engine
   - unity
-  - csharp
+  - performance
+  - library
 ---
 
 # annulusgames/BurstLinq

@@ -10,7 +10,7 @@ tags:
   - coding
   - editor
   - terminal
-  - rust
+  - tool
 ---
 
 # sinelaw/fresh

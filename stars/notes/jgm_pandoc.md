@@ -7,9 +7,11 @@ stars: 43524
 topics: [commonmark, converter, document, haskell, markdown, markup, pandoc, presentation, publishing]
 starred_at: "2023-01-10T14:00:02Z"
 tags:
-  - tools
+  - coding
   - markdown
-  - parser
+  - tool
+  - library
+  - cross-platform
 ---
 
 # jgm/pandoc

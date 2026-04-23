@@ -7,12 +7,9 @@ stars: 13604
 topics: [architecture, clean-architecture, clean-code, cqrs, ddd, ddd-architecture, ddd-cqrs, ddd-example, design-patterns, design-systems, domain-driven-design, dotnet, dotnetcore, entity-framework-core, event-sourcing, modularity, monolith, rest, rest-api, software-architecture]
 starred_at: "2023-02-14T10:38:35Z"
 tags:
-  - coding
   - architecture
-  - practice
-  - csharp
   - dotnet
-  - api
+  - practice
 ---
 
 # kgrzybek/modular-monolith-with-ddd

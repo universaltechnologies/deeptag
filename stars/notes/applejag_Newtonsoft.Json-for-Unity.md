@@ -8,11 +8,10 @@ topics: [hacktoberfest, newtonsoft-json, unity-package-manager, unity3d, unity3d
 starred_at: "2023-11-23T12:37:25Z"
 tags:
   - coding
-  - json
-  - csharp
-  - unity
   - engine
-  - serialization
+  - data
+  - library
+  - csharp
 ---
 
 # applejag/Newtonsoft.Json-for-Unity

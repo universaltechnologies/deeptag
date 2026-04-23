@@ -7,11 +7,9 @@ stars: 14928
 topics: [clash, freefq, freenode, ssr, trojian, v2ray]
 starred_at: "2023-11-05T14:20:41Z"
 tags:
-  - networking
-  - proxy
-  - self-hosted
   - tools
-  - misc
+  - network
+  - proxy
 ---
 
 # free-nodes/clashfree

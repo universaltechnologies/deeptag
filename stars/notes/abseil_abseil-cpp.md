@@ -8,11 +8,8 @@ topics: []
 starred_at: "2025-03-25T08:54:20Z"
 tags:
   - coding
-  - library
   - cpp
-  - algorithm
-  - stl
-  - framework
+  - library
 ---
 
 # abseil/abseil-cpp

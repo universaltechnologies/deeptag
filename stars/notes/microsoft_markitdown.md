@@ -8,10 +8,8 @@ topics: [autogen, autogen-extension, langchain, markdown, microsoft-office, open
 starred_at: "2025-12-21T00:57:47Z"
 tags:
   - coding
-  - python
-  - tools
-  - office
-  - markdown
+  - ai
+  - tool
 ---
 
 # microsoft/markitdown

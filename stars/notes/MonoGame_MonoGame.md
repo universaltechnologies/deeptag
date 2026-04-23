@@ -7,10 +7,10 @@ stars: 13732
 topics: [3d, c-sharp, cross-platform, csharp, dotnet, game-development, game-engine, game-framework, gamedev, graphics, monogame, open-source, xna]
 starred_at: "2017-12-31T07:23:52Z"
 tags:
-  - graphic
-  - rendering
-  - 3d
+  - coding
   - engine
+  - csharp
+  - dotnet
   - cross-platform
   - framework
 ---

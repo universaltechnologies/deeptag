@@ -9,9 +9,9 @@ starred_at: "2023-03-18T09:19:11Z"
 tags:
   - coding
   - ai
-  - rl
-  - physics
-  - optimization
+  - ml
+  - deep-learning
+  - library
 ---
 
 # WassimTenachi/PhySO

@@ -8,11 +8,10 @@ topics: [csharp, ecs, framework, game, game-development, gameframework, hotupdat
 starred_at: "2024-09-24T06:45:50Z"
 tags:
   - coding
-  - framework
+  - engine
   - unity
-  - hotfix
-  - ai
-  - async
+  - framework
+  - gameplay
 ---
 
 # Alex-Rachel/TEngine

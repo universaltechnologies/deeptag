@@ -8,10 +8,9 @@ topics: []
 starred_at: "2024-12-05T04:10:13Z"
 tags:
   - coding
-  - runtime
-  - gc
-  - memory
-  - parser
+  - language
+  - lua
+  - embedded
 ---
 
 # shelllee/mua

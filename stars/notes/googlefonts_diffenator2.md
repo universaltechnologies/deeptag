@@ -8,10 +8,9 @@ topics: []
 starred_at: "2025-10-22T05:29:28Z"
 tags:
   - coding
+  - media
   - font
-  - python
-  - ci
-  - test
+  - tool
 ---
 
 # googlefonts/diffenator2

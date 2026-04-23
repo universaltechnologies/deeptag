@@ -9,8 +9,9 @@ starred_at: "2026-01-18T07:20:44Z"
 tags:
   - coding
   - ai
+  - agent
+  - tool
   - desktop
-  - automation
 ---
 
 # accomplish-ai/accomplish

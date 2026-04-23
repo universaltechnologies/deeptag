@@ -8,6 +8,7 @@ topics: [bert, classification, natural-language-processing, ner, nlp, prompt, py
 starred_at: "2025-09-29T05:39:19Z"
 tags:
   - coding
+  - ai
   - nlp
   - llm
   - tutorial

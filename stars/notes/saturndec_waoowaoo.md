@@ -9,10 +9,9 @@ starred_at: "2026-03-03T13:55:58Z"
 tags:
   - coding
   - ai
-  - agent
-  - automation
+  - media
   - video
-  - docker
+  - tool
 ---
 
 # saturndec/waoowaoo

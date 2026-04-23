@@ -10,7 +10,7 @@ tags:
   - coding
   - ui
   - ios
-  - framework
+  - library
 ---
 
 # exyte/PopupView

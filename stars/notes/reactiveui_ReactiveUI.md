@@ -8,11 +8,11 @@ topics: [android, csharp, dotnet, first-timers, fody, framework, functional-reac
 starred_at: "2021-04-25T09:13:17Z"
 tags:
   - coding
-  - mvvm
-  - framework
   - dotnet
+  - mvvm
+  - gui
   - cross-platform
-  - ui
+  - framework
 ---
 
 # reactiveui/ReactiveUI

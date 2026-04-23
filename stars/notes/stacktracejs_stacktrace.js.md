@@ -10,6 +10,8 @@ tags:
   - coding
   - debug
   - web
+  - library
+  - tool
 ---
 
 # stacktracejs/stacktrace.js

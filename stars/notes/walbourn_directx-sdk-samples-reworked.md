@@ -7,8 +7,9 @@ stars: 1449
 topics: [directx-sdk]
 starred_at: "2016-08-29T11:48:07Z"
 tags:
-  - graphic
   - coding
+  - cpp
+  - graphic
   - directx
   - windows
 ---

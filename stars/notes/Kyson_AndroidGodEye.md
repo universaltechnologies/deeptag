@@ -7,12 +7,12 @@ stars: 2640
 topics: [android-god-eye, android-performance, apm, blockcanary, debugging-tool, godeye, leak-memory, leakcanary, optimization, performance-monitor, performance-monitoring, performance-optimization, performance-visualization, performance-visualization-dashboard, profile, profiler]
 starred_at: "2025-06-03T15:46:36Z"
 tags:
-  - coding
   - android
   - profiler
-  - monitoring
   - performance
+  - tool
   - debug
+  - monitoring
 ---
 
 # Kyson/AndroidGodEye

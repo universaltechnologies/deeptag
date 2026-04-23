@@ -10,8 +10,7 @@ tags:
   - coding
   - web
   - frontend
-  - plugin
-  - visualization
+  - tool
 ---
 
 # mobz/elasticsearch-head

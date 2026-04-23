@@ -8,9 +8,10 @@ topics: [canvas, collaboration, design, diagram, drawing, infinite, multiplayer,
 starred_at: "2023-10-20T15:38:29Z"
 tags:
   - coding
-  - typescript
   - web
+  - ui
   - framework
+  - library
 ---
 
 # tldraw/tldraw

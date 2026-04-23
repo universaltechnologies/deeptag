@@ -9,10 +9,10 @@ starred_at: "2023-03-28T18:09:11Z"
 tags:
   - graphic
   - post-processing
-  - rendering
-  - color
+  - coding
+  - engine
   - unity
-  - bloom
+  - library
 ---
 
 # keijiro/Kino

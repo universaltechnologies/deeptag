@@ -9,10 +9,8 @@ starred_at: "2017-11-10T09:07:00Z"
 tags:
   - coding
   - parser
+  - tool
   - windows
-  - compiler
-  - ci
-  - build
 ---
 
 # lexxmark/winflexbison

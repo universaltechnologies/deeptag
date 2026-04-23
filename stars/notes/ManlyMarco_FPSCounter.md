@@ -8,11 +8,10 @@ topics: [bepinex, fps-counter-plugin, fpscounter, unity3d, unity3d-plugin]
 starred_at: "2024-08-27T03:20:34Z"
 tags:
   - coding
-  - plugin
-  - engine
   - profiler
   - performance
-  - gc
+  - plugin
+  - engine
 ---
 
 # ManlyMarco/FPSCounter

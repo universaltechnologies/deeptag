@@ -10,9 +10,7 @@ tags:
   - tools
   - network
   - protocol
-  - windows
-  - linux
-  - c
+  - tool
 ---
 
 # wireshark/wireshark

@@ -11,6 +11,8 @@ tags:
   - cv
   - webassembly
   - library
+  - web
+  - javascript
 ---
 
 # naptha/tesseract.js

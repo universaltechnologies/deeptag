@@ -8,11 +8,8 @@ topics: [data-analysis, data-science, data-visualization, microsoft-for-beginner
 starred_at: "2026-01-21T15:50:01Z"
 tags:
   - coding
-  - tutorial
   - ai
-  - visualization
-  - sql
-  - python
+  - tutorial
 ---
 
 # microsoft/Data-Science-For-Beginners

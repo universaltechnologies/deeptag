@@ -8,11 +8,10 @@ topics: []
 starred_at: "2019-07-25T02:56:27Z"
 tags:
   - coding
-  - library
-  - cuda
   - robotics
+  - cuda
   - physics
-  - voxel
+  - library
 ---
 
 # fzi-forschungszentrum-informatik/gpu-voxels

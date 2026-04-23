@@ -8,10 +8,10 @@ topics: []
 starred_at: "2022-10-27T13:07:32Z"
 tags:
   - graphic
-  - mesh
-  - shader
+  - rendering
+  - engine
   - unity
-  - csharp
+  - plugin
 ---
 
 # Fewes/VertexColorBaker

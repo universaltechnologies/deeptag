@@ -7,12 +7,11 @@ stars: 1
 topics: []
 starred_at: "2022-12-29T14:21:50Z"
 tags:
-  - graphic
-  - profiler
-  - opengl
+  - coding
+  - engine
   - unity
-  - mobile
-  - android
+  - profiler
+  - plugin
 ---
 
 # tkada/render-timing-for-unity

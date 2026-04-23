@@ -8,10 +8,10 @@ topics: []
 starred_at: "2025-11-13T12:02:07Z"
 tags:
   - coding
+  - media
   - font
-  - cli
+  - tool
   - compiler
-  - python
 ---
 
 # googlefonts/fontmake

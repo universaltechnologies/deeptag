@@ -8,9 +8,9 @@ topics: [arxiv, automation, e-mail, github-action, paper, recommendation, resear
 starred_at: "2025-08-04T06:38:38Z"
 tags:
   - coding
-  - automation
   - ai
-  - workflow
+  - automation
+  - tool
 ---
 
 # TideDra/zotero-arxiv-daily

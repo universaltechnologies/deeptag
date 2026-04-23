@@ -9,11 +9,7 @@ starred_at: "2018-11-27T06:14:02Z"
 tags:
   - coding
   - engine
-  - cpp
-  - cross-platform
-  - framework
-  - gameplay
-  - architecture
+  - game
 ---
 
 # HeliumProject/Engine

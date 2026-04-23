@@ -8,10 +8,11 @@ topics: [agentic-ai, densepose, esp32, firmware, mcu, mincut, monitoring, pose-e
 starred_at: "2026-03-02T17:44:36Z"
 tags:
   - coding
-  - hardware
+  - ai
+  - cv
   - embedded
-  - monitoring
-  - physics
+  - tools
+  - library
 ---
 
 # ruvnet/RuView

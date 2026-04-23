@@ -8,10 +8,9 @@ topics: []
 starred_at: "2015-11-16T13:57:25Z"
 tags:
   - coding
-  - library
   - networking
-  - middleware
-  - cpp
+  - library
+  - c
 ---
 
 # zeromq/zeromq4-x

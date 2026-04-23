@@ -8,10 +8,9 @@ topics: [c, c-plus-plus, directshow, facebook-live, ffmpeg, game-capture, live-s
 starred_at: "2019-12-17T08:47:09Z"
 tags:
   - coding
+  - media
   - video
-  - gui
-  - audio
-  - cross-platform
+  - tool
 ---
 
 # obsproject/obs-studio

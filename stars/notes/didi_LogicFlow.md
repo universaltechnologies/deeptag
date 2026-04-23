@@ -8,11 +8,9 @@ topics: [bpmn, diagram, diagramming, didi, flow, flowchart, graph, javascript, j
 starred_at: "2023-11-10T05:00:26Z"
 tags:
   - coding
-  - typescript
+  - web
+  - framework
   - visualization
-  - svg
-  - mvvm
-  - ui
 ---
 
 # didi/LogicFlow

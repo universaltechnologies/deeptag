@@ -8,11 +8,11 @@ topics: [csharp, game-development, games, graphics, lighting, maps, shadows, uni
 starred_at: "2023-03-28T18:29:39Z"
 tags:
   - graphic
+  - lighting
   - shadow
-  - shadowmap
-  - unity
   - engine
-  - csharp
+  - unity
+  - plugin
 ---
 
 # aivclab/CachedShadowMaps

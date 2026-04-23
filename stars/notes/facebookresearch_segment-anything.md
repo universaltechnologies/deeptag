@@ -8,10 +8,9 @@ topics: []
 starred_at: "2024-08-28T03:33:26Z"
 tags:
   - coding
+  - ai
   - cv
-  - inference
-  - deep-learning
-  - misc
+  - library
 ---
 
 # facebookresearch/segment-anything

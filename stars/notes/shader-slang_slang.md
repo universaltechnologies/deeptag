@@ -12,7 +12,7 @@ tags:
   - hlsl
   - glsl
   - compiler
-  - vulkan
+  - tool
 ---
 
 # shader-slang/slang

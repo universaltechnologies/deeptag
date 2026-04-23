@@ -8,8 +8,7 @@ topics: [convex-optimization, cvxpy, mathematical-optimization, modeling-languag
 starred_at: "2021-07-22T04:15:46Z"
 tags:
   - coding
-  - python
-  - optimization
+  - algorithm
   - math
   - library
 ---

@@ -7,11 +7,9 @@ stars: 11095
 topics: []
 starred_at: "2023-09-19T10:13:21Z"
 tags:
+  - tools
   - coding
   - monitoring
-  - terminal
-  - linux
-  - cli
 ---
 
 # aristocratos/bashtop

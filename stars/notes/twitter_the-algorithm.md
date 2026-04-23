@@ -8,13 +8,9 @@ topics: []
 starred_at: "2026-01-21T13:57:31Z"
 tags:
   - coding
-  - algorithm
+  - ai
   - ml
-  - distributed
-  - graph
-  - database
-  - simd
-  - performance
+  - algorithm
 ---
 
 # twitter/the-algorithm

@@ -8,12 +8,10 @@ topics: [c, coreclr, csharp, dotnet, hacktoberfest, native, netstandard, pinvoke
 starred_at: "2024-09-19T10:01:03Z"
 tags:
   - coding
-  - csharp
-  - ffi
   - dotnet
-  - library
   - performance
-  - misc
+  - library
+  - ffi
 ---
 
 # Nihlus/AdvancedDLSupport

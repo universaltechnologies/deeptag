@@ -8,11 +8,11 @@ topics: [diffusion-models, lipsync, research, video-gen, virtual-avatars]
 starred_at: "2025-06-13T11:41:42Z"
 tags:
   - coding
+  - ai
   - diffusion
-  - inference
-  - video
-  - audio
   - cv
+  - audio
+  - library
 ---
 
 # bytedance/LatentSync

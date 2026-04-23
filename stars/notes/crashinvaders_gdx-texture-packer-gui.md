@@ -7,13 +7,11 @@ stars: 698
 topics: [libgdx, texture-atlas, texture-packing, texturepacker, utility]
 starred_at: "2024-11-05T15:25:03Z"
 tags:
-  - coding
+  - graphic
   - texture
-  - atlas
-  - java
+  - tools
   - gui
-  - cli
-  - automation
+  - tool
 ---
 
 # crashinvaders/gdx-texture-packer-gui

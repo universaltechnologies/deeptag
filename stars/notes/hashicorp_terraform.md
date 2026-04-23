@@ -10,9 +10,9 @@ tags:
   - coding
   - tools
   - cloud
-  - automation
-  - self-hosted
   - graph
+  - tool
+  - automation
 ---
 
 # hashicorp/terraform

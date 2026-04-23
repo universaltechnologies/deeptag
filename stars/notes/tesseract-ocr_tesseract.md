@@ -9,8 +9,8 @@ starred_at: "2022-12-30T11:06:59Z"
 tags:
   - coding
   - cv
+  - cpp
   - library
-  - cli
 ---
 
 # tesseract-ocr/tesseract

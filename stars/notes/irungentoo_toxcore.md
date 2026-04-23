@@ -10,8 +10,8 @@ tags:
   - coding
   - networking
   - p2p
-  - encryption
-  - c
+  - security
+  - library
 ---
 
 # irungentoo/toxcore

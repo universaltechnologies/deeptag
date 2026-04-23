@@ -7,8 +7,9 @@ stars: 457047
 topics: [awesome, awesome-list, lists, resources, unicorns]
 starred_at: "2022-03-09T15:54:04Z"
 tags:
+  - coding
+  - tools
   - awesome
-  - misc
 ---
 
 # sindresorhus/awesome

@@ -8,11 +8,11 @@ topics: [c-plus-plus, directx, game-engine-framework, gamedev, graphics, opengl,
 starred_at: "2022-01-21T09:27:28Z"
 tags:
   - graphic
-  - coding
-  - engine
+  - rendering
   - vulkan
   - directx
   - opengl
+  - library
 ---
 
 # GameFoundry/bsf

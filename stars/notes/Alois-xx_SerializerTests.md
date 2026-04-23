@@ -9,9 +9,9 @@ starred_at: "2022-11-25T12:33:02Z"
 tags:
   - coding
   - dotnet
-  - serialization
+  - csharp
   - benchmark
-  - performance
+  - serialization
 ---
 
 # Alois-xx/SerializerTests

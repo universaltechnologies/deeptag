@@ -7,12 +7,12 @@ stars: 1449
 topics: [3d, android, draco, gltf, graphics, ios, ktx, linux, macos, mesh, unity, unity3d, upm, webgl, windows]
 starred_at: "2022-12-09T14:51:45Z"
 tags:
+  - coding
+  - engine
+  - unity
   - graphic
   - gltf
-  - unity
-  - engine
-  - mesh
-  - pipeline
+  - library
 ---
 
 # atteneder/glTFast

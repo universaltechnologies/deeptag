@@ -8,8 +8,9 @@ topics: [aarch64, avx2, avx512, cuda, elementary-functions, fft, fourier-transfo
 starred_at: "2025-02-12T03:43:58Z"
 tags:
   - coding
-  - simd
   - math
+  - library
+  - simd
 ---
 
 # shibatch/sleef

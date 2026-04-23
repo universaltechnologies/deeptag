@@ -8,11 +8,9 @@ topics: []
 starred_at: "2022-09-06T07:32:19Z"
 tags:
   - graphic
-  - coding
-  - mesh
+  - scene
   - library
-  - gpu
-  - geometry
+  - performance
 ---
 
 # PixarAnimationStudios/OpenSubdiv

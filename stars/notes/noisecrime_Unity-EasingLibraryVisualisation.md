@@ -8,12 +8,9 @@ topics: [easing-equations, graph, graphs, motion, unity, visualisation]
 starred_at: "2020-09-29T10:18:49Z"
 tags:
   - coding
-  - graph
-  - csharp
-  - visualization
+  - engine
   - unity
-  - ui
-  - misc
+  - tool
 ---
 
 # noisecrime/Unity-EasingLibraryVisualisation

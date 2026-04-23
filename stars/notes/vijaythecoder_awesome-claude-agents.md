@@ -9,10 +9,10 @@ starred_at: "2025-07-29T07:17:26Z"
 tags:
   - coding
   - ai
+  - mcp
   - agent
   - awesome
-  - automation
-  - workflow
+  - tool
 ---
 
 # vijaythecoder/awesome-claude-agents

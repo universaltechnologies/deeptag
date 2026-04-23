@@ -8,9 +8,11 @@ topics: [arabic, bidirectional, canvas, gamedev, rtl, text, textmesh, textmeshpr
 starred_at: "2026-04-15T05:36:06Z"
 tags:
   - coding
+  - engine
   - unity
-  - ui
   - font
+  - csharp
+  - library
 ---
 
 # LightSideKittens/UniText

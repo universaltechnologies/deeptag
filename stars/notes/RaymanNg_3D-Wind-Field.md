@@ -8,10 +8,9 @@ topics: [cesium, visualization]
 starred_at: "2022-09-20T08:47:01Z"
 tags:
   - graphic
-  - visualization
-  - webgl
+  - vfx
   - web
-  - json
+  - visualization
 ---
 
 # RaymanNg/3D-Wind-Field

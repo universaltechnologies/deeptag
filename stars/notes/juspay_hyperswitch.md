@@ -8,9 +8,10 @@ topics: [beginner-friendly, featured, finance, hacktoberfest, high-performance, 
 starred_at: "2025-07-24T11:06:02Z"
 tags:
   - coding
-  - rust
+  - networking
   - api
-  - performance
+  - rust
+  - framework
 ---
 
 # juspay/hyperswitch

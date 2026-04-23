@@ -7,12 +7,8 @@ stars: 732
 topics: [khronosgroup, standards]
 starred_at: "2017-05-19T02:02:02Z"
 tags:
-  - coding
+  - tools
   - web
-  - tutorial
-  - opengl
-  - vulkan
-  - webgl
 ---
 
 # KhronosGroup/Khronosdotorg

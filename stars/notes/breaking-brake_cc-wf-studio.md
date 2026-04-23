@@ -8,11 +8,10 @@ topics: [agent-skills, claude-code, mcp-tools, slash-commands, sub-agents, vscod
 starred_at: "2026-01-10T09:39:28Z"
 tags:
   - coding
-  - automation
-  - workflow
-  - editor
-  - markdown
   - ai
+  - agent
+  - mcp
+  - tool
 ---
 
 # breaking-brake/cc-wf-studio

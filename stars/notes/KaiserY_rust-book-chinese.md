@@ -10,7 +10,6 @@ tags:
   - coding
   - book
   - rust
-  - tutorial
 ---
 
 # KaiserY/rust-book-chinese

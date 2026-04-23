@@ -8,9 +8,9 @@ topics: [docker, docker-gen, nginx, reverse-proxy]
 starred_at: "2023-05-31T15:36:58Z"
 tags:
   - coding
-  - docker
-  - proxy
-  - networking
+  - systems
+  - server
+  - tool
 ---
 
 # nginx-proxy/nginx-proxy

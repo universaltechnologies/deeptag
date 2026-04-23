@@ -8,10 +8,8 @@ topics: [build-your-own-x, lua, rust, script-interpreter, tutorial]
 starred_at: "2023-09-27T03:52:07Z"
 tags:
   - coding
+  - language
   - rust
-  - parser
-  - runtime
-  - tutorial
   - book
 ---
 

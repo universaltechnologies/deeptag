@@ -8,10 +8,9 @@ topics: [jpeg-encoder]
 starred_at: "2017-03-22T05:57:08Z"
 tags:
   - coding
+  - media
   - image
-  - compression
-  - algorithm
-  - cpp
+  - library
 ---
 
 # google/guetzli

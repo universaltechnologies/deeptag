@@ -10,8 +10,8 @@ tags:
   - coding
   - ai
   - agent
-  - automation
-  - workflow
+  - awesome
+  - tool
 ---
 
 # openai/skills

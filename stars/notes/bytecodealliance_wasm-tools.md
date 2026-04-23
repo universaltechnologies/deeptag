@@ -8,9 +8,11 @@ topics: [wasm, webassembly]
 starred_at: "2024-10-25T03:26:03Z"
 tags:
   - coding
-  - webassembly
-  - cli
-  - parser
+  - language
+  - rust
+  - web
+  - tool
+  - library
 ---
 
 # bytecodealliance/wasm-tools

@@ -9,8 +9,8 @@ starred_at: "2016-03-20T03:07:01Z"
 tags:
   - coding
   - cpp
-  - ui
-  - framework
+  - gui
+  - component
 ---
 
 # abhijitkundu/QtPropertyBrowser

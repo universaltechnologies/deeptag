@@ -8,11 +8,10 @@ topics: [appserver, database, disk, in-memory, lua, msgpack, tarantool, transact
 starred_at: "2018-11-13T06:30:51Z"
 tags:
   - coding
+  - data
   - database
-  - storage
-  - concurrency
+  - systems
   - server
-  - docker
 ---
 
 # tarantool/tarantool

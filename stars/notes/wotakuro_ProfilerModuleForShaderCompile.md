@@ -8,10 +8,11 @@ topics: [unity, unity-profiler, unity3d]
 starred_at: "2024-05-16T06:24:20Z"
 tags:
   - coding
-  - profiler
-  - shader
   - engine
   - unity
+  - debug
+  - shader
+  - tool
 ---
 
 # wotakuro/ProfilerModuleForShaderCompile

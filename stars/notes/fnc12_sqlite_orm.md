@@ -8,11 +8,12 @@ topics: [cplusplus, cplusplus-14, cpp, crud, modern-cpp, orm, sql, sqlite, sqlit
 starred_at: "2019-12-04T14:43:51Z"
 tags:
   - coding
-  - header-only
-  - database
+  - language
+  - cpp
+  - data
   - sql
   - library
-  - cpp
+  - header-only
 ---
 
 # fnc12/sqlite_orm

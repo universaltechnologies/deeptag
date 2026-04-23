@@ -8,10 +8,10 @@ topics: [gamedev, importer, texture, texture2darray, texturearray, unity-editor,
 starred_at: "2024-04-18T03:39:01Z"
 tags:
   - coding
-  - texture
   - engine
   - unity
-  - editor
+  - graphic
+  - texture
   - plugin
 ---
 

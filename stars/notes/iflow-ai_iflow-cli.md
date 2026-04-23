@@ -8,12 +8,10 @@ topics: []
 starred_at: "2025-12-04T09:15:55Z"
 tags:
   - coding
-  - cli
   - ai
+  - cli
+  - tool
   - automation
-  - terminal
-  - workflow
-  - awesome
 ---
 
 # iflow-ai/iflow-cli

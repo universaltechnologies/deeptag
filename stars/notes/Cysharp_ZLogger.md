@@ -7,11 +7,10 @@ stars: 1693
 topics: []
 starred_at: "2023-11-28T14:04:19Z"
 tags:
-  - coding
   - dotnet
-  - logging
   - performance
-  - csharp
+  - library
+  - logging
 ---
 
 # Cysharp/ZLogger

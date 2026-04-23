@@ -7,11 +7,12 @@ stars: 51454
 topics: [aria2, bittorrent, bt, download, download-manager, electron, linux, mac, macos, magnet, motrix, torrent, windows]
 starred_at: "2020-03-01T09:19:41Z"
 tags:
+  - coding
+  - networking
+  - protocol
   - tools
   - electron
   - cross-platform
-  - ui
-  - networking
 ---
 
 # agalwood/Motrix

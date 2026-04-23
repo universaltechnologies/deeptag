@@ -8,11 +8,9 @@ topics: [flexbox, gui, imgui, single-file, ui]
 starred_at: "2023-02-23T17:20:24Z"
 tags:
   - coding
-  - ui
-  - algorithm
+  - gui
+  - library
   - header-only
-  - c
-  - misc
 ---
 
 # randrew/layout

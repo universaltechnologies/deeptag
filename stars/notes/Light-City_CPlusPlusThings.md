@@ -8,11 +8,9 @@ topics: [cplusplus, cpp, cpp11, cpp14]
 starred_at: "2023-06-05T16:34:14Z"
 tags:
   - coding
+  - language
   - cpp
   - tutorial
-  - concurrency
-  - stl
-  - practice
 ---
 
 # Light-City/CPlusPlusThings

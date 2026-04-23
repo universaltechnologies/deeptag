@@ -8,10 +8,9 @@ topics: []
 starred_at: "2017-03-27T14:23:01Z"
 tags:
   - coding
-  - architecture
-  - cpp
+  - game
+  - ecs
   - tutorial
-  - engine
 ---
 
 # sosolimited/Entity-Component-Samples

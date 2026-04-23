@@ -8,11 +8,11 @@ topics: [agents, graph, llms, rag]
 starred_at: "2025-05-12T05:08:18Z"
 tags:
   - coding
+  - ai
+  - llm
   - graph
   - rag
-  - llm
-  - agent
-  - database
+  - library
 ---
 
 # getzep/graphiti

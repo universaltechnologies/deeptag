@@ -9,10 +9,8 @@ starred_at: "2026-03-18T07:43:45Z"
 tags:
   - coding
   - ai
-  - llm
   - agent
-  - automation
-  - cli
+  - tool
 ---
 
 # gsd-build/gsd-2

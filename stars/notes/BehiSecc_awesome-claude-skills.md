@@ -7,9 +7,10 @@ stars: 8617
 topics: []
 starred_at: "2026-01-14T02:05:05Z"
 tags:
-  - awesome
-  - ai
   - coding
+  - ai
+  - mcp
+  - awesome
 ---
 
 # BehiSecc/awesome-claude-skills

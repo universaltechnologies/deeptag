@@ -9,10 +9,9 @@ starred_at: "2024-06-13T12:27:42Z"
 tags:
   - coding
   - networking
+  - protocol
   - unity
-  - webgl
-  - library
-  - async
+  - plugin
 ---
 
 # psygames/UnityWebSocket

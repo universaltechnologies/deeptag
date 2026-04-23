@@ -9,7 +9,8 @@ starred_at: "2024-03-27T12:04:44Z"
 tags:
   - coding
   - performance
-  - csharp
+  - library
+  - dotnet
 ---
 
 # Cysharp/Utf8StreamReader

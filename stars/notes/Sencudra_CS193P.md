@@ -8,9 +8,8 @@ topics: [cs193p, ios, learning-by-doing, swift]
 starred_at: "2025-07-29T08:27:39Z"
 tags:
   - coding
-  - tutorial
   - ios
-  - ui
+  - tutorial
 ---
 
 # Sencudra/CS193P

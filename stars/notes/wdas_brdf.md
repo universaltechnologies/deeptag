@@ -8,10 +8,9 @@ topics: []
 starred_at: "2016-06-26T03:32:54Z"
 tags:
   - graphic
-  - shader
+  - material
+  - tool
   - glsl
-  - math
-  - pbr
 ---
 
 # wdas/brdf

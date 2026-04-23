@@ -9,10 +9,10 @@ starred_at: "2025-11-09T09:31:55Z"
 tags:
   - coding
   - ai
-  - llm
   - agent
+  - llm
   - security
-  - automation
+  - tool
 ---
 
 # usestrix/strix

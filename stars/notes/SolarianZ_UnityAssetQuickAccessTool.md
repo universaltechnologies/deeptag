@@ -8,10 +8,9 @@ topics: [access, asset, editor, enhancement, extension, menuitem, quick, unity]
 starred_at: "2026-03-15T12:29:35Z"
 tags:
   - coding
+  - engine
   - unity
   - editor
-  - csharp
-  - ui
   - plugin
 ---
 

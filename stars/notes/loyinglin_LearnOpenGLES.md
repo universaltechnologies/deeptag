@@ -8,8 +8,9 @@ topics: []
 starred_at: "2023-05-20T09:51:48Z"
 tags:
   - graphic
-  - opengl
+  - rendering
   - tutorial
+  - opengl
 ---
 
 # loyinglin/LearnOpenGLES

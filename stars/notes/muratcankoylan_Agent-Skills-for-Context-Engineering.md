@@ -10,8 +10,9 @@ tags:
   - coding
   - ai
   - agent
-  - llm
-  - rag
+  - mcp
+  - skills
+  - awesome
 ---
 
 # muratcankoylan/Agent-Skills-for-Context-Engineering

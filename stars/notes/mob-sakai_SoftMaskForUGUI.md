@@ -8,10 +8,10 @@ topics: [components, mask, smoothing, ugui, uguicomponent, ui, unity, unity-plug
 starred_at: "2022-09-19T09:34:23Z"
 tags:
   - coding
-  - ui
+  - engine
   - unity
   - plugin
-  - component
+  - ui
 ---
 
 # mob-sakai/SoftMaskForUGUI

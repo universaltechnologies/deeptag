@@ -8,9 +8,9 @@ topics: []
 starred_at: "2025-12-29T09:54:48Z"
 tags:
   - coding
-  - cpp
+  - algorithm
   - header-only
-  - template
+  - library
 ---
 
 # imneme/pcg-cpp

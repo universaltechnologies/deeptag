@@ -7,11 +7,12 @@ stars: 10890
 topics: [cpp, cpp-library, glm, header-only, mathematics, matrix, opengl, quaternion, simd, sycl, vector, vulkan]
 starred_at: "2017-06-22T13:30:42Z"
 tags:
-  - coding
-  - math
-  - header-only
   - graphic
-  - opengl
+  - math
+  - library
+  - header-only
+  - simd
+  - cpp
 ---
 
 # g-truc/glm

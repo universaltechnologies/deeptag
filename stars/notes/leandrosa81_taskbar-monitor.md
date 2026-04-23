@@ -7,12 +7,11 @@ stars: 516
 topics: [cpu, disk-usage, memory-management, network-visualization, taskbar, taskbar-monitor, windows, windows-taskbar]
 starred_at: "2024-11-14T05:32:45Z"
 tags:
-  - tools
+  - coding
   - monitoring
   - windows
-  - csharp
+  - tool
   - dotnet
-  - visualization
 ---
 
 # leandrosa81/taskbar-monitor

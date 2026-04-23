@@ -9,10 +9,9 @@ starred_at: "2026-01-02T12:28:40Z"
 tags:
   - coding
   - ai
-  - llm
   - agent
-  - cli
-  - automation
+  - llm
+  - tool
 ---
 
 # bytedance/trae-agent

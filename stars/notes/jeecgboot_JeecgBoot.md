@@ -10,10 +10,12 @@ tags:
   - coding
   - ai
   - llm
+  - agent
+  - mcp
+  - rag
+  - workflow
   - java
-  - sql
   - framework
-  - backend
 ---
 
 # jeecgboot/JeecgBoot

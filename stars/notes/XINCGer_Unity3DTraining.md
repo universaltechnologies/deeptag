@@ -8,10 +8,11 @@ topics: [unity3d]
 starred_at: "2022-12-30T02:21:56Z"
 tags:
   - coding
+  - engine
   - unity
-  - gameplay
-  - plugin
-  - editor
+  - csharp
+  - game
+  - tutorial
 ---
 
 # XINCGer/Unity3DTraining

@@ -8,10 +8,10 @@ topics: []
 starred_at: "2018-07-26T01:46:39Z"
 tags:
   - coding
-  - editor
-  - reverse
   - dotnet
-  - csharp
+  - debug
+  - reverse
+  - tool
 ---
 
 # dnSpy/dnSpy

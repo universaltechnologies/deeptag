@@ -7,9 +7,11 @@ stars: 1123
 topics: []
 starred_at: "2023-01-03T17:56:33Z"
 tags:
-  - tools
+  - coding
+  - language
   - nodejs
-  - editor
+  - plugin
+  - tools
 ---
 
 # tanepiper/SublimeText-Nodejs

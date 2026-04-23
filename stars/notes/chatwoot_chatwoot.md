@@ -9,9 +9,9 @@ starred_at: "2025-06-21T04:38:49Z"
 tags:
   - coding
   - web
-  - self-hosted
-  - docker
   - frontend
+  - backend
+  - framework
 ---
 
 # chatwoot/chatwoot

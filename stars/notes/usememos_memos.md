@@ -8,10 +8,11 @@ topics: [docker, foss, go, markdown, memo, microblog, note-taking, notecard, own
 starred_at: "2026-03-10T16:01:06Z"
 tags:
   - coding
-  - self-hosted
-  - markdown
   - web
-  - backend
+  - markdown
+  - database
+  - self-hosted
+  - tool
 ---
 
 # usememos/memos

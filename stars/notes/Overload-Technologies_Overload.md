@@ -7,12 +7,13 @@ stars: 2420
 topics: [3d-engine, 3d-graphics, c-plus-plus, cpp, game-editor, game-engine, gamedev, graphics, graphics-engine, imgui, linux, lua, opengl, physically-based-rendering, rendering-engine, windows]
 starred_at: "2023-02-23T17:17:06Z"
 tags:
-  - graphic
   - coding
   - engine
-  - opengl
+  - graphic
+  - rendering
   - pbr
-  - windows
+  - opengl
+  - framework
 ---
 
 # Overload-Technologies/Overload

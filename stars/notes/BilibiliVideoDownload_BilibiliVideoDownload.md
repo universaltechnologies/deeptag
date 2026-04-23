@@ -8,10 +8,10 @@ topics: [ant-design-vue, bilibili-download, electron, electron-builder, ffmpeg-i
 starred_at: "2022-12-06T06:48:55Z"
 tags:
   - coding
-  - electron
+  - web
+  - desktop
+  - tool
   - cross-platform
-  - video
-  - typescript
 ---
 
 # BilibiliVideoDownload/BilibiliVideoDownload

@@ -7,9 +7,10 @@ stars: 3971
 topics: [android, android-app-bundle, android-development, android-testing]
 starred_at: "2021-09-22T07:47:17Z"
 tags:
-  - tools
+  - coding
   - android
-  - build
+  - tool
+  - java
 ---
 
 # google/bundletool

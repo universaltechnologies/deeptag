@@ -10,8 +10,8 @@ tags:
   - coding
   - image
   - image-processing
-  - algorithm
-  - performance
+  - library
+  - javascript
 ---
 
 # mapbox/pixelmatch

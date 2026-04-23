@@ -8,11 +8,11 @@ topics: [3d, 3d-graphics, cpp, direct3d, engine, graphics, image, learning, lear
 starred_at: "2023-02-14T18:00:27Z"
 tags:
   - graphic
-  - cpp
+  - rendering
   - rasterization
   - shader
-  - rendering
-  - math
+  - library
+  - tutorial
 ---
 
 # skywind3000/RenderHelp

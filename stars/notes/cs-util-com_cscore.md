@@ -8,11 +8,11 @@ topics: [csharp, eventbus, eventbus-library, injection, injection-framework, log
 starred_at: "2024-09-10T07:21:04Z"
 tags:
   - coding
-  - csharp
-  - library
-  - framework
+  - engine
   - unity
-  - logging
+  - dotnet
+  - library
+  - tool
 ---
 
 # cs-util-com/cscore

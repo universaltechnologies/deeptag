@@ -7,11 +7,14 @@ stars: 4086
 topics: []
 starred_at: "2023-05-31T08:32:02Z"
 tags:
-  - graphic
-  - toon
-  - shader
+  - coding
+  - engine
   - unity
-  - rendering
+  - graphic
+  - shader
+  - material
+  - toon
+  - library
 ---
 
 # unity3d-jp/UnityChanToonShaderVer2_Project

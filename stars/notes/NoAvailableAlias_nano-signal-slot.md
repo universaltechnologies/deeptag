@@ -8,8 +8,9 @@ topics: []
 starred_at: "2016-12-20T09:55:55Z"
 tags:
   - coding
+  - cpp
+  - library
   - header-only
-  - template
 ---
 
 # NoAvailableAlias/nano-signal-slot

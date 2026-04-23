@@ -11,8 +11,6 @@ tags:
   - ai
   - deep-learning
   - cv
-  - ml
-  - math
   - book
 ---
 

@@ -8,9 +8,9 @@ topics: []
 starred_at: "2017-02-08T01:57:30Z"
 tags:
   - graphic
-  - rendering
-  - 3d
+  - scene
   - cpp
+  - library
 ---
 
 # cgcostume/osghimmel

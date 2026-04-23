@@ -8,9 +8,11 @@ topics: []
 starred_at: "2022-10-10T05:16:15Z"
 tags:
   - coding
+  - systems
   - hardware
+  - book
   - performance
-  - tutorial
+  - practice
 ---
 
 # jason2506/cpumemory.zh-tw

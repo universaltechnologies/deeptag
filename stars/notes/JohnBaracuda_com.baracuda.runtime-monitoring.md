@@ -10,10 +10,8 @@ tags:
   - coding
   - debug
   - csharp
-  - ui
-  - monitoring
-  - runtime
-  - engine
+  - tool
+  - library
 ---
 
 # JohnBaracuda/com.baracuda.runtime-monitoring

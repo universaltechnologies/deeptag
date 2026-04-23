@@ -8,9 +8,9 @@ topics: []
 starred_at: "2022-12-01T02:30:26Z"
 tags:
   - graphic
-  - glsl
   - shader
-  - color
+  - glsl
+  - library
 ---
 
 # jamieowen/glsl-blend

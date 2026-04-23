@@ -10,8 +10,8 @@ tags:
   - coding
   - ai
   - llm
-  - inference
-  - self-hosted
+  - distributed
+  - tool
   - api
 ---
 

@@ -7,10 +7,8 @@ stars: 1239
 topics: [dear-imgui, game-development, game-ui, imgui, immediate-gui, immediate-mode, ui]
 starred_at: "2023-02-23T17:23:33Z"
 tags:
-  - graphic
+  - coding
   - gui
-  - ui
-  - rendering
   - awesome
 ---
 

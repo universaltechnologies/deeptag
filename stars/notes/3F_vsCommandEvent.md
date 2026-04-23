@@ -7,11 +7,10 @@ stars: 19
 topics: [automation, commands, compiler, e-msbuild, envdte, events, getnutool, sbe-scripts, scripts, sobascript, tools, varhead, visual-studio, visualstudio, vs2019, vs2022, vscommandevent, vsix, vssbe, vssolutionbuildevent]
 starred_at: "2021-06-01T07:37:03Z"
 tags:
-  - automation
   - tools
-  - compiler
-  - editor
-  - csharp
+  - automation
+  - plugin
+  - dotnet
 ---
 
 # 3F/vsCommandEvent

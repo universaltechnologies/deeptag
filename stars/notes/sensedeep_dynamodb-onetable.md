@@ -8,9 +8,10 @@ topics: [aws, dynamodb, nosql, orm, serverless, typescript]
 starred_at: "2023-11-17T05:08:30Z"
 tags:
   - coding
+  - data
   - database
+  - library
   - typescript
-  - nodejs
 ---
 
 # sensedeep/dynamodb-onetable

@@ -11,6 +11,7 @@ tags:
   - ai
   - agent
   - python
+  - tool
 ---
 
 # huggingface/skills

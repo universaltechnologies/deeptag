@@ -8,10 +8,9 @@ topics: [devices, events, gamepad, input, keyboard, mouse, touch, unity, vr, xr]
 starred_at: "2019-09-06T06:07:29Z"
 tags:
   - coding
-  - unity
   - engine
-  - input
-  - csharp
+  - unity
+  - tool
 ---
 
 # Unity-Technologies/InputSystem

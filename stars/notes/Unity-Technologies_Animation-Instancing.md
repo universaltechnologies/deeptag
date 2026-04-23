@@ -7,12 +7,12 @@ stars: 1774
 topics: []
 starred_at: "2022-06-24T11:27:25Z"
 tags:
-  - graphic
-  - animation
+  - coding
   - engine
   - unity
+  - animation
+  - mesh
   - performance
-  - gpu
 ---
 
 # Unity-Technologies/Animation-Instancing

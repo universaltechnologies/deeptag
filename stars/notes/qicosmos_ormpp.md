@@ -8,11 +8,9 @@ topics: []
 starred_at: "2019-12-04T14:43:56Z"
 tags:
   - coding
-  - cpp
   - database
-  - header-only
-  - reflection
   - library
+  - header-only
   - cross-platform
 ---
 

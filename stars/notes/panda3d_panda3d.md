@@ -9,10 +9,10 @@ starred_at: "2017-02-07T13:19:55Z"
 tags:
   - coding
   - engine
-  - rendering
-  - binding
-  - cross-platform
   - python
+  - cpp
+  - cross-platform
+  - framework
 ---
 
 # panda3d/panda3d

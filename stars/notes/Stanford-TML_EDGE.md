@@ -11,8 +11,6 @@ tags:
   - ai
   - diffusion
   - animation
-  - cv
-  - gpu
 ---
 
 # Stanford-TML/EDGE

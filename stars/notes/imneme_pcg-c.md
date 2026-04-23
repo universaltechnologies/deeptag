@@ -9,9 +9,9 @@ starred_at: "2025-12-29T09:54:46Z"
 tags:
   - coding
   - algorithm
-  - header-only
+  - library
   - c
-  - math
+  - header-only
 ---
 
 # imneme/pcg-c

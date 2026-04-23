@@ -8,12 +8,11 @@ topics: [administration, anydesk, c-sharp, chat, control, dotnet, helpdesk, net,
 starred_at: "2025-05-28T17:48:34Z"
 tags:
   - coding
-  - csharp
   - networking
-  - p2p
   - protocol
-  - windows
-  - desktop
+  - p2p
+  - dotnet
+  - tool
 ---
 
 # miroslavpejic85/p2p

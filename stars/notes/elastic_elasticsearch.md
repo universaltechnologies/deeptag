@@ -11,6 +11,8 @@ tags:
   - search
   - database
   - distributed
+  - java
+  - tool
 ---
 
 # elastic/elasticsearch

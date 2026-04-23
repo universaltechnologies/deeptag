@@ -10,8 +10,8 @@ tags:
   - coding
   - ai
   - agent
-  - cli
-  - rust
+  - library
+  - tool
 ---
 
 # ultraworkers/claw-code

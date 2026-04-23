@@ -10,8 +10,8 @@ tags:
   - coding
   - ci
   - docker
-  - workflow
-  - automation
+  - library
+  - framework
 ---
 
 # DreamPWJ/jenkins-shared-library

@@ -9,7 +9,8 @@ starred_at: "2021-11-04T10:58:42Z"
 tags:
   - coding
   - algorithm
-  - tutorial
+  - practice
+  - awesome
 ---
 
 # TheAlgorithms/Python

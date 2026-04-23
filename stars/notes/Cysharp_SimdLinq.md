@@ -8,10 +8,9 @@ topics: []
 starred_at: "2023-12-11T02:12:13Z"
 tags:
   - coding
-  - simd
   - dotnet
+  - simd
   - performance
-  - optimization
   - library
 ---
 

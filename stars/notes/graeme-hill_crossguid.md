@@ -11,8 +11,7 @@ tags:
   - library
   - cross-platform
   - cpp
-  - android
-  - windows
+  - header-only
 ---
 
 # graeme-hill/crossguid

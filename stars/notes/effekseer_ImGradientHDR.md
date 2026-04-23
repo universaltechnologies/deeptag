@@ -7,9 +7,13 @@ stars: 58
 topics: []
 starred_at: "2023-02-23T17:30:20Z"
 tags:
+  - coding
+  - language
+  - cpp
   - graphic
-  - color
   - ui
+  - tool
+  - library
 ---
 
 # effekseer/ImGradientHDR

@@ -8,10 +8,10 @@ topics: [c, c-plus-plus, cplusplus, cpp, cross-platform, garbage-collection, gar
 starred_at: "2025-05-15T09:17:04Z"
 tags:
   - coding
+  - language
   - gc
   - library
-  - c
-  - cpp
+  - cross-platform
 ---
 
 # bdwgc/bdwgc

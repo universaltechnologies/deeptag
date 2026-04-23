@@ -8,12 +8,11 @@ topics: [ci, ci-cd, cicd, evaluation, evaluation-framework, llm, llm-eval, llm-e
 starred_at: "2026-03-10T12:37:44Z"
 tags:
   - coding
-  - test
-  - cli
-  - ci
+  - ai
   - llm
   - rag
-  - security
+  - tool
+  - cli
 ---
 
 # promptfoo/promptfoo

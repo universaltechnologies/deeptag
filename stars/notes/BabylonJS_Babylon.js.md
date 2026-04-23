@@ -9,12 +9,9 @@ starred_at: "2017-08-30T12:07:13Z"
 tags:
   - graphic
   - rendering
-  - webgpu
   - webgl
-  - pbr
+  - webgpu
   - coding
-  - engine
-  - web
   - framework
 ---
 

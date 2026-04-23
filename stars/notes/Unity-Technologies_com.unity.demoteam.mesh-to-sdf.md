@@ -7,11 +7,11 @@ stars: 701
 topics: [billing-3020, owner-unity-demo-team]
 starred_at: "2023-03-07T17:41:07Z"
 tags:
+  - coding
+  - engine
   - graphic
-  - voxel
-  - compute-shader
   - vfx
-  - unity
+  - plugin
 ---
 
 # Unity-Technologies/com.unity.demoteam.mesh-to-sdf

@@ -11,7 +11,8 @@ tags:
   - engine
   - unity
   - ai
-  - editor
+  - library
+  - tool
 ---
 
 # acdamiani/schema

@@ -7,12 +7,10 @@ stars: 540
 topics: []
 starred_at: "2023-05-25T05:47:01Z"
 tags:
-  - graphic
+  - coding
   - algorithm
-  - optimization
-  - simd
-  - cpp
-  - rendering
+  - library
+  - performance
 ---
 
 # brandonpelfrey/Fast-BVH

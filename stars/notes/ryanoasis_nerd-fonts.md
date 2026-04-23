@@ -7,9 +7,11 @@ stars: 62626
 topics: [font, font-awesome, fonts, hacktoberfest, icon-font, iconic-fonts, octicons, patched-fonts, patcher, powerline, python, shell, statusline]
 starred_at: "2025-11-14T03:53:42Z"
 tags:
+  - coding
+  - media
   - font
-  - shell
-  - tools
+  - tool
+  - awesome
 ---
 
 # ryanoasis/nerd-fonts

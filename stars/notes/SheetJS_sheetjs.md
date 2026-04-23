@@ -8,10 +8,9 @@ topics: [angular, bun, csv, data, database, deno, excel, grid, html, html5, ios,
 starred_at: "2022-08-30T09:28:31Z"
 tags:
   - coding
-  - library
-  - json
-  - xml
+  - data
   - serialization
+  - library
 ---
 
 # SheetJS/sheetjs

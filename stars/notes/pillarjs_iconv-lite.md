@@ -8,9 +8,9 @@ topics: [encoding, encoding-convertors, iconv, javascript]
 starred_at: "2024-01-29T09:20:42Z"
 tags:
   - coding
-  - library
+  - language
   - javascript
-  - performance
+  - library
 ---
 
 # pillarjs/iconv-lite

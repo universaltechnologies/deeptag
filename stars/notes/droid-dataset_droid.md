@@ -9,8 +9,8 @@ starred_at: "2025-12-01T07:07:14Z"
 tags:
   - coding
   - robotics
-  - automation
-  - hardware
+  - library
+  - practice
 ---
 
 # droid-dataset/droid

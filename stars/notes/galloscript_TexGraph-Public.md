@@ -7,11 +7,9 @@ stars: 155
 topics: []
 starred_at: "2023-10-07T04:56:00Z"
 tags:
-  - coding
+  - graphic
   - shader
   - glsl
-  - texture
-  - plugin
 ---
 
 # galloscript/TexGraph-Public

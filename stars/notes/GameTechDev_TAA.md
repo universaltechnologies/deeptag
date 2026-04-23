@@ -8,11 +8,10 @@ topics: [antialiasing, directx12, graphics, sample]
 starred_at: "2023-02-14T17:56:35Z"
 tags:
   - graphic
-  - taa
   - post-processing
+  - taa
+  - platform
   - directx
-  - compute-shader
-  - optimization
 ---
 
 # GameTechDev/TAA

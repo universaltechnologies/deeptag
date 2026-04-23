@@ -8,13 +8,10 @@ topics: [voxel-editors, voxels]
 starred_at: "2017-02-07T05:50:15Z"
 tags:
   - graphic
+  - scene
   - voxel
-  - rendering
-  - ray-tracing
-  - windows
-  - linux
-  - ios
-  - android
+  - tool
+  - cross-platform
 ---
 
 # guillaumechereau/goxel

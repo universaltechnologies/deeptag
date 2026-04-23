@@ -9,8 +9,8 @@ starred_at: "2025-05-19T07:07:15Z"
 tags:
   - coding
   - monitoring
-  - distributed
   - dotnet
+  - library
 ---
 
 # open-telemetry/opentelemetry-dotnet

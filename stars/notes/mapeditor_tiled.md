@@ -8,8 +8,9 @@ topics: [c-plus-plus, editor, game, game-development, hacktoberfest, java, level
 starred_at: "2023-02-09T13:55:59Z"
 tags:
   - coding
-  - editor
   - game
+  - tools
+  - tool
 ---
 
 # mapeditor/tiled

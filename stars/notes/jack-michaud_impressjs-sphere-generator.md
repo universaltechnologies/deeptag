@@ -8,8 +8,9 @@ topics: []
 starred_at: "2016-06-02T15:10:09Z"
 tags:
   - coding
-  - 3d
-  - tools
+  - web
+  - frontend
+  - tool
 ---
 
 # jack-michaud/impressjs-sphere-generator

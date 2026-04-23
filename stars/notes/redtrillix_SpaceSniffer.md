@@ -10,7 +10,7 @@ tags:
   - tools
   - windows
   - filesystem
-  - visualization
+  - tool
 ---
 
 # redtrillix/SpaceSniffer

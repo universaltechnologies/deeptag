@@ -7,11 +7,11 @@ stars: 611
 topics: [3d, computational-geometry, cpp, heightmap, mesh]
 starred_at: "2023-01-11T13:45:44Z"
 tags:
-  - graphic
-  - mesh
-  - cli
+  - coding
   - algorithm
-  - math
+  - graphic
+  - geometry
+  - tool
 ---
 
 # fogleman/hmm

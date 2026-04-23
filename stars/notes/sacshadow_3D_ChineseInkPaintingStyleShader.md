@@ -9,9 +9,10 @@ starred_at: "2023-02-03T02:29:52Z"
 tags:
   - graphic
   - shader
-  - toon
+  - material
+  - coding
+  - engine
   - unity
-  - rendering
 ---
 
 # sacshadow/3D_ChineseInkPaintingStyleShader

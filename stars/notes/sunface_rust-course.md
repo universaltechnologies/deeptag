@@ -8,11 +8,9 @@ topics: [book, chinese, course, deno, javascript, learn, learning, programming-c
 starred_at: "2023-08-30T12:57:08Z"
 tags:
   - coding
+  - language
   - rust
-  - tutorial
   - book
-  - async
-  - performance
 ---
 
 # sunface/rust-course

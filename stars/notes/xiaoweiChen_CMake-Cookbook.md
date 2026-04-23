@@ -8,8 +8,9 @@ topics: []
 starred_at: "2022-05-12T19:12:38Z"
 tags:
   - coding
-  - book
   - build
+  - tool
+  - book
 ---
 
 # xiaoweiChen/CMake-Cookbook

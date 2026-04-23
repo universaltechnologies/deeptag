@@ -8,8 +8,8 @@ topics: []
 starred_at: "2019-09-18T08:51:23Z"
 tags:
   - coding
+  - library
   - windows
-  - input
 ---
 
 # EasyIME/libIME

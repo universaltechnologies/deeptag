@@ -7,10 +7,12 @@ stars: 28
 topics: [2d, effects, multi-camera, unity]
 starred_at: "2024-01-30T03:51:16Z"
 tags:
+  - coding
+  - engine
+  - unity
   - graphic
   - post-processing
-  - 2d
-  - unity
+  - plugin
 ---
 
 # aflesher/EntityPostProcessor2D

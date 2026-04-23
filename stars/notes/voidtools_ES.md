@@ -7,11 +7,10 @@ stars: 181
 topics: []
 starred_at: "2025-07-18T15:44:38Z"
 tags:
-  - cli
-  - windows
-  - search
   - tools
-  - c
+  - cli
+  - search
+  - windows
 ---
 
 # voidtools/ES

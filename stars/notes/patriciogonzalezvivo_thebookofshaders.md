@@ -10,9 +10,8 @@ tags:
   - graphic
   - shader
   - glsl
+  - book
   - tutorial
-  - math
-  - algorithm
 ---
 
 # patriciogonzalezvivo/thebookofshaders

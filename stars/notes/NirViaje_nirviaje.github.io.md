@@ -8,9 +8,6 @@ topics: []
 starred_at: "2023-03-02T01:31:09Z"
 tags:
   - coding
-  - web
-  - frontend
-  - misc
 ---
 
 # NirViaje/nirviaje.github.io

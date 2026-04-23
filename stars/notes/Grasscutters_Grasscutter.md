@@ -8,12 +8,9 @@ topics: [java, kcp, private-server, server]
 starred_at: "2023-04-27T07:41:51Z"
 tags:
   - coding
-  - server
-  - networking
+  - game
   - java
-  - gameplay
-  - protocol
-  - database
+  - server
 ---
 
 # Grasscutters/Grasscutter

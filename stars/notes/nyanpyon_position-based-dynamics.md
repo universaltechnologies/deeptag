@@ -7,10 +7,10 @@ stars: 4
 topics: []
 starred_at: "2023-04-12T13:55:43Z"
 tags:
-  - coding
+  - graphic
   - physics
+  - coding
   - simulation
-  - python
 ---
 
 # nyanpyon/position-based-dynamics

@@ -7,12 +7,9 @@ stars: 110599
 topics: [android, awesome, bug-bounty, fuzzing, hacking, penetration-testing, pentesting-windows, reverse-engineering, security]
 starred_at: "2026-01-16T17:11:07Z"
 tags:
-  - awesome
   - tools
   - security
-  - reverse
-  - network
-  - automation
+  - awesome
 ---
 
 # Hack-with-Github/Awesome-Hacking

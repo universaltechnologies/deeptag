@@ -9,7 +9,6 @@ starred_at: "2023-02-24T18:30:36Z"
 tags:
   - coding
   - library
-  - rust
 ---
 
 # chronotope/chrono

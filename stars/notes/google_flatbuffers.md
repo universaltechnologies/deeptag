@@ -9,9 +9,8 @@ starred_at: "2023-04-24T12:19:12Z"
 tags:
   - coding
   - serialization
+  - cross-platform
   - library
-  - compiler
-  - performance
 ---
 
 # google/flatbuffers

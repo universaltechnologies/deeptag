@@ -8,10 +8,9 @@ topics: []
 starred_at: "2019-11-01T09:45:01Z"
 tags:
   - coding
-  - cpp
   - performance
-  - memory
-  - header-only
+  - cpp
+  - library
 ---
 
 # bitshifter/objectpool

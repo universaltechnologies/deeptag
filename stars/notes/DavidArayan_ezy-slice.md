@@ -7,12 +7,12 @@ stars: 2222
 topics: []
 starred_at: "2023-04-19T11:32:53Z"
 tags:
+  - coding
+  - engine
+  - unity
   - graphic
   - mesh
-  - math
-  - unity
-  - csharp
-  - algorithm
+  - framework
 ---
 
 # DavidArayan/ezy-slice

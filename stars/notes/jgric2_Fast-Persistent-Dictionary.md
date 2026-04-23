@@ -8,10 +8,10 @@ topics: [database, dictionary, fast, grobuf, hashmap, persistent-dictionary, per
 starred_at: "2025-04-01T02:44:06Z"
 tags:
   - coding
+  - data
   - database
-  - performance
-  - serialization
-  - compression
+  - csharp
+  - library
 ---
 
 # jgric2/Fast-Persistent-Dictionary

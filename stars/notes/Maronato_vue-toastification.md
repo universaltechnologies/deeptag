@@ -9,9 +9,8 @@ starred_at: "2025-07-25T08:45:42Z"
 tags:
   - coding
   - web
-  - frontend
   - ui
-  - component
+  - library
 ---
 
 # Maronato/vue-toastification

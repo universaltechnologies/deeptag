@@ -9,7 +9,6 @@ starred_at: "2019-07-25T01:52:54Z"
 tags:
   - graphic
   - shader
-  - geometry
   - engine
   - unity
 ---

@@ -8,11 +8,10 @@ topics: []
 starred_at: "2026-03-31T13:07:24Z"
 tags:
   - coding
-  - reverse
-  - cli
-  - typescript
   - ai
-  - tools
+  - mcp
+  - tool
+  - reverse
 ---
 
 # ChinaSiro/claude-code-sourcemap

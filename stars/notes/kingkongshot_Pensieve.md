@@ -9,8 +9,8 @@ starred_at: "2026-03-20T06:20:34Z"
 tags:
   - coding
   - ai
-  - workflow
-  - cli
+  - mcp
+  - tool
 ---
 
 # kingkongshot/Pensieve

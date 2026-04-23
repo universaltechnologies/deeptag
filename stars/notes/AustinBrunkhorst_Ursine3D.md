@@ -9,12 +9,10 @@ starred_at: "2021-07-27T06:57:13Z"
 tags:
   - coding
   - engine
-  - ecs
-  - reflection
   - graphic
-  - 3d
   - animation
   - physics
+  - ecs
 ---
 
 # AustinBrunkhorst/Ursine3D

@@ -7,11 +7,10 @@ stars: 1261
 topics: [astc, astcenc, compression, image-compression]
 starred_at: "2022-07-18T07:04:37Z"
 tags:
-  - coding
+  - graphic
+  - material
   - compression
-  - texture
-  - image
-  - cpp
+  - tool
 ---
 
 # ARM-software/astc-encoder

@@ -9,10 +9,10 @@ starred_at: "2021-05-12T06:57:05Z"
 tags:
   - coding
   - engine
+  - unity
+  - language
   - javascript
-  - runtime
-  - binding
-  - hotfix
+  - plugin
 ---
 
 # ialex32x/unity-jsb

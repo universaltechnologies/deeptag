@@ -9,10 +9,8 @@ starred_at: "2023-02-13T16:44:09Z"
 tags:
   - coding
   - visualization
-  - library
   - python
-  - image
-  - ui
+  - library
 ---
 
 # matplotlib/matplotlib

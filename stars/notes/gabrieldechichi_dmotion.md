@@ -8,10 +8,12 @@ topics: [animation, dots, ecs, state-machine, unity, unity-dots, unity-ecs, unit
 starred_at: "2022-11-07T05:09:20Z"
 tags:
   - coding
-  - animation
-  - ecs
+  - game
+  - engine
   - unity
-  - editor
+  - animation
+  - framework
+  - performance
 ---
 
 # gabrieldechichi/dmotion

@@ -8,11 +8,10 @@ topics: [c-plus-plus, cmder, color-scheme, command-line, conemu, mintty, portabl
 starred_at: "2019-07-11T08:53:33Z"
 tags:
   - tools
+  - coding
   - terminal
   - windows
-  - cli
-  - self-hosted
-  - misc
+  - tool
 ---
 
 # cmderdev/cmder

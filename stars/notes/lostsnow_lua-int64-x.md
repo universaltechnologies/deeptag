@@ -8,10 +8,9 @@ topics: []
 starred_at: "2024-10-10T03:15:43Z"
 tags:
   - coding
-  - library
+  - language
   - lua
-  - c
-  - ffi
+  - library
 ---
 
 # lostsnow/lua-int64-x

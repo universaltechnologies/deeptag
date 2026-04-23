@@ -8,10 +8,10 @@ topics: [aws, cloud-computing, coding-interviews, computer-science, interview-qu
 starred_at: "2023-11-18T12:32:04Z"
 tags:
   - coding
-  - tutorial
-  - networking
-  - api
+  - web
   - architecture
+  - tutorial
+  - awesome
 ---
 
 # ByteByteGoHq/system-design-101

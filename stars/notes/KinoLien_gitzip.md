@@ -7,11 +7,9 @@ stars: 602
 topics: []
 starred_at: "2024-02-04T04:18:35Z"
 tags:
-  - coding
+  - tools
   - web
-  - frontend
-  - javascript
-  - compression
+  - plugin
 ---
 
 # KinoLien/gitzip

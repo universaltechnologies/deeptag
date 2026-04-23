@@ -8,11 +8,10 @@ topics: []
 starred_at: "2023-02-23T17:20:17Z"
 tags:
   - coding
-  - framework
-  - ui
+  - gui
   - vulkan
-  - windows
-  - desktop
+  - library
+  - framework
 ---
 
 # StudioCherno/Walnut

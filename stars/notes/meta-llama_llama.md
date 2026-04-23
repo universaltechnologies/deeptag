@@ -8,9 +8,9 @@ topics: []
 starred_at: "2025-06-28T09:27:43Z"
 tags:
   - coding
-  - inference
-  - llm
   - ai
+  - llm
+  - inference
 ---
 
 # meta-llama/llama

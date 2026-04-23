@@ -8,7 +8,8 @@ topics: []
 starred_at: "2019-08-21T12:44:37Z"
 tags:
   - coding
-  - editor
+  - ide
+  - plugin
 ---
 
 # LiamMorrow/Visual-Studio-Power-Mode

@@ -8,11 +8,9 @@ topics: [3d, debug, debugger, inspector, webgl, webgl2, webvr]
 starred_at: "2024-07-16T01:53:02Z"
 tags:
   - graphic
-  - debug
   - webgl
-  - profiler
-  - web
-  - typescript
+  - debug
+  - tool
 ---
 
 # BabylonJS/Spector.js

@@ -8,10 +8,10 @@ topics: [rdp, remote-control, remote-desktop, sftp, ssh, vnc, windows, windows-a
 starred_at: "2025-05-28T17:47:49Z"
 tags:
   - coding
-  - tools
-  - windows
   - networking
-  - ui
+  - windows
+  - tool
+  - protocol
 ---
 
 # 1Remote/1Remote

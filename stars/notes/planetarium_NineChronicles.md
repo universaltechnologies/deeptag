@@ -8,10 +8,10 @@ topics: [2d-game, blockchain, decentralized, hacktoberfest, hacktoberfest2024, m
 starred_at: "2022-12-02T14:52:23Z"
 tags:
   - coding
-  - gameplay
+  - engine
   - unity
-  - csharp
-  - networking
+  - game
+  - gameplay
 ---
 
 # planetarium/NineChronicles

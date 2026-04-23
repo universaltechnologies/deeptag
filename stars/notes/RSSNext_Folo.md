@@ -9,10 +9,8 @@ starred_at: "2025-07-25T09:24:11Z"
 tags:
   - coding
   - ai
-  - frontend
-  - ui
+  - web
   - cross-platform
-  - electron
 ---
 
 # RSSNext/Folo

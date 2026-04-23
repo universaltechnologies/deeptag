@@ -8,12 +8,11 @@ topics: [audio, directx12, entity-component-system, fbx, game-engine, global-ill
 starred_at: "2023-03-17T22:06:43Z"
 tags:
   - graphic
-  - coding
-  - vulkan
-  - pbr
-  - ray-tracing
   - engine
-  - ecs
+  - rendering
+  - ray-tracing
+  - pbr
+  - framework
 ---
 
 # turanszkij/WickedEngine

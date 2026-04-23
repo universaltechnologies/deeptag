@@ -8,11 +8,10 @@ topics: [aggregator, dashboard, docker, feed-reader, go, homelab, homepage, moni
 starred_at: "2025-03-20T05:50:08Z"
 tags:
   - coding
-  - self-hosted
-  - monitoring
-  - docker
   - web
   - frontend
+  - self-hosted
+  - tool
 ---
 
 # glanceapp/glance

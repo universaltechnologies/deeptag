@@ -8,11 +8,10 @@ topics: [animation, cut, editing, editorial, film, film-editing, interchange, in
 starred_at: "2023-03-07T17:57:13Z"
 tags:
   - coding
-  - video
-  - framework
-  - serialization
   - vfx
-  - python
+  - media
+  - library
+  - framework
 ---
 
 # AcademySoftwareFoundation/OpenTimelineIO

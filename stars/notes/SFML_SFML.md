@@ -8,10 +8,11 @@ topics: [audio, c-plus-plus, cross-platform, games, graphics, hacktoberfest, mul
 starred_at: "2022-09-22T05:50:28Z"
 tags:
   - coding
+  - media
   - graphic
-  - cross-platform
-  - audio
   - networking
+  - library
+  - cross-platform
 ---
 
 # SFML/SFML

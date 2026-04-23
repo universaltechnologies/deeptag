@@ -9,9 +9,8 @@ starred_at: "2024-11-15T16:22:30Z"
 tags:
   - coding
   - ai
-  - ml
-  - framework
-  - gpu
+  - nlp
+  - library
 ---
 
 # facebookresearch/fairseq-lua

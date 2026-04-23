@@ -8,10 +8,9 @@ topics: [cpp, docker, flathub-pkg, game-stream, game-streaming, game-streaming-s
 starred_at: "2025-12-27T11:02:33Z"
 tags:
   - coding
-  - self-hosted
   - video
+  - tool
   - networking
-  - cpp
 ---
 
 # LizardByte/Sunshine

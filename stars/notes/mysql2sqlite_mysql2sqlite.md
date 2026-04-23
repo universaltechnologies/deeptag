@@ -7,11 +7,9 @@ stars: 1975
 topics: []
 starred_at: "2019-07-11T08:16:35Z"
 tags:
+  - tools
   - coding
-  - sql
-  - parser
-  - cli
-  - database
+  - data
 ---
 
 # mysql2sqlite/mysql2sqlite

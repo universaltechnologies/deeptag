@@ -8,11 +8,12 @@ topics: [cuda, graphics, models]
 starred_at: "2018-02-02T07:55:56Z"
 tags:
   - graphic
+  - scene
   - voxel
+  - coding
+  - systems
   - cuda
-  - mesh
-  - cli
-  - geometry
+  - tool
 ---
 
 # Forceflow/cuda_voxelizer

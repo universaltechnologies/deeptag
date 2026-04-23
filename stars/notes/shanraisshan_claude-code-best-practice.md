@@ -9,10 +9,9 @@ starred_at: "2026-03-14T13:06:08Z"
 tags:
   - coding
   - ai
-  - llm
   - agent
-  - tutorial
-  - awesome
+  - prompt
+  - practice
 ---
 
 # shanraisshan/claude-code-best-practice

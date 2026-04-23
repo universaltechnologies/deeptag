@@ -7,11 +7,11 @@ stars: 242
 topics: []
 starred_at: "2024-01-22T03:25:15Z"
 tags:
+  - coding
   - graphic
   - shader
   - hlsl
-  - depth
-  - raymarching
+  - rendering
 ---
 
 # pema99/shader-knowledge

@@ -8,8 +8,8 @@ topics: [dht, dhtspider, magnet, nodejs, torrent]
 starred_at: "2020-12-26T17:29:48Z"
 tags:
   - coding
-  - nodejs
-  - p2p
+  - networking
+  - protocol
   - database
   - search
 ---

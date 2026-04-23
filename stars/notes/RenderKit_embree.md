@@ -8,11 +8,10 @@ topics: []
 starred_at: "2024-02-19T09:34:14Z"
 tags:
   - graphic
-  - ray-tracing
   - rendering
+  - ray-tracing
   - library
-  - simd
-  - gpu
+  - performance
 ---
 
 # RenderKit/embree

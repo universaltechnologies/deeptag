@@ -8,9 +8,8 @@ topics: [csharp, guidance, missile, navigation, unity, unity3d]
 starred_at: "2023-01-16T11:37:32Z"
 tags:
   - coding
-  - gameplay
-  - math
-  - simulation
+  - game
+  - library
   - unity
 ---
 

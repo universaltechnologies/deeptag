@@ -7,11 +7,12 @@ stars: 43
 topics: [enhancement, package, plugin, post-processing, rendering, resolution, runtime, super, texture, toolkit, ui, unity, upscale, upscaling]
 starred_at: "2024-04-25T02:42:32Z"
 tags:
+  - coding
+  - engine
+  - unity
   - graphic
   - rendering
-  - post-processing
-  - texture
-  - unity
+  - framework
 ---
 
 # DevsDaddy/UnityXScaling

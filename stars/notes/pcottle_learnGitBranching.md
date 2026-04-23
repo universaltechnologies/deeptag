@@ -7,11 +7,10 @@ stars: 33361
 topics: []
 starred_at: "2025-12-10T03:37:29Z"
 tags:
-  - coding
   - git
-  - tutorial
   - visualization
-  - frontend
+  - tutorial
+  - coding
 ---
 
 # pcottle/learnGitBranching

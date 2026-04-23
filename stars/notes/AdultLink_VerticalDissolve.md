@@ -7,9 +7,12 @@ stars: 650
 topics: [game-development, gamedev, graphics, material, shaders, unity, unity3d]
 starred_at: "2020-09-29T10:53:31Z"
 tags:
+  - coding
+  - engine
+  - unity
   - graphic
   - shader
-  - unity
+  - material
 ---
 
 # AdultLink/VerticalDissolve

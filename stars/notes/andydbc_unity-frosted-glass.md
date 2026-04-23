@@ -8,10 +8,10 @@ topics: [effect, material, shader, shaders, unity, unity-3d, unity3d]
 starred_at: "2020-09-29T10:55:26Z"
 tags:
   - graphic
+  - material
   - shader
-  - post-processing
-  - rendering
-  - unity
+  - coding
+  - engine
 ---
 
 # andydbc/unity-frosted-glass

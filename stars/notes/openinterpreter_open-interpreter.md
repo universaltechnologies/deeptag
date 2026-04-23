@@ -10,9 +10,8 @@ tags:
   - coding
   - ai
   - llm
-  - agent
-  - terminal
-  - automation
+  - tool
+  - cli
 ---
 
 # openinterpreter/open-interpreter

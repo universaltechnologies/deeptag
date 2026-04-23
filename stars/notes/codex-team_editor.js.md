@@ -9,9 +9,9 @@ starred_at: "2020-10-27T09:23:45Z"
 tags:
   - coding
   - web
-  - frontend
   - ui
-  - json
+  - framework
+  - tool
 ---
 
 # codex-team/editor.js

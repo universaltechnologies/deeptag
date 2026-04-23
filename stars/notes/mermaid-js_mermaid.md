@@ -8,10 +8,10 @@ topics: [diagrams, diagrams-as-code, documentation, flowchart, javascript, mindm
 starred_at: "2021-01-25T12:49:41Z"
 tags:
   - coding
-  - visualization
-  - parser
   - web
-  - svg
+  - frontend
+  - visualization
+  - library
 ---
 
 # mermaid-js/mermaid

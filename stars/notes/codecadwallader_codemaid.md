@@ -7,9 +7,7 @@ stars: 1974
 topics: [c-sharp, clean-code, dotnet, visual-studio, vsix]
 starred_at: "2021-11-10T03:00:53Z"
 tags:
-  - coding
-  - editor
-  - csharp
+  - tools
   - plugin
 ---
 

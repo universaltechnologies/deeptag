@@ -7,10 +7,10 @@ stars: 1025
 topics: [vulkan]
 starred_at: "2022-09-22T06:31:11Z"
 tags:
-  - graphic
+  - coding
+  - platform
   - vulkan
-  - header-only
-  - package
+  - library
 ---
 
 # KhronosGroup/Vulkan-Headers

@@ -10,8 +10,7 @@ tags:
   - coding
   - cpp
   - memory
-  - header-only
-  - performance
+  - library
 ---
 
 # greg7mdp/dlmalloc

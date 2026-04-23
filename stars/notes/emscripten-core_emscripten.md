@@ -10,7 +10,8 @@ tags:
   - coding
   - compiler
   - webassembly
-  - runtime
+  - tool
+  - cross-platform
 ---
 
 # emscripten-core/emscripten

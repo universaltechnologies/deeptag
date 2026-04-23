@@ -8,12 +8,11 @@ topics: [3d-engine, c, cpp, engine, experimental, hot-reload, rendergraph, resea
 starred_at: "2024-11-19T06:19:58Z"
 tags:
   - graphic
-  - vulkan
   - rendering
-  - hotfix
-  - shader
-  - linux
-  - windows
+  - vulkan
+  - coding
+  - cpp
+  - tool
 ---
 
 # tgfrerer/island

@@ -8,11 +8,10 @@ topics: [3mf, android, asset-pipeline, assets, assimp, c-plus-plus, collada, dae
 starred_at: "2020-05-07T14:20:33Z"
 tags:
   - coding
+  - data
   - library
-  - gltf
-  - image-processing
-  - binding
-  - misc
+  - tool
+  - cpp
 ---
 
 # assimp/assimp

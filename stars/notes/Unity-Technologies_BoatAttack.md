@@ -7,13 +7,13 @@ stars: 2738
 topics: []
 starred_at: "2022-08-26T02:51:19Z"
 tags:
+  - coding
+  - engine
+  - unity
   - graphic
+  - rendering
   - shader
   - water
-  - post-processing
-  - rendering
-  - unity
-  - urp
 ---
 
 # Unity-Technologies/BoatAttack

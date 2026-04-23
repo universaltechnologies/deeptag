@@ -10,9 +10,7 @@ tags:
   - coding
   - engine
   - godot
-  - gameplay
   - tutorial
-  - misc
 ---
 
 # godotengine/godot-demo-projects

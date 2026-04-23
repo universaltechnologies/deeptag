@@ -8,9 +8,11 @@ topics: [actions, build, ci, game-ci, github, hacktoberfest, unity, unity-action
 starred_at: "2025-09-18T06:27:40Z"
 tags:
   - coding
+  - engine
   - unity
   - ci
   - build
+  - tool
 ---
 
 # game-ci/unity-builder

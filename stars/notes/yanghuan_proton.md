@@ -7,11 +7,11 @@ stars: 259
 topics: [auto-read-code-generate, excel-to-json, excel-to-lua, excel-to-xml, export-excel, powerful, simple]
 starred_at: "2020-09-29T10:12:28Z"
 tags:
+  - tools
   - coding
-  - json
-  - xml
-  - automation
-  - cli
+  - serialization
+  - tool
+  - cross-platform
 ---
 
 # yanghuan/proton

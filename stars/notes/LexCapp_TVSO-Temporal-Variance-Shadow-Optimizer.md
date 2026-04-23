@@ -8,9 +8,14 @@ topics: [compute-shader, gamedev, optimization, realtime, shadows, unity, urp]
 starred_at: "2025-04-29T03:06:39Z"
 tags:
   - graphic
+  - lighting
   - shadow
-  - urp
+  - shader
   - compute-shader
+  - coding
+  - engine
+  - unity
+  - performance
 ---
 
 # LexCapp/TVSO-Temporal-Variance-Shadow-Optimizer

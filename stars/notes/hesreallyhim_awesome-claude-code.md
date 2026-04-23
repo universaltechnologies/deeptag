@@ -7,10 +7,11 @@ stars: 39804
 topics: [agent-skills, agentic-code, agentic-coding, ai-workflow-optimization, ai-workflows, anthropic, anthropic-claude, awesome, awesome-claude-code, awesome-list, awesome-lists, awesome-resources, claude, claude-code, coding-agent, coding-agents, coding-assistant, coding-assistants, llm]
 starred_at: "2026-03-24T15:20:19Z"
 tags:
-  - awesome
+  - coding
   - ai
   - llm
   - agent
+  - awesome
 ---
 
 # hesreallyhim/awesome-claude-code

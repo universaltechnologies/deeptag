@@ -7,12 +7,14 @@ stars: 186
 topics: [iridescence, iridescence-shader, tutorial, unity, unity3d]
 starred_at: "2025-09-08T18:36:44Z"
 tags:
-  - coding
+  - graphic
   - shader
-  - pbr
+  - material
+  - coding
+  - engine
   - unity
   - tutorial
-  - rendering
+  - practice
 ---
 
 # smkplus/Iridescence

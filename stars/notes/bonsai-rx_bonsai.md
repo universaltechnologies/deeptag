@@ -8,8 +8,10 @@ topics: [bonsai-rx, language]
 starred_at: "2024-11-29T08:55:11Z"
 tags:
   - coding
-  - compiler
   - language
+  - compiler
+  - ide
+  - dotnet
 ---
 
 # bonsai-rx/bonsai

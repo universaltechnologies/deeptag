@@ -9,9 +9,8 @@ starred_at: "2024-03-21T03:09:53Z"
 tags:
   - coding
   - ai
-  - inference
   - diffusion
-  - image
+  - plugin
 ---
 
 # carson-katri/dream-textures

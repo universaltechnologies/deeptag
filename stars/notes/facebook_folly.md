@@ -8,10 +8,10 @@ topics: []
 starred_at: "2022-09-27T06:19:20Z"
 tags:
   - coding
+  - cpp
   - library
   - performance
-  - concurrency
-  - cpp
+  - header-only
 ---
 
 # facebook/folly

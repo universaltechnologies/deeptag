@@ -9,9 +9,8 @@ starred_at: "2016-09-19T05:22:52Z"
 tags:
   - coding
   - csharp
+  - tool
   - windows
-  - automation
-  - misc
 ---
 
 # nkc3g4/wtg-assistant

@@ -7,9 +7,7 @@ stars: 1693
 topics: [obsidian, obsidian-md]
 starred_at: "2022-11-15T03:59:14Z"
 tags:
-  - coding
-  - misc
-  - editor
+  - tools
 ---
 
 # obsidianmd/obsidian-help

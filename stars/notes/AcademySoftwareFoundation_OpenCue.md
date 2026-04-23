@@ -8,10 +8,11 @@ topics: [animation, fx, opencue, openqueue, render, render-farm, rendering, sche
 starred_at: "2024-01-29T06:27:49Z"
 tags:
   - coding
+  - systems
+  - distributed
+  - graphic
   - rendering
-  - pipeline
-  - cloud
-  - python
+  - tool
 ---
 
 # AcademySoftwareFoundation/OpenCue

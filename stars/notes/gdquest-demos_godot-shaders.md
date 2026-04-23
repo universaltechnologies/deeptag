@@ -9,10 +9,10 @@ starred_at: "2023-03-17T21:30:27Z"
 tags:
   - graphic
   - shader
-  - 2d
-  - 3d
+  - material
   - engine
-  - toon
+  - library
+  - practice
 ---
 
 # gdquest-demos/godot-shaders

@@ -9,9 +9,7 @@ starred_at: "2022-03-18T08:13:56Z"
 tags:
   - coding
   - compression
-  - algorithm
   - performance
-  - c
   - library
 ---
 

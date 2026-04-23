@@ -8,7 +8,7 @@ topics: [c, cpp, unicode, utf8]
 starred_at: "2022-05-16T04:22:55Z"
 tags:
   - coding
-  - cpp
+  - library
   - header-only
 ---
 

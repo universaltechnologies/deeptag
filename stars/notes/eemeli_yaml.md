@@ -9,8 +9,8 @@ starred_at: "2023-01-03T17:15:00Z"
 tags:
   - coding
   - parser
-  - serialization
   - typescript
+  - serialization
   - library
 ---
 

@@ -8,10 +8,11 @@ topics: []
 starred_at: "2025-08-06T13:10:38Z"
 tags:
   - coding
-  - shader
-  - optimization
+  - engine
   - unity
-  - editor
+  - shader
+  - tool
+  - plugin
 ---
 
 # arcsearoc/UnityMaliCompilerBridge

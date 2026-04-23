@@ -10,9 +10,8 @@ tags:
   - coding
   - ai
   - agent
-  - editor
-  - automation
-  - cli
+  - plugin
+  - tool
 ---
 
 # Kilo-Org/kilocode

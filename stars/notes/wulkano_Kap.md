@@ -8,11 +8,10 @@ topics: [aperture, app, capture, communication, electron, javascript, kap, mac, 
 starred_at: "2022-11-18T07:28:21Z"
 tags:
   - coding
+  - media
   - electron
-  - capture
-  - video
-  - desktop
-  - productivity
+  - tool
+  - cross-platform
 ---
 
 # wulkano/Kap

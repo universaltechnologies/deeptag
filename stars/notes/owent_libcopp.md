@@ -9,10 +9,8 @@ starred_at: "2022-05-12T19:24:39Z"
 tags:
   - coding
   - library
-  - concurrency
   - cross-platform
   - performance
-  - linux
 ---
 
 # owent/libcopp

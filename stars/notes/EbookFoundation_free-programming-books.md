@@ -7,10 +7,9 @@ stars: 385740
 topics: [books, education, hacktoberfest, list, resource]
 starred_at: "2020-09-27T08:46:23Z"
 tags:
-  - awesome
-  - tutorial
+  - coding
   - book
-  - misc
+  - awesome
 ---
 
 # EbookFoundation/free-programming-books

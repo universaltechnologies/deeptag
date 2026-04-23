@@ -7,9 +7,8 @@ stars: 82063
 topics: [android-interview-questions, angularjs-interview-questions, awesome, awesome-list, awesomeness, interview-practice, interview-questions, interviewing, javascript, javascript-interview-questions, list, python-interview-questions, rails-interview, ruby]
 starred_at: "2022-03-09T16:23:31Z"
 tags:
+  - coding
   - awesome
-  - tutorial
-  - misc
 ---
 
 # DopplerHQ/awesome-interview-questions

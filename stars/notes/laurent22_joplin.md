@@ -9,8 +9,8 @@ starred_at: "2020-01-06T06:26:03Z"
 tags:
   - tools
   - cross-platform
-  - electron
-  - markdown
+  - desktop
+  - mobile
 ---
 
 # laurent22/joplin

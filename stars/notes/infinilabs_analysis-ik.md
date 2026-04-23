@@ -8,10 +8,8 @@ topics: [analyzer, easysearch, elasticsearch, ik-analysis, java, opensearch]
 starred_at: "2017-05-08T05:03:17Z"
 tags:
   - coding
+  - parser
   - plugin
-  - nlp
-  - search
-  - database
 ---
 
 # infinilabs/analysis-ik

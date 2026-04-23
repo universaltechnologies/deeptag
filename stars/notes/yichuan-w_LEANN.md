@@ -8,9 +8,12 @@ topics: [ai, faiss, gpt-oss, langchain, llama-index, llm, localstorage, offline-
 starred_at: "2026-01-18T14:34:24Z"
 tags:
   - coding
+  - ai
   - rag
   - llm
-  - inference
+  - mcp
+  - performance
+  - library
 ---
 
 # yichuan-w/LEANN

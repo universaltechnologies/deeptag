@@ -8,11 +8,10 @@ topics: [chinese, flash-attention, large-language-models, llm, natural-language-
 starred_at: "2025-08-11T10:16:42Z"
 tags:
   - coding
+  - ai
   - llm
   - inference
-  - deep-learning
-  - framework
-  - awesome
+  - library
 ---
 
 # QwenLM/Qwen

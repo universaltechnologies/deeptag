@@ -10,8 +10,8 @@ tags:
   - graphic
   - rendering
   - shader
-  - pbr
-  - vulkan
+  - cpp
+  - book
 ---
 
 # wolfgangfengel/GPU-Pro-7

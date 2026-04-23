@@ -8,9 +8,10 @@ topics: [cpp, cpp-library, gamedev, pooling, templates]
 starred_at: "2019-11-01T09:48:56Z"
 tags:
   - coding
+  - cpp
+  - algorithm
   - memory
-  - optimization
-  - ecs
+  - library
 ---
 
 # RonenNess/dcm_pool

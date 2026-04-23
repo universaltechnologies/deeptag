@@ -8,9 +8,9 @@ topics: [data-science, linear-algebra, machine-learning, mathematics, matrix]
 starred_at: "2022-11-18T00:02:53Z"
 tags:
   - coding
-  - misc
-  - book
+  - ai
   - math
+  - book
 ---
 
 # Visualize-ML/Book3_Elements-of-Mathematics

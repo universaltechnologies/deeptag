@@ -11,6 +11,7 @@ tags:
   - compression
   - algorithm
   - library
+  - performance
 ---
 
 # facebook/zstd

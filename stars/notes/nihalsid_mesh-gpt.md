@@ -10,8 +10,6 @@ tags:
   - coding
   - ai
   - ml
-  - mesh
-  - modeling
 ---
 
 # nihalsid/mesh-gpt

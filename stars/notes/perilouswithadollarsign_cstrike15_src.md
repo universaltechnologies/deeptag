@@ -9,9 +9,7 @@ starred_at: "2023-02-02T04:44:46Z"
 tags:
   - coding
   - cpp
-  - engine
-  - gameplay
-  - networking
+  - game
 ---
 
 # perilouswithadollarsign/cstrike15_src

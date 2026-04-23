@@ -7,12 +7,11 @@ stars: 2356
 topics: [3d, 3d-cad, cad, cae, cam, occt, occt3d, opencascade]
 starred_at: "2025-11-26T08:28:18Z"
 tags:
-  - coding
-  - cpp
-  - library
-  - 3d
-  - modeling
+  - graphic
+  - scene
   - geometry
+  - library
+  - cpp
 ---
 
 # Open-Cascade-SAS/OCCT

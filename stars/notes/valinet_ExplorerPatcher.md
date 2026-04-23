@@ -7,11 +7,9 @@ stars: 32243
 topics: []
 starred_at: "2025-08-10T14:12:18Z"
 tags:
-  - tools
+  - coding
   - windows
-  - ui
-  - platform
-  - hook
+  - tool
 ---
 
 # valinet/ExplorerPatcher

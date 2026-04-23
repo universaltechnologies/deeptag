@@ -7,11 +7,10 @@ stars: 78
 topics: []
 starred_at: "2018-11-27T05:38:52Z"
 tags:
-  - graphic
-  - modeling
-  - mesh
+  - coding
+  - cpp
+  - library
   - api
-  - python
 ---
 
 # meshmixer/mm-api

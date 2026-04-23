@@ -8,10 +8,10 @@ topics: [lede, lua, openwrt-feed, openwrt-package, openwrt-zh-cn]
 starred_at: "2022-12-04T17:24:34Z"
 tags:
   - coding
-  - networking
+  - systems
   - embedded
+  - networking
   - linux
-  - cross-platform
 ---
 
 # coolsnowwolf/lede

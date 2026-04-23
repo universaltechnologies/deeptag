@@ -7,8 +7,11 @@ stars: 3
 topics: []
 starred_at: "2023-03-16T05:26:17Z"
 tags:
+  - coding
+  - ai
+  - graphic
   - awesome
-  - misc
+  - cpp
 ---
 
 # GuDuJian-J-Zhang/usefulTools

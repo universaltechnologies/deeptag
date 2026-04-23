@@ -10,7 +10,6 @@ tags:
   - coding
   - serialization
   - cpp
-  - c
   - library
 ---
 

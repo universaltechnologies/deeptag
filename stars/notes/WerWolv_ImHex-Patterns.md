@@ -7,9 +7,10 @@ stars: 947
 topics: [constants, data-structures, encoding, formats, hacktoberfest, imhex, magic, pattern-language, patterns, yara]
 starred_at: "2023-11-04T16:06:37Z"
 tags:
-  - tools
-  - database
-  - parser
+  - tool
+  - data
+  - awesome
+  - practice
 ---
 
 # WerWolv/ImHex-Patterns

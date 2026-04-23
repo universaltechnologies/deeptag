@@ -9,8 +9,9 @@ starred_at: "2026-03-02T17:45:01Z"
 tags:
   - coding
   - ai
-  - tutorial
   - llm
+  - prompt
+  - tutorial
 ---
 
 # anthropics/prompt-eng-interactive-tutorial

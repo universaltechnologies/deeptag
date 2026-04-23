@@ -8,9 +8,7 @@ topics: [atom-plugin, chrome-extension, codelf, naming, vscode-extension]
 starred_at: "2023-05-11T17:16:41Z"
 tags:
   - coding
-  - web
-  - frontend
-  - productivity
+  - tool
   - plugin
 ---
 

@@ -9,9 +9,9 @@ starred_at: "2018-03-02T08:10:57Z"
 tags:
   - coding
   - ai
-  - architecture
   - deep-learning
   - tutorial
+  - ml
 ---
 
 # yao62995/tensorflow

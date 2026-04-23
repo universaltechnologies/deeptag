@@ -8,8 +8,8 @@ topics: [circuit-breaker, circuit-breaker-pattern, dotnet, fault-handler, resili
 starred_at: "2024-01-12T05:37:48Z"
 tags:
   - coding
-  - library
   - dotnet
+  - library
 ---
 
 # App-vNext/Polly

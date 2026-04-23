@@ -8,10 +8,7 @@ topics: [c-sharp, cache, cachemanager, caching, dotnet, dotnet-core, memcached, 
 starred_at: "2020-05-18T15:00:44Z"
 tags:
   - coding
-  - csharp
   - dotnet
-  - serialization
-  - concurrency
   - library
 ---
 

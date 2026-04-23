@@ -9,10 +9,9 @@ starred_at: "2024-02-22T06:48:19Z"
 tags:
   - coding
   - physics
-  - engine
   - simulation
-  - concurrency
-  - optimization
+  - library
+  - performance
 ---
 
 # jrouwe/JoltPhysics

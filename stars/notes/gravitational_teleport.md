@@ -8,9 +8,10 @@ topics: [audit, bastion, certificate, cluster, database-access, firewall, firewa
 starred_at: "2023-07-14T07:41:53Z"
 tags:
   - coding
-  - networking
   - security
-  - docker
+  - networking
+  - tools
+  - tool
 ---
 
 # gravitational/teleport

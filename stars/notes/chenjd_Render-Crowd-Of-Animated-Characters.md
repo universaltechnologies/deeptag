@@ -7,11 +7,12 @@ stars: 1755
 topics: [animated-characters, animation-map, baker, draw-calls, gpu-instancing, unity, vertex-animation, vertex-animation-texture]
 starred_at: "2022-12-27T16:22:18Z"
 tags:
-  - graphic
-  - rendering
-  - animation
-  - shader
+  - coding
+  - engine
   - unity
+  - graphic
+  - shader
+  - performance
 ---
 
 # chenjd/Render-Crowd-Of-Animated-Characters

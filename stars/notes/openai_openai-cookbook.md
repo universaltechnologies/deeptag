@@ -11,8 +11,8 @@ tags:
   - ai
   - llm
   - python
-  - api
   - tutorial
+  - awesome
 ---
 
 # openai/openai-cookbook

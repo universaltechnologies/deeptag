@@ -10,11 +10,9 @@ tags:
   - graphic
   - rendering
   - engine
-  - opengl
-  - shader
-  - skeletal
-  - animation
-  - cpp
+  - library
+  - cross-platform
+  - tool
 ---
 
 # horde3d/Horde3D

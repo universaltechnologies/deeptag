@@ -9,9 +9,7 @@ starred_at: "2026-02-06T08:10:50Z"
 tags:
   - coding
   - git
-  - automation
-  - rust
-  - cli
+  - tool
 ---
 
 # j178/prek

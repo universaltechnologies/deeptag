@@ -10,9 +10,8 @@ tags:
   - coding
   - ai
   - agent
-  - typescript
-  - automation
-  - optimization
+  - context
+  - tool
 ---
 
 # mksglu/context-mode

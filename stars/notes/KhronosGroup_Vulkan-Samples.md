@@ -8,9 +8,8 @@ topics: [best-practices, cpp, graphics, graphics-programming, khronos, tutorials
 starred_at: "2024-10-23T13:37:29Z"
 tags:
   - graphic
+  - platform
   - vulkan
-  - rendering
-  - shader
   - tutorial
 ---
 

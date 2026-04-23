@@ -8,9 +8,10 @@ topics: []
 starred_at: "2024-06-13T11:02:51Z"
 tags:
   - coding
-  - windows
-  - desktop
   - c
+  - windows
+  - gui
+  - tool
 ---
 
 # microsoft/winfile

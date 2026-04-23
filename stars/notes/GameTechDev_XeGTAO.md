@@ -8,11 +8,11 @@ topics: []
 starred_at: "2023-02-14T17:54:29Z"
 tags:
   - graphic
+  - lighting
   - ssao
-  - shader
-  - hlsl
+  - platform
   - directx
-  - cpp
+  - library
 ---
 
 # GameTechDev/XeGTAO

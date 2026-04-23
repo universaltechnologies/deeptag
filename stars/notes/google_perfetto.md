@@ -8,12 +8,11 @@ topics: []
 starred_at: "2023-03-29T02:54:26Z"
 tags:
   - coding
-  - visualization
   - profiler
-  - performance
-  - android
-  - sql
+  - debug
   - cpp
+  - tool
+  - cross-platform
 ---
 
 # google/perfetto

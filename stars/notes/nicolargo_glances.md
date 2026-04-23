@@ -8,11 +8,10 @@ topics: [monitoring, multi-platform, python, restful, restful-api, system, termi
 starred_at: "2023-12-04T07:25:42Z"
 tags:
   - coding
+  - systems
   - monitoring
-  - terminal
-  - web
-  - docker
-  - api
+  - tool
+  - cross-platform
 ---
 
 # nicolargo/glances

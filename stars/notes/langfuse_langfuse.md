@@ -8,8 +8,9 @@ topics: [analytics, autogen, evaluation, langchain, large-language-models, llama
 starred_at: "2025-09-26T03:02:23Z"
 tags:
   - coding
+  - ai
   - llm
-  - monitoring
+  - platform
   - self-hosted
 ---
 

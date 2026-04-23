@@ -9,10 +9,10 @@ starred_at: "2025-12-21T01:34:45Z"
 tags:
   - coding
   - ai
-  - agent
   - rag
+  - agent
+  - tool
   - web
-  - api
 ---
 
 # MODSetter/SurfSense

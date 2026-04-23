@@ -8,12 +8,9 @@ topics: [graph-algorithms, graphic, graphics-engine, graphics-library, graphics-
 starred_at: "2023-11-06T18:08:27Z"
 tags:
   - graphic
-  - cpp
   - rendering
-  - pbr
-  - shadowmap
-  - rasterization
-  - 3d
+  - shadow
+  - library
 ---
 
 # Veerzeng/GraphicAlgorithm

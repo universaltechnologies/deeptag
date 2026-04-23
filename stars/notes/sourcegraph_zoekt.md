@@ -9,7 +9,8 @@ starred_at: "2026-03-20T12:34:16Z"
 tags:
   - coding
   - search
-  - backend
+  - tool
+  - performance
 ---
 
 # sourcegraph/zoekt

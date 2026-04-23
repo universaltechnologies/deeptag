@@ -8,11 +8,12 @@ topics: [3d, 3d-perception, arm, computer-graphics, cpp, cuda, gpu, gui, machine
 starred_at: "2023-02-18T06:21:02Z"
 tags:
   - coding
+  - ai
+  - cv
+  - graphic
   - 3d
-  - visualization
-  - ml
-  - gpu
-  - rendering
+  - library
+  - cross-platform
 ---
 
 # isl-org/Open3D

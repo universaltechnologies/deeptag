@@ -8,11 +8,8 @@ topics: [art, go, graphics, primitives]
 starred_at: "2023-01-11T18:22:24Z"
 tags:
   - graphic
-  - algorithm
-  - cli
-  - image
-  - image-processing
-  - go
+  - geometry
+  - tool
 ---
 
 # fogleman/primitive

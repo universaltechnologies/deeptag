@@ -8,11 +8,10 @@ topics: []
 starred_at: "2020-05-07T14:22:37Z"
 tags:
   - graphic
-  - mesh
-  - skeletal
-  - animation
+  - scene
   - rendering
-  - tools
+  - csharp
+  - tool
 ---
 
 # acgessler/open3mod

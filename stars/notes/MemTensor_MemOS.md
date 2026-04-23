@@ -12,6 +12,7 @@ tags:
   - agent
   - llm
   - rag
+  - library
 ---
 
 # MemTensor/MemOS

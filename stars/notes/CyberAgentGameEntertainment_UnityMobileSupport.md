@@ -10,10 +10,9 @@ tags:
   - coding
   - engine
   - unity
-  - mobile
   - android
   - ios
-  - plugin
+  - library
 ---
 
 # CyberAgentGameEntertainment/UnityMobileSupport

@@ -8,11 +8,8 @@ topics: []
 starred_at: "2017-04-15T06:42:40Z"
 tags:
   - graphic
-  - rendering
-  - shader
-  - pbr
-  - hlsl
-  - glsl
+  - book
+  - cpp
 ---
 
 # wolfgangfengel/GPU-Pro-6

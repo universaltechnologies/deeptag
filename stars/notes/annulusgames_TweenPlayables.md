@@ -8,11 +8,9 @@ topics: [animation, playable, timeline, unity]
 starred_at: "2023-03-28T03:06:48Z"
 tags:
   - coding
-  - library
   - engine
   - unity
-  - animation
-  - plugin
+  - library
 ---
 
 # annulusgames/TweenPlayables

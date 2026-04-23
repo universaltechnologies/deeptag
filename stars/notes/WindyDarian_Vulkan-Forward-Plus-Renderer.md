@@ -8,10 +8,12 @@ topics: [compute-shader, forward-plus-shading, forward-shading, shading, vulkan]
 starred_at: "2017-03-05T06:40:59Z"
 tags:
   - graphic
+  - rendering
+  - lighting
+  - platform
   - vulkan
   - compute-shader
-  - rendering
-  - culling
+  - cpp
 ---
 
 # WindyDarian/Vulkan-Forward-Plus-Renderer

@@ -8,11 +8,10 @@ topics: []
 starred_at: "2025-10-16T09:40:29Z"
 tags:
   - coding
-  - graphic
-  - texture
-  - atlas
+  - media
+  - image
   - nodejs
-  - async
+  - library
 ---
 
 # odrick/free-tex-packer-core

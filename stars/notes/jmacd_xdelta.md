@@ -8,11 +8,11 @@ topics: []
 starred_at: "2022-05-06T00:19:20Z"
 tags:
   - coding
+  - data
   - compression
-  - algorithm
-  - cli
-  - c
+  - tool
   - library
+  - cross-platform
 ---
 
 # jmacd/xdelta

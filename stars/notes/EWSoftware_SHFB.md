@@ -8,12 +8,8 @@ topics: []
 starred_at: "2023-05-09T13:14:11Z"
 tags:
   - coding
-  - csharp
-  - dotnet
   - tools
-  - gui
-  - cli
-  - automation
+  - dotnet
 ---
 
 # EWSoftware/SHFB

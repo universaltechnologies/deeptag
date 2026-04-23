@@ -10,8 +10,6 @@ tags:
   - coding
   - ai
   - plugin
-  - workflow
-  - automation
 ---
 
 # EveryInc/compound-engineering-plugin

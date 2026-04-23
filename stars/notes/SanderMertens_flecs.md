@@ -8,12 +8,11 @@ topics: [c99, cpp11, cpp14, cpp17, data-oriented, data-oriented-design, ecs, ent
 starred_at: "2023-04-24T09:17:52Z"
 tags:
   - coding
+  - game
   - ecs
-  - framework
   - performance
-  - simulation
-  - c
-  - cpp
+  - framework
+  - cross-platform
 ---
 
 # SanderMertens/flecs

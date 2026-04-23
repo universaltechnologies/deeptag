@@ -8,8 +8,9 @@ topics: []
 starred_at: "2018-11-13T06:51:58Z"
 tags:
   - coding
-  - library
+  - language
   - lua
+  - library
 ---
 
 # kikito/middleclass

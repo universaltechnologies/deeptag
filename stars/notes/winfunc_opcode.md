@@ -8,9 +8,9 @@ topics: [anthropic, anthropic-claude, claude, claude-4, claude-4-opus, claude-4-
 starred_at: "2026-03-03T06:23:23Z"
 tags:
   - coding
+  - ai
   - llm
-  - agent
-  - desktop
+  - tool
   - gui
 ---
 

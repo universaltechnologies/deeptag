@@ -9,11 +9,8 @@ starred_at: "2017-12-26T06:58:49Z"
 tags:
   - tools
   - coding
-  - docker
-  - electron
-  - ui
   - desktop
-  - cross-platform
+  - gui
 ---
 
 # docker-archive-public/docker.kitematic

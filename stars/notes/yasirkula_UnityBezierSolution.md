@@ -10,10 +10,8 @@ tags:
   - coding
   - engine
   - unity
-  - csharp
   - math
-  - 3d
-  - plugin
+  - tool
 ---
 
 # yasirkula/UnityBezierSolution

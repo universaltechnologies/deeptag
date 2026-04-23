@@ -8,11 +8,9 @@ topics: [csharp, framework, hot, hot-update, hotfix, hotupdate, huatuo, il2cpp, 
 starred_at: "2022-07-19T04:54:53Z"
 tags:
   - coding
-  - unity
-  - csharp
-  - runtime
-  - hotfix
   - engine
+  - csharp
+  - performance
 ---
 
 # focus-creative-games/hybridclr

@@ -8,11 +8,9 @@ topics: [bcrypt]
 starred_at: "2019-06-20T15:34:13Z"
 tags:
   - coding
-  - nodejs
-  - encryption
   - security
-  - binding
-  - ffi
+  - library
+  - nodejs
 ---
 
 # kelektiv/node.bcrypt.js

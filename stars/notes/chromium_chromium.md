@@ -8,10 +8,9 @@ topics: [browser, chromium]
 starred_at: "2023-11-09T01:54:39Z"
 tags:
   - coding
-  - browser
   - cpp
-  - gpu
-  - networking
+  - browser
+  - cross-platform
 ---
 
 # chromium/chromium

@@ -11,8 +11,8 @@ tags:
   - ai
   - llm
   - agent
-  - tools
-  - awesome
+  - mcp
+  - tool
 ---
 
 # affaan-m/everything-claude-code

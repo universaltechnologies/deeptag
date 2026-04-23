@@ -8,10 +8,9 @@ topics: [cpp, cpp-tutorial, cpp11, cpp14, cpp17, cpp20, modern-cpp]
 starred_at: "2023-09-24T12:10:58Z"
 tags:
   - coding
-  - book
-  - cpp
   - language
-  - tutorial
+  - cpp
+  - book
 ---
 
 # changkun/modern-cpp-tutorial

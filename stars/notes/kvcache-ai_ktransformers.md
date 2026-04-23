@@ -8,11 +8,9 @@ topics: []
 starred_at: "2025-04-02T06:54:46Z"
 tags:
   - coding
-  - llm
+  - ai
   - inference
-  - optimization
   - framework
-  - cuda
 ---
 
 # kvcache-ai/ktransformers

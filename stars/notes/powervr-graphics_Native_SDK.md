@@ -8,11 +8,11 @@ topics: []
 starred_at: "2023-10-11T12:05:18Z"
 tags:
   - graphic
+  - platform
   - vulkan
   - opengl
-  - framework
   - cross-platform
-  - compute-shader
+  - framework
 ---
 
 # powervr-graphics/Native_SDK

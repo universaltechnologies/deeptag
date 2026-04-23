@@ -9,9 +9,7 @@ starred_at: "2023-09-21T12:00:17Z"
 tags:
   - coding
   - dotnet
-  - runtime
   - library
-  - framework
 ---
 
 # microsoft/referencesource

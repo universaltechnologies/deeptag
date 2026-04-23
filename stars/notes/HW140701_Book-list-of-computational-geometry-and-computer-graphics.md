@@ -7,12 +7,9 @@ stars: 1487
 topics: [booklist, books, computational-geometry, computer-graphics]
 starred_at: "2022-04-30T23:57:38Z"
 tags:
-  - book
   - graphic
-  - math
-  - rendering
-  - pbr
-  - ray-tracing
+  - book
+  - awesome
 ---
 
 # HW140701/Book-list-of-computational-geometry-and-computer-graphics

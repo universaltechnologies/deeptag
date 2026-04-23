@@ -7,9 +7,8 @@ stars: 17579
 topics: [copytranslator, dictionary, translate]
 starred_at: "2021-09-17T12:40:59Z"
 tags:
+  - tools
   - coding
-  - desktop
-  - electron
   - ai
   - llm
 ---

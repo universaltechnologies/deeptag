@@ -10,9 +10,7 @@ tags:
   - coding
   - compiler
   - jit
-  - runtime
-  - c
-  - performance
+  - library
 ---
 
 # vnmakarov/mir

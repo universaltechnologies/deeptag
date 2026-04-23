@@ -7,8 +7,10 @@ stars: 16
 topics: []
 starred_at: "2022-05-23T14:01:06Z"
 tags:
-  - coding
-  - misc
+  - tools
+  - browser
+  - productivity
+  - practice
 ---
 
 # TheRealMJP/TheRealMJP.github.io

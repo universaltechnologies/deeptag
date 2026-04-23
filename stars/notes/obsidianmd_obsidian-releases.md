@@ -8,7 +8,7 @@ topics: [obsidian, obsidian-md]
 starred_at: "2024-07-26T04:13:47Z"
 tags:
   - tools
-  - misc
+  - awesome
 ---
 
 # obsidianmd/obsidian-releases

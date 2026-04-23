@@ -8,9 +8,10 @@ topics: [actor, actors, cloudflare, cloudflare-durable-objects, durable-objects,
 starred_at: "2023-08-28T06:54:18Z"
 tags:
   - coding
-  - networking
-  - distributed
-  - cloud
+  - systems
+  - rust
+  - concurrency
+  - library
 ---
 
 # rivet-dev/rivet

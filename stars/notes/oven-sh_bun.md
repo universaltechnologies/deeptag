@@ -8,13 +8,11 @@ topics: [bun, bundler, javascript, javascriptcore, jsx, nodejs, npm, react, tran
 starred_at: "2023-08-31T18:33:25Z"
 tags:
   - coding
+  - language
   - runtime
   - javascript
   - typescript
-  - nodejs
-  - performance
-  - test
-  - package
+  - tool
 ---
 
 # oven-sh/bun

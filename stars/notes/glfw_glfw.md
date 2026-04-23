@@ -7,11 +7,11 @@ stars: 14919
 topics: [c, linux, macos, opengl, opengl-es, unix, vulkan, windows]
 starred_at: "2015-10-31T13:16:13Z"
 tags:
-  - coding
-  - input
-  - library
+  - graphic
+  - platform
   - opengl
   - vulkan
+  - library
   - cross-platform
 ---
 

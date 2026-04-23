@@ -8,11 +8,10 @@ topics: [ai, diagrams, productivity]
 starred_at: "2025-12-25T13:32:31Z"
 tags:
   - coding
-  - ai
   - web
-  - frontend
-  - productivity
-  - awesome
+  - ai
+  - mcp
+  - tool
 ---
 
 # DayuanJiang/next-ai-draw-io

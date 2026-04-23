@@ -8,10 +8,9 @@ topics: [animations, hacktoberfest, manim, math, python]
 starred_at: "2021-11-10T05:09:53Z"
 tags:
   - coding
+  - media
   - animation
   - math
-  - rendering
-  - python
   - framework
 ---
 

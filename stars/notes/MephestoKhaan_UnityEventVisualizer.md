@@ -8,12 +8,10 @@ topics: []
 starred_at: "2020-09-29T10:28:43Z"
 tags:
   - coding
-  - editor
+  - engine
   - unity
   - gui
   - plugin
-  - visualization
-  - misc
 ---
 
 # MephestoKhaan/UnityEventVisualizer

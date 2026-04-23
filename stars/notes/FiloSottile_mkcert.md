@@ -10,8 +10,6 @@ tags:
   - coding
   - tools
   - security
-  - encryption
-  - cli
 ---
 
 # FiloSottile/mkcert

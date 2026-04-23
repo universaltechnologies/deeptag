@@ -8,10 +8,10 @@ topics: [computer-graphics, cpp, graphics-programming, reference, tutorial, vulk
 starred_at: "2022-06-03T04:20:50Z"
 tags:
   - graphic
+  - platform
   - vulkan
   - tutorial
   - book
-  - rendering
 ---
 
 # Overv/VulkanTutorial

@@ -10,9 +10,6 @@ tags:
   - tools
   - productivity
   - cross-platform
-  - python
-  - web
-  - database
 ---
 
 # ActivityWatch/activitywatch

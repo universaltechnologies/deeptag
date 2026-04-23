@@ -8,10 +8,8 @@ topics: []
 starred_at: "2022-05-09T01:46:55Z"
 tags:
   - coding
-  - api
   - web
-  - python
-  - cli
+  - library
 ---
 
 # egrcc/zhihu-python

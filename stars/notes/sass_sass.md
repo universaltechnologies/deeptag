@@ -8,10 +8,8 @@ topics: []
 starred_at: "2021-05-13T18:06:59Z"
 tags:
   - coding
-  - css
-  - frontend
-  - compiler
-  - cli
+  - web
+  - tool
 ---
 
 # sass/sass

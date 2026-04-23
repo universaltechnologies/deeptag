@@ -7,11 +7,12 @@ stars: 166
 topics: [android, graphics-rendering, measurements, quality, unity]
 starred_at: "2022-12-29T12:12:56Z"
 tags:
+  - coding
+  - engine
+  - unity
   - graphic
-  - rendering
-  - profiler
-  - opengl
-  - mobile
+  - platform
+  - performance
   - plugin
 ---
 

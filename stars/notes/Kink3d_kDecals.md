@@ -7,10 +7,12 @@ stars: 536
 topics: []
 starred_at: "2023-03-17T21:38:38Z"
 tags:
-  - graphic
-  - urp
-  - shader
+  - coding
+  - engine
   - unity
+  - urp
+  - graphic
+  - library
 ---
 
 # Kink3d/kDecals

@@ -9,10 +9,9 @@ starred_at: "2015-11-13T02:04:53Z"
 tags:
   - coding
   - cpp
+  - networking
   - header-only
   - binding
-  - networking
-  - raii
 ---
 
 # zeromq/cppzmq

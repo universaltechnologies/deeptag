@@ -10,7 +10,8 @@ tags:
   - coding
   - ai
   - llm
-  - security
+  - prompt
+  - library
 ---
 
 # elder-plinius/L1B3RT4S

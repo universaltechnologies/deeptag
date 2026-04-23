@@ -10,8 +10,9 @@ tags:
   - coding
   - ai
   - cv
+  - media
   - video
-  - inference
+  - tool
 ---
 
 # hacksider/Deep-Live-Cam

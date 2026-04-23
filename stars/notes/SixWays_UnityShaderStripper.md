@@ -7,12 +7,10 @@ stars: 376
 topics: []
 starred_at: "2023-03-17T21:42:05Z"
 tags:
-  - graphic
-  - shader
+  - coding
   - engine
   - unity
-  - csharp
-  - build
+  - plugin
 ---
 
 # SixWays/UnityShaderStripper

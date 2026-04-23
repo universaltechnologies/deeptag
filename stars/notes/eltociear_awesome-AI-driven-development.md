@@ -8,11 +8,10 @@ topics: [agent, ai, ai-development, ai-driven, aiagent, awesome, awesome-list, c
 starred_at: "2025-12-29T12:44:57Z"
 tags:
   - coding
-  - awesome
   - ai
-  - llm
   - agent
-  - tools
+  - llm
+  - awesome
 ---
 
 # eltociear/awesome-AI-driven-development

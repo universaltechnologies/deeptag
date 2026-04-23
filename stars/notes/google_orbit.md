@@ -10,9 +10,8 @@ tags:
   - coding
   - profiler
   - performance
-  - c
-  - debug
-  - visualization
+  - cpp
+  - tool
 ---
 
 # google/orbit

@@ -8,8 +8,11 @@ topics: [3d, 3d-generation, generative-model, iccv2025, mesh, transformers]
 starred_at: "2024-08-06T12:30:28Z"
 tags:
   - coding
-  - mesh
   - ai
+  - cv
+  - graphic
+  - mesh
+  - library
 ---
 
 # buaacyw/MeshAnythingV2

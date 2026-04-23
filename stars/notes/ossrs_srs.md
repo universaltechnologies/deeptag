@@ -8,9 +8,10 @@ topics: [audio, c, c-plus-plus, dash, hevc, hls, live, live-streaming, low-laten
 starred_at: "2025-06-10T07:06:47Z"
 tags:
   - coding
+  - media
   - video
-  - audio
   - server
+  - cpp
   - performance
 ---
 

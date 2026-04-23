@@ -9,9 +9,9 @@ starred_at: "2025-08-18T06:06:45Z"
 tags:
   - graphic
   - shader
-  - gltf
-  - webgl
+  - material
   - glsl
+  - gltf
   - plugin
 ---
 

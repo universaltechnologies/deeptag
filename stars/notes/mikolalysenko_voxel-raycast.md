@@ -8,8 +8,9 @@ topics: []
 starred_at: "2017-03-10T01:26:35Z"
 tags:
   - graphic
-  - voxel
-  - raymarching
+  - rendering
+  - ray-tracing
+  - library
 ---
 
 # mikolalysenko/voxel-raycast

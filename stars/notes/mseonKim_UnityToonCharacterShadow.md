@@ -7,13 +7,14 @@ stars: 23
 topics: []
 starred_at: "2025-06-04T11:04:58Z"
 tags:
-  - graphic
-  - shader
-  - toon
-  - shadow
-  - urp
+  - coding
   - engine
   - unity
+  - graphic
+  - shader
+  - lighting
+  - shadowmap
+  - plugin
 ---
 
 # mseonKim/UnityToonCharacterShadow

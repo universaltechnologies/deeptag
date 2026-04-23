@@ -8,10 +8,8 @@ topics: [c, cmake, cplusplus, cpp, libraries, package-manager, packages, vcpkg, 
 starred_at: "2021-12-21T06:15:19Z"
 tags:
   - coding
-  - build
-  - package
-  - windows
-  - linux
+  - cpp
+  - tool
   - cross-platform
 ---
 

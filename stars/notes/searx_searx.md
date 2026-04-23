@@ -7,10 +7,9 @@ stars: 13501
 topics: [metasearch, metasearch-engine, python, search, search-engine]
 starred_at: "2023-02-07T16:53:42Z"
 tags:
-  - coding
   - web
   - search
-  - self-hosted
+  - tool
 ---
 
 # searx/searx

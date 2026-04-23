@@ -7,11 +7,12 @@ stars: 753
 topics: [fluid, fluid-particles, pbd-fluid, position-based-dynamics, simulation, unity]
 starred_at: "2023-02-14T16:23:57Z"
 tags:
-  - graphic
-  - compute-shader
-  - volume
-  - raymarching
-  - physics
+  - coding
+  - engine
+  - unity
+  - game
+  - simulation
+  - gpu
 ---
 
 # Scrawk/PBD-Fluid-in-Unity

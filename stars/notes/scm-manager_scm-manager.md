@@ -9,9 +9,7 @@ starred_at: "2021-11-18T07:35:05Z"
 tags:
   - coding
   - git
-  - networking
-  - server
-  - java
+  - plugin
 ---
 
 # scm-manager/scm-manager

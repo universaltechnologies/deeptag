@@ -9,9 +9,8 @@ starred_at: "2025-11-04T23:41:03Z"
 tags:
   - coding
   - web
-  - frontend
   - tools
-  - visualization
+  - tool
 ---
 
 # stan-smith/FossFLOW

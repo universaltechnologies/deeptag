@@ -8,11 +8,9 @@ topics: []
 starred_at: "2025-06-04T12:40:20Z"
 tags:
   - graphic
-  - shadow
   - shader
+  - shadow
   - unity
-  - mobile
-  - web
 ---
 
 # wonkee-kim/unity-fake-character-shadows

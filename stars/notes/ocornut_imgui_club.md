@@ -8,10 +8,10 @@ topics: []
 starred_at: "2023-02-23T17:08:19Z"
 tags:
   - coding
+  - gui
   - ui
-  - editor
-  - concurrency
-  - debug
+  - library
+  - c
 ---
 
 # ocornut/imgui_club

@@ -9,10 +9,9 @@ starred_at: "2020-01-06T14:44:52Z"
 tags:
   - coding
   - ai
-  - cpp
-  - gpu
-  - networking
-  - distributed
+  - ml
+  - rl
+  - tool
 ---
 
 # leela-zero/leela-zero

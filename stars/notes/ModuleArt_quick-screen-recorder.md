@@ -8,10 +8,11 @@ topics: [app, application, audio-recorder, avi, csharp, desktop, desktop-app, de
 starred_at: "2022-11-18T07:33:26Z"
 tags:
   - coding
-  - video
+  - media
   - windows
-  - dotnet
   - desktop
+  - tool
+  - dotnet
 ---
 
 # ModuleArt/quick-screen-recorder

@@ -10,8 +10,8 @@ tags:
   - coding
   - engine
   - 2d
-  - gameplay
-  - misc
+  - performance
+  - library
 ---
 
 # DaveGreen-Games/ShapeEngine

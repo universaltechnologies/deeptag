@@ -8,11 +8,10 @@ topics: [airflow, argo, argo-workflows, batch-processing, cloud-native, cncf, da
 starred_at: "2024-11-29T08:34:24Z"
 tags:
   - coding
-  - workflow
+  - systems
+  - cloud
   - automation
-  - pipeline
-  - docker
-  - distributed
+  - workflow
 ---
 
 # argoproj/argo-workflows

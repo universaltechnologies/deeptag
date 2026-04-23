@@ -7,12 +7,15 @@ stars: 6594
 topics: [cplusplus, cpp, game-development, game-engine, imgui, physics, rendering, vulkan]
 starred_at: "2023-03-16T01:52:45Z"
 tags:
-  - graphic
   - coding
   - engine
+  - game
+  - graphic
+  - rendering
+  - platform
   - vulkan
   - physics
-  - rendering
+  - cross-platform
 ---
 
 # BoomingTech/Piccolo

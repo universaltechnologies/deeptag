@@ -7,9 +7,8 @@ stars: 6763
 topics: [chrome-extension, notion, onenote, readability, web-clipper, yuque]
 starred_at: "2022-11-15T06:16:40Z"
 tags:
-  - tools
   - web
-  - browser
+  - tool
   - plugin
 ---
 

@@ -9,8 +9,7 @@ starred_at: "2018-11-27T06:11:56Z"
 tags:
   - coding
   - robotics
-  - visualization
-  - middleware
+  - library
 ---
 
 # blumenthal/sherpa_world_model_tf_bridge

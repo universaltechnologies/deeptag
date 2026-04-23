@@ -12,7 +12,8 @@ tags:
   - llm
   - agent
   - rag
-  - server
+  - mcp
+  - tool
 ---
 
 # 1Panel-dev/MaxKB

@@ -9,14 +9,9 @@ starred_at: "2020-05-26T02:51:38Z"
 tags:
   - coding
   - graphic
+  - rendering
   - plugin
   - unity
-  - opengl
-  - vulkan
-  - directx
-  - metal
-  - texture
-  - mesh
 ---
 
 # Unity-Technologies/NativeRenderingPlugin

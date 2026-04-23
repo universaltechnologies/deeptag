@@ -8,9 +8,8 @@ topics: []
 starred_at: "2022-06-03T10:16:52Z"
 tags:
   - graphic
+  - platform
   - opengl
-  - rendering
-  - rhi
   - book
 ---
 

@@ -8,9 +8,10 @@ topics: [runtime, spritesheets, unity]
 starred_at: "2023-10-07T06:04:05Z"
 tags:
   - coding
+  - engine
   - unity
   - runtime
-  - image
+  - plugin
 ---
 
 # DaVikingCode/UnityRuntimeSpriteSheetsGenerator

@@ -7,12 +7,10 @@ stars: 2394
 topics: [awesome, awesome-list, computer-graphics, game-development, glsl-editors, graphics-pipeline, lists, opengl, opengl-library, opengl-tutorial, video-tutorial]
 starred_at: "2022-10-07T14:59:14Z"
 tags:
-  - awesome
-  - opengl
   - graphic
-  - tutorial
-  - debug
-  - shader
+  - platform
+  - opengl
+  - awesome
 ---
 
 # eug/awesome-opengl

@@ -8,11 +8,11 @@ topics: []
 starred_at: "2023-03-14T05:26:30Z"
 tags:
   - coding
-  - compiler
+  - cpp
   - distributed
-  - build
-  - ci
-  - linux
+  - compiler
+  - tool
+  - cross-platform
 ---
 
 # icecc/icecream

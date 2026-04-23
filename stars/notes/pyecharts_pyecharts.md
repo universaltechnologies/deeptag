@@ -9,8 +9,7 @@ starred_at: "2019-12-16T07:38:27Z"
 tags:
   - coding
   - visualization
-  - web
-  - frontend
+  - library
 ---
 
 # pyecharts/pyecharts

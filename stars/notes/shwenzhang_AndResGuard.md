@@ -8,10 +8,9 @@ topics: []
 starred_at: "2023-07-05T02:44:16Z"
 tags:
   - coding
-  - android
   - build
-  - compression
-  - optimization
+  - android
+  - tool
 ---
 
 # shwenzhang/AndResGuard

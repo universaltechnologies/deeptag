@@ -8,10 +8,9 @@ topics: []
 starred_at: "2018-05-18T03:47:47Z"
 tags:
   - coding
-  - csharp
   - algorithm
-  - unity
-  - 3d
+  - csharp
+  - library
 ---
 
 # Unity-Technologies/UnityOctree

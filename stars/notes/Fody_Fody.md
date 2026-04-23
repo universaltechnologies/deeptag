@@ -8,9 +8,9 @@ topics: []
 starred_at: "2023-01-03T13:13:24Z"
 tags:
   - coding
-  - csharp
-  - compiler
-  - plugin
+  - dotnet
+  - tool
+  - library
 ---
 
 # Fody/Fody

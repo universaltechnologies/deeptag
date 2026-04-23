@@ -8,10 +8,8 @@ topics: [baduk, cplusplus, go, opencl, wxwidgets]
 starred_at: "2025-07-16T03:05:48Z"
 tags:
   - coding
-  - gui
   - game
-  - ai
-  - cpp
+  - gui
 ---
 
 # gcp/LeelaGUI

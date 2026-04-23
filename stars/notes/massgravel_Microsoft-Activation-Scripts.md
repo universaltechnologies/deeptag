@@ -9,7 +9,6 @@ starred_at: "2023-11-12T17:11:39Z"
 tags:
   - tools
   - windows
-  - automation
 ---
 
 # massgravel/Microsoft-Activation-Scripts

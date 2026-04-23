@@ -8,11 +8,10 @@ topics: []
 starred_at: "2025-10-16T03:17:15Z"
 tags:
   - coding
-  - webgpu
-  - rhi
-  - rendering
   - rust
-  - binding
+  - rhi
+  - webgpu
+  - library
 ---
 
 # gfx-rs/wgpu-native

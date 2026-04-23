@@ -8,10 +8,9 @@ topics: []
 starred_at: "2017-03-16T11:59:40Z"
 tags:
   - coding
+  - systems
   - filesystem
-  - math
-  - linux
-  - misc
+  - tool
 ---
 
 # philipl/pifs

@@ -8,11 +8,12 @@ topics: []
 starred_at: "2025-04-17T03:15:40Z"
 tags:
   - coding
+  - engine
   - unity
-  - performance
-  - atlas
+  - graphic
+  - material
   - texture
-  - optimization
+  - performance
 ---
 
 # kuronekoyang/KuroDynamicAtlas

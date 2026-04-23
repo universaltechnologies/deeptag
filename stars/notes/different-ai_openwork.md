@@ -10,9 +10,8 @@ tags:
   - coding
   - ai
   - agent
-  - workflow
-  - typescript
-  - automation
+  - desktop
+  - tool
 ---
 
 # different-ai/openwork

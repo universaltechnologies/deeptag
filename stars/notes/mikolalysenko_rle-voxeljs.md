@@ -8,10 +8,10 @@ topics: []
 starred_at: "2017-03-10T01:26:31Z"
 tags:
   - coding
-  - voxel
-  - javascript
   - library
-  - algorithm
+  - javascript
+  - graphic
+  - voxel
 ---
 
 # mikolalysenko/rle-voxeljs

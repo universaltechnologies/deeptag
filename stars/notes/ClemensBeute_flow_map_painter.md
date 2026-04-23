@@ -8,9 +8,9 @@ topics: []
 starred_at: "2024-11-15T09:11:27Z"
 tags:
   - graphic
-  - 3d
-  - shader
-  - texture
+  - material
+  - plugin
+  - tool
 ---
 
 # ClemensBeute/flow_map_painter

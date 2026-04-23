@@ -12,7 +12,7 @@ tags:
   - agent
   - llm
   - rag
-  - cli
+  - tool
 ---
 
 # HKUDS/DeepTutor

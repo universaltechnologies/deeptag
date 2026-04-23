@@ -9,9 +9,9 @@ starred_at: "2018-11-27T05:49:56Z"
 tags:
   - coding
   - web
-  - webgl
-  - engine
   - game
+  - graphic
+  - 3d
 ---
 
 # BKcore/HexGL

@@ -8,7 +8,10 @@ topics: []
 starred_at: "2023-10-12T06:24:27Z"
 tags:
   - coding
+  - language
+  - spec
   - protocol
+  - ide
 ---
 
 # microsoft/language-server-protocol

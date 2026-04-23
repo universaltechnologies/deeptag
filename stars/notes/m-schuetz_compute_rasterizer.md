@@ -8,10 +8,11 @@ topics: []
 starred_at: "2023-02-14T17:56:49Z"
 tags:
   - graphic
-  - compute-shader
-  - rasterization
   - rendering
-  - opengl
+  - rasterization
+  - shader
+  - compute-shader
+  - performance
 ---
 
 # m-schuetz/compute_rasterizer

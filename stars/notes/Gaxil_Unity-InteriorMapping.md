@@ -8,9 +8,10 @@ topics: []
 starred_at: "2024-01-19T13:35:33Z"
 tags:
   - coding
-  - shader
+  - engine
   - unity
-  - rendering
+  - graphic
+  - shader
 ---
 
 # Gaxil/Unity-InteriorMapping

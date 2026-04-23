@@ -7,12 +7,12 @@ stars: 1323
 topics: [cross-platform, fastnoise, magnum, node-graph, noise, noise-algorithms, noise-generator, perlin-noise, procedural-generation, simd, simplex, terrain-generation, texture-generation]
 starred_at: "2023-04-28T19:15:19Z"
 tags:
-  - coding
-  - library
-  - simd
+  - graphic
   - procedural
-  - algorithm
-  - template
+  - simd
+  - cpp
+  - library
+  - performance
 ---
 
 # Auburn/FastNoise2

@@ -8,10 +8,8 @@ topics: []
 starred_at: "2024-10-10T03:36:22Z"
 tags:
   - coding
-  - c
-  - algorithm
-  - optimization
   - header-only
+  - library
 ---
 
 # zuiderkwast/nanbox

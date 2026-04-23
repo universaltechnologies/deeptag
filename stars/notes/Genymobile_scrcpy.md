@@ -8,9 +8,10 @@ topics: [android, c, ffmpeg, libav, mirroring, recording, screen, sdl2]
 starred_at: "2023-02-11T02:46:03Z"
 tags:
   - coding
-  - video
+  - systems
   - android
-  - audio
+  - video
+  - tool
   - performance
 ---
 

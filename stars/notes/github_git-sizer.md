@@ -9,7 +9,8 @@ starred_at: "2026-04-17T06:11:46Z"
 tags:
   - coding
   - git
-  - cli
+  - tool
+  - performance
 ---
 
 # github/git-sizer

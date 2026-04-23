@@ -8,10 +8,10 @@ topics: [confuserex, confusion, hybridclr, luban, obfuscation, obfuscator, unity
 starred_at: "2025-07-31T10:32:14Z"
 tags:
   - coding
-  - security
-  - encryption
+  - engine
   - unity
-  - reverse
+  - plugin
+  - security
 ---
 
 # focus-creative-games/obfuz

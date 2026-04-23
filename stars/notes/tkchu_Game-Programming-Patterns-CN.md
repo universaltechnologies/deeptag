@@ -8,10 +8,9 @@ topics: [book, chinese-translation, game]
 starred_at: "2017-04-30T09:10:54Z"
 tags:
   - coding
-  - architecture
+  - game
+  - practice
   - book
-  - cpp
-  - template
 ---
 
 # tkchu/Game-Programming-Patterns-CN

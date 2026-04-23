@@ -8,11 +8,9 @@ topics: [crowler, spider]
 starred_at: "2017-06-09T09:15:22Z"
 tags:
   - coding
-  - go
-  - framework
+  - web
   - distributed
-  - concurrency
-  - networking
+  - framework
 ---
 
 # andeya/pholcus

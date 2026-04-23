@@ -8,9 +8,11 @@ topics: [framerate-fixer, gaming, hdr, latency-analysis, modding-games, reverse-
 starred_at: "2025-06-13T11:43:27Z"
 tags:
   - coding
-  - windows
-  - reverse
+  - cpp
   - profiler
+  - debug
+  - reverse
+  - tool
 ---
 
 # SpecialKO/SpecialK

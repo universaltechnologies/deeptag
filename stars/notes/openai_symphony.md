@@ -8,10 +8,10 @@ topics: []
 starred_at: "2026-03-14T12:05:59Z"
 tags:
   - coding
+  - ai
   - agent
-  - automation
   - workflow
-  - ci
+  - tool
 ---
 
 # openai/symphony

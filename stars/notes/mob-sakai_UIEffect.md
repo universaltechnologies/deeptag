@@ -8,10 +8,11 @@ topics: [blur, burn, component, contrast, edge-detection, effect, grayscale, hsv
 starred_at: "2024-08-30T06:35:43Z"
 tags:
   - coding
-  - shader
-  - ui
+  - engine
   - unity
-  - component
+  - graphic
+  - shader
+  - library
 ---
 
 # mob-sakai/UIEffect

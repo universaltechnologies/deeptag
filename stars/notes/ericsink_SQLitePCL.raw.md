@@ -8,11 +8,10 @@ topics: []
 starred_at: "2025-12-20T13:22:18Z"
 tags:
   - coding
-  - csharp
   - database
   - sql
   - dotnet
-  - binding
+  - library
 ---
 
 # ericsink/SQLitePCL.raw

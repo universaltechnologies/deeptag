@@ -9,9 +9,8 @@ starred_at: "2026-03-06T10:42:36Z"
 tags:
   - coding
   - ai
-  - agent
-  - security
   - rust
+  - tool
 ---
 
 # nearai/ironclaw

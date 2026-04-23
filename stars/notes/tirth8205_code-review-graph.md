@@ -10,6 +10,8 @@ tags:
   - coding
   - ai
   - llm
+  - mcp
+  - library
 ---
 
 # tirth8205/code-review-graph

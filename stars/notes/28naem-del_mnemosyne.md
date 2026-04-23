@@ -10,9 +10,7 @@ tags:
   - coding
   - ai
   - agent
-  - vector
-  - llm
-  - embeddings
+  - library
 ---
 
 # 28naem-del/mnemosyne

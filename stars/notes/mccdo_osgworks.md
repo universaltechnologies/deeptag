@@ -8,10 +8,10 @@ topics: []
 starred_at: "2016-01-25T09:40:59Z"
 tags:
   - graphic
-  - rendering
+  - scene
   - library
-  - middleware
-  - debug
+  - tool
+  - cpp
 ---
 
 # mccdo/osgworks

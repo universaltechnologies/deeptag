@@ -8,10 +8,9 @@ topics: [backlight, backlight-brightness, brightness, brightness-control, bright
 starred_at: "2023-11-18T04:38:21Z"
 tags:
   - coding
+  - desktop
   - windows
-  - electron
-  - ui
-  - automation
+  - tool
 ---
 
 # xanderfrangos/twinkle-tray

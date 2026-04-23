@@ -7,12 +7,11 @@ stars: 2288
 topics: []
 starred_at: "2017-02-20T14:41:59Z"
 tags:
+  - graphic
+  - scene
   - coding
   - library
-  - 3d
-  - math
-  - robotics
-  - visualization
+  - framework
 ---
 
 # OctoMap/octomap

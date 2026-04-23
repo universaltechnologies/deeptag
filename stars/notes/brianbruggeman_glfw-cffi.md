@@ -8,11 +8,10 @@ topics: [cffi, glfw, glfw-cffi, opengl, python]
 starred_at: "2020-08-27T14:37:08Z"
 tags:
   - coding
-  - ffi
-  - binding
   - python
   - opengl
-  - misc
+  - library
+  - binding
 ---
 
 # brianbruggeman/glfw-cffi

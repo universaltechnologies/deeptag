@@ -9,8 +9,7 @@ starred_at: "2022-02-24T07:00:05Z"
 tags:
   - coding
   - database
-  - binding
-  - python
+  - library
 ---
 
 # jnwatson/py-lmdb

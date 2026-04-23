@@ -10,9 +10,7 @@ tags:
   - coding
   - ai
   - cv
-  - inference
-  - llm
-  - image
+  - tool
 ---
 
 # s-smits/ui-screenshot-to-prompt

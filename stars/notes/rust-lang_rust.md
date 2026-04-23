@@ -8,8 +8,8 @@ topics: [compiler, language, rust]
 starred_at: "2020-04-16T07:55:43Z"
 tags:
   - coding
+  - language
   - compiler
-  - runtime
 ---
 
 # rust-lang/rust

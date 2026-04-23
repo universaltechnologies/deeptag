@@ -9,7 +9,7 @@ starred_at: "2017-03-01T03:19:43Z"
 tags:
   - coding
   - gui
-  - cpp
+  - library
 ---
 
 # walkerka/QtNodeEditor

@@ -10,10 +10,9 @@ tags:
   - coding
   - engine
   - unity
+  - game
   - ecs
-  - gameplay
   - simulation
-  - csharp
 ---
 
 # Unity-Technologies/ECSGalaxySample

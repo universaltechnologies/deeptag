@@ -9,10 +9,8 @@ starred_at: "2025-12-17T02:50:21Z"
 tags:
   - coding
   - ai
+  - ml
   - inference
-  - llm
-  - audio
-  - misc
 ---
 
 # facebookresearch/seamless_communication

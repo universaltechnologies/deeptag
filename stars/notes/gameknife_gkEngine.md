@@ -7,12 +7,12 @@ stars: 498
 topics: []
 starred_at: "2017-02-03T07:23:28Z"
 tags:
-  - graphic
   - coding
   - engine
+  - graphic
+  - rendering
   - pbr
-  - pipeline
-  - profiler
+  - platform
   - cross-platform
 ---
 

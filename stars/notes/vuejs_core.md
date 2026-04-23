@@ -7,12 +7,10 @@ stars: 53479
 topics: []
 starred_at: "2026-04-14T17:14:34Z"
 tags:
-  - coding
-  - framework
   - web
   - frontend
   - ui
-  - javascript
+  - framework
 ---
 
 # vuejs/core

@@ -8,10 +8,10 @@ topics: [algorithm, animation, data-structure, visualization]
 starred_at: "2024-12-06T06:44:38Z"
 tags:
   - coding
-  - web
-  - frontend
-  - visualization
   - algorithm
+  - visualization
+  - web
+  - tool
 ---
 
 # algorithm-visualizer/algorithm-visualizer

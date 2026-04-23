@@ -8,11 +8,11 @@ topics: [text-to-motion]
 starred_at: "2026-04-16T16:51:42Z"
 tags:
   - coding
+  - ai
   - diffusion
+  - graphic
   - animation
-  - inference
-  - python
-  - framework
+  - library
 ---
 
 # ShandaAI/FloodDiffusion

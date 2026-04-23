@@ -8,10 +8,11 @@ topics: []
 starred_at: "2025-11-13T12:46:51Z"
 tags:
   - coding
+  - media
   - font
   - web
-  - javascript
-  - python
+  - frontend
+  - tool
 ---
 
 # googlefonts/fontra

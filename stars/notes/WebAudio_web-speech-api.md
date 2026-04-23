@@ -10,7 +10,8 @@ tags:
   - coding
   - web
   - api
-  - audio
+  - voice
+  - spec
 ---
 
 # WebAudio/web-speech-api

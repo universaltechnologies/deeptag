@@ -8,16 +8,8 @@ topics: [bot, chatbot, conversational-ai, framework, qq, robotics, wechat, wecha
 starred_at: "2022-12-08T18:13:10Z"
 tags:
   - coding
-  - framework
-  - typescript
-  - python
-  - go
-  - java
-  - dotnet
-  - automation
-  - workflow
-  - docker
-  - networking
+  - ai
+  - library
 ---
 
 # wechaty/wechaty

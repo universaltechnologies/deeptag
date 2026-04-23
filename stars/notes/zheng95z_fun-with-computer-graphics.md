@@ -9,9 +9,6 @@ starred_at: "2023-03-17T21:30:46Z"
 tags:
   - graphic
   - rendering
-  - pbr
-  - ray-tracing
-  - path-tracing
   - awesome
 ---
 

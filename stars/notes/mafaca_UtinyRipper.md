@@ -7,10 +7,10 @@ stars: 3062
 topics: [asset, assetbundle, bundle, debug, extract, project, resource, ripper, source, unity, unity3d, unpack, viewer]
 starred_at: "2022-03-10T06:33:42Z"
 tags:
-  - tools
+  - coding
+  - engine
   - unity
-  - gui
-  - serialization
+  - tool
 ---
 
 # mafaca/UtinyRipper

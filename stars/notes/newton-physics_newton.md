@@ -10,10 +10,8 @@ tags:
   - coding
   - physics
   - robotics
-  - simulation
   - gpu
-  - cuda
-  - python
+  - library
 ---
 
 # newton-physics/newton

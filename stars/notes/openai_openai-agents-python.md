@@ -9,9 +9,10 @@ starred_at: "2026-04-17T20:49:50Z"
 tags:
   - coding
   - ai
-  - llm
   - agent
+  - llm
   - framework
+  - mcp
 ---
 
 # openai/openai-agents-python

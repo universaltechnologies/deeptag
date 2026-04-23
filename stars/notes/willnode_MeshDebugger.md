@@ -7,11 +7,12 @@ stars: 126
 topics: [debugging-tool, editor, mesh, unity, unity3d]
 starred_at: "2023-04-10T15:15:03Z"
 tags:
+  - coding
+  - engine
+  - unity
   - graphic
   - mesh
-  - debug
-  - unity
-  - editor
+  - plugin
 ---
 
 # willnode/MeshDebugger

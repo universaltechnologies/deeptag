@@ -7,10 +7,9 @@ stars: 19937
 topics: []
 starred_at: "2017-06-16T14:14:18Z"
 tags:
-  - misc
-  - tutorial
-  - book
-  - coding
+  - tools
+  - office
+  - awesome
 ---
 
 # programthink/books

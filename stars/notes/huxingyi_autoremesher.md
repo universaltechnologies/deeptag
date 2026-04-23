@@ -8,11 +8,9 @@ topics: [quadremesh, retopology]
 starred_at: "2023-04-10T14:38:25Z"
 tags:
   - graphic
-  - mesh
-  - modeling
+  - scene
   - geometry
-  - algorithm
-  - tools
+  - tool
 ---
 
 # huxingyi/autoremesher

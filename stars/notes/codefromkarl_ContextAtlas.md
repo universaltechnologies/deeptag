@@ -10,9 +10,9 @@ tags:
   - coding
   - ai
   - rag
-  - search
-  - database
-  - cli
+  - mcp
+  - library
+  - tool
 ---
 
 # codefromkarl/ContextAtlas

@@ -8,11 +8,10 @@ topics: []
 starred_at: "2025-07-12T18:51:20Z"
 tags:
   - coding
-  - typescript
-  - cli
-  - plugin
   - ai
-  - llm
+  - tool
+  - cli
+  - typescript
 ---
 
 # musistudio/claude-code-router

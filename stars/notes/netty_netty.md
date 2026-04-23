@@ -9,10 +9,9 @@ starred_at: "2023-06-15T09:18:29Z"
 tags:
   - coding
   - networking
-  - async
   - java
+  - async
   - framework
-  - performance
 ---
 
 # netty/netty

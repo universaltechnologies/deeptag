@@ -9,9 +9,7 @@ starred_at: "2023-04-24T12:23:26Z"
 tags:
   - coding
   - monitoring
-  - distributed
-  - pipeline
-  - server
+  - tool
 ---
 
 # open-telemetry/opentelemetry-collector

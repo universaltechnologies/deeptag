@@ -8,10 +8,9 @@ topics: []
 starred_at: "2023-12-12T03:13:44Z"
 tags:
   - coding
+  - ai
   - llm
   - framework
-  - benchmark
-  - ai
 ---
 
 # openai/evals

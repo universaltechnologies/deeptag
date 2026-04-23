@@ -8,9 +8,10 @@ topics: []
 starred_at: "2026-02-03T01:39:01Z"
 tags:
   - coding
-  - tutorial
+  - ai
   - rag
   - llm
+  - tutorial
 ---
 
 # langchain-ai/rag-from-scratch

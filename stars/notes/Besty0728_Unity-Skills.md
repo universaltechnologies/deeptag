@@ -8,11 +8,11 @@ topics: [ai, antygravity-ai, chatgpt, claude, claudecode, codex, gemini-cli, gem
 starred_at: "2026-03-04T12:19:26Z"
 tags:
   - coding
-  - engine
   - ai
+  - engine
+  - unity
   - automation
-  - api
-  - editor
+  - tool
 ---
 
 # Besty0728/Unity-Skills

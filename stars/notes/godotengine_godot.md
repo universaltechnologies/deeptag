@@ -8,12 +8,11 @@ topics: [game-development, game-engine, gamedev, godot, godotengine, multi-platf
 starred_at: "2017-02-07T03:52:48Z"
 tags:
   - coding
-  - godot
   - engine
-  - editor
+  - godot
+  - game
   - cross-platform
-  - 2d
-  - 3d
+  - framework
 ---
 
 # godotengine/godot

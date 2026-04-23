@@ -8,10 +8,11 @@ topics: [analytics, big-data, data-science, database, databases, datalake, delta
 starred_at: "2023-09-18T07:24:20Z"
 tags:
   - coding
+  - data
+  - database
   - sql
   - distributed
-  - database
-  - server
+  - java
 ---
 
 # trinodb/trino

@@ -12,7 +12,7 @@ tags:
   - agent
   - llm
   - rl
-  - framework
+  - library
 ---
 
 # microsoft/agent-lightning

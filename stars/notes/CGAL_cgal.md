@@ -8,11 +8,9 @@ topics: [algorithms, arrange, boolean-operations, c-plus-plus, cgal, computation
 starred_at: "2021-09-29T06:54:08Z"
 tags:
   - coding
-  - library
-  - algorithm
-  - geometry
   - cpp
   - header-only
+  - library
 ---
 
 # CGAL/cgal

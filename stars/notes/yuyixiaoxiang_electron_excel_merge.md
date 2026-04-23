@@ -7,12 +7,11 @@ stars: 38
 topics: []
 starred_at: "2026-03-11T08:33:57Z"
 tags:
-  - coding
-  - desktop
+  - tools
   - electron
-  - productivity
+  - desktop
   - office
-  - windows
+  - tool
 ---
 
 # yuyixiaoxiang/electron_excel_merge

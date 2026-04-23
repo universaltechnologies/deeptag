@@ -11,7 +11,6 @@ tags:
   - cpp
   - concurrency
   - tutorial
-  - book
 ---
 
 # forhappy/Cplusplus-Concurrency-In-Practice

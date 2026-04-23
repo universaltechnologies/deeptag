@@ -8,8 +8,9 @@ topics: [glsl, gpu, imgui, opengl, procgen, shaders, texture, tool]
 starred_at: "2023-02-23T17:23:02Z"
 tags:
   - graphic
+  - material
   - texture
-  - shader
+  - tool
   - opengl
   - glsl
 ---

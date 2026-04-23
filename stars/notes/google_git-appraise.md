@@ -10,8 +10,8 @@ tags:
   - coding
   - git
   - cli
+  - tool
   - distributed
-  - workflow
 ---
 
 # google/git-appraise

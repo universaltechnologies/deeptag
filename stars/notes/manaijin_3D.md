@@ -8,9 +8,7 @@ topics: []
 starred_at: "2022-03-10T08:17:53Z"
 tags:
   - graphic
-  - engine
-  - rendering
-  - 3d
+  - pipeline
 ---
 
 # manaijin/3D

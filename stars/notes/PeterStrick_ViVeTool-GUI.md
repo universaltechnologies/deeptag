@@ -8,10 +8,10 @@ topics: [feature-control, gui, mach2, vb-net, vbnet, vive, vivetool, windows, wi
 starred_at: "2024-11-02T08:24:08Z"
 tags:
   - coding
-  - ui
   - dotnet
   - windows
-  - automation
+  - gui
+  - tool
 ---
 
 # PeterStrick/ViVeTool-GUI

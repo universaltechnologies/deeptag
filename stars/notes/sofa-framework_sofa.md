@@ -8,10 +8,10 @@ topics: [cpp, engine, framework, medical, physics, real-time, research, simulati
 starred_at: "2025-05-22T06:16:49Z"
 tags:
   - coding
-  - simulation
   - physics
+  - simulation
+  - cpp
   - framework
-  - engine
 ---
 
 # sofa-framework/sofa

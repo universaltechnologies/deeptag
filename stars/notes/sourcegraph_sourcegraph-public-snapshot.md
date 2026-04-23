@@ -8,12 +8,10 @@ topics: [code-intelligence, code-search, cody, repo-type-main, sourcegraph]
 starred_at: "2024-06-21T02:59:50Z"
 tags:
   - coding
-  - search
   - ai
-  - llm
+  - tools
   - self-hosted
-  - web
-  - backend
+  - platform
 ---
 
 # sourcegraph/sourcegraph-public-snapshot

@@ -9,7 +9,7 @@ starred_at: "2023-02-23T17:37:55Z"
 tags:
   - coding
   - gui
-  - editor
+  - tool
 ---
 
 # Raais/ImStudio

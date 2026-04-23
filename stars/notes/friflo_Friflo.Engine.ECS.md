@@ -8,9 +8,11 @@ topics: [csharp, data-oriented, data-oriented-design, dotnet, ecs, ecs-framework
 starred_at: "2024-09-14T03:24:43Z"
 tags:
   - coding
+  - engine
+  - game
   - ecs
-  - csharp
   - performance
+  - library
 ---
 
 # friflo/Friflo.Engine.ECS

@@ -8,12 +8,10 @@ topics: [bitbucket, editor, extension, git, github, package, package-manager, un
 starred_at: "2022-11-08T08:55:51Z"
 tags:
   - coding
-  - editor
-  - git
-  - ui
+  - engine
   - unity
+  - git
   - plugin
-  - workflow
 ---
 
 # mob-sakai/UpmGitExtension

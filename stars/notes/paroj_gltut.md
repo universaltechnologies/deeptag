@@ -8,6 +8,7 @@ topics: [opengl, tutorial]
 starred_at: "2023-08-15T06:01:34Z"
 tags:
   - graphic
+  - rendering
   - opengl
   - tutorial
 ---

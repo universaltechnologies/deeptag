@@ -8,11 +8,10 @@ topics: [behavior-tree, behavior-trees, bt, fsm, game, game-ai, htn, unity]
 starred_at: "2020-09-30T13:35:06Z"
 tags:
   - coding
+  - game
   - ai
-  - gameplay
-  - engine
-  - editor
   - framework
+  - cross-platform
 ---
 
 # Tencent/behaviac

@@ -8,11 +8,8 @@ topics: []
 starred_at: "2016-04-13T14:03:38Z"
 tags:
   - coding
-  - tutorial
   - cpp
-  - language
-  - book
-  - practice
+  - tutorial
 ---
 
 # CppCon/CppCon2015

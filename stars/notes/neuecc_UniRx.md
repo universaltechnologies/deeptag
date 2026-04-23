@@ -8,10 +8,10 @@ topics: [c-sharp, linq, reactive-extensions, rx, unirx, unity]
 starred_at: "2019-05-09T09:36:46Z"
 tags:
   - coding
-  - framework
-  - async
   - engine
   - unity
+  - csharp
+  - library
 ---
 
 # neuecc/UniRx

@@ -7,11 +7,11 @@ stars: 12
 topics: [burst-compiler, csharp, job-system, skinning, unity]
 starred_at: "2023-11-16T03:42:56Z"
 tags:
-  - graphic
-  - animation
-  - mesh
-  - optimization
+  - coding
+  - engine
+  - unity
   - performance
+  - library
 ---
 
 # TriceHelix/BurstSkinning

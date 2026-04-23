@@ -8,8 +8,8 @@ topics: []
 starred_at: "2017-02-08T00:58:25Z"
 tags:
   - coding
-  - cpp
-  - misc
+  - algorithm
+  - book
 ---
 
 # shelllee/design_patterns

@@ -8,11 +8,10 @@ topics: []
 starred_at: "2016-04-12T15:46:06Z"
 tags:
   - graphic
+  - platform
   - opengl
-  - binding
-  - header-only
-  - coding
-  - python
+  - tool
+  - library
 ---
 
 # skaslev/gl3w

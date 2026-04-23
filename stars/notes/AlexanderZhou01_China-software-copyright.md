@@ -7,8 +7,10 @@ stars: 4233
 topics: []
 starred_at: "2025-10-27T06:31:38Z"
 tags:
-  - coding
-  - misc
+  - tools
+  - office
+  - template
+  - tutorial
 ---
 
 # AlexanderZhou01/China-software-copyright

@@ -9,7 +9,7 @@ starred_at: "2021-05-19T16:07:02Z"
 tags:
   - coding
   - automation
-  - python
+  - tool
 ---
 
 # heliclei/githubtools

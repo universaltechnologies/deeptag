@@ -10,8 +10,7 @@ tags:
   - coding
   - algorithm
   - tutorial
-  - java
-  - animation
+  - visualization
 ---
 
 # MisterBooo/LeetCodeAnimation

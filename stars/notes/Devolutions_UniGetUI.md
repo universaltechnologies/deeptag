@@ -8,8 +8,11 @@ topics: [chocolatey, cli, npm, package, package-manager, pip, scoop, unigetui, w
 starred_at: "2026-02-09T15:18:10Z"
 tags:
   - coding
+  - tools
+  - gui
   - windows
-  - package
+  - tool
+  - cross-platform
 ---
 
 # Devolutions/UniGetUI

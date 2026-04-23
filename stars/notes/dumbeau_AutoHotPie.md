@@ -7,11 +7,11 @@ stars: 471
 topics: [autohotkey, radial-menus]
 starred_at: "2024-06-11T08:31:26Z"
 tags:
-  - coding
+  - tools
   - windows
-  - input
+  - ui
   - automation
-  - workflow
+  - tool
 ---
 
 # dumbeau/AutoHotPie

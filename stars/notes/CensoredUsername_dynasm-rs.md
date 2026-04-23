@@ -8,7 +8,9 @@ topics: [assembly, dynasm, jit, rust]
 starred_at: "2023-03-06T16:43:28Z"
 tags:
   - coding
+  - compiler
   - jit
+  - library
 ---
 
 # CensoredUsername/dynasm-rs

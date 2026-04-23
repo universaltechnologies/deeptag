@@ -7,12 +7,10 @@ stars: 256
 topics: [computer-graphics, game-development]
 starred_at: "2023-02-19T15:57:35Z"
 tags:
-  - awesome
   - graphic
   - rendering
-  - ray-tracing
-  - rasterization
   - math
+  - awesome
 ---
 
 # Graphics-Programming-Virtual-Meetup/resources

@@ -7,14 +7,13 @@ stars: 5515
 topics: [android, directx, directx12, ios, linux, linux-ubuntu, macos, metal, multi-gpu, multi-threading, ps4, ps5, ray-tracing, shader-translator, shaders, visibility-buffer, vulkan, vulkan-api, vulkan-sdk, xbox]
 starred_at: "2022-09-22T06:25:54Z"
 tags:
+  - coding
   - graphic
-  - cross-platform
-  - rendering
-  - rhi
+  - platform
   - vulkan
   - directx
-  - metal
-  - ray-tracing
+  - cross-platform
+  - framework
 ---
 
 # ConfettiFX/The-Forge

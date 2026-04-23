@@ -8,11 +8,10 @@ topics: [gpui, rust-lang, text-editor, zed]
 starred_at: "2025-05-15T09:30:54Z"
 tags:
   - coding
-  - editor
-  - performance
+  - ide
   - rust
-  - cli
-  - cross-platform
+  - editor
+  - tool
 ---
 
 # zed-industries/zed

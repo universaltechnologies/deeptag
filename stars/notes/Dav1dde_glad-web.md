@@ -7,11 +7,11 @@ stars: 401
 topics: []
 starred_at: "2023-05-20T09:51:24Z"
 tags:
-  - coding
+  - graphic
+  - platform
   - opengl
   - web
-  - frontend
-  - backend
+  - tool
 ---
 
 # Dav1dde/glad-web

@@ -9,10 +9,10 @@ starred_at: "2017-07-20T01:52:15Z"
 tags:
   - graphic
   - rendering
-  - gi
-  - pbr
-  - coding
+  - vfx
+  - library
   - cpp
+  - cross-platform
 ---
 
 # appleseedhq/appleseed

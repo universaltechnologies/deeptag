@@ -9,7 +9,7 @@ starred_at: "2024-11-14T12:26:34Z"
 tags:
   - coding
   - physics
-  - simulation
+  - javascript
 ---
 
 # TheHappyKoala/Harmony-of-the-Spheres

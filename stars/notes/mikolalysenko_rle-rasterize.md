@@ -8,10 +8,10 @@ topics: []
 starred_at: "2017-03-10T01:26:29Z"
 tags:
   - graphic
+  - scene
   - voxel
-  - mesh
-  - rasterization
-  - javascript
+  - library
+  - coding
 ---
 
 # mikolalysenko/rle-rasterize

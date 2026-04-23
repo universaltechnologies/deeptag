@@ -8,11 +8,10 @@ topics: []
 starred_at: "2025-11-13T11:58:22Z"
 tags:
   - coding
+  - media
+  - nodejs
   - library
-  - image
-  - font
-  - svg
-  - encryption
+  - cross-platform
 ---
 
 # foliojs/pdfkit

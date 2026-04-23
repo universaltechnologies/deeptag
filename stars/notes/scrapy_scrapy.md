@@ -8,8 +8,8 @@ topics: [crawler, crawling, framework, hacktoberfest, python, scraping, web-scra
 starred_at: "2017-06-09T05:57:12Z"
 tags:
   - coding
-  - framework
   - web
+  - framework
 ---
 
 # scrapy/scrapy

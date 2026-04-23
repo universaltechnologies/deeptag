@@ -8,10 +8,10 @@ topics: [cbz, djvu, djvu-reflow, ebook, ebook-reader, eink, epub, ereader, fb2, 
 starred_at: "2018-11-13T06:21:32Z"
 tags:
   - coding
+  - tools
   - lua
-  - mobile
-  - cross-platform
   - embedded
+  - mobile
 ---
 
 # koreader/koreader

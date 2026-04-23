@@ -7,15 +7,12 @@ stars: 758
 topics: [3d, 3d-engine, 3d-graphics, directx, game-engine, game-engine-3d, gamedev, gameengine, graphics, jitter, metal, opengl, pbr, veldrid, vulkan]
 starred_at: "2025-01-08T04:07:32Z"
 tags:
-  - graphic
   - coding
   - engine
-  - pbr
-  - 3d
-  - editor
-  - directx
-  - vulkan
-  - opengl
+  - unity
+  - graphic
+  - rendering
+  - tool
 ---
 
 # ProwlEngine/Prowl

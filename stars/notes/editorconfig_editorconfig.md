@@ -7,8 +7,8 @@ stars: 3426
 topics: []
 starred_at: "2021-12-15T09:32:23Z"
 tags:
+  - tools
   - coding
-  - editor
 ---
 
 # editorconfig/editorconfig

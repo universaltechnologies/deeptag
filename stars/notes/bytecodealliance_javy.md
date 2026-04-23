@@ -8,9 +8,9 @@ topics: []
 starred_at: "2025-05-21T13:57:35Z"
 tags:
   - coding
+  - language
   - webassembly
-  - compiler
-  - javascript
+  - tool
 ---
 
 # bytecodealliance/javy

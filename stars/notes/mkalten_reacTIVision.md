@@ -10,9 +10,8 @@ tags:
   - coding
   - cv
   - networking
+  - protocol
   - cross-platform
-  - windows
-  - linux
 ---
 
 # mkalten/reacTIVision

@@ -12,9 +12,7 @@ tags:
   - ml
   - cv
   - nlp
-  - inference
   - library
-  - deep-learning
 ---
 
 # modelscope/modelscope

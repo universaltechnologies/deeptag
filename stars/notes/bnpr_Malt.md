@@ -10,9 +10,8 @@ tags:
   - graphic
   - rendering
   - shader
-  - glsl
-  - python
-  - pipeline
+  - framework
+  - plugin
 ---
 
 # bnpr/Malt

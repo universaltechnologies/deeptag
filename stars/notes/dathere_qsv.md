@@ -7,10 +7,11 @@ stars: 3604
 topics: [ai, ckan, csv, data-engineering, data-wrangling, dcat, excel, fair-data, fairification, geocode, luau, metadata, opendata, parquet, polars, sampling, sql, statistics, stats-sighting, timeseries]
 starred_at: "2025-10-25T06:06:40Z"
 tags:
-  - tools
-  - cli
-  - sql
+  - coding
+  - data
+  - tool
   - performance
+  - cli
 ---
 
 # dathere/qsv

@@ -7,11 +7,10 @@ stars: 52
 topics: []
 starred_at: "2025-08-20T13:43:37Z"
 tags:
-  - coding
+  - graphic
   - shader
-  - hlsl
   - water
-  - pbr
+  - hlsl
 ---
 
 # DaiZiLing/Flux2-Shoreline-Wave-HLSL

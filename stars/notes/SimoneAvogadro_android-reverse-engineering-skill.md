@@ -8,10 +8,9 @@ topics: []
 starred_at: "2026-04-17T20:31:12Z"
 tags:
   - coding
-  - android
   - reverse
-  - cli
-  - java
+  - android
+  - tool
 ---
 
 # SimoneAvogadro/android-reverse-engineering-skill

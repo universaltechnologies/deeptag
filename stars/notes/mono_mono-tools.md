@@ -8,10 +8,7 @@ topics: []
 starred_at: "2021-04-29T15:28:04Z"
 tags:
   - coding
-  - csharp
   - tools
-  - linux
-  - automation
 ---
 
 # mono/mono-tools

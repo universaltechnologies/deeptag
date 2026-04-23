@@ -7,8 +7,9 @@ stars: 8196
 topics: [android, android-application, file-manager, kotlin, kotlin-android, material-design]
 starred_at: "2023-12-30T07:49:26Z"
 tags:
-  - coding
+  - tools
   - android
+  - kotlin
 ---
 
 # zhanghai/MaterialFiles

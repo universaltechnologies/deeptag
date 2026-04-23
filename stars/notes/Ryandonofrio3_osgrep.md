@@ -9,9 +9,8 @@ starred_at: "2025-11-25T05:39:20Z"
 tags:
   - coding
   - ai
-  - search
   - embeddings
-  - cli
+  - tool
 ---
 
 # Ryandonofrio3/osgrep

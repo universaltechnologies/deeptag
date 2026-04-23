@@ -7,9 +7,8 @@ stars: 5011
 topics: [awesome, awesome-list, code-review, code-reviews]
 starred_at: "2025-12-04T09:28:15Z"
 tags:
+  - coding
   - awesome
-  - misc
-  - practice
 ---
 
 # joho/awesome-code-review

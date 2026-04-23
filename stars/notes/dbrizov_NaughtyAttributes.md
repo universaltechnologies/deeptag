@@ -7,12 +7,11 @@ stars: 5110
 topics: [attributes, extension, naughty, unity3d, unity3d-editor, unity3d-plugin]
 starred_at: "2023-04-06T09:04:07Z"
 tags:
+  - coding
+  - engine
   - unity
-  - editor
-  - csharp
-  - ui
+  - library
   - plugin
-  - tools
 ---
 
 # dbrizov/NaughtyAttributes

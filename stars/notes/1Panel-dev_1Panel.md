@@ -7,13 +7,14 @@ stars: 35047
 topics: [agent, clawdbot, copaw, docker, docker-ui, hermes, hermes-agent, linux, lnmp, ollama, openclaw, openresty, qwenpaw, webmin]
 starred_at: "2024-08-15T03:36:55Z"
 tags:
-  - tools
   - coding
+  - systems
+  - ai
+  - agent
   - docker
   - linux
   - web
-  - self-hosted
-  - ai
+  - tool
 ---
 
 # 1Panel-dev/1Panel

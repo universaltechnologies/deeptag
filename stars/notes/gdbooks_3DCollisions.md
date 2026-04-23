@@ -8,7 +8,6 @@ topics: []
 starred_at: "2025-06-05T06:52:06Z"
 tags:
   - coding
-  - misc
 ---
 
 # gdbooks/3DCollisions

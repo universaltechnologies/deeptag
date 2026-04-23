@@ -9,10 +9,7 @@ starred_at: "2022-08-08T11:14:32Z"
 tags:
   - coding
   - security
-  - tutorial
-  - cpp
-  - java
-  - python
+  - practice
 ---
 
 # Tencent/secguide

@@ -8,11 +8,11 @@ topics: []
 starred_at: "2024-10-18T02:45:15Z"
 tags:
   - coding
-  - algorithm
-  - csharp
+  - engine
   - unity
-  - simd
-  - performance
+  - ecs
+  - algorithm
+  - library
 ---
 
 # ArthurBrussee/KNN

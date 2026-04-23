@@ -10,9 +10,7 @@ tags:
   - coding
   - ai
   - agent
-  - automation
-  - editor
-  - cli
+  - tool
 ---
 
 # cline/cline

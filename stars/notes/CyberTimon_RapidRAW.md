@@ -8,11 +8,11 @@ topics: [color-grading, editing, image-processing, masks, raw, react, rust, taur
 starred_at: "2026-01-20T15:18:42Z"
 tags:
   - graphic
+  - post-processing
+  - coding
+  - media
   - image-processing
-  - webgpu
-  - gpu
-  - desktop
-  - ui
+  - tool
 ---
 
 # CyberTimon/RapidRAW

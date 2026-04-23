@@ -8,9 +8,8 @@ topics: [kernel]
 starred_at: "2023-12-13T12:41:15Z"
 tags:
   - coding
+  - systems
   - kernel
-  - platform
-  - driver
 ---
 
 # apple/darwin-xnu

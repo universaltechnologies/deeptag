@@ -8,11 +8,9 @@ topics: [lpeg, pbc, rapidjson, xlua]
 starred_at: "2024-10-22T15:12:50Z"
 tags:
   - coding
-  - lua
+  - engine
   - unity
   - library
-  - plugin
-  - ffi
 ---
 
 # chexiongsheng/build_xlua_with_libs

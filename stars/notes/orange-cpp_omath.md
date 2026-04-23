@@ -8,11 +8,11 @@ topics: [3d, cheat, cheat-development, cpp23, cryengine, game-development, game-
 starred_at: "2025-04-07T04:07:27Z"
 tags:
   - coding
+  - cpp
+  - template
   - math
   - physics
-  - template
-  - opengl
-  - vulkan
+  - cross-platform
 ---
 
 # orange-cpp/omath

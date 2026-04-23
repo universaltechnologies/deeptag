@@ -8,8 +8,10 @@ topics: [browser, chrome, electron, headless-chrome, phantomjs]
 starred_at: "2017-06-09T05:41:36Z"
 tags:
   - coding
-  - browser
+  - web
   - automation
+  - library
+  - browser
 ---
 
 # segment-boneyard/nightmare

@@ -9,9 +9,9 @@ starred_at: "2026-04-19T19:35:34Z"
 tags:
   - coding
   - ai
+  - agent
+  - tool
   - visualization
-  - tools
-  - markdown
 ---
 
 # markdown-viewer/skills

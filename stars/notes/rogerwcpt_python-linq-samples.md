@@ -7,10 +7,8 @@ stars: 90
 topics: [csharp, functional-programming-examples, linq, python, python3]
 starred_at: "2020-05-03T16:27:57Z"
 tags:
-  - coding
   - csharp
   - python
-  - algorithm
   - tutorial
 ---
 

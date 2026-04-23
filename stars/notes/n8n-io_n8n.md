@@ -8,11 +8,11 @@ topics: [ai, apis, automation, cli, data-flow, development, integration-framewor
 starred_at: "2024-11-29T08:36:06Z"
 tags:
   - coding
+  - ai
   - automation
   - workflow
+  - tool
   - self-hosted
-  - ai
-  - nodejs
 ---
 
 # n8n-io/n8n

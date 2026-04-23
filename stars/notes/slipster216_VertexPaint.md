@@ -8,11 +8,10 @@ topics: []
 starred_at: "2023-03-28T17:48:02Z"
 tags:
   - coding
+  - engine
   - unity
-  - mesh
-  - texture
-  - editor
   - plugin
+  - tool
 ---
 
 # slipster216/VertexPaint

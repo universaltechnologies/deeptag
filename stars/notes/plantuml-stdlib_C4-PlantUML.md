@@ -7,10 +7,9 @@ stars: 7246
 topics: [architecture, c4, c4model, diagram, graphviz, plantuml, uml]
 starred_at: "2023-09-29T09:36:47Z"
 tags:
-  - coding
+  - tools
   - architecture
-  - visualization
-  - misc
+  - library
 ---
 
 # plantuml-stdlib/C4-PlantUML

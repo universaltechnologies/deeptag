@@ -8,12 +8,11 @@ topics: [3d, 3d-graphics, computer-graphics, cpp, graphics, opengl, pbr, rasteri
 starred_at: "2023-02-14T17:45:39Z"
 tags:
   - graphic
-  - rasterization
   - rendering
-  - opengl
-  - vulkan
-  - gltf
-  - cpp
+  - rasterization
+  - shader
+  - platform
+  - tutorial
 ---
 
 # keith2018/SoftGLRender

@@ -7,12 +7,10 @@ stars: 26560
 topics: [apollo, autonomous-driving, autonomous-vehicles, autonomy, self-driving-car]
 starred_at: "2021-07-22T04:16:57Z"
 tags:
-  - coding
-  - ai
   - robotics
   - cpp
-  - gpu
-  - simulation
+  - embedded
+  - platform
 ---
 
 # ApolloAuto/apollo

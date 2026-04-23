@@ -9,9 +9,9 @@ starred_at: "2022-11-13T13:48:44Z"
 tags:
   - graphic
   - animation
-  - skeletal
   - 2d
-  - runtime
+  - library
+  - cross-platform
 ---
 
 # EsotericSoftware/spine-runtimes

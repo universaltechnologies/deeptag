@@ -9,8 +9,8 @@ starred_at: "2023-02-24T03:25:15Z"
 tags:
   - coding
   - gui
-  - library
   - rust
+  - library
   - cross-platform
 ---
 

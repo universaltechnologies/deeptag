@@ -8,7 +8,10 @@ topics: [addon, blender, cycles, eevee, hdr, hdr-lightmaps, lightmapper]
 starred_at: "2024-09-05T09:55:59Z"
 tags:
   - graphic
-  - post-processing
+  - lighting
+  - gi
+  - tool
+  - plugin
 ---
 
 # Naxela/The_Lightmapper

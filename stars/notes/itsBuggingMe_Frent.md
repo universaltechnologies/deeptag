@@ -8,10 +8,10 @@ topics: [csharp, data-oriented-design, dotnet8, dotnet9, ecs, entity-component-f
 starred_at: "2025-05-12T05:08:45Z"
 tags:
   - coding
+  - game
   - ecs
-  - dotnet
+  - library
   - performance
-  - engine
 ---
 
 # itsBuggingMe/Frent

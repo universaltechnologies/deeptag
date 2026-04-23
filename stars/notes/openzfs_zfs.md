@@ -8,11 +8,9 @@ topics: [file-system, openzfs, system-software]
 starred_at: "2025-05-26T14:42:20Z"
 tags:
   - coding
-  - filesystem
+  - systems
   - storage
-  - kernel
   - linux
-  - c
 ---
 
 # openzfs/zfs

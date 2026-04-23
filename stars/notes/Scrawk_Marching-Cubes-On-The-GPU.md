@@ -8,11 +8,11 @@ topics: [marching-cubes, marching-cubes-algorithm, unity, voxel]
 starred_at: "2022-06-09T11:00:25Z"
 tags:
   - graphic
-  - voxel
-  - mesh
+  - shader
   - compute-shader
-  - procedural
-  - algorithm
+  - scene
+  - voxel
+  - engine
   - unity
 ---
 

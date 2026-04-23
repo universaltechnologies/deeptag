@@ -9,10 +9,8 @@ starred_at: "2026-03-04T03:13:59Z"
 tags:
   - coding
   - ai
-  - llm
   - agent
-  - cli
-  - typescript
+  - llm
 ---
 
 # badlogic/pi-mono

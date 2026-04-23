@@ -9,10 +9,8 @@ starred_at: "2023-06-06T03:46:53Z"
 tags:
   - coding
   - ai
-  - hardware
-  - compiler
   - tutorial
-  - architecture
+  - book
 ---
 
 # Infrasys-AI/AISystem

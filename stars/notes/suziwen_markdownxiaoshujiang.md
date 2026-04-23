@@ -10,9 +10,7 @@ tags:
   - coding
   - editor
   - markdown
-  - desktop
-  - web
-  - misc
+  - tool
 ---
 
 # suziwen/markdownxiaoshujiang

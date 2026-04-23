@@ -8,11 +8,12 @@ topics: [directx-shader-compiler, dxil, hlsl, shader-programs]
 starred_at: "2024-08-22T03:50:05Z"
 tags:
   - graphic
-  - compiler
-  - hlsl
   - shader
+  - hlsl
+  - platform
   - directx
-  - cli
+  - compiler
+  - tool
 ---
 
 # microsoft/DirectXShaderCompiler

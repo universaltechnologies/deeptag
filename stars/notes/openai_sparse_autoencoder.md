@@ -9,9 +9,8 @@ starred_at: "2025-06-26T09:43:27Z"
 tags:
   - coding
   - ai
-  - inference
-  - visualization
-  - deep-learning
+  - ml
+  - library
 ---
 
 # openai/sparse_autoencoder

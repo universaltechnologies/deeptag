@@ -8,12 +8,11 @@ topics: [ai-agent, ai-agents, ai-tools, cli]
 starred_at: "2026-03-19T01:53:05Z"
 tags:
   - coding
-  - cli
-  - automation
-  - browser
   - ai
   - agent
-  - web
+  - tool
+  - nodejs
+  - automation
 ---
 
 # jackwener/OpenCLI

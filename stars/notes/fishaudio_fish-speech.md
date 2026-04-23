@@ -9,9 +9,8 @@ starred_at: "2026-01-02T03:55:53Z"
 tags:
   - coding
   - ai
-  - audio
-  - inference
-  - docker
+  - tts
+  - library
 ---
 
 # fishaudio/fish-speech

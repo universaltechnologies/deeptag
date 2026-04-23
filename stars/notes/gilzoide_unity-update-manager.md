@@ -8,11 +8,10 @@ topics: [job-system, jobs, unity, unity3d, update, update-manager, upm, upm-pack
 starred_at: "2023-10-23T12:54:49Z"
 tags:
   - coding
-  - csharp
-  - unity
-  - performance
   - engine
-  - concurrency
+  - unity
+  - optimization
+  - library
 ---
 
 # gilzoide/unity-update-manager

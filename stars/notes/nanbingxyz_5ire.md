@@ -9,9 +9,9 @@ starred_at: "2025-02-15T12:42:33Z"
 tags:
   - coding
   - ai
-  - llm
   - mcp
   - desktop
+  - tool
   - cross-platform
 ---
 

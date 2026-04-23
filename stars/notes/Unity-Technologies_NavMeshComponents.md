@@ -8,10 +8,9 @@ topics: []
 starred_at: "2018-04-18T04:19:41Z"
 tags:
   - coding
-  - unity
-  - runtime
-  - ai
-  - component
+  - engine
+  - game
+  - library
 ---
 
 # Unity-Technologies/NavMeshComponents

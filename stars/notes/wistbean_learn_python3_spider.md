@@ -8,9 +8,9 @@ topics: [python-script, python-spider, python3]
 starred_at: "2022-12-05T15:38:39Z"
 tags:
   - coding
-  - tutorial
-  - networking
   - web
+  - tutorial
+  - practice
 ---
 
 # wistbean/learn_python3_spider

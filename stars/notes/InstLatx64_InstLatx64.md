@@ -8,9 +8,7 @@ topics: []
 starred_at: "2022-07-06T09:37:57Z"
 tags:
   - coding
-  - misc
-  - hardware
-  - web
+  - debug
 ---
 
 # InstLatx64/InstLatx64

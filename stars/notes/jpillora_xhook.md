@@ -9,9 +9,9 @@ starred_at: "2025-05-18T00:59:24Z"
 tags:
   - coding
   - web
-  - javascript
-  - http
-  - hook
+  - frontend
+  - library
+  - tool
 ---
 
 # jpillora/xhook

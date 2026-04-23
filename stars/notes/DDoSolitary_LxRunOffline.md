@@ -10,6 +10,7 @@ tags:
   - tools
   - windows
   - cli
+  - tool
 ---
 
 # DDoSolitary/LxRunOffline

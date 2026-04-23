@@ -8,10 +8,10 @@ topics: [android, binary, bsdiff, delta, delta-compression, diff, differential, 
 starred_at: "2023-02-22T07:47:42Z"
 tags:
   - coding
-  - compression
+  - algorithm
   - cross-platform
-  - cli
-  - android
+  - library
+  - compression
 ---
 
 # sisong/HDiffPatch

@@ -10,9 +10,7 @@ tags:
   - coding
   - linux
   - svg
-  - visualization
-  - automation
-  - cli
+  - tool
 ---
 
 # FabioLolix/LinuxTimeline

@@ -8,11 +8,12 @@ topics: []
 starred_at: "2025-05-26T14:44:51Z"
 tags:
   - coding
+  - systems
+  - kernel
   - filesystem
   - storage
   - linux
-  - kernel
-  - c
+  - cross-platform
 ---
 
 # openzfsonwindows/openzfs

@@ -8,9 +8,11 @@ topics: [ai-framework, deep-learning, hardware-acceleration, machine-learning, n
 starred_at: "2024-11-18T14:51:18Z"
 tags:
   - coding
+  - ai
   - inference
   - cross-platform
   - performance
+  - library
 ---
 
 # microsoft/onnxruntime

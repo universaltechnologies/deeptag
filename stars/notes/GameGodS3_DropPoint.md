@@ -9,10 +9,7 @@ starred_at: "2025-12-21T02:50:25Z"
 tags:
   - tools
   - electron
-  - desktop
   - cross-platform
-  - productivity
-  - css
 ---
 
 # GameGodS3/DropPoint

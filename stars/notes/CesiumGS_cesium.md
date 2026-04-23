@@ -7,12 +7,11 @@ stars: 15133
 topics: [3d, 3d-globe, 3d-tiles, cesium, czml, geospatial, gis, gltf, webgl]
 starred_at: "2015-10-29T07:04:39Z"
 tags:
-  - graphic
-  - webgl
-  - 3d
-  - gltf
   - coding
-  - visualization
+  - graphic
+  - rendering
+  - webgl
+  - library
 ---
 
 # CesiumGS/cesium

@@ -8,9 +8,9 @@ topics: [cpp, database, database-management, qt, qt5, sqlcipher, sqlite, sqlite3
 starred_at: "2021-03-05T03:37:09Z"
 tags:
   - coding
-  - database
-  - sql
-  - gui
+  - data
+  - tool
+  - cross-platform
 ---
 
 # pawelsalawa/sqlitestudio

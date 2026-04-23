@@ -7,10 +7,9 @@ stars: 58377
 topics: [cli, command-line, git, hacktoberfest, rust, syntax-highlighting, terminal, tool]
 starred_at: "2022-03-11T07:17:56Z"
 tags:
+  - coding
   - cli
-  - terminal
-  - git
-  - tools
+  - tool
 ---
 
 # sharkdp/bat

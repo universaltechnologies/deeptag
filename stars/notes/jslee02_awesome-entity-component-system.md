@@ -7,11 +7,10 @@ stars: 676
 topics: [awesome-list, data-oriented-design, ecs, entity-component-system, game-engine]
 starred_at: "2023-02-19T15:48:45Z"
 tags:
-  - awesome
   - coding
-  - engine
+  - game
   - ecs
-  - gameplay
+  - awesome
 ---
 
 # jslee02/awesome-entity-component-system

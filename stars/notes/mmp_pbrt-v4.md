@@ -10,7 +10,6 @@ tags:
   - graphic
   - rendering
   - ray-tracing
-  - path-tracing
   - pbr
   - book
 ---

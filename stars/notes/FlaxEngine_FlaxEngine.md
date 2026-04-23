@@ -7,12 +7,10 @@ stars: 6705
 topics: [c-sharp, cpp, engine, flax, flax-engine, flaxengine, game-development, game-engine, gamedev, multi-platform]
 starred_at: "2023-09-13T06:40:55Z"
 tags:
-  - graphic
   - coding
   - engine
-  - rendering
-  - pbr
-  - csharp
+  - graphic
+  - cross-platform
 ---
 
 # FlaxEngine/FlaxEngine

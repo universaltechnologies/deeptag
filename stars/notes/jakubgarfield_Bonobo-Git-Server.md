@@ -8,10 +8,10 @@ topics: [active-directory, bonobo, c-sharp, git, git-server, iis, windows]
 starred_at: "2018-01-03T09:58:22Z"
 tags:
   - coding
-  - git
+  - dotnet
   - windows
-  - web
-  - server
+  - git
+  - tool
 ---
 
 # jakubgarfield/Bonobo-Git-Server

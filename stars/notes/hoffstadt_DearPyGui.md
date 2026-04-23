@@ -8,11 +8,10 @@ topics: [cpp, cross-platform, dearpygui, graphics, gui, imgui, linux, macos, nat
 starred_at: "2023-02-23T17:11:33Z"
 tags:
   - coding
-  - ui
   - gui
+  - python
+  - framework
   - cross-platform
-  - rendering
-  - binding
 ---
 
 # hoffstadt/DearPyGui

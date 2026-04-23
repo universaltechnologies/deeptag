@@ -7,7 +7,7 @@ stars: 1583
 topics: [joplin, joplin-plugin, plugin]
 starred_at: "2021-04-10T13:38:22Z"
 tags:
-  - coding
+  - tools
   - plugin
 ---
 

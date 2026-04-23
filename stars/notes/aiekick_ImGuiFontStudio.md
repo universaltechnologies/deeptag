@@ -8,10 +8,10 @@ topics: [batch-job, codepoint, cross-platform, dear-imgui, embedded, font, font-
 starred_at: "2023-02-23T17:40:08Z"
 tags:
   - tools
+  - coding
   - font
-  - opengl
-  - vulkan
   - cross-platform
+  - tool
 ---
 
 # aiekick/ImGuiFontStudio

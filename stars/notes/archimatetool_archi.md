@@ -8,11 +8,7 @@ topics: [archimate, archimatetool]
 starred_at: "2023-02-18T02:49:04Z"
 tags:
   - tools
-  - modeling
-  - java
-  - desktop
   - cross-platform
-  - editor
 ---
 
 # archimatetool/archi

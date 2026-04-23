@@ -9,8 +9,9 @@ starred_at: "2018-10-28T13:40:53Z"
 tags:
   - coding
   - ai
+  - cv
   - image-processing
-  - python
+  - library
 ---
 
 # movehand/raisr

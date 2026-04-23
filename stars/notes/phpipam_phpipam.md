@@ -10,9 +10,6 @@ tags:
   - coding
   - networking
   - web
-  - api
-  - sql
-  - self-hosted
 ---
 
 # phpipam/phpipam

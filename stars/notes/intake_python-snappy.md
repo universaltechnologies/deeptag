@@ -8,9 +8,10 @@ topics: []
 starred_at: "2022-02-21T08:17:54Z"
 tags:
   - coding
+  - data
   - compression
-  - binding
-  - cli
+  - library
+  - tool
 ---
 
 # intake/python-snappy

@@ -7,12 +7,11 @@ stars: 34
 topics: []
 starred_at: "2025-03-21T07:56:55Z"
 tags:
-  - graphic
+  - coding
   - engine
   - unity
-  - tools
-  - rendering
-  - editor
+  - tool
+  - performance
 ---
 
 # roundyyy/Cube-Impostor-Generator

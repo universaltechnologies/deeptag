@@ -8,10 +8,10 @@ topics: []
 starred_at: "2026-03-22T04:17:13Z"
 tags:
   - coding
-  - android
   - networking
-  - encryption
+  - android
   - mobile
+  - security
 ---
 
 # signalapp/Signal-Android

@@ -7,11 +7,9 @@ stars: 338
 topics: []
 starred_at: "2017-04-09T07:35:31Z"
 tags:
-  - coding
-  - cli
+  - tools
+  - productivity
   - git
-  - python
-  - web
 ---
 
 # hmason/gitmarks

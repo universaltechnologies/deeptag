@@ -8,10 +8,9 @@ topics: []
 starred_at: "2026-01-16T04:21:24Z"
 tags:
   - coding
-  - cli
   - ai
-  - agent
-  - typescript
+  - tool
+  - cli
 ---
 
 # numman-ali/openskills

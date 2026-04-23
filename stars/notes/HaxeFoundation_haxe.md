@@ -8,6 +8,7 @@ topics: [compiler, cross-platform, haxe, jvm-languages, language, macros, progra
 starred_at: "2025-05-21T14:13:32Z"
 tags:
   - coding
+  - language
   - compiler
   - cross-platform
 ---

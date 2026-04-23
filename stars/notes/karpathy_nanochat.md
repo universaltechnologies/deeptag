@@ -8,9 +8,9 @@ topics: []
 starred_at: "2025-10-19T09:40:52Z"
 tags:
   - coding
+  - ai
   - llm
   - inference
-  - python
 ---
 
 # karpathy/nanochat

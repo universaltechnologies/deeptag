@@ -8,9 +8,8 @@ topics: [aat, c, c-plus-plus, fonts, gpu, opentype, text-rendering, text-shaping
 starred_at: "2025-01-08T10:51:38Z"
 tags:
   - coding
+  - media
   - font
-  - performance
-  - cross-platform
   - library
 ---
 

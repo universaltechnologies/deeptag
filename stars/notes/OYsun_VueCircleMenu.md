@@ -10,9 +10,7 @@ tags:
   - coding
   - web
   - frontend
-  - ui
   - component
-  - css
 ---
 
 # OYsun/VueCircleMenu

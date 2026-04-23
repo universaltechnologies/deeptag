@@ -11,7 +11,6 @@ tags:
   - ai
   - agent
   - llm
-  - python
   - framework
 ---
 

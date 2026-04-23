@@ -8,10 +8,11 @@ topics: [csharp, data-oriented, ecs, ecs-framework, entity-component-system, gam
 starred_at: "2023-11-07T12:15:08Z"
 tags:
   - coding
+  - game
   - ecs
   - engine
-  - csharp
-  - performance
+  - unity
+  - framework
 ---
 
 # sebas77/Svelto.ECS

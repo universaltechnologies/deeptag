@@ -9,9 +9,10 @@ starred_at: "2023-06-16T12:25:10Z"
 tags:
   - coding
   - algorithm
+  - graphic
+  - scene
   - procedural
-  - simulation
-  - misc
+  - library
 ---
 
 # mxgmn/WaveFunctionCollapse

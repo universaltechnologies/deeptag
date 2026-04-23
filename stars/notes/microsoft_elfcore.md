@@ -8,9 +8,9 @@ topics: []
 starred_at: "2023-11-21T18:29:32Z"
 tags:
   - coding
+  - systems
   - linux
-  - debug
-  - rust
+  - library
 ---
 
 # microsoft/elfcore

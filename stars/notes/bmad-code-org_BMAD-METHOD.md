@@ -9,9 +9,10 @@ starred_at: "2026-02-05T00:16:09Z"
 tags:
   - coding
   - ai
+  - agent
   - workflow
+  - framework
   - automation
-  - nodejs
 ---
 
 # bmad-code-org/BMAD-METHOD

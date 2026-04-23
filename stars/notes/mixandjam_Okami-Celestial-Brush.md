@@ -8,9 +8,10 @@ topics: [unity]
 starred_at: "2023-01-31T08:53:55Z"
 tags:
   - coding
+  - engine
   - unity
-  - gameplay
-  - csharp
+  - game
+  - tutorial
 ---
 
 # mixandjam/Okami-Celestial-Brush

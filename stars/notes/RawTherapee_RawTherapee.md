@@ -7,11 +7,11 @@ stars: 3904
 topics: [photography, raw, rawtherapee]
 starred_at: "2021-11-16T03:24:40Z"
 tags:
-  - graphic
+  - coding
+  - media
   - image-processing
   - cross-platform
-  - image
-  - misc
+  - tool
 ---
 
 # RawTherapee/RawTherapee

@@ -9,9 +9,8 @@ starred_at: "2025-12-21T01:29:14Z"
 tags:
   - coding
   - networking
+  - tool
   - cross-platform
-  - http
-  - api
 ---
 
 # GopeedLab/gopeed

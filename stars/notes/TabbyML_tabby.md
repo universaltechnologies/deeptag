@@ -11,7 +11,6 @@ tags:
   - ai
   - llm
   - self-hosted
-  - docker
 ---
 
 # TabbyML/tabby

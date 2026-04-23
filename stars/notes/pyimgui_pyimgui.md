@@ -8,10 +8,9 @@ topics: [cython, dear-imgui, gamedev, opengl, python, python-bindings]
 starred_at: "2023-02-23T17:17:43Z"
 tags:
   - coding
-  - binding
-  - ui
   - gui
-  - opengl
+  - library
+  - binding
 ---
 
 # pyimgui/pyimgui

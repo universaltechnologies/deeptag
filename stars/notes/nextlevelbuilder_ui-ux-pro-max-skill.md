@@ -9,9 +9,10 @@ starred_at: "2026-02-06T15:55:57Z"
 tags:
   - coding
   - ai
+  - prompt
+  - web
   - ui
-  - frontend
-  - python
+  - tool
 ---
 
 # nextlevelbuilder/ui-ux-pro-max-skill

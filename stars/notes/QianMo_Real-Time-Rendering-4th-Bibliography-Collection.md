@@ -9,10 +9,8 @@ starred_at: "2021-10-08T14:13:03Z"
 tags:
   - graphic
   - rendering
-  - pbr
-  - pipeline
-  - shader
   - awesome
+  - book
 ---
 
 # QianMo/Real-Time-Rendering-4th-Bibliography-Collection

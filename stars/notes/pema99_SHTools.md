@@ -7,12 +7,10 @@ stars: 25
 topics: []
 starred_at: "2024-01-31T05:48:35Z"
 tags:
-  - graphic
-  - rendering
-  - math
+  - coding
   - engine
   - unity
-  - csharp
+  - library
 ---
 
 # pema99/SHTools

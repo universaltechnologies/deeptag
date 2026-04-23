@@ -9,9 +9,8 @@ starred_at: "2021-07-23T02:13:54Z"
 tags:
   - coding
   - networking
+  - tool
   - security
-  - automation
-  - rust
 ---
 
 # bee-san/RustScan

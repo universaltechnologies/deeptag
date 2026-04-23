@@ -8,10 +8,9 @@ topics: []
 starred_at: "2025-12-18T17:32:17Z"
 tags:
   - coding
-  - engine
-  - unity
+  - game
   - simulation
-  - algorithm
+  - practice
 ---
 
 # SebLague/Boids

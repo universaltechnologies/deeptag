@@ -10,7 +10,7 @@ tags:
   - coding
   - web
   - framework
-  - ai
+  - tool
 ---
 
 # wasp-lang/open-saas

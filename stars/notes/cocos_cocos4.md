@@ -10,7 +10,6 @@ tags:
   - coding
   - engine
   - cpp
-  - cross-platform
 ---
 
 # cocos/cocos4

@@ -8,12 +8,10 @@ topics: [burst-compiler, job-system, lip-sync, microphone, timeline, unity, vrm,
 starred_at: "2023-03-17T21:38:37Z"
 tags:
   - coding
+  - engine
   - unity
-  - audio
   - plugin
   - performance
-  - simd
-  - webgl
 ---
 
 # hecomi/uLipSync

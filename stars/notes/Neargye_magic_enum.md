@@ -8,9 +8,11 @@ topics: [c-plus-plus, c-plus-plus-17, cplusplus, cplusplus-17, cpp, cpp17, enum,
 starred_at: "2022-09-22T04:00:23Z"
 tags:
   - coding
-  - reflection
-  - header-only
+  - language
   - cpp
+  - reflection
+  - library
+  - header-only
 ---
 
 # Neargye/magic_enum

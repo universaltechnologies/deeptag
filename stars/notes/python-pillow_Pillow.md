@@ -8,10 +8,10 @@ topics: [c, cross-platform, image, image-processing, pil, pillow, python, python
 starred_at: "2019-11-29T02:09:04Z"
 tags:
   - coding
+  - media
   - image-processing
-  - cross-platform
-  - image
   - library
+  - cross-platform
 ---
 
 # python-pillow/Pillow

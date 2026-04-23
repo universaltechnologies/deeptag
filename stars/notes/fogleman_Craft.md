@@ -7,12 +7,12 @@ stars: 10991
 topics: [c, game, glsl, minecraft, multiplayer, opengl, sqlite]
 starred_at: "2023-01-11T18:22:45Z"
 tags:
+  - coding
   - graphic
+  - rendering
+  - platform
   - opengl
-  - voxel
-  - gameplay
-  - c
-  - 3d
+  - glsl
 ---
 
 # fogleman/Craft

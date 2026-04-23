@@ -8,11 +8,10 @@ topics: [api-gateway, application-security, appsec, blueteam, bruteforce, captch
 starred_at: "2025-12-02T14:07:07Z"
 tags:
   - coding
-  - security
-  - self-hosted
-  - proxy
   - networking
-  - server
+  - security
+  - tools
+  - self-hosted
 ---
 
 # chaitin/SafeLine

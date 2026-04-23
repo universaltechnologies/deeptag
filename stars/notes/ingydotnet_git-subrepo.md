@@ -9,9 +9,7 @@ starred_at: "2022-02-18T06:37:16Z"
 tags:
   - coding
   - git
-  - cli
-  - automation
-  - shell
+  - tool
 ---
 
 # ingydotnet/git-subrepo

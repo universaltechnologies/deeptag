@@ -8,11 +8,12 @@ topics: [atlas, combine-textures, combiner, model, sprite-sheet, texture-atlas, 
 starred_at: "2025-05-13T16:16:24Z"
 tags:
   - coding
-  - texture
-  - atlas
-  - mesh
+  - engine
   - unity
-  - editor
+  - graphic
+  - texture
+  - tool
+  - plugin
 ---
 
 # maxartz15/MA_TextureAtlasser

@@ -9,8 +9,8 @@ starred_at: "2023-03-28T18:01:58Z"
 tags:
   - coding
   - ffi
-  - c
   - cross-platform
+  - library
 ---
 
 # libffi/libffi

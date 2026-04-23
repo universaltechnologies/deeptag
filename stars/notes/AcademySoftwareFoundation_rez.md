@@ -7,11 +7,11 @@ stars: 1065
 topics: [environment-configuration, multi-platform, package-management, resolved-environments, rez, standalone-environments]
 starred_at: "2024-01-29T06:27:03Z"
 tags:
-  - tools
-  - package
+  - coding
   - build
+  - package
   - cross-platform
-  - cli
+  - tool
 ---
 
 # AcademySoftwareFoundation/rez

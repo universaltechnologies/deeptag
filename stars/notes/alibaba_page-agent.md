@@ -8,11 +8,9 @@ topics: [agent, ai, ai-agents, browser-automation, javascript, mcp, typescript, 
 starred_at: "2026-03-10T06:13:37Z"
 tags:
   - coding
-  - agent
   - ai
-  - typescript
-  - browser
-  - automation
+  - agent
+  - library
 ---
 
 # alibaba/page-agent

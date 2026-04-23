@@ -9,10 +9,9 @@ starred_at: "2026-03-19T08:14:06Z"
 tags:
   - coding
   - windows
-  - ui
+  - desktop
+  - tool
   - plugin
-  - shell
-  - javascript
 ---
 
 # std-microblock/breeze-shell

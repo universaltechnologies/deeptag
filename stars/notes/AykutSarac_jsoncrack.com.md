@@ -7,11 +7,11 @@ stars: 43889
 topics: [csv, diagrams, graph, json, nextjs, react, tool, visualization, yaml]
 starred_at: "2022-04-18T14:42:24Z"
 tags:
-  - json
-  - visualization
-  - web
   - tools
-  - parser
+  - coding
+  - web
+  - visualization
+  - tool
 ---
 
 # AykutSarac/jsoncrack.com

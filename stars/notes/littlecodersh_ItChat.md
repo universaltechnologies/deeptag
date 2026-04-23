@@ -8,9 +8,10 @@ topics: [api, itchat, robot, wechat]
 starred_at: "2022-12-06T02:35:18Z"
 tags:
   - coding
+  - web
   - api
-  - automation
-  - python
+  - library
+  - tool
 ---
 
 # littlecodersh/ItChat

@@ -10,9 +10,8 @@ tags:
   - graphic
   - rendering
   - opengl
-  - 3d
-  - simulation
-  - desktop
+  - cpp
+  - cross-platform
 ---
 
 # Stellarium/stellarium

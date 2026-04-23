@@ -8,9 +8,8 @@ topics: []
 starred_at: "2024-09-04T13:28:14Z"
 tags:
   - coding
-  - c
   - encryption
-  - algorithm
+  - c
 ---
 
 # Ginurx/chacha20-c

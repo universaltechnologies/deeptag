@@ -9,8 +9,6 @@ starred_at: "2016-05-27T01:11:09Z"
 tags:
   - coding
   - library
-  - memory
-  - c
   - cross-platform
 ---
 

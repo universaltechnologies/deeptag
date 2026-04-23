@@ -8,9 +8,10 @@ topics: [beta, blender-addon, computer-graphics, flip-fluids, fluid, fluid-engin
 starred_at: "2022-08-22T07:11:15Z"
 tags:
   - graphic
+  - vfx
   - simulation
-  - physics
-  - cpp
+  - plugin
+  - tool
 ---
 
 # rlguy/Blender-FLIP-Fluids

@@ -9,9 +9,8 @@ starred_at: "2020-05-11T14:58:45Z"
 tags:
   - graphic
   - shader
-  - unity
   - depth
-  - normal
+  - tutorial
   - engine
 ---
 

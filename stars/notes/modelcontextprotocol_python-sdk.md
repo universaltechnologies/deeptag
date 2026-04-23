@@ -9,9 +9,8 @@ starred_at: "2025-07-02T07:46:55Z"
 tags:
   - coding
   - ai
-  - llm
-  - python
-  - protocol
+  - mcp
+  - library
 ---
 
 # modelcontextprotocol/python-sdk

@@ -10,7 +10,8 @@ tags:
   - coding
   - algorithm
   - ai
-  - math
+  - awesome
+  - book
 ---
 
 # stonycat/some-books-and-note

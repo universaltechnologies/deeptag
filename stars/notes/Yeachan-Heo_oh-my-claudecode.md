@@ -10,9 +10,7 @@ tags:
   - coding
   - ai
   - agent
-  - automation
-  - workflow
-  - typescript
+  - tool
 ---
 
 # Yeachan-Heo/oh-my-claudecode

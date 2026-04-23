@@ -7,10 +7,9 @@ stars: 133297
 topics: [algorithms, computer-science, data-structures, dynamic-programming, dynamic-programming-algorithm, interview-questions, kmp, leetcode]
 starred_at: "2024-12-06T06:37:20Z"
 tags:
+  - coding
   - algorithm
   - tutorial
-  - book
-  - awesome
 ---
 
 # labuladong/fucking-algorithm

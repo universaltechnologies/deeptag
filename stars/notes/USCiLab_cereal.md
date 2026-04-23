@@ -12,7 +12,6 @@ tags:
   - cpp
   - library
   - header-only
-  - json
 ---
 
 # USCiLab/cereal

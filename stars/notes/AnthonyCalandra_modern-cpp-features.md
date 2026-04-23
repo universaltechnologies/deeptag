@@ -8,9 +8,9 @@ topics: [cpp, cpp11, cpp14, cpp17, cpp20, cpp23]
 starred_at: "2023-09-24T12:05:35Z"
 tags:
   - coding
-  - cpp
   - language
-  - template
+  - cpp
+  - tutorial
 ---
 
 # AnthonyCalandra/modern-cpp-features

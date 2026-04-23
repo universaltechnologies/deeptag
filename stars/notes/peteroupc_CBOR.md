@@ -8,10 +8,9 @@ topics: []
 starred_at: "2024-07-05T03:53:13Z"
 tags:
   - coding
-  - serialization
-  - csharp
-  - json
+  - data
   - library
+  - dotnet
 ---
 
 # peteroupc/CBOR

@@ -7,10 +7,10 @@ stars: 26647
 topics: [book, cb7, cbr, cbt, cbz, comic, docx, ebook, epub, fb2, html, markdown, mobi, pdf, reader, rtf, txt, xml]
 starred_at: "2025-01-07T08:13:06Z"
 tags:
-  - coding
   - tools
   - cross-platform
-  - electron
+  - web
+  - desktop
 ---
 
 # koodo-reader/koodo-reader

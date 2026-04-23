@@ -9,9 +9,9 @@ starred_at: "2026-04-14T04:56:20Z"
 tags:
   - coding
   - cli
-  - json
   - parser
-  - c
+  - json
+  - tool
 ---
 
 # jqlang/jq

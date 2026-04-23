@@ -8,9 +8,9 @@ topics: []
 starred_at: "2022-05-23T15:20:05Z"
 tags:
   - graphic
-  - taa
   - rendering
-  - cpp
+  - post-processing
+  - taa
 ---
 
 # TheRealMJP/MSAAFilter

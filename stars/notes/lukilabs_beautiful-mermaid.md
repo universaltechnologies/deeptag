@@ -8,10 +8,9 @@ topics: []
 starred_at: "2026-02-01T12:55:13Z"
 tags:
   - coding
-  - typescript
+  - web
   - visualization
-  - svg
-  - cli
+  - library
 ---
 
 # lukilabs/beautiful-mermaid

@@ -8,10 +8,8 @@ topics: []
 starred_at: "2023-02-24T03:25:28Z"
 tags:
   - coding
-  - ui
-  - rust
   - gui
-  - desktop
+  - rust
   - library
 ---
 

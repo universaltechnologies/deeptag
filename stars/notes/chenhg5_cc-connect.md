@@ -10,9 +10,9 @@ tags:
   - coding
   - ai
   - agent
-  - cli
-  - automation
   - networking
+  - go
+  - tool
 ---
 
 # chenhg5/cc-connect

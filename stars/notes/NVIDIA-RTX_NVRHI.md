@@ -8,11 +8,9 @@ topics: []
 starred_at: "2022-10-14T17:48:16Z"
 tags:
   - graphic
-  - rhi
-  - vulkan
-  - directx
+  - platform
+  - library
   - cross-platform
-  - middleware
 ---
 
 # NVIDIA-RTX/NVRHI

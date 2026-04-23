@@ -8,10 +8,10 @@ topics: [crash-reporting, sdk, sentry, tag-production, team-gdx, unity, unity3d]
 starred_at: "2025-12-05T06:05:27Z"
 tags:
   - coding
+  - engine
   - unity
-  - monitoring
   - debug
-  - csharp
+  - library
 ---
 
 # getsentry/sentry-unity

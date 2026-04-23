@@ -7,10 +7,9 @@ stars: 356
 topics: [gaussian-splatting]
 starred_at: "2025-12-18T17:25:06Z"
 tags:
-  - coding
   - graphic
   - rendering
-  - 3d
+  - ai
   - cuda
 ---
 

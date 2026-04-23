@@ -8,10 +8,10 @@ topics: [gdscript, godot, godot-engine, godotengine, open-source, svg, svg-edito
 starred_at: "2025-11-02T03:48:53Z"
 tags:
   - coding
+  - media
   - svg
-  - editor
-  - ui
-  - desktop
+  - tool
+  - cross-platform
 ---
 
 # MewPurPur/GodSVG

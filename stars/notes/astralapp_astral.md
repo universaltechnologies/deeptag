@@ -9,9 +9,7 @@ starred_at: "2021-11-18T03:24:30Z"
 tags:
   - coding
   - web
-  - frontend
-  - api
-  - self-hosted
+  - tool
 ---
 
 # astralapp/astral

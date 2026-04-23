@@ -9,10 +9,8 @@ starred_at: "2024-04-09T12:23:21Z"
 tags:
   - coding
   - ai
-  - plugin
   - embeddings
-  - rag
-  - javascript
+  - plugin
 ---
 
 # brianpetro/obsidian-smart-connections

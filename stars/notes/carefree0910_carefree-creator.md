@@ -10,9 +10,7 @@ tags:
   - coding
   - ai
   - diffusion
-  - inference
-  - python
-  - docker
+  - tool
 ---
 
 # carefree0910/carefree-creator

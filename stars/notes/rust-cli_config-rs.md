@@ -8,9 +8,8 @@ topics: [config, config-management, configuration, configuration-management, jso
 starred_at: "2023-02-24T18:30:28Z"
 tags:
   - coding
+  - data
   - library
-  - rust
-  - json
 ---
 
 # rust-cli/config-rs

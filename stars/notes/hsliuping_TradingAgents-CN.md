@@ -9,9 +9,9 @@ starred_at: "2026-03-24T15:20:48Z"
 tags:
   - coding
   - ai
-  - agent
   - llm
-  - python
+  - agent
+  - framework
 ---
 
 # hsliuping/TradingAgents-CN

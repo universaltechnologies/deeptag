@@ -9,9 +9,8 @@ starred_at: "2026-04-19T13:03:20Z"
 tags:
   - coding
   - web
-  - editor
-  - self-hosted
-  - typescript
+  - ide
+  - tool
 ---
 
 # coder/code-server

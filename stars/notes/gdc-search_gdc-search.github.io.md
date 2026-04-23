@@ -10,7 +10,6 @@ tags:
   - coding
   - web
   - frontend
-  - search
 ---
 
 # gdc-search/gdc-search.github.io

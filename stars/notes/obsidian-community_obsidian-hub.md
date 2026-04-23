@@ -7,6 +7,8 @@ stars: 980
 topics: [obsidian-md, obsidian-vault]
 starred_at: "2026-04-11T15:21:51Z"
 tags:
+  - tools
+  - productivity
   - awesome
 ---
 

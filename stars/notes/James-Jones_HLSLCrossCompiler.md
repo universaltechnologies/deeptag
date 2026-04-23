@@ -8,11 +8,10 @@ topics: []
 starred_at: "2025-07-11T09:45:14Z"
 tags:
   - graphic
+  - shader
   - hlsl
   - glsl
-  - compiler
-  - shader
-  - cpp
+  - tool
 ---
 
 # James-Jones/HLSLCrossCompiler

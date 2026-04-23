@@ -10,8 +10,7 @@ tags:
   - coding
   - regex
   - web
-  - frontend
-  - tutorial
+  - tool
 ---
 
 # geongeorge/i-hate-regex

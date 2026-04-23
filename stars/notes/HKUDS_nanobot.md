@@ -11,6 +11,8 @@ tags:
   - ai
   - llm
   - agent
+  - library
+  - tool
 ---
 
 # HKUDS/nanobot

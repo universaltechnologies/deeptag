@@ -8,10 +8,11 @@ topics: [game-development, gamedev, gdextension, godot, godot-engine, godotengin
 starred_at: "2024-12-16T03:14:47Z"
 tags:
   - coding
-  - physics
   - engine
-  - cpp
   - godot
+  - physics
+  - plugin
+  - performance
 ---
 
 # godot-jolt/godot-jolt

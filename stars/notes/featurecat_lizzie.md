@@ -9,8 +9,9 @@ starred_at: "2020-01-06T14:52:19Z"
 tags:
   - coding
   - ai
+  - game
   - gui
-  - java
+  - tool
 ---
 
 # featurecat/lizzie

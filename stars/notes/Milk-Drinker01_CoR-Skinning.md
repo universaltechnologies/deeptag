@@ -7,12 +7,11 @@ stars: 27
 topics: []
 starred_at: "2024-10-22T03:37:04Z"
 tags:
-  - graphic
-  - skeletal
-  - animation
-  - shader
+  - coding
+  - engine
   - unity
-  - optimization
+  - graphic
+  - animation
 ---
 
 # Milk-Drinker01/CoR-Skinning

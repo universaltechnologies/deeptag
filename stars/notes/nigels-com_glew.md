@@ -8,10 +8,10 @@ topics: [c, egl, glew, glewinfo, glx, opengl, visualinfo, wgl]
 starred_at: "2015-10-31T13:14:07Z"
 tags:
   - graphic
+  - platform
   - opengl
   - library
   - cross-platform
-  - glsl
 ---
 
 # nigels-com/glew

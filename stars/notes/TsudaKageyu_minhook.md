@@ -8,11 +8,9 @@ topics: []
 starred_at: "2023-02-23T17:41:39Z"
 tags:
   - coding
+  - systems
   - library
   - windows
-  - hook
-  - ffi
-  - runtime
 ---
 
 # TsudaKageyu/minhook

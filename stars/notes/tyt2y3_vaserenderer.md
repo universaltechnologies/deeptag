@@ -9,9 +9,9 @@ starred_at: "2023-11-20T04:06:39Z"
 tags:
   - graphic
   - 2d
-  - rendering
   - opengl
-  - vector
+  - library
+  - cpp
 ---
 
 # tyt2y3/vaserenderer

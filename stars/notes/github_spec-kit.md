@@ -9,10 +9,9 @@ starred_at: "2026-04-04T03:22:53Z"
 tags:
   - coding
   - ai
-  - automation
-  - cli
   - workflow
-  - misc
+  - tool
+  - library
 ---
 
 # github/spec-kit

@@ -9,8 +9,8 @@ starred_at: "2016-06-25T03:40:05Z"
 tags:
   - coding
   - math
-  - python
   - library
+  - python
 ---
 
 # sympy/sympy

@@ -8,8 +8,8 @@ topics: []
 starred_at: "2023-02-18T06:19:38Z"
 tags:
   - coding
-  - visualization
   - math
+  - visualization
 ---
 
 # shaunlebron/visualizing-projections

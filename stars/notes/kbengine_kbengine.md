@@ -8,10 +8,8 @@ topics: [game-server, gameserver, kbengine, mmog-engine, mmorpg, server, unity3d
 starred_at: "2023-04-04T05:02:49Z"
 tags:
   - coding
+  - game
   - engine
-  - server
-  - networking
-  - hotfix
 ---
 
 # kbengine/kbengine

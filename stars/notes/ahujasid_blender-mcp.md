@@ -9,10 +9,10 @@ starred_at: "2026-01-20T02:55:27Z"
 tags:
   - coding
   - ai
-  - plugin
-  - api
-  - python
+  - mcp
+  - graphic
   - 3d
+  - plugin
 ---
 
 # ahujasid/blender-mcp

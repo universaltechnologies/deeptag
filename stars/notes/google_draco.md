@@ -8,10 +8,10 @@ topics: [3d-graphics, compression, mesh, point-cloud]
 starred_at: "2017-01-20T07:31:00Z"
 tags:
   - graphic
-  - coding
-  - mesh
   - compression
-  - 3d
+  - library
+  - cross-platform
+  - performance
 ---
 
 # google/draco

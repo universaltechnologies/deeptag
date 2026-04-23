@@ -9,9 +9,9 @@ starred_at: "2025-02-17T12:12:02Z"
 tags:
   - coding
   - ai
+  - cv
   - agent
-  - tools
-  - misc
+  - tool
 ---
 
 # microsoft/OmniParser

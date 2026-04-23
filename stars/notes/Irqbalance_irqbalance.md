@@ -8,10 +8,9 @@ topics: [cpu, irqbalance]
 starred_at: "2024-11-25T03:43:36Z"
 tags:
   - coding
-  - hardware
-  - linux
-  - performance
-  - c
+  - systems
+  - kernel
+  - tool
 ---
 
 # Irqbalance/irqbalance

@@ -8,11 +8,11 @@ topics: [hacktoberfest, linux, mmorpg, multi-platform, multiplayer, trinitycore,
 starred_at: "2015-11-10T02:49:10Z"
 tags:
   - coding
-  - gameplay
-  - networking
-  - server
-  - database
+  - game
   - cpp
+  - networking
+  - database
+  - framework
 ---
 
 # TrinityCore/TrinityCore

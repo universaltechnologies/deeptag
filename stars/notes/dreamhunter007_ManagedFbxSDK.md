@@ -8,9 +8,10 @@ topics: []
 starred_at: "2020-03-31T06:03:08Z"
 tags:
   - coding
-  - csharp
+  - media
+  - 3d
   - binding
-  - ffi
+  - tool
 ---
 
 # dreamhunter007/ManagedFbxSDK

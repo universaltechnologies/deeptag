@@ -7,12 +7,11 @@ stars: 744
 topics: [game, game-development, gamedev, graphics, material, shader, shaders, unity, unity-3d, unity-asset, unity3d]
 starred_at: "2023-03-23T16:50:06Z"
 tags:
+  - coding
+  - engine
+  - unity
   - graphic
   - shader
-  - texture
-  - unity
-  - editor
-  - misc
 ---
 
 # AdultLink/TexturePanner

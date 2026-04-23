@@ -7,12 +7,11 @@ stars: 464
 topics: [vulkan]
 starred_at: "2022-10-05T20:02:56Z"
 tags:
-  - graphic
+  - coding
+  - platform
   - vulkan
   - debug
-  - tools
-  - windows
-  - linux
+  - tool
 ---
 
 # KhronosGroup/Vulkan-Tools

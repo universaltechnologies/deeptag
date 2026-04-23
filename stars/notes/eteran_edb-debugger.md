@@ -10,7 +10,9 @@ tags:
   - coding
   - debug
   - reverse
+  - cross-platform
   - linux
+  - tool
 ---
 
 # eteran/edb-debugger

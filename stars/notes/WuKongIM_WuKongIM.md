@@ -9,10 +9,10 @@ starred_at: "2025-11-09T06:33:56Z"
 tags:
   - coding
   - networking
+  - go
   - distributed
-  - server
-  - protocol
   - performance
+  - library
 ---
 
 # WuKongIM/WuKongIM

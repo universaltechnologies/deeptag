@@ -11,8 +11,7 @@ tags:
   - shader
   - glsl
   - procedural
-  - texture
-  - math
+  - library
 ---
 
 # tuxalin/procedural-tileable-shaders

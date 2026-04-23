@@ -8,9 +8,10 @@ topics: []
 starred_at: "2018-11-13T07:01:48Z"
 tags:
   - coding
+  - game
   - lua
+  - library
   - math
-  - algorithm
 ---
 
 # rxi/lume

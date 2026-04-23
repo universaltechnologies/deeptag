@@ -8,9 +8,9 @@ topics: []
 starred_at: "2016-12-17T12:52:50Z"
 tags:
   - coding
-  - c
   - database
-  - driver
+  - c
+  - library
 ---
 
 # 10gen-archive/mongo-c-driver-legacy

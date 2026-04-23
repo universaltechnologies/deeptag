@@ -9,8 +9,7 @@ starred_at: "2023-02-14T16:32:21Z"
 tags:
   - coding
   - physics
-  - simulation
-  - math
+  - unity
   - engine
 ---
 

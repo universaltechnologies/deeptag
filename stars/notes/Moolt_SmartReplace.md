@@ -8,9 +8,10 @@ topics: [broken, component, editor, link, object, plugin, prefab, reference, rep
 starred_at: "2023-04-20T13:31:38Z"
 tags:
   - coding
+  - engine
   - unity
   - plugin
-  - editor
+  - tool
 ---
 
 # Moolt/SmartReplace

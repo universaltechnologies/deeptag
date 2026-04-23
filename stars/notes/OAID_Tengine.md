@@ -8,10 +8,11 @@ topics: [acl, arm, artificial-intelligence, cnn, container, cuda, machine-learni
 starred_at: "2024-03-26T08:27:14Z"
 tags:
   - coding
+  - ai
   - inference
-  - embedded
-  - cuda
+  - library
   - performance
+  - embedded
 ---
 
 # OAID/Tengine

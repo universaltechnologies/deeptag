@@ -8,10 +8,11 @@ topics: [cheat, counter-strike, counter-strike-2, cpp, cpp20, cs2, dll, dll-inje
 starred_at: "2023-02-23T17:12:32Z"
 tags:
   - coding
-  - cpp
   - reverse
-  - linux
   - windows
+  - linux
+  - cpp
+  - practice
 ---
 
 # danielkrupinski/Osiris

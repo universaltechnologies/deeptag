@@ -8,9 +8,12 @@ topics: [3d-model, animation, avatar, blendshape, cloth, collider, matarial, mes
 starred_at: "2023-02-19T15:55:17Z"
 tags:
   - graphic
-  - serialization
+  - scene
+  - coding
+  - engine
   - unity
-  - compression
+  - data
+  - library
 ---
 
 # izayoijiichan/VGO

@@ -8,9 +8,9 @@ topics: []
 starred_at: "2026-03-23T05:59:37Z"
 tags:
   - coding
-  - cli
   - ai
   - agent
+  - tool
 ---
 
 # vercel-labs/skills

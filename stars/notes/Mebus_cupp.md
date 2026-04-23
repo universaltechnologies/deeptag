@@ -8,9 +8,9 @@ topics: [dictionary-attack, password, password-strength, weak-passwords, wordlis
 starred_at: "2026-01-18T14:36:55Z"
 tags:
   - coding
-  - security
   - python
-  - cli
+  - tools
+  - security
 ---
 
 # Mebus/cupp

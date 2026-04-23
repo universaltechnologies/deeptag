@@ -8,9 +8,9 @@ topics: [injection, xss]
 starred_at: "2021-05-22T09:13:45Z"
 tags:
   - coding
-  - cli
-  - security
+  - media
   - image
+  - tool
 ---
 
 # jklmnn/imagejs

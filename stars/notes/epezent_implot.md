@@ -8,11 +8,10 @@ topics: [gui, imgui, implot, plot, plotting, plotting-library, ui]
 starred_at: "2023-02-23T17:11:41Z"
 tags:
   - coding
-  - gui
   - visualization
+  - gui
+  - library
   - cpp
-  - gpu
-  - header-only
 ---
 
 # epezent/implot

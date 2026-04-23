@@ -9,9 +9,8 @@ starred_at: "2024-01-09T06:01:57Z"
 tags:
   - coding
   - ai
-  - llm
-  - editor
   - plugin
+  - ide
 ---
 
 # Exafunction/CodeiumJetBrains

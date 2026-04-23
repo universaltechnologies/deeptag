@@ -9,9 +9,8 @@ starred_at: "2017-03-27T13:21:40Z"
 tags:
   - coding
   - automation
-  - cross-platform
   - library
-  - input
+  - cross-platform
 ---
 
 # Robot/robot

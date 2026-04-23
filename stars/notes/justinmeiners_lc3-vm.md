@@ -8,8 +8,10 @@ topics: [assembly, c, emulator, lc3, lc3-assembly, literate-programming, low-lev
 starred_at: "2022-04-24T03:07:39Z"
 tags:
   - coding
-  - tutorial
   - c
+  - reverse
+  - tutorial
+  - practice
 ---
 
 # justinmeiners/lc3-vm

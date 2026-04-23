@@ -10,9 +10,9 @@ tags:
   - coding
   - ai
   - llm
-  - server
   - proxy
-  - python
+  - library
+  - framework
 ---
 
 # BerriAI/litellm

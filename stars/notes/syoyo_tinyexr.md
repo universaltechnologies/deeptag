@@ -8,10 +8,10 @@ topics: []
 starred_at: "2022-05-23T23:47:49Z"
 tags:
   - coding
+  - media
   - image
+  - library
   - header-only
-  - compression
-  - cpp
 ---
 
 # syoyo/tinyexr

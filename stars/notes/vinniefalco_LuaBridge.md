@@ -8,10 +8,10 @@ topics: []
 starred_at: "2024-11-14T03:26:27Z"
 tags:
   - coding
-  - library
+  - cpp
   - lua
-  - header-only
   - binding
+  - header-only
 ---
 
 # vinniefalco/LuaBridge

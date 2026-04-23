@@ -10,8 +10,7 @@ tags:
   - coding
   - ai
   - llm
-  - inference
-  - python
+  - library
 ---
 
 # deepseek-ai/DeepSeek-Coder

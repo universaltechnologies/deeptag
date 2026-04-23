@@ -7,13 +7,10 @@ stars: 24986
 topics: [c-sharp, decompile, decompiler, decompiler-engine, dotnet, dotnetcore, ilspy, mono, pdb, unity]
 starred_at: "2018-07-26T01:22:38Z"
 tags:
-  - coding
-  - reverse
   - dotnet
-  - editor
+  - reverse
+  - tool
   - cross-platform
-  - cli
-  - misc
 ---
 
 # icsharpcode/ILSpy

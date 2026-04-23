@@ -8,11 +8,9 @@ topics: []
 starred_at: "2023-11-27T08:38:56Z"
 tags:
   - coding
-  - runtime
   - dotnet
-  - compiler
-  - platform
-  - webassembly
+  - runtime
+  - cross-platform
 ---
 
 # dotnet/runtimelab

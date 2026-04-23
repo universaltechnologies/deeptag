@@ -10,7 +10,7 @@ tags:
   - coding
   - algorithm
   - tutorial
-  - java
+  - awesome
 ---
 
 # geekxh/hello-algorithm

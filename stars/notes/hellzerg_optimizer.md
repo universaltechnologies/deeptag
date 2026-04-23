@@ -7,11 +7,11 @@ stars: 18121
 topics: [cleanup, hosts-file, optimize, privacy, registry-hacks, registry-tweaks, startup-items, toolbox, tweaks, windows, windows-10, windows-7, windows-8, windows-8-1, windows-tweaks]
 starred_at: "2023-10-17T07:41:44Z"
 tags:
-  - coding
-  - windows
   - tools
+  - csharp
+  - windows
   - security
-  - automation
+  - tool
 ---
 
 # hellzerg/optimizer

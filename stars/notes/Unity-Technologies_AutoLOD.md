@@ -7,11 +7,11 @@ stars: 2046
 topics: [unity, unity-editor]
 starred_at: "2023-05-24T17:15:15Z"
 tags:
+  - coding
+  - engine
   - graphic
-  - mesh
-  - unity
-  - optimization
-  - csharp
+  - scene
+  - tool
 ---
 
 # Unity-Technologies/AutoLOD

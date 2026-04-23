@@ -8,11 +8,11 @@ topics: [shaderlab, unity, unity3d]
 starred_at: "2023-03-30T07:41:27Z"
 tags:
   - coding
-  - shader
+  - engine
   - unity
+  - shader
+  - tool
   - plugin
-  - editor
-  - hlsl
 ---
 
 # wudixiaop/ShaderlabVS

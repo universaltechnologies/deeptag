@@ -8,9 +8,11 @@ topics: [c-sharp, json]
 starred_at: "2023-11-24T02:41:56Z"
 tags:
   - coding
+  - data
   - json
-  - serialization
   - dotnet
+  - library
+  - performance
 ---
 
 # JamesNK/Newtonsoft.Json

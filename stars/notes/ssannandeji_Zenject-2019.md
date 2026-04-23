@@ -8,10 +8,9 @@ topics: [data-binding, dependency, dependency-injection, dependency-injection-fr
 starred_at: "2022-11-04T03:02:49Z"
 tags:
   - coding
-  - csharp
-  - framework
+  - engine
   - unity
-  - plugin
+  - framework
 ---
 
 # ssannandeji/Zenject-2019

@@ -8,11 +8,11 @@ topics: []
 starred_at: "2025-05-18T00:45:33Z"
 tags:
   - coding
-  - performance
+  - tools
   - linux
-  - kernel
-  - debug
-  - cli
+  - performance
+  - profiler
+  - terminal
 ---
 
 # brendangregg/perf-tools

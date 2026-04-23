@@ -8,9 +8,10 @@ topics: []
 starred_at: "2025-05-21T10:01:22Z"
 tags:
   - coding
-  - javascript
-  - web
-  - misc
+  - ai
+  - mcp
+  - automation
+  - tool
 ---
 
 # terryso/cursor_remote

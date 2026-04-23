@@ -8,10 +8,11 @@ topics: [bloomberg-terminal, contributions-welcome, finance, financial-markets, 
 starred_at: "2026-03-02T17:24:23Z"
 tags:
   - coding
-  - ui
-  - desktop
-  - database
+  - ai
   - ml
+  - desktop
+  - tool
+  - library
 ---
 
 # Fincept-Corporation/FinceptTerminal

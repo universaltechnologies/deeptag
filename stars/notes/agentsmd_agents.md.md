@@ -10,8 +10,7 @@ tags:
   - coding
   - ai
   - agent
-  - web
-  - typescript
+  - spec
 ---
 
 # agentsmd/agents.md

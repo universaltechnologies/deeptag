@@ -10,9 +10,8 @@ tags:
   - coding
   - ai
   - agent
-  - llm
-  - database
-  - cloud
+  - memory
+  - library
 ---
 
 # vectorize-io/hindsight

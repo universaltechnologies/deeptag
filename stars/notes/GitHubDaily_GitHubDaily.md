@@ -7,10 +7,9 @@ stars: 46121
 topics: [ai, algorithms-and-data-structures, backend, developer-tools, development, frontend, github, java, javascript, kubernetes, linux, markdown, open-source, python, tutorials, web]
 starred_at: "2026-01-20T15:22:19Z"
 tags:
+  - coding
+  - tools
   - awesome
-  - misc
-  - tutorial
-  - web
 ---
 
 # GitHubDaily/GitHubDaily

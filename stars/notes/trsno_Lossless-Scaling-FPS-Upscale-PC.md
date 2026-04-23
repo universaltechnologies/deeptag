@@ -8,11 +8,10 @@ topics: [ai-upscaling, frame-generation, fsr-alternative, game-upscaler, gaming-
 starred_at: "2026-04-20T01:47:44Z"
 tags:
   - graphic
-  - tools
+  - ai
+  - post-processing
   - windows
-  - directx
-  - vulkan
-  - opengl
+  - tool
 ---
 
 # trsno/Lossless-Scaling-FPS-Upscale-PC

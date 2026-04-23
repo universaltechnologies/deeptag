@@ -8,9 +8,8 @@ topics: []
 starred_at: "2026-04-13T03:28:28Z"
 tags:
   - coding
-  - package
   - tutorial
-  - build
+  - practice
 ---
 
 # pypa/sampleproject

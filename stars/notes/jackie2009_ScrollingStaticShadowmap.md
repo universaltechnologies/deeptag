@@ -8,10 +8,10 @@ topics: []
 starred_at: "2025-06-04T11:07:22Z"
 tags:
   - graphic
+  - lighting
   - shadowmap
   - culling
-  - shadow
-  - engine
+  - performance
 ---
 
 # jackie2009/ScrollingStaticShadowmap

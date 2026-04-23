@@ -9,8 +9,7 @@ starred_at: "2024-11-16T01:09:21Z"
 tags:
   - coding
   - parser
-  - reverse
-  - cpp
+  - library
 ---
 
 # trailofbits/pe-parse

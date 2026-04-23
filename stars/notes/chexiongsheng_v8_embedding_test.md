@@ -8,13 +8,10 @@ topics: []
 starred_at: "2022-04-12T06:54:41Z"
 tags:
   - coding
+  - language
   - cpp
-  - engine
   - javascript
-  - binding
   - tutorial
-  - backend
-  - plugin
 ---
 
 # chexiongsheng/v8_embedding_test

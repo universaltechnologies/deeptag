@@ -8,10 +8,9 @@ topics: []
 starred_at: "2017-03-11T08:05:40Z"
 tags:
   - coding
-  - culling
   - cpp
-  - rasterization
-  - optimization
+  - culling
+  - performance
 ---
 
 # rygorous/intel_occlusion_cull

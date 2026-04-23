@@ -11,7 +11,6 @@ tags:
   - ai
   - ml
   - awesome
-  - misc
 ---
 
 # josephmisiti/awesome-machine-learning

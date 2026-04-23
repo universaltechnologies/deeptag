@@ -9,7 +9,8 @@ starred_at: "2026-01-07T12:35:34Z"
 tags:
   - coding
   - automation
-  - python
+  - tool
+  - practice
 ---
 
 # chengazhen/cursor-auto-free

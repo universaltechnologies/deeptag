@@ -8,9 +8,9 @@ topics: []
 starred_at: "2018-04-18T05:55:18Z"
 tags:
   - graphic
+  - lighting
+  - shader
   - compute-shader
-  - shadow
-  - unity
 ---
 
 # Unity-Technologies/VolumetricLighting

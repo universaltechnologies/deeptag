@@ -9,9 +9,9 @@ starred_at: "2023-04-14T05:33:28Z"
 tags:
   - coding
   - ai
-  - llm
   - agent
-  - automation
+  - llm
+  - tool
 ---
 
 # Significant-Gravitas/AutoGPT

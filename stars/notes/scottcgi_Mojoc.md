@@ -7,12 +7,12 @@ stars: 1277
 topics: [android, architecture, cross-platform, game-engine, ios, mobile-game, pure-c]
 starred_at: "2023-09-19T07:55:32Z"
 tags:
-  - graphic
+  - coding
   - engine
+  - game
+  - platform
   - opengl
   - cross-platform
-  - mobile
-  - architecture
 ---
 
 # scottcgi/Mojoc

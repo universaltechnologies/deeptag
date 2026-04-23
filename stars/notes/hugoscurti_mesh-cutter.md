@@ -8,9 +8,11 @@ topics: [gamedev, unity]
 starred_at: "2023-04-19T11:39:59Z"
 tags:
   - coding
-  - algorithm
-  - mesh
+  - engine
   - unity
+  - graphic
+  - mesh
+  - tool
 ---
 
 # hugoscurti/mesh-cutter

@@ -8,10 +8,9 @@ topics: [c, conversion, image-optimization, palette, png, png-compression, pngqu
 starred_at: "2023-11-07T17:43:16Z"
 tags:
   - coding
+  - media
   - image
-  - cli
-  - compression
-  - optimization
+  - tool
 ---
 
 # kornelski/pngquant

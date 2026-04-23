@@ -10,9 +10,8 @@ tags:
   - coding
   - ai
   - rag
-  - database
-  - api
-  - web
+  - memory
+  - library
 ---
 
 # supermemoryai/supermemory

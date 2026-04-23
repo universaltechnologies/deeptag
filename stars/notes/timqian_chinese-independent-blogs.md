@@ -9,7 +9,6 @@ starred_at: "2025-06-03T15:45:46Z"
 tags:
   - awesome
   - web
-  - automation
 ---
 
 # timqian/chinese-independent-blogs

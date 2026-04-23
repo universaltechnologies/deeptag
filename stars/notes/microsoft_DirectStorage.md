@@ -8,11 +8,11 @@ topics: [direct3d12, directx, microsoft, storage]
 starred_at: "2024-04-25T09:19:35Z"
 tags:
   - coding
-  - directx
+  - systems
   - storage
-  - gpu
+  - platform
   - windows
-  - compression
+  - library
 ---
 
 # microsoft/DirectStorage

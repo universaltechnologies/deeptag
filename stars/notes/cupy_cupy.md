@@ -8,9 +8,10 @@ topics: [cublas, cuda, cudnn, cupy, curand, cusolver, cusparse, cusparselt, cute
 starred_at: "2023-03-15T02:54:41Z"
 tags:
   - coding
+  - systems
   - gpu
   - cuda
-  - python
+  - library
   - performance
 ---
 

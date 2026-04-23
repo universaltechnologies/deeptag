@@ -10,9 +10,9 @@ tags:
   - coding
   - physics
   - robotics
-  - cpp
-  - opengl
+  - library
   - simulation
+  - performance
 ---
 
 # google-deepmind/mujoco

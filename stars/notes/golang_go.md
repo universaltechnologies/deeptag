@@ -8,9 +8,6 @@ topics: [go, golang, language, programming-language]
 starred_at: "2021-03-17T23:06:26Z"
 tags:
   - coding
-  - compiler
-  - runtime
-  - gc
   - language
   - go
 ---

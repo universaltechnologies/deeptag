@@ -9,10 +9,10 @@ starred_at: "2025-12-25T16:52:38Z"
 tags:
   - coding
   - ai
-  - llm
   - agent
-  - automation
-  - workflow
+  - mcp
+  - skills
+  - tool
 ---
 
 # obra/superpowers

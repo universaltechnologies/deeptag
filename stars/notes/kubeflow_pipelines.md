@@ -8,10 +8,9 @@ topics: [data-science, kubeflow, kubeflow-pipelines, kubernetes, machine-learnin
 starred_at: "2023-03-07T17:57:50Z"
 tags:
   - coding
-  - ml
-  - docker
-  - automation
-  - workflow
+  - ai
+  - pipeline
+  - tool
 ---
 
 # kubeflow/pipelines

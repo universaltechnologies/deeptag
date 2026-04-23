@@ -7,11 +7,10 @@ stars: 1083
 topics: [gamedev, graphics, graphics-programming, graphics-rendering, guide, houdini, houdini-digital-assets, houdini-engine, houdini-plugin, programming, rendering, ue4, unreal, unreal-engine, unreal-engine-4, unreal-engine-plugin, unrealengine]
 starred_at: "2024-01-25T06:03:56Z"
 tags:
-  - graphic
-  - rendering
+  - coding
   - engine
   - unreal
-  - tutorial
+  - graphic
 ---
 
 # ikrima/gamedevguide

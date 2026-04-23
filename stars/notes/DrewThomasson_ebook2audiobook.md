@@ -7,11 +7,11 @@ stars: 18724
 topics: [audiobook, audiobooks, chinese, colab-notebook, docker, english, epub, gradio, kaggle, linux, mac, multilingual, tts, voice-cloning, windows, xtts]
 starred_at: "2026-02-10T07:32:02Z"
 tags:
-  - tools
-  - audio
+  - coding
   - ai
-  - docker
-  - cross-platform
+  - tts
+  - voice
+  - tool
 ---
 
 # DrewThomasson/ebook2audiobook

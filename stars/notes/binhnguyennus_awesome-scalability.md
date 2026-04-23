@@ -7,12 +7,12 @@ stars: 70506
 topics: [architecture, awesome, awesome-list, backend, big-data, computer-science, design-patterns, devops, distributed-systems, interview, interview-practice, interview-questions, lists, machine-learning, programming, resources, scalability, system, system-design, web-development]
 starred_at: "2026-01-16T17:11:42Z"
 tags:
-  - awesome
+  - coding
   - architecture
+  - systems
   - distributed
-  - performance
-  - backend
-  - database
+  - awesome
+  - tool
 ---
 
 # binhnguyennus/awesome-scalability

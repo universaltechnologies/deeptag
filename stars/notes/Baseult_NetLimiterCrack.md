@@ -9,9 +9,9 @@ starred_at: "2025-04-14T16:52:14Z"
 tags:
   - coding
   - csharp
+  - windows
+  - desktop
   - reverse
-  - automation
-  - misc
 ---
 
 # Baseult/NetLimiterCrack

@@ -9,9 +9,8 @@ starred_at: "2023-09-13T18:00:51Z"
 tags:
   - coding
   - engine
-  - plugin
   - awesome
-  - misc
+  - tool
 ---
 
 # bevyengine/bevy-assets

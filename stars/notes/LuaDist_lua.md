@@ -8,8 +8,10 @@ topics: []
 starred_at: "2016-11-10T01:35:23Z"
 tags:
   - coding
+  - language
+  - c
   - lua
-  - compiler
+  - build
 ---
 
 # LuaDist/lua

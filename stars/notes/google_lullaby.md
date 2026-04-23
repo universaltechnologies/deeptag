@@ -9,10 +9,10 @@ starred_at: "2017-12-18T11:39:20Z"
 tags:
   - coding
   - vr
-  - engine
+  - game
   - ecs
-  - audio
-  - animation
+  - library
+  - cross-platform
 ---
 
 # google/lullaby

@@ -8,10 +8,10 @@ topics: [addressables, unity, unity3d, unity3d-addressables, unity3d-editor, uni
 starred_at: "2023-01-03T03:33:26Z"
 tags:
   - coding
+  - engine
   - unity
-  - editor
+  - debug
   - plugin
-  - parser
 ---
 
 # pschraut/UnityAddressablesBuildLayoutExplorer

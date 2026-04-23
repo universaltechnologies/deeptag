@@ -7,9 +7,10 @@ stars: 112
 topics: []
 starred_at: "2023-04-19T11:41:48Z"
 tags:
-  - graphic
+  - coding
   - engine
   - unity
+  - plugin
 ---
 
 # DavidArayan/ezyslice-example-scenes

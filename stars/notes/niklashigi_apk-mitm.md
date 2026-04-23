@@ -8,11 +8,9 @@ topics: [android, apk, apktool, certificate-pinning, cli, man-in-the-middle, mit
 starred_at: "2025-08-07T08:33:41Z"
 tags:
   - coding
-  - cli
   - reverse
   - android
-  - security
-  - automation
+  - tool
 ---
 
 # niklashigi/apk-mitm

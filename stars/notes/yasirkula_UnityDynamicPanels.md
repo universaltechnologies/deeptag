@@ -7,11 +7,11 @@ stars: 780
 topics: []
 starred_at: "2021-10-27T07:08:41Z"
 tags:
-  - graphic
-  - ui
+  - coding
+  - engine
   - unity
+  - ui
   - plugin
-  - editor
 ---
 
 # yasirkula/UnityDynamicPanels

@@ -10,9 +10,8 @@ tags:
   - coding
   - ai
   - llm
-  - security
-  - ci
   - automation
+  - tool
 ---
 
 # anthropics/claude-code-security-review

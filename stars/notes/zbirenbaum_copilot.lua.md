@@ -8,10 +8,8 @@ topics: [copilot, github-copilot, lsp-server, lua, neovim, nvim-cmp]
 starred_at: "2024-11-15T16:51:41Z"
 tags:
   - coding
-  - editor
+  - ide
   - plugin
-  - automation
-  - lua
 ---
 
 # zbirenbaum/copilot.lua

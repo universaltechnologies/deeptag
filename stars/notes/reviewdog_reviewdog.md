@@ -8,10 +8,8 @@ topics: [bitbucket, ci, cli, code-quality, code-review, codereview, github, gitl
 starred_at: "2025-12-04T12:40:23Z"
 tags:
   - coding
-  - lint
   - ci
-  - cli
-  - automation
+  - tool
 ---
 
 # reviewdog/reviewdog

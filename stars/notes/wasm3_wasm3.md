@@ -8,10 +8,10 @@ topics: [containers, cosmopolitan, devops, edge-computing, embedded, iot, sandbo
 starred_at: "2024-08-02T08:52:39Z"
 tags:
   - coding
+  - runtime
   - webassembly
   - embedded
   - performance
-  - cross-platform
 ---
 
 # wasm3/wasm3

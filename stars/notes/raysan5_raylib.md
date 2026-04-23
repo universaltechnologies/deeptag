@@ -7,12 +7,11 @@ stars: 32122
 topics: [android, c, embedded, game-development, game-engine, gamedev, graphics, iot, linux, opengl, programming, raspberry-pi, raylib, riscv, videogames, wasm, webassembly, win32]
 starred_at: "2017-02-07T05:53:23Z"
 tags:
-  - graphic
-  - opengl
+  - coding
   - engine
   - library
   - cross-platform
-  - embedded
+  - graphic
 ---
 
 # raysan5/raylib

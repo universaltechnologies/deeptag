@@ -8,10 +8,8 @@ topics: []
 starred_at: "2022-11-30T15:58:10Z"
 tags:
   - coding
-  - book
-  - architecture
   - hardware
-  - misc
+  - book
 ---
 
 # foxsen/archbase

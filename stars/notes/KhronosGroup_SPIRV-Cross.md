@@ -8,11 +8,9 @@ topics: []
 starred_at: "2022-09-22T06:31:53Z"
 tags:
   - graphic
-  - reflection
-  - glsl
-  - hlsl
-  - metal
-  - cpp
+  - shader
+  - tool
+  - library
 ---
 
 # KhronosGroup/SPIRV-Cross

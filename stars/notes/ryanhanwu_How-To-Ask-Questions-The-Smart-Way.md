@@ -7,9 +7,7 @@ stars: 34908
 topics: [rtfm, stfw, translation]
 starred_at: "2025-10-10T07:45:06Z"
 tags:
-  - coding
-  - misc
-  - tutorial
+  - book
 ---
 
 # ryanhanwu/How-To-Ask-Questions-The-Smart-Way

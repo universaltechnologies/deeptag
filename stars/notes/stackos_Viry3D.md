@@ -8,14 +8,11 @@ topics: [android, d3d11, game-engine, ios, macos, metal, opengl-es, uwp, vulkan,
 starred_at: "2018-11-17T06:55:58Z"
 tags:
   - coding
-  - graphic
   - engine
-  - vulkan
-  - opengl
-  - webassembly
-  - android
-  - ios
-  - windows
+  - graphic
+  - rendering
+  - mesh
+  - cross-platform
 ---
 
 # stackos/Viry3D

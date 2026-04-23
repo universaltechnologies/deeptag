@@ -10,9 +10,7 @@ tags:
   - graphic
   - texture
   - compression
-  - image-processing
-  - gpu
-  - gui
+  - tools
 ---
 
 # GPUOpen-Tools/compressonator

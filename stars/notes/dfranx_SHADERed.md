@@ -11,9 +11,8 @@ tags:
   - shader
   - glsl
   - hlsl
-  - opengl
   - debug
-  - editor
+  - tool
 ---
 
 # dfranx/SHADERed

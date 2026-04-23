@@ -10,7 +10,6 @@ tags:
   - coding
   - algorithm
   - library
-  - python
 ---
 
 # life4/textdistance

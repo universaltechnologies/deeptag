@@ -11,7 +11,6 @@ tags:
   - ai
   - llm
   - tutorial
-  - book
 ---
 
 # Lordog/dive-into-llms

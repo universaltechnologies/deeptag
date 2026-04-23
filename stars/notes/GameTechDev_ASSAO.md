@@ -8,11 +8,10 @@ topics: []
 starred_at: "2023-03-01T06:23:54Z"
 tags:
   - graphic
+  - lighting
   - ssao
-  - shader
-  - hlsl
-  - rendering
   - cpp
+  - library
 ---
 
 # GameTechDev/ASSAO

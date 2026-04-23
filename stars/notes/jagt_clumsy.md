@@ -7,11 +7,10 @@ stars: 6021
 topics: []
 starred_at: "2024-04-11T03:07:25Z"
 tags:
-  - tools
+  - coding
   - networking
   - windows
-  - proxy
-  - debug
+  - tool
 ---
 
 # jagt/clumsy

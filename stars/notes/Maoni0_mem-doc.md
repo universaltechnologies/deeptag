@@ -9,10 +9,9 @@ starred_at: "2023-09-19T07:23:22Z"
 tags:
   - coding
   - dotnet
-  - gc
-  - memory
-  - performance
-  - tutorial
+  - profiler
+  - debug
+  - book
 ---
 
 # Maoni0/mem-doc

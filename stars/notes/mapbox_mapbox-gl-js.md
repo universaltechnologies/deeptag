@@ -7,12 +7,10 @@ stars: 12245
 topics: [3d, javascript, maps, priority, webgl]
 starred_at: "2023-03-29T03:11:46Z"
 tags:
-  - coding
+  - graphic
   - webgl
-  - rendering
   - web
-  - frontend
-  - 3d
+  - library
 ---
 
 # mapbox/mapbox-gl-js

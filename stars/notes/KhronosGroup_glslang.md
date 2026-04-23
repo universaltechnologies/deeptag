@@ -7,12 +7,11 @@ stars: 3498
 topics: [compiler, essl, glsl, glslang, glslangvalidator, hlsl, shader, spir-v, validator]
 starred_at: "2022-07-13T10:12:57Z"
 tags:
+  - coding
+  - compiler
   - graphic
   - shader
-  - glsl
-  - hlsl
-  - compiler
-  - vulkan
+  - library
 ---
 
 # KhronosGroup/glslang

@@ -10,8 +10,9 @@ tags:
   - coding
   - networking
   - http
-  - security
   - server
+  - tool
+  - cross-platform
 ---
 
 # caddyserver/caddy

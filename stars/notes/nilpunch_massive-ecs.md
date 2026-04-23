@@ -8,9 +8,10 @@ topics: [ecs, rollback-netcode]
 starred_at: "2024-07-05T03:55:11Z"
 tags:
   - coding
+  - game
   - ecs
-  - engine
-  - simulation
+  - library
+  - csharp
 ---
 
 # nilpunch/massive-ecs

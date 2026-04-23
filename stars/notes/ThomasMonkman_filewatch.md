@@ -8,9 +8,11 @@ topics: []
 starred_at: "2022-02-18T12:25:08Z"
 tags:
   - coding
-  - filesystem
+  - cpp
   - header-only
   - cross-platform
+  - library
+  - filesystem
 ---
 
 # ThomasMonkman/filewatch

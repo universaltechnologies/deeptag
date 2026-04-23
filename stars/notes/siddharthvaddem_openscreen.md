@@ -8,11 +8,11 @@ topics: [electron, open-source, pixijs, screen-capture, screen-recorder]
 starred_at: "2026-04-03T15:13:45Z"
 tags:
   - coding
+  - media
   - video
   - electron
-  - typescript
-  - capture
-  - gui
+  - tool
+  - cross-platform
 ---
 
 # siddharthvaddem/openscreen

@@ -9,9 +9,10 @@ starred_at: "2026-03-30T03:53:03Z"
 tags:
   - coding
   - ai
-  - cli
-  - automation
+  - mcp
+  - engine
   - unity
+  - tool
 ---
 
 # hatayama/unity-cli-loop

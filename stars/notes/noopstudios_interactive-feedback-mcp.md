@@ -10,9 +10,7 @@ tags:
   - coding
   - ai
   - mcp
-  - automation
-  - workflow
-  - python
+  - tool
 ---
 
 # noopstudios/interactive-feedback-mcp

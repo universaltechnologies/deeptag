@@ -7,14 +7,12 @@ stars: 5
 topics: []
 starred_at: "2023-05-06T19:50:05Z"
 tags:
-  - graphic
-  - profiler
-  - opengl
+  - coding
   - engine
   - unity
+  - plugin
+  - profiler
   - performance
-  - android
-  - mobile
 ---
 
 # Kixeye/render-timing-for-unity

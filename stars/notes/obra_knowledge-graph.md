@@ -8,10 +8,11 @@ topics: []
 starred_at: "2026-03-23T09:00:00Z"
 tags:
   - coding
-  - cli
+  - ai
+  - mcp
+  - search
   - graph
-  - vector
-  - typescript
+  - tool
 ---
 
 # obra/knowledge-graph

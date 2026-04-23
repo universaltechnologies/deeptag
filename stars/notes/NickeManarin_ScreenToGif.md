@@ -8,9 +8,11 @@ topics: [editor, gif, recorder, sketchboard, video, webcam, wpf]
 starred_at: "2019-12-17T08:46:02Z"
 tags:
   - tools
-  - editor
+  - coding
+  - media
   - video
-  - image
+  - csharp
+  - tool
 ---
 
 # NickeManarin/ScreenToGif

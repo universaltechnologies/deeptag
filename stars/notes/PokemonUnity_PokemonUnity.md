@@ -8,10 +8,9 @@ topics: [legacy, pokemon, unity, unity3d]
 starred_at: "2024-08-23T04:23:41Z"
 tags:
   - coding
+  - game
   - framework
-  - gameplay
-  - csharp
-  - engine
+  - tool
 ---
 
 # PokemonUnity/PokemonUnity

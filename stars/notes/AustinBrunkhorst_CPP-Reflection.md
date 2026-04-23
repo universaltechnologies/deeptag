@@ -9,10 +9,9 @@ starred_at: "2017-04-14T02:36:13Z"
 tags:
   - coding
   - cpp
-  - reflection
   - parser
-  - automation
-  - build
+  - reflection
+  - tool
 ---
 
 # AustinBrunkhorst/CPP-Reflection

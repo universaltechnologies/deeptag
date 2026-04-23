@@ -8,9 +8,8 @@ topics: [bilibili, bilibili-live]
 starred_at: "2019-04-04T14:13:42Z"
 tags:
   - coding
-  - automation
-  - web
-  - typescript
+  - nodejs
+  - tool
 ---
 
 # bilive/bilive_client

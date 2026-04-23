@@ -8,10 +8,10 @@ topics: []
 starred_at: "2024-08-15T03:50:40Z"
 tags:
   - coding
-  - framework
   - web
-  - ui
   - ai
+  - framework
+  - tool
 ---
 
 # mesop-dev/mesop

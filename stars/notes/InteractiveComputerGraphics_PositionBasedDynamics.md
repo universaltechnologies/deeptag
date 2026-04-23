@@ -8,8 +8,8 @@ topics: [deformable-solids, position-based-dynamics, rigid-bodies, rigid-body-dy
 starred_at: "2022-06-09T11:05:13Z"
 tags:
   - coding
-  - physics
   - simulation
+  - physics
   - library
 ---
 

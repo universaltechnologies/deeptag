@@ -7,10 +7,9 @@ stars: 16497
 topics: [art, awesome, awesome-list, board-games, curated, design, frameworks, game-design, game-development, game-engine, game-jam, game-programming, gamedev, games, hacktoberfest, list]
 starred_at: "2022-10-07T15:22:06Z"
 tags:
-  - misc
+  - coding
+  - game
   - awesome
-  - engine
-  - audio
 ---
 
 # ellisonleao/magictools

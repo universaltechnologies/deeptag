@@ -8,11 +8,10 @@ topics: []
 starred_at: "2019-12-16T12:56:49Z"
 tags:
   - coding
-  - networking
-  - lua
+  - web
   - server
-  - embedded
-  - plugin
+  - lua
+  - library
 ---
 
 # openresty/lua-nginx-module

@@ -7,9 +7,11 @@ stars: 85108
 topics: [ai, mcp]
 starred_at: "2025-03-24T06:21:49Z"
 tags:
+  - coding
+  - ai
+  - mcp
   - awesome
   - ai
-  - misc
 ---
 
 # punkpeye/awesome-mcp-servers

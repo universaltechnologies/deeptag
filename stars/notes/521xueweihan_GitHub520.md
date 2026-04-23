@@ -7,9 +7,8 @@ stars: 28503
 topics: [dns, github, hosts]
 starred_at: "2024-12-06T04:19:52Z"
 tags:
-  - networking
-  - automation
   - tools
+  - network
 ---
 
 # 521xueweihan/GitHub520

@@ -8,8 +8,7 @@ topics: []
 starred_at: "2017-07-20T02:00:33Z"
 tags:
   - tools
-  - cv
-  - image
+  - cpp
   - image-processing
   - 3d
 ---

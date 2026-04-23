@@ -7,11 +7,12 @@ stars: 1551
 topics: [animation-3d, animation-compression, c-plus-plus, compression, cpp, game-development, game-engine]
 starred_at: "2024-12-27T16:03:07Z"
 tags:
+  - coding
+  - compression
   - graphic
   - animation
-  - compression
-  - optimization
-  - cpp
+  - library
+  - performance
 ---
 
 # nfrechette/acl

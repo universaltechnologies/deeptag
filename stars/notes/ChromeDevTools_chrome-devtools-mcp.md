@@ -8,9 +8,10 @@ topics: [browser, chrome, chrome-devtools, debugging, devtools, mcp, mcp-server,
 starred_at: "2026-04-17T20:43:22Z"
 tags:
   - coding
+  - ai
+  - mcp
+  - tool
   - automation
-  - debug
-  - browser
 ---
 
 # ChromeDevTools/chrome-devtools-mcp

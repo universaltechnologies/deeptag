@@ -8,10 +8,9 @@ topics: [github, mcp, mcp-server]
 starred_at: "2025-07-02T07:59:34Z"
 tags:
   - coding
-  - api
   - ai
-  - automation
-  - workflow
+  - mcp
+  - tool
 ---
 
 # github/github-mcp-server

@@ -8,10 +8,9 @@ topics: [arrow, dataframe, dataframe-library, dataframes, out-of-core, polars, p
 starred_at: "2023-11-23T13:43:10Z"
 tags:
   - coding
-  - database
+  - data
   - performance
-  - rust
-  - python
+  - library
 ---
 
 # pola-rs/polars

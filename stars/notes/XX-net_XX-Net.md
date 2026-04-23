@@ -8,9 +8,10 @@ topics: [gfw, goagent, proxy, uncensored, vpn]
 starred_at: "2018-11-04T16:03:30Z"
 tags:
   - coding
-  - proxy
   - networking
+  - proxy
   - tools
+  - cross-platform
 ---
 
 # XX-net/XX-Net

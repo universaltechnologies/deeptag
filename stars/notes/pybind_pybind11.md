@@ -8,10 +8,11 @@ topics: [bindings, python]
 starred_at: "2023-03-27T18:00:53Z"
 tags:
   - coding
-  - binding
-  - header-only
-  - cpp
   - python
+  - cpp
+  - library
+  - header-only
+  - binding
 ---
 
 # pybind/pybind11

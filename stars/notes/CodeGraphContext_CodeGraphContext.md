@@ -9,8 +9,8 @@ starred_at: "2026-03-06T11:10:18Z"
 tags:
   - coding
   - ai
-  - database
-  - graph
+  - mcp
+  - tools
   - cli
 ---
 

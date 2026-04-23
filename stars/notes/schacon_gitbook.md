@@ -7,8 +7,6 @@ stars: 469
 topics: []
 starred_at: "2021-05-08T06:25:38Z"
 tags:
-  - coding
-  - tutorial
   - book
   - git
 ---

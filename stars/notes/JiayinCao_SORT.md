@@ -8,9 +8,9 @@ topics: [blender, computer-graphics, cross-platform, offline-rendering, ray-trac
 starred_at: "2023-11-06T18:13:51Z"
 tags:
   - graphic
-  - ray-tracing
-  - path-tracing
   - rendering
+  - ray-tracing
+  - pbr
   - cross-platform
 ---
 

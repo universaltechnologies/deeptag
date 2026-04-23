@@ -7,12 +7,11 @@ stars: 180
 topics: []
 starred_at: "2020-02-21T02:19:19Z"
 tags:
-  - graphic
-  - svg
-  - mesh
+  - coding
   - engine
   - unity
-  - csharp
+  - plugin
+  - graphic
 ---
 
 # jaroslavstehlik/svgimporter

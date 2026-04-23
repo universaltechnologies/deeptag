@@ -8,10 +8,10 @@ topics: [cloud-native, database, distributed-database, distributed-transactions,
 starred_at: "2024-01-29T18:10:26Z"
 tags:
   - coding
-  - database
-  - distributed
+  - data
   - sql
-  - cloud
+  - distributed
+  - database
 ---
 
 # pingcap/tidb

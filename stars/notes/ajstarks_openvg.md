@@ -8,9 +8,10 @@ topics: [drawing, font, graphics, graphics-programming, openvg, raspberry-pi, ra
 starred_at: "2026-01-13T02:14:08Z"
 tags:
   - graphic
+  - rendering
   - 2d
   - font
-  - cpp
+  - library
 ---
 
 # ajstarks/openvg

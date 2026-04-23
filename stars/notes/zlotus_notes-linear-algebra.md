@@ -8,8 +8,8 @@ topics: []
 starred_at: "2024-03-04T03:20:57Z"
 tags:
   - coding
+  - math
   - tutorial
-  - book
 ---
 
 # zlotus/notes-linear-algebra

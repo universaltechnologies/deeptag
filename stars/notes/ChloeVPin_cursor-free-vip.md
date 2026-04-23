@@ -9,9 +9,9 @@ starred_at: "2026-01-08T14:15:12Z"
 tags:
   - coding
   - automation
-  - electron
+  - tool
   - windows
-  - gui
+  - desktop
 ---
 
 # ChloeVPin/cursor-free-vip

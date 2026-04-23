@@ -7,11 +7,11 @@ stars: 149
 topics: []
 starred_at: "2020-04-16T17:12:24Z"
 tags:
-  - tools
+  - coding
   - debug
+  - ide
+  - plugin
   - engine
-  - unity
-  - windows
 ---
 
 # Unity-Technologies/UnityMixedCallstack

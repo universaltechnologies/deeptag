@@ -7,8 +7,8 @@ stars: 1679
 topics: [awesome, awesome-list, picgo]
 starred_at: "2022-11-21T13:14:31Z"
 tags:
+  - tools
   - awesome
-  - misc
 ---
 
 # PicGo/Awesome-PicGo

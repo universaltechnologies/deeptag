@@ -9,9 +9,8 @@ starred_at: "2023-11-06T18:09:42Z"
 tags:
   - graphic
   - 2d
-  - rendering
   - library
-  - cpp
+  - cross-platform
 ---
 
 # google/skia

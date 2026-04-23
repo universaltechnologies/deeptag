@@ -8,10 +8,12 @@ topics: [decal, unity-editor, unity3d]
 starred_at: "2023-03-17T21:38:26Z"
 tags:
   - graphic
+  - material
   - pbr
-  - mesh
+  - coding
   - engine
   - unity
+  - library
 ---
 
 # Anatta336/driven-decals

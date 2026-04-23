@@ -8,10 +8,8 @@ topics: []
 starred_at: "2023-04-10T11:22:38Z"
 tags:
   - graphic
-  - gpu
-  - hlsl
-  - glsl
-  - optimization
+  - shader
+  - library
 ---
 
 # BrianSharpe/GPU-Noise-Lib

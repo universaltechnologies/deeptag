@@ -9,10 +9,9 @@ starred_at: "2025-08-09T09:26:59Z"
 tags:
   - coding
   - ai
-  - cli
+  - agent
   - terminal
-  - typescript
-  - nodejs
+  - tool
 ---
 
 # QwenLM/qwen-code

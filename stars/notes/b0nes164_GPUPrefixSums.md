@@ -9,10 +9,9 @@ starred_at: "2023-11-28T08:47:25Z"
 tags:
   - coding
   - algorithm
-  - gpu
-  - compute
-  - hlsl
   - cuda
+  - hlsl
+  - compute-shader
 ---
 
 # b0nes164/GPUPrefixSums

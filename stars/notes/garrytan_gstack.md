@@ -9,10 +9,10 @@ starred_at: "2026-03-18T03:49:24Z"
 tags:
   - coding
   - ai
-  - llm
   - agent
+  - workflow
+  - tool
   - automation
-  - typescript
 ---
 
 # garrytan/gstack

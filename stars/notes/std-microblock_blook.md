@@ -8,9 +8,8 @@ topics: [aob, aob-scan, game-hacking, hacking, hook, inline-hook, memory-scannin
 starred_at: "2026-03-19T08:14:56Z"
 tags:
   - coding
-  - hook
-  - reverse
   - cpp
+  - library
 ---
 
 # std-microblock/blook

@@ -9,7 +9,8 @@ starred_at: "2023-09-29T09:19:31Z"
 tags:
   - awesome
   - tools
-  - misc
+  - coding
+  - architecture
 ---
 
 # shubhamgrg04/awesome-diagramming

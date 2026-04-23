@@ -9,7 +9,7 @@ starred_at: "2025-11-02T09:24:22Z"
 tags:
   - tools
   - game
-  - editor
+  - plugin
 ---
 
 # asd790320224/Nikke-Mod-Tools

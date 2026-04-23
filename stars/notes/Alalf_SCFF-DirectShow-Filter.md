@@ -8,10 +8,10 @@ topics: []
 starred_at: "2016-08-30T00:44:40Z"
 tags:
   - coding
-  - video
+  - media
   - capture
-  - windows
   - cpp
+  - plugin
 ---
 
 # Alalf/SCFF-DirectShow-Filter

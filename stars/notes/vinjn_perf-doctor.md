@@ -9,10 +9,8 @@ starred_at: "2022-12-03T17:03:08Z"
 tags:
   - coding
   - profiler
+  - tool
   - mobile
-  - debug
-  - python
-  - android
 ---
 
 # vinjn/perf-doctor

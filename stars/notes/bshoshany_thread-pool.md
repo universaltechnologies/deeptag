@@ -9,9 +9,9 @@ starred_at: "2022-05-16T03:48:13Z"
 tags:
   - coding
   - concurrency
-  - performance
-  - header-only
   - cpp
+  - library
+  - performance
 ---
 
 # bshoshany/thread-pool

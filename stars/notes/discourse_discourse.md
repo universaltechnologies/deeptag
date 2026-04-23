@@ -9,10 +9,9 @@ starred_at: "2018-11-04T16:19:13Z"
 tags:
   - coding
   - web
-  - self-hosted
   - backend
-  - docker
   - database
+  - framework
 ---
 
 # discourse/discourse

@@ -7,10 +7,11 @@ stars: 555
 topics: []
 starred_at: "2022-12-30T19:09:25Z"
 tags:
-  - webgpu
-  - rhi
-  - binding
   - graphic
+  - platform
+  - webgpu
+  - header-only
+  - spec
 ---
 
 # webgpu-native/webgpu-headers

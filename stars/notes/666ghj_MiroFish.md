@@ -9,11 +9,11 @@ starred_at: "2026-03-09T02:53:07Z"
 tags:
   - coding
   - ai
-  - llm
   - agent
-  - ml
+  - library
   - python
   - docker
+  - simulation
 ---
 
 # 666ghj/MiroFish

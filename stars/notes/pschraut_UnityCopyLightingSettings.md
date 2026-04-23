@@ -8,8 +8,8 @@ topics: [lighting, unity, unity3d, unity3d-editor, unity3d-plugin]
 starred_at: "2023-03-21T07:27:16Z"
 tags:
   - coding
-  - editor
   - engine
+  - unity
   - plugin
 ---
 

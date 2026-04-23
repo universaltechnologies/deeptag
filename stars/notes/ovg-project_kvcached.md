@@ -8,12 +8,11 @@ topics: [elastic-kvcache, gpu-mutiplexing, gpu-sharing, inference-engine, kvcach
 starred_at: "2025-11-05T02:49:55Z"
 tags:
   - coding
+  - ai
   - llm
   - inference
-  - server
-  - gpu
-  - optimization
-  - distributed
+  - library
+  - performance
 ---
 
 # ovg-project/kvcached

@@ -7,11 +7,8 @@ stars: 6
 topics: []
 starred_at: "2024-04-02T08:12:08Z"
 tags:
-  - coding
   - performance
-  - csharp
-  - dotnet
-  - benchmark
+  - library
 ---
 
 # adam-dot-cohen/ResizableSpanWriter

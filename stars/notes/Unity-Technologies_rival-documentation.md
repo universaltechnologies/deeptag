@@ -10,9 +10,7 @@ tags:
   - coding
   - engine
   - unity
-  - ecs
-  - gameplay
-  - tutorial
+  - game
 ---
 
 # Unity-Technologies/rival-documentation

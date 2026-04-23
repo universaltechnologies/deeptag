@@ -8,12 +8,10 @@ topics: []
 starred_at: "2023-10-04T07:56:37Z"
 tags:
   - coding
-  - csharp
   - serialization
   - unity
-  - dotnet
+  - library
   - performance
-  - misc
 ---
 
 # TeamSirenix/odin-serializer

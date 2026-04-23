@@ -8,8 +8,9 @@ topics: []
 starred_at: "2025-06-20T15:40:59Z"
 tags:
   - coding
-  - inference
+  - ai
   - llm
+  - inference
 ---
 
 # OpenRouterTeam/openrouter-runner

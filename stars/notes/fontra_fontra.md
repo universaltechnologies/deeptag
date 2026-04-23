@@ -8,11 +8,11 @@ topics: [browser, fonts, javascript, python]
 starred_at: "2025-11-14T03:47:14Z"
 tags:
   - coding
+  - media
   - font
-  - editor
-  - browser
-  - python
-  - javascript
+  - web
+  - frontend
+  - tool
 ---
 
 # fontra/fontra

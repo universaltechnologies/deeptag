@@ -7,9 +7,9 @@ stars: 4961
 topics: [cross-platform, git, git-gui, gui]
 starred_at: "2025-12-09T04:05:30Z"
 tags:
-  - coding
+  - tools
   - git
-  - ui
+  - gui
   - cross-platform
   - ai
 ---

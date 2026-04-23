@@ -11,8 +11,7 @@ tags:
   - reverse
   - android
   - security
-  - cpp
-  - tools
+  - tool
 ---
 
 # charles2gan/GDA-android-reversing-Tool

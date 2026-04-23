@@ -8,11 +8,11 @@ topics: []
 starred_at: "2017-05-12T11:04:29Z"
 tags:
   - coding
+  - game
   - ecs
-  - header-only
   - cpp
-  - performance
-  - template
+  - header-only
+  - library
 ---
 
 # Gronis/OpenEcs

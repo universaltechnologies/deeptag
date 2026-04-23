@@ -8,10 +8,10 @@ topics: [il2cpp, reverse-engineering, unity, unity3d]
 starred_at: "2022-03-03T16:39:19Z"
 tags:
   - coding
-  - reverse
+  - engine
   - unity
-  - automation
-  - cli
+  - reverse
+  - tool
 ---
 
 # Perfare/Il2CppDumper

@@ -9,10 +9,7 @@ starred_at: "2023-11-29T05:05:26Z"
 tags:
   - coding
   - algorithm
-  - graph
   - library
-  - c
-  - math
 ---
 
 # KarypisLab/METIS

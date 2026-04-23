@@ -8,9 +8,10 @@ topics: [multithreading, operating-systems]
 starred_at: "2022-05-29T15:44:22Z"
 tags:
   - coding
-  - concurrency
+  - language
   - cpp
-  - practice
+  - concurrency
+  - book
 ---
 
 # downdemo/Cpp-Concurrency-in-Action-2ed

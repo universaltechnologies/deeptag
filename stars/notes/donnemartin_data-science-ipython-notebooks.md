@@ -8,9 +8,11 @@ topics: [aws, big-data, caffe, data-science, deep-learning, hadoop, kaggle, kera
 starred_at: "2017-03-07T06:25:10Z"
 tags:
   - coding
+  - ai
   - ml
-  - deep-learning
+  - data
   - tutorial
+  - awesome
 ---
 
 # donnemartin/data-science-ipython-notebooks

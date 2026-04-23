@@ -8,8 +8,10 @@ topics: []
 starred_at: "2023-05-04T05:29:01Z"
 tags:
   - coding
-  - architecture
+  - engine
   - unity
+  - game
+  - tutorial
 ---
 
 # UnityTechnologies/PaddleGameSO

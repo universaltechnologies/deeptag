@@ -10,8 +10,7 @@ tags:
   - coding
   - ai
   - llm
-  - agent
-  - rag
+  - library
 ---
 
 # mem0ai/mem0

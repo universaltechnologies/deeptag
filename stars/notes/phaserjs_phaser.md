@@ -8,9 +8,11 @@ topics: [canvas, discord-activities, facebook-instant-games, game-development, g
 starred_at: "2015-12-20T05:09:44Z"
 tags:
   - coding
-  - engine
+  - web
+  - game
+  - graphic
   - webgl
-  - 2d
+  - framework
 ---
 
 # phaserjs/phaser

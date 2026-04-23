@@ -8,12 +8,10 @@ topics: [hacktoberfest, hexo, javascript, nodejs, static-site-generator, typescr
 starred_at: "2023-11-17T16:24:11Z"
 tags:
   - coding
-  - nodejs
-  - markdown
   - web
-  - cli
-  - plugin
+  - nodejs
   - framework
+  - tool
 ---
 
 # hexojs/hexo

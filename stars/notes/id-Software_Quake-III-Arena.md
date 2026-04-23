@@ -8,12 +8,11 @@ topics: []
 starred_at: "2023-03-17T22:06:23Z"
 tags:
   - coding
+  - game
   - engine
-  - c
+  - 3d
   - rendering
-  - networking
-  - linux
-  - windows
+  - rasterization
 ---
 
 # id-Software/Quake-III-Arena

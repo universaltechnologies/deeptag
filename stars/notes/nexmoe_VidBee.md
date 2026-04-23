@@ -7,11 +7,11 @@ stars: 8571
 topics: [downloader, facebook, tiktok, twitter, youtube]
 starred_at: "2026-01-22T15:50:39Z"
 tags:
-  - tools
+  - coding
+  - media
   - video
-  - desktop
+  - tool
   - electron
-  - automation
 ---
 
 # nexmoe/VidBee

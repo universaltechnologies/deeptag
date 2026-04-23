@@ -8,11 +8,9 @@ topics: [face-alignment, face-detection, face-generation, face-recognition, face
 starred_at: "2019-01-29T06:59:43Z"
 tags:
   - coding
-  - awesome
-  - cv
   - ai
-  - ml
-  - deep-learning
+  - cv
+  - awesome
 ---
 
 # ChanChiChoi/awesome-Face_Recognition

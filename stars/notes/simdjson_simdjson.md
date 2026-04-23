@@ -8,11 +8,11 @@ topics: [aarch64, arm64, avx2, avx512, c-plus-plus, clang, clang-cl, cpp11, gcc-
 starred_at: "2024-12-20T06:13:28Z"
 tags:
   - coding
-  - simd
   - parser
   - json
+  - simd
   - performance
-  - cpp
+  - library
 ---
 
 # simdjson/simdjson

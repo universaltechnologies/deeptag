@@ -7,9 +7,10 @@ stars: 22221
 topics: [awesome, gemini-2-5-flash-image, nano-banana]
 starred_at: "2025-12-21T02:55:13Z"
 tags:
-  - awesome
+  - coding
   - ai
-  - image
+  - diffusion
+  - awesome
 ---
 
 # PicoTrex/Awesome-Nano-Banana-images

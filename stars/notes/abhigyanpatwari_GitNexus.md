@@ -8,11 +8,11 @@ topics: []
 starred_at: "2026-02-27T06:32:04Z"
 tags:
   - coding
+  - ai
   - rag
-  - graph
-  - agent
+  - mcp
   - web
-  - typescript
+  - library
 ---
 
 # abhigyanpatwari/GitNexus

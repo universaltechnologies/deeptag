@@ -8,10 +8,7 @@ topics: [bash, chrome, chrome-extension, command-line, gh-pages, linux, linux-co
 starred_at: "2023-02-16T16:20:58Z"
 tags:
   - tools
-  - cli
-  - linux
-  - search
-  - shell
+  - awesome
 ---
 
 # jaywcjlove/linux-command

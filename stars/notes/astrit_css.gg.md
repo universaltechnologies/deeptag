@@ -8,9 +8,8 @@ topics: [adobe-xd, api, css, css-icon, customizable, figma, figma-ui-icons, icon
 starred_at: "2025-11-14T03:53:56Z"
 tags:
   - coding
-  - svg
-  - css
-  - ui
+  - web
+  - library
 ---
 
 # astrit/css.gg

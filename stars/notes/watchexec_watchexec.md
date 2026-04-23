@@ -8,10 +8,9 @@ topics: [command-line, developer-tools, file-watchers, linux, macos, rust, windo
 starred_at: "2022-02-18T10:22:55Z"
 tags:
   - coding
-  - cli
+  - tool
   - automation
-  - filesystem
-  - cross-platform
+  - cli
 ---
 
 # watchexec/watchexec

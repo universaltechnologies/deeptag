@@ -7,10 +7,10 @@ stars: 17994
 topics: [diff, diff-highlight, diffs, fancy, git, hacktoberfest]
 starred_at: "2022-03-13T10:09:47Z"
 tags:
-  - tools
+  - coding
   - git
+  - tool
   - cli
-  - terminal
 ---
 
 # so-fancy/diff-so-fancy

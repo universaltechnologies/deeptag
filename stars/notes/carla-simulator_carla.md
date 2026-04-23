@@ -7,11 +7,9 @@ stars: 13862
 topics: [ai, artificial-intelligence, autonomous-driving, autonomous-vehicles, carla, carla-simulator, computer-vision, cross-platform, deep-learning, deep-reinforcement-learning, imitation-learning, research, ros, self-driving-car, simulator, ue4, unreal-engine-4]
 starred_at: "2019-11-07T01:55:27Z"
 tags:
-  - graphic
-  - rendering
-  - simulation
+  - coding
   - ai
-  - cpp
+  - tool
 ---
 
 # carla-simulator/carla

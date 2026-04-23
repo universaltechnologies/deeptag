@@ -7,11 +7,13 @@ stars: 273
 topics: [mesh, sprite, triangulation, unity]
 starred_at: "2025-01-06T06:49:22Z"
 tags:
-  - graphic
-  - mesh
+  - coding
+  - engine
   - unity
-  - 2d
-  - editor
+  - graphic
+  - scene
+  - mesh
+  - plugin
 ---
 
 # sr4dev/Unity-SpriteAssist

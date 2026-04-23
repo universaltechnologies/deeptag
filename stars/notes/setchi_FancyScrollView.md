@@ -8,10 +8,10 @@ topics: [csharp, infinite-scroll, scroller, scrollview, ugui, unity, unity-asset
 starred_at: "2020-09-29T10:57:20Z"
 tags:
   - coding
+  - engine
   - unity
-  - ui
   - component
-  - animation
+  - library
 ---
 
 # setchi/FancyScrollView

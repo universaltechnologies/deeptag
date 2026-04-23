@@ -7,11 +7,9 @@ stars: 1114
 topics: [clash-core, clash-download, clash-for-windows, clashmeta, mihomo]
 starred_at: "2026-04-07T15:28:46Z"
 tags:
-  - network
-  - proxy
-  - awesome
   - tools
-  - misc
+  - network
+  - awesome
 ---
 
 # clash-version/clash-download

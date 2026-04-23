@@ -8,10 +8,11 @@ topics: [c-sharp, grpc, rpc, streaming, swagger, unity]
 starred_at: "2024-08-13T10:54:41Z"
 tags:
   - coding
-  - rpc
   - networking
+  - rpc
+  - csharp
   - dotnet
-  - unity
+  - framework
 ---
 
 # Cysharp/MagicOnion

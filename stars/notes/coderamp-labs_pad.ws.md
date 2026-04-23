@@ -8,11 +8,10 @@ topics: [cloud, devtool, whiteboard]
 starred_at: "2026-01-18T07:51:40Z"
 tags:
   - coding
+  - ide
   - web
-  - self-hosted
-  - docker
-  - cli
-  - terminal
+  - cloud
+  - tool
 ---
 
 # coderamp-labs/pad.ws

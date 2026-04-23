@@ -8,12 +8,9 @@ topics: [3d, aframe, augmented-reality, daydream, ecs, game-development, game-en
 starred_at: "2022-11-08T10:52:56Z"
 tags:
   - coding
-  - 3d
-  - webgl
-  - vr
-  - framework
+  - web
   - engine
-  - ecs
+  - framework
 ---
 
 # aframevr/aframe

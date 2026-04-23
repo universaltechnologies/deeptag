@@ -7,11 +7,9 @@ stars: 381
 topics: []
 starred_at: "2024-02-23T06:45:55Z"
 tags:
-  - coding
   - plugin
   - javascript
   - automation
-  - cross-platform
 ---
 
 # saml-dev/obsidian-custom-js

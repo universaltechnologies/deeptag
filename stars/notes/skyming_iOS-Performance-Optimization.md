@@ -8,11 +8,11 @@ topics: []
 starred_at: "2023-03-20T08:09:33Z"
 tags:
   - coding
-  - performance
+  - optimization
   - ios
-  - debug
-  - profiler
   - mobile
+  - profiler
+  - practice
 ---
 
 # skyming/iOS-Performance-Optimization

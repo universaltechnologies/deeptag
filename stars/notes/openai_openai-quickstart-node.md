@@ -8,10 +8,9 @@ topics: [openai, openai-api]
 starred_at: "2022-12-04T17:25:57Z"
 tags:
   - coding
-  - nodejs
   - ai
-  - api
-  - llm
+  - nodejs
+  - tutorial
 ---
 
 # openai/openai-quickstart-node

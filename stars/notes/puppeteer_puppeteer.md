@@ -10,8 +10,8 @@ tags:
   - coding
   - automation
   - web
-  - nodejs
-  - browser
+  - library
+  - tool
 ---
 
 # puppeteer/puppeteer

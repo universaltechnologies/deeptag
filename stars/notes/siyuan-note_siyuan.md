@@ -7,11 +7,12 @@ stars: 42791
 topics: [anki, chatgpt, deepseek, electron, evernote, knowledge-base, local-first, markdown, note-taking, notes-app, notion, obsidian, ocr, ollama, openclaw, pdf, s3, self-hosted, webdav]
 starred_at: "2022-05-11T15:02:55Z"
 tags:
-  - coding
+  - tools
+  - web
   - self-hosted
-  - electron
+  - tool
   - markdown
-  - docker
+  - electron
 ---
 
 # siyuan-note/siyuan

@@ -8,8 +8,9 @@ topics: [android, elf, got, hook, plt]
 starred_at: "2025-05-18T00:57:57Z"
 tags:
   - coding
-  - hook
+  - reverse
   - android
+  - library
 ---
 
 # iqiyi/xHook

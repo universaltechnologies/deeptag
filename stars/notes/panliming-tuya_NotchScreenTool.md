@@ -10,7 +10,6 @@ tags:
   - coding
   - android
   - ui
-  - java
   - library
 ---
 

@@ -8,10 +8,9 @@ topics: [3d-reconstruction, alicevision, camera-tracking, computer-vision, hdr-i
 starred_at: "2023-03-30T10:04:57Z"
 tags:
   - coding
+  - workflow
+  - tool
   - cv
-  - pipeline
-  - framework
-  - misc
 ---
 
 # alicevision/Meshroom

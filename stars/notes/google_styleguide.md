@@ -8,10 +8,7 @@ topics: [cpplint, style-guide, styleguide]
 starred_at: "2020-09-27T08:37:25Z"
 tags:
   - coding
-  - practice
-  - cpp
-  - python
-  - java
+  - lint
 ---
 
 # google/styleguide

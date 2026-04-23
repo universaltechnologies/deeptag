@@ -8,11 +8,12 @@ topics: []
 starred_at: "2016-04-09T08:08:42Z"
 tags:
   - coding
-  - library
+  - media
   - image
-  - image-processing
-  - font
   - audio
+  - font
+  - library
+  - header-only
 ---
 
 # nothings/stb

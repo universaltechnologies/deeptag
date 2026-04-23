@@ -8,9 +8,9 @@ topics: [dashboard, rust, terminal, tui]
 starred_at: "2023-02-24T03:16:16Z"
 tags:
   - coding
-  - library
   - terminal
-  - ui
+  - rust
+  - library
 ---
 
 # fdehau/tui-rs

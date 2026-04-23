@@ -8,7 +8,9 @@ topics: []
 starred_at: "2022-10-07T13:34:16Z"
 tags:
   - graphic
+  - platform
   - vulkan
+  - tutorial
 ---
 
 # David-DiGioia/vulkan-diagrams

@@ -8,9 +8,8 @@ topics: [nexus-repository, repository, repository-management]
 starred_at: "2021-05-25T04:08:57Z"
 tags:
   - coding
+  - tools
   - docker
-  - self-hosted
-  - automation
 ---
 
 # sonatype/docker-nexus3

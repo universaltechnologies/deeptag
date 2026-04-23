@@ -8,10 +8,11 @@ topics: [webrtc, webrtc-demos, webrtc-examples, webrtc-experiments, webrtc-libra
 starred_at: "2022-10-10T09:00:31Z"
 tags:
   - coding
-  - library
+  - web
+  - media
   - video
   - audio
-  - networking
+  - library
 ---
 
 # muaz-khan/WebRTC-Experiment

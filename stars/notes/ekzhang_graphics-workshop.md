@@ -9,10 +9,10 @@ starred_at: "2023-11-06T18:10:39Z"
 tags:
   - graphic
   - shader
-  - webgl
   - glsl
+  - webgl
   - rasterization
-  - ray-tracing
+  - tutorial
 ---
 
 # ekzhang/graphics-workshop

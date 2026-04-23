@@ -9,10 +9,9 @@ starred_at: "2023-12-30T07:48:02Z"
 tags:
   - coding
   - android
-  - ui
-  - mvvm
-  - filesystem
-  - tools
+  - kotlin
+  - gui
+  - tool
 ---
 
 # TeamAmaze/AmazeFileManager

@@ -9,8 +9,7 @@ starred_at: "2025-12-22T11:43:32Z"
 tags:
   - graphic
   - shader
-  - glsl
-  - geometry
+  - library
 ---
 
 # lachlanmcdonald/magicavoxel-shaders

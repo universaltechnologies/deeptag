@@ -8,7 +8,6 @@ topics: []
 starred_at: "2023-01-09T10:30:56Z"
 tags:
   - coding
-  - book
 ---
 
 # junliu-cn/Books

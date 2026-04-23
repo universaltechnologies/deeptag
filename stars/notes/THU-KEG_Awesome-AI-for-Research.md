@@ -7,8 +7,10 @@ stars: 77
 topics: []
 starred_at: "2026-04-03T04:38:34Z"
 tags:
-  - awesome
+  - coding
   - ai
+  - agent
+  - awesome
 ---
 
 # THU-KEG/Awesome-AI-for-Research

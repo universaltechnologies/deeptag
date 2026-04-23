@@ -10,8 +10,7 @@ tags:
   - coding
   - ai
   - agent
-  - rag
-  - monitoring
+  - mcp
 ---
 
 # derisk-ai/OpenDerisk

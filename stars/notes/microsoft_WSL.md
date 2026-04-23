@@ -7,11 +7,11 @@ stars: 31915
 topics: []
 starred_at: "2021-06-19T03:42:28Z"
 tags:
-  - tools
+  - coding
+  - systems
   - windows
   - linux
   - kernel
-  - cli
 ---
 
 # microsoft/WSL

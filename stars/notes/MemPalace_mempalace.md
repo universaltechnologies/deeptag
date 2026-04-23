@@ -10,9 +10,7 @@ tags:
   - coding
   - ai
   - llm
-  - database
-  - storage
-  - python
+  - tool
 ---
 
 # MemPalace/mempalace

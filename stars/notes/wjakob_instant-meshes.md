@@ -8,11 +8,10 @@ topics: []
 starred_at: "2019-04-02T02:35:22Z"
 tags:
   - graphic
+  - scene
   - mesh
-  - modeling
-  - ui
-  - cpp
-  - cross-platform
+  - geometry
+  - tool
 ---
 
 # wjakob/instant-meshes

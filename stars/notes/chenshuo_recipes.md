@@ -9,8 +9,6 @@ starred_at: "2023-09-24T12:29:58Z"
 tags:
   - coding
   - cpp
-  - stl
-  - practice
 ---
 
 # chenshuo/recipes

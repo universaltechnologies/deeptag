@@ -7,12 +7,12 @@ stars: 594
 topics: []
 starred_at: "2023-03-17T21:39:20Z"
 tags:
-  - graphic
-  - rendering
+  - coding
+  - engine
   - unity
   - urp
-  - shader
-  - csharp
+  - graphic
+  - plugin
 ---
 
 # Kink3d/kMirrors

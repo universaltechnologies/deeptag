@@ -8,11 +8,9 @@ topics: [bash, command-line, commandline, distro, neofetch, screenshot, script]
 starred_at: "2026-03-30T02:35:22Z"
 tags:
   - tools
-  - cli
-  - shell
-  - linux
-  - windows
-  - monitoring
+  - coding
+  - terminal
+  - tool
 ---
 
 # dylanaraps/neofetch

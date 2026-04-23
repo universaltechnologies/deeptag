@@ -10,6 +10,7 @@ tags:
   - coding
   - csharp
   - performance
+  - library
 ---
 
 # kuronekoyang/FastString

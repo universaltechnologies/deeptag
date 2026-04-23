@@ -8,9 +8,9 @@ topics: [d3d11, d3d12, d3d9, debugging-tool, direct3d, opengl, opengl-es]
 starred_at: "2025-03-06T08:14:11Z"
 tags:
   - graphic
+  - platform
   - debug
-  - opengl
-  - rhi
+  - tool
 ---
 
 # apitrace/apitrace

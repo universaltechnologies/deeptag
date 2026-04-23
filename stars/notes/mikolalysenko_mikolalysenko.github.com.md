@@ -7,8 +7,7 @@ stars: 226
 topics: []
 starred_at: "2017-03-02T15:06:12Z"
 tags:
-  - coding
-  - web
+  - tools
 ---
 
 # mikolalysenko/mikolalysenko.github.com

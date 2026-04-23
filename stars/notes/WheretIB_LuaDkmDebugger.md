@@ -9,8 +9,8 @@ starred_at: "2020-10-14T11:26:04Z"
 tags:
   - coding
   - debug
+  - plugin
   - lua
-  - csharp
 ---
 
 # WheretIB/LuaDkmDebugger

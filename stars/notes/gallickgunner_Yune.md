@@ -9,11 +9,11 @@ starred_at: "2020-05-12T03:28:50Z"
 tags:
   - graphic
   - rendering
-  - path-tracing
   - ray-tracing
+  - path-tracing
+  - framework
   - gpu
-  - opengl
-  - profiler
+  - tutorial
 ---
 
 # gallickgunner/Yune

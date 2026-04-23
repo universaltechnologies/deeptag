@@ -8,9 +8,8 @@ topics: [aiengine, embedded, embedded-systems, fpga, hls, kria, versal, vitis, x
 starred_at: "2024-12-31T06:18:22Z"
 tags:
   - coding
-  - tutorial
   - embedded
-  - hardware
+  - tutorial
 ---
 
 # Xilinx/Vitis-Tutorials

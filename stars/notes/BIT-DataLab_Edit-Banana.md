@@ -10,9 +10,9 @@ tags:
   - coding
   - ai
   - llm
-  - cv
-  - inference
-  - image-processing
+  - data
+  - framework
+  - tool
 ---
 
 # BIT-DataLab/Edit-Banana

@@ -7,10 +7,9 @@ stars: 3434
 topics: [android, cplusplus, csharp, game-development, game-engine, ios, javascript, linux, macos, typescript, webgl, windows]
 starred_at: "2017-02-07T03:53:13Z"
 tags:
-  - graphic
   - coding
   - engine
-  - editor
+  - game
   - webgl
   - cross-platform
 ---

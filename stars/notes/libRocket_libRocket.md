@@ -8,10 +8,9 @@ topics: []
 starred_at: "2017-03-31T05:32:29Z"
 tags:
   - coding
-  - library
-  - ui
   - gui
-  - css
+  - library
+  - cross-platform
 ---
 
 # libRocket/libRocket

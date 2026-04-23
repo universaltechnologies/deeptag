@@ -8,10 +8,10 @@ topics: [apk, apkdiffpatch, archive-patcher, bsdiff, diff, hdiffpatch, patch, sf
 starred_at: "2023-12-29T03:43:34Z"
 tags:
   - coding
+  - android
   - compression
   - algorithm
-  - performance
-  - cli
+  - tool
 ---
 
 # sisong/sfpatcher

@@ -8,10 +8,10 @@ topics: [ai, claude, code, llm, openai]
 starred_at: "2026-01-07T18:01:20Z"
 tags:
   - coding
-  - cli
   - ai
   - llm
-  - agent
+  - tool
+  - cli
 ---
 
 # opencode-ai/opencode

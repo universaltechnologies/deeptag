@@ -8,12 +8,10 @@ topics: []
 starred_at: "2023-09-27T09:06:38Z"
 tags:
   - coding
-  - debug
+  - engine
   - unity
-  - ui
-  - mobile
-  - logging
-  - csharp
+  - debug
+  - tool
 ---
 
 # aliessmael/Unity-Logs-Viewer

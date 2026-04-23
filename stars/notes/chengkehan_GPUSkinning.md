@@ -7,12 +7,12 @@ stars: 1058
 topics: [gpu-skinning, gpuskinning]
 starred_at: "2023-03-17T18:16:58Z"
 tags:
+  - coding
+  - engine
+  - unity
   - graphic
   - animation
-  - shader
-  - skeletal
-  - optimization
-  - engine
+  - plugin
 ---
 
 # chengkehan/GPUSkinning

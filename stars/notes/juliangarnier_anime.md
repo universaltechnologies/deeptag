@@ -8,11 +8,8 @@ topics: [animation, anime, canvas, css, javascript, javascript-library, svg]
 starred_at: "2025-06-26T04:18:25Z"
 tags:
   - coding
-  - animation
-  - svg
-  - frontend
+  - media
   - library
-  - javascript
 ---
 
 # juliangarnier/anime

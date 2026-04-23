@@ -8,9 +8,11 @@ topics: []
 starred_at: "2023-10-31T02:59:10Z"
 tags:
   - graphic
-  - unity
-  - shader
   - normal
+  - shader
+  - coding
+  - engine
+  - unity
 ---
 
 # DumoeDss/AquaSmoothNormals

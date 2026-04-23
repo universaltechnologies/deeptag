@@ -9,7 +9,7 @@ starred_at: "2017-02-20T13:18:42Z"
 tags:
   - graphic
   - voxel
-  - cpp
+  - ray-tracing
 ---
 
 # tunabrain/sparse-voxel-octrees

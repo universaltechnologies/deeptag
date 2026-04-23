@@ -8,9 +8,9 @@ topics: [fonts, opentype, python]
 starred_at: "2025-11-14T05:57:52Z"
 tags:
   - coding
-  - font
+  - media
+  - python
   - library
-  - xml
 ---
 
 # fonttools/fonttools

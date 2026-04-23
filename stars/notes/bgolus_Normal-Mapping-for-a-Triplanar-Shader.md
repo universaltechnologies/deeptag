@@ -10,8 +10,9 @@ tags:
   - graphic
   - shader
   - normal
+  - engine
   - unity
-  - toon
+  - tutorial
 ---
 
 # bgolus/Normal-Mapping-for-a-Triplanar-Shader

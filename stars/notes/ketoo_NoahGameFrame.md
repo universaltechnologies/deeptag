@@ -8,10 +8,10 @@ topics: [architecture, game, game-development, game-engine, game-server, gamedev
 starred_at: "2016-06-26T15:25:54Z"
 tags:
   - coding
+  - game
+  - cpp
+  - networking
   - framework
-  - distributed
-  - server
-  - architecture
 ---
 
 # ketoo/NoahGameFrame

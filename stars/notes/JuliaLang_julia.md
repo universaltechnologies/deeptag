@@ -8,10 +8,9 @@ topics: [hacktoberfest, hpc, julia, julia-language, julialang, machine-learning,
 starred_at: "2023-03-06T17:36:10Z"
 tags:
   - coding
-  - compiler
-  - runtime
   - language
-  - performance
+  - runtime
+  - compiler
 ---
 
 # JuliaLang/julia

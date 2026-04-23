@@ -7,8 +7,7 @@ stars: 786
 topics: []
 starred_at: "2023-01-11T06:46:52Z"
 tags:
-  - coding
-  - misc
+  - book
 ---
 
 # bumzy/book

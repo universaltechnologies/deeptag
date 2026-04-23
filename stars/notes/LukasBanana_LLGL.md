@@ -9,10 +9,9 @@ starred_at: "2023-02-19T15:50:04Z"
 tags:
   - graphic
   - rendering
-  - opengl
-  - vulkan
-  - directx
-  - metal
+  - platform
+  - library
+  - cross-platform
 ---
 
 # LukasBanana/LLGL

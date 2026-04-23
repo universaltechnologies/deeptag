@@ -7,12 +7,12 @@ stars: 408
 topics: []
 starred_at: "2023-02-14T17:54:32Z"
 tags:
-  - coding
+  - graphic
   - culling
-  - simd
-  - performance
-  - rasterization
+  - depth
   - cpp
+  - simd
+  - optimization
 ---
 
 # GameTechDev/OcclusionCulling

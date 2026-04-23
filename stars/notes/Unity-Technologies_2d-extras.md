@@ -8,10 +8,9 @@ topics: []
 starred_at: "2025-02-17T04:32:34Z"
 tags:
   - coding
-  - 2d
+  - engine
   - unity
-  - gameplay
-  - framework
+  - plugin
 ---
 
 # Unity-Technologies/2d-extras

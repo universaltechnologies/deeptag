@@ -7,11 +7,11 @@ stars: 2269
 topics: [c, lua, luajit, luakit, vim-like, web-browser]
 starred_at: "2026-03-31T14:21:20Z"
 tags:
-  - coding
+  - tools
+  - web
   - browser
   - lua
-  - ui
-  - misc
+  - framework
 ---
 
 # luakit/luakit

@@ -8,9 +8,9 @@ topics: []
 starred_at: "2023-10-26T13:40:27Z"
 tags:
   - coding
-  - cli
+  - engine
+  - tool
   - unity
-  - serialization
 ---
 
 # nesrak1/TypeTreeDumpToTpk

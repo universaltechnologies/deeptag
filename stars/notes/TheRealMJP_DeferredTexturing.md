@@ -9,9 +9,10 @@ starred_at: "2022-05-01T18:20:41Z"
 tags:
   - graphic
   - rendering
-  - directx
   - shader
   - hlsl
+  - platform
+  - directx
 ---
 
 # TheRealMJP/DeferredTexturing

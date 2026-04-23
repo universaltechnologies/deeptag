@@ -8,12 +8,8 @@ topics: []
 starred_at: "2019-12-23T07:40:30Z"
 tags:
   - coding
-  - csharp
+  - tools
   - windows
-  - ui
-  - filesystem
-  - networking
-  - misc
 ---
 
 # canton7/SyncTrayzor

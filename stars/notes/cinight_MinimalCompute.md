@@ -7,11 +7,13 @@ stars: 1494
 topics: [compute-shaders, unity, unity3d]
 starred_at: "2022-10-31T07:49:39Z"
 tags:
-  - graphic
-  - compute-shader
-  - gpu
+  - coding
+  - engine
   - unity
-  - urp
+  - graphic
+  - shader
+  - compute-shader
+  - tutorial
 ---
 
 # cinight/MinimalCompute

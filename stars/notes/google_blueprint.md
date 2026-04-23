@@ -9,9 +9,8 @@ starred_at: "2017-03-22T05:59:18Z"
 tags:
   - coding
   - build
-  - go
+  - tool
   - android
-  - automation
 ---
 
 # google/blueprint

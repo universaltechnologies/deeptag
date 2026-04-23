@@ -7,12 +7,12 @@ stars: 4833
 topics: [c-plus-plus, cross-platform, engine, open-source, vulkan]
 starred_at: "2017-02-07T03:52:26Z"
 tags:
-  - graphic
   - coding
   - engine
-  - cpp
+  - game
+  - vulkan
   - cross-platform
-  - 3d
+  - framework
 ---
 
 # gameplay3d/gameplay

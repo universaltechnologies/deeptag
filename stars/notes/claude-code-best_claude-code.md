@@ -9,10 +9,10 @@ starred_at: "2026-04-03T08:14:57Z"
 tags:
   - coding
   - ai
-  - reverse
-  - typescript
+  - llm
   - cli
-  - automation
+  - reverse
+  - tool
 ---
 
 # claude-code-best/claude-code

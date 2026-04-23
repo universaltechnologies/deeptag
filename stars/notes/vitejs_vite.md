@@ -8,10 +8,8 @@ topics: [build-tool, dev-server, frontend, hmr, vite]
 starred_at: "2026-04-07T16:38:37Z"
 tags:
   - coding
-  - frontend
-  - build
-  - plugin
-  - performance
+  - web
+  - tool
 ---
 
 # vitejs/vite

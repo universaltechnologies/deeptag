@@ -8,11 +8,9 @@ topics: []
 starred_at: "2016-01-26T05:35:36Z"
 tags:
   - coding
-  - javascript
   - web
-  - frontend
   - plugin
-  - ui
+  - javascript
 ---
 
 # arielsalminen/responsive-nav.js

@@ -9,10 +9,8 @@ starred_at: "2022-07-04T04:54:01Z"
 tags:
   - coding
   - game
-  - engine
   - csharp
-  - framework
-  - desktop
+  - cross-platform
 ---
 
 # ppy/osu

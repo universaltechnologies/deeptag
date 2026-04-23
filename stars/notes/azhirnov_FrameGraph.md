@@ -8,10 +8,9 @@ topics: [c-plus-plus-17, cplusplus, cpp17, framegraph, rendergraph, rtx, vr, vul
 starred_at: "2020-10-29T08:19:41Z"
 tags:
   - graphic
+  - platform
   - vulkan
-  - rendering
-  - rhi
-  - ray-tracing
+  - library
   - performance
 ---
 

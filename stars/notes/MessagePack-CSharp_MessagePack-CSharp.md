@@ -10,9 +10,7 @@ tags:
   - coding
   - serialization
   - performance
-  - compression
-  - csharp
-  - dotnet
+  - library
 ---
 
 # MessagePack-CSharp/MessagePack-CSharp

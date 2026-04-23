@@ -11,8 +11,8 @@ tags:
   - ffi
   - lua
   - c
-  - windows
-  - linux
+  - library
+  - cross-platform
 ---
 
 # jmckaskill/luaffi

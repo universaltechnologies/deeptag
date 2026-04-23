@@ -8,8 +8,8 @@ topics: [awesome, awesome-list, cursor, cursor-ai-editor, cursorrules]
 starred_at: "2026-01-08T07:40:38Z"
 tags:
   - coding
-  - editor
   - ai
+  - editor
   - awesome
 ---
 

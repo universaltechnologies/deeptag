@@ -8,11 +8,10 @@ topics: [c, go, golang, golang-application, kitty, kitty-terminal, opengl, pytho
 starred_at: "2022-03-11T07:12:12Z"
 tags:
   - coding
-  - terminal
-  - gpu
-  - python
-  - cross-platform
+  - tools
   - performance
+  - cross-platform
+  - opengl
 ---
 
 # kovidgoyal/kitty

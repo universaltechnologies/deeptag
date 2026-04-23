@@ -8,10 +8,10 @@ topics: [dreamfusion, gui, image-to-3d, nerf, stable-diffusion, text-to-3d]
 starred_at: "2023-03-30T11:57:16Z"
 tags:
   - coding
-  - graphic
   - ai
-  - 3d
   - diffusion
+  - graphic
+  - 3d
 ---
 
 # ashawkey/stable-dreamfusion

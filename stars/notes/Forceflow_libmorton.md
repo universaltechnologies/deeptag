@@ -8,10 +8,11 @@ topics: [c-plus-plus, decoding, encoding, morton]
 starred_at: "2017-02-25T13:40:27Z"
 tags:
   - coding
-  - header-only
   - algorithm
+  - header-only
+  - library
   - math
-  - optimization
+  - performance
 ---
 
 # Forceflow/libmorton

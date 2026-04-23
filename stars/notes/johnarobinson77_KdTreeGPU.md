@@ -7,11 +7,11 @@ stars: 119
 topics: []
 starred_at: "2024-12-12T16:55:22Z"
 tags:
-  - graphic
-  - cuda
+  - coding
+  - systems
   - gpu
+  - cuda
   - algorithm
-  - geometry
 ---
 
 # johnarobinson77/KdTreeGPU

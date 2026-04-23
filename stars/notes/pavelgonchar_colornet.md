@@ -9,8 +9,9 @@ starred_at: "2023-03-03T05:32:10Z"
 tags:
   - coding
   - ai
-  - image
-  - python
+  - cv
+  - library
+  - image-processing
 ---
 
 # pavelgonchar/colornet

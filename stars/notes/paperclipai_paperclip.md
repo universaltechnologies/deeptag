@@ -10,9 +10,7 @@ tags:
   - coding
   - ai
   - agent
-  - llm
-  - automation
-  - web
+  - tool
 ---
 
 # paperclipai/paperclip

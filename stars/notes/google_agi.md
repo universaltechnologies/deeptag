@@ -7,12 +7,12 @@ stars: 1051
 topics: [android, debugger, gpu, graphics, linux, macos, profiler, replay, trace, vulkan, windows]
 starred_at: "2025-06-05T06:40:46Z"
 tags:
-  - tools
+  - graphic
   - debug
   - profiler
-  - gpu
+  - platform
   - vulkan
-  - android
+  - tool
 ---
 
 # google/agi

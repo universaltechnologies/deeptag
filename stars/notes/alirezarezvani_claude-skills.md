@@ -10,10 +10,9 @@ tags:
   - coding
   - ai
   - agent
+  - tools
+  - library
   - python
-  - cli
-  - plugin
-  - awesome
 ---
 
 # alirezarezvani/claude-skills

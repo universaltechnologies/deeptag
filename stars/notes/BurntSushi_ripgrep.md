@@ -8,9 +8,9 @@ topics: [cli, command-line, command-line-tool, gitignore, grep, recursively-sear
 starred_at: "2023-07-26T02:41:02Z"
 tags:
   - coding
-  - cli
-  - search
   - regex
+  - cli
+  - cross-platform
   - performance
 ---
 

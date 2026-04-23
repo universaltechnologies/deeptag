@@ -8,11 +8,11 @@ topics: [opencolorio]
 starred_at: "2024-01-29T06:25:00Z"
 tags:
   - graphic
-  - coding
   - color
-  - vfx
+  - cpp
+  - library
+  - cross-platform
   - framework
-  - binding
 ---
 
 # AcademySoftwareFoundation/OpenColorIO

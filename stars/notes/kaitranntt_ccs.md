@@ -8,11 +8,11 @@ topics: [ai-gateway, anthropic-api, claude, claude-code, cli-tool, cliproxyapi, 
 starred_at: "2026-04-05T05:40:29Z"
 tags:
   - coding
-  - cli
   - ai
-  - proxy
+  - llm
   - nodejs
-  - automation
+  - cli
+  - tool
 ---
 
 # kaitranntt/ccs

@@ -9,10 +9,8 @@ starred_at: "2022-02-23T02:55:18Z"
 tags:
   - coding
   - algorithm
-  - math
   - ml
   - awesome
-  - misc
 ---
 
 # TheAlgorithms/C-Plus-Plus

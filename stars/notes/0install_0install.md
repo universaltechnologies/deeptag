@@ -7,12 +7,9 @@ stars: 569
 topics: [0install, cross-platform, decentralized, package-manager]
 starred_at: "2022-01-13T06:34:39Z"
 tags:
+  - tools
   - coding
   - cross-platform
-  - distributed
-  - xml
-  - self-hosted
-  - misc
 ---
 
 # 0install/0install

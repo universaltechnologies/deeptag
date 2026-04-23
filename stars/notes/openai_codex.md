@@ -8,11 +8,10 @@ topics: []
 starred_at: "2026-01-24T06:17:41Z"
 tags:
   - coding
-  - cli
   - ai
   - agent
-  - automation
-  - cross-platform
+  - cli
+  - tool
 ---
 
 # openai/codex

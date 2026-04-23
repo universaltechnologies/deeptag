@@ -9,10 +9,11 @@ starred_at: "2022-12-27T03:27:31Z"
 tags:
   - coding
   - engine
+  - unity
   - gameplay
-  - procedural
   - animation
-  - misc
+  - procedural
+  - library
 ---
 
 # PhilS94/Unity-Procedural-IK-Wall-Walking-Spider

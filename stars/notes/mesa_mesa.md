@@ -8,10 +8,10 @@ topics: [agent-based-modeling, agent-based-simulation, complex-systems, complexi
 starred_at: "2022-11-07T13:06:38Z"
 tags:
   - coding
-  - simulation
-  - framework
+  - ai
   - agent
-  - visualization
+  - library
+  - framework
 ---
 
 # mesa/mesa

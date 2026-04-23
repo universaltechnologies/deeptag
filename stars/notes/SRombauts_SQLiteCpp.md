@@ -9,10 +9,9 @@ starred_at: "2017-11-28T15:09:07Z"
 tags:
   - coding
   - cpp
-  - library
   - database
   - sql
-  - header-only
+  - library
 ---
 
 # SRombauts/SQLiteCpp

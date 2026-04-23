@@ -7,11 +7,11 @@ stars: 1688
 topics: [grass, indirect, instancing, mobile, unity, urp]
 starred_at: "2023-03-17T21:25:09Z"
 tags:
-  - graphic
-  - mobile
-  - rendering
-  - culling
+  - coding
+  - engine
+  - unity
   - urp
+  - mobile
 ---
 
 # ColinLeung-NiloCat/UnityURP-MobileDrawMeshInstancedIndirectExample

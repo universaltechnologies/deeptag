@@ -9,9 +9,7 @@ starred_at: "2021-05-21T14:34:51Z"
 tags:
   - coding
   - docker
-  - cloud
-  - automation
-  - workflow
+  - tool
 ---
 
 # docker-archive-public/docker.machine

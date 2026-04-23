@@ -8,11 +8,11 @@ topics: [cpp17, cpu-rendering, rasterizer-3d]
 starred_at: "2022-10-07T12:57:34Z"
 tags:
   - graphic
+  - rendering
   - rasterization
-  - concurrency
-  - simd
   - cpp
-  - profiler
+  - performance
+  - concurrency
 ---
 
 # vblanco20-1/Rasterizer

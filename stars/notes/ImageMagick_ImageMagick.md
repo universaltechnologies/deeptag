@@ -8,9 +8,9 @@ topics: [command-line-image-tool, digital-image-editing, image-conversion, image
 starred_at: "2017-08-25T01:18:37Z"
 tags:
   - coding
-  - image
+  - media
   - image-processing
-  - cli
+  - tool
   - cross-platform
 ---
 

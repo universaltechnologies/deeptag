@@ -8,11 +8,10 @@ topics: []
 starred_at: "2024-11-15T16:36:43Z"
 tags:
   - coding
+  - language
   - lua
-  - compiler
-  - runtime
-  - gc
   - book
+  - runtime
 ---
 
 # lichuang/Lua-Source-Internal

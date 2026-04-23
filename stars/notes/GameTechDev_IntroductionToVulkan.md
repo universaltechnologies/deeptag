@@ -8,9 +8,9 @@ topics: [cpp, intel, tutorial, tutorials, vulkan, vulkan-api, vulkan-demos]
 starred_at: "2017-02-22T00:51:05Z"
 tags:
   - graphic
+  - platform
   - vulkan
   - tutorial
-  - rhi
 ---
 
 # GameTechDev/IntroductionToVulkan

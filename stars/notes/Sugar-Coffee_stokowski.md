@@ -8,10 +8,10 @@ topics: []
 starred_at: "2026-03-14T13:02:36Z"
 tags:
   - coding
-  - agent
   - ai
-  - automation
+  - agent
   - workflow
+  - automation
 ---
 
 # Sugar-Coffee/stokowski

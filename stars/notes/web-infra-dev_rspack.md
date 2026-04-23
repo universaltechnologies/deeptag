@@ -8,12 +8,10 @@ topics: [build-tool, bundler, compiler, esm, javascript, jsx, loaders, module-bu
 starred_at: "2025-05-12T05:06:00Z"
 tags:
   - coding
-  - rust
-  - compiler
-  - webassembly
-  - performance
-  - build
   - web
+  - rust
+  - tool
+  - performance
 ---
 
 # web-infra-dev/rspack

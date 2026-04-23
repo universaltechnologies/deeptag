@@ -8,8 +8,10 @@ topics: []
 starred_at: "2026-04-01T06:47:35Z"
 tags:
   - coding
+  - voice
+  - input
   - audio
-  - automation
+  - tool
 ---
 
 # yetone/voice-input-src

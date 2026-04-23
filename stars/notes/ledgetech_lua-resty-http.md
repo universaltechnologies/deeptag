@@ -8,10 +8,9 @@ topics: [http, http-client, lua, luajit, nginx, nginx-lua, openresty, streaming]
 starred_at: "2019-12-16T12:56:18Z"
 tags:
   - coding
-  - lua
+  - networking
   - http
   - library
-  - networking
 ---
 
 # ledgetech/lua-resty-http

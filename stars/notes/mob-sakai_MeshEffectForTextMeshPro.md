@@ -8,8 +8,10 @@ topics: [component, effects, support-textmeshpro, textmeshpro, ugui, ui, unity, 
 starred_at: "2024-04-30T12:25:55Z"
 tags:
   - coding
+  - engine
   - unity
-  - ui
+  - graphic
+  - shader
   - component
 ---
 

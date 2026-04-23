@@ -7,10 +7,11 @@ stars: 686
 topics: [hub, hub-alternative, launcher, launcher-unity, manager, project, unity, unity-installations, unity3d]
 starred_at: "2024-06-11T05:49:03Z"
 tags:
-  - tools
+  - coding
+  - engine
   - unity
-  - editor
-  - automation
+  - tool
+  - csharp
 ---
 
 # unitycoder/UnityLauncherPro

@@ -8,9 +8,10 @@ topics: []
 starred_at: "2024-10-31T08:28:47Z"
 tags:
   - graphic
-  - vulkan
   - rendering
-  - algorithm
+  - rasterization
+  - platform
+  - vulkan
 ---
 
 # nvpro-samples/vk_order_independent_transparency

@@ -7,12 +7,8 @@ stars: 10
 topics: []
 starred_at: "2023-03-17T21:58:04Z"
 tags:
-  - coding
+  - graphic
   - shader
-  - toon
-  - nodejs
-  - web
-  - misc
 ---
 
 # poiyomi/PoiyomiDocs

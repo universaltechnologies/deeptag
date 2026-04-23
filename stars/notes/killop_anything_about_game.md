@@ -7,12 +7,12 @@ stars: 3857
 topics: [2d-game-framework, ai-agent, awesome-list, csharp, ecs, ecs-libraries, game, game-asset, game-development, game-engine, game-math, gamedev, llm, physics-framework, shader, unity, unity-ecs]
 starred_at: "2022-10-27T06:24:39Z"
 tags:
+  - coding
+  - game
+  - ai
+  - llm
+  - graphic
   - awesome
-  - engine
-  - shader
-  - animation
-  - mesh
-  - texture
 ---
 
 # killop/anything_about_game

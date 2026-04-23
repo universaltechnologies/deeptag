@@ -8,9 +8,9 @@ topics: [c, c-plus-plus, coding-style, compiler, objective-c, performance, stati
 starred_at: "2016-01-27T01:28:26Z"
 tags:
   - coding
+  - language
   - compiler
   - cpp
-  - c
 ---
 
 # llvm-mirror/clang

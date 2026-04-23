@@ -9,10 +9,10 @@ starred_at: "2022-09-22T06:28:23Z"
 tags:
   - graphic
   - rendering
-  - engine
-  - rhi
+  - platform
   - cross-platform
-  - shader
+  - library
+  - framework
 ---
 
 # DiligentGraphics/DiligentEngine

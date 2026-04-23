@@ -8,11 +8,9 @@ topics: [codeql, github-advanced-security, github-security-lab, semmle-ql, works
 starred_at: "2026-04-04T03:29:31Z"
 tags:
   - coding
+  - language
   - security
-  - cli
-  - parser
-  - database
-  - visualization
+  - library
 ---
 
 # github/codeql

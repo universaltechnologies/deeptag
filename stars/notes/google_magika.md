@@ -10,7 +10,7 @@ tags:
   - coding
   - ai
   - deep-learning
-  - cli
+  - tool
 ---
 
 # google/magika

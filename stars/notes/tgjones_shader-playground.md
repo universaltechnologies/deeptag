@@ -7,12 +7,11 @@ stars: 642
 topics: []
 starred_at: "2022-07-13T10:09:25Z"
 tags:
+  - coding
+  - web
   - graphic
   - shader
-  - compiler
-  - hlsl
-  - glsl
-  - web
+  - tool
 ---
 
 # tgjones/shader-playground

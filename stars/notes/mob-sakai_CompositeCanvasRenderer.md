@@ -9,10 +9,12 @@ starred_at: "2024-01-19T06:32:05Z"
 tags:
   - graphic
   - shader
-  - unity
-  - ui
-  - rendering
   - post-processing
+  - coding
+  - engine
+  - unity
+  - plugin
+  - tool
 ---
 
 # mob-sakai/CompositeCanvasRenderer

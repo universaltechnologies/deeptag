@@ -8,11 +8,11 @@ topics: [after-effects, animations, bodymovin, react, react-native]
 starred_at: "2023-07-07T06:16:00Z"
 tags:
   - coding
+  - graphic
   - animation
-  - ui
-  - rendering
-  - ios
-  - android
+  - library
+  - cross-platform
+  - mobile
 ---
 
 # lottie-react-native/lottie-react-native

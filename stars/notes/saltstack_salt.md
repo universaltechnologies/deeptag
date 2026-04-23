@@ -9,7 +9,8 @@ starred_at: "2020-12-29T03:55:42Z"
 tags:
   - coding
   - automation
-  - distributed
+  - framework
+  - python
 ---
 
 # saltstack/salt

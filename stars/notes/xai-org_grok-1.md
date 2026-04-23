@@ -10,8 +10,7 @@ tags:
   - coding
   - ai
   - llm
-  - inference
-  - python
+  - library
 ---
 
 # xai-org/grok-1

@@ -8,10 +8,11 @@ topics: [ability-system, gameplay, gameplay-ability-system, gas, unity, unity3d]
 starred_at: "2024-03-14T05:58:19Z"
 tags:
   - coding
+  - game
+  - engine
   - unity
   - gameplay
-  - ecs
-  - framework
+  - plugin
 ---
 
 # No78Vino/gameplay-ability-system-for-unity

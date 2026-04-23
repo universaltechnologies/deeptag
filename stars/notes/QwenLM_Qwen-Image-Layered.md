@@ -9,8 +9,9 @@ starred_at: "2026-03-09T10:06:34Z"
 tags:
   - coding
   - ai
-  - image
-  - inference
+  - cv
+  - library
+  - graphic
 ---
 
 # QwenLM/Qwen-Image-Layered

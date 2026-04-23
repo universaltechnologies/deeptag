@@ -8,10 +8,10 @@ topics: [after-effects, animations, bodymovin, csharp, lottie, lottie-windows, u
 starred_at: "2023-07-07T06:17:45Z"
 tags:
   - coding
+  - media
+  - animation
   - library
   - windows
-  - ui
-  - animation
 ---
 
 # CommunityToolkit/Lottie-Windows

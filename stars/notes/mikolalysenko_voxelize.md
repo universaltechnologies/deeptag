@@ -8,9 +8,9 @@ topics: []
 starred_at: "2017-03-10T01:26:37Z"
 tags:
   - graphic
-  - mesh
+  - scene
   - voxel
-  - algorithm
+  - library
 ---
 
 # mikolalysenko/voxelize

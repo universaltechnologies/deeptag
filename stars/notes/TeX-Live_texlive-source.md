@@ -8,10 +8,8 @@ topics: []
 starred_at: "2023-01-10T14:07:58Z"
 tags:
   - coding
-  - build
-  - compiler
-  - font
-  - cli
+  - language
+  - c
 ---
 
 # TeX-Live/texlive-source

@@ -9,8 +9,9 @@ starred_at: "2019-04-20T09:07:39Z"
 tags:
   - coding
   - csharp
-  - plugin
   - dotnet
+  - tool
+  - cross-platform
 ---
 
 # SonarSource/sonar-dotnet

@@ -9,10 +9,10 @@ starred_at: "2026-03-02T17:54:14Z"
 tags:
   - coding
   - ai
-  - web
-  - self-hosted
-  - audio
-  - misc
+  - agent
+  - llm
+  - tts
+  - framework
 ---
 
 # moeru-ai/airi

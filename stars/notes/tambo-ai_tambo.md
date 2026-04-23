@@ -8,11 +8,9 @@ topics: [agent, agents, ai, assistant, assistant-chat-bots, generative-ui, js, r
 starred_at: "2026-01-21T14:00:19Z"
 tags:
   - coding
-  - web
   - ai
   - agent
-  - frontend
-  - ui
+  - library
 ---
 
 # tambo-ai/tambo

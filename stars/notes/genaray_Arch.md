@@ -8,12 +8,11 @@ topics: [csharp, dotnet, dotnet-core, ecs, entity-component-system, entity-frame
 starred_at: "2024-02-27T11:51:27Z"
 tags:
   - coding
-  - ecs
-  - csharp
-  - performance
-  - concurrency
   - game
+  - ecs
+  - performance
   - library
+  - dotnet
 ---
 
 # genaray/Arch

@@ -9,6 +9,7 @@ starred_at: "2022-05-06T13:23:11Z"
 tags:
   - tools
   - office
+  - tool
 ---
 
 # YerongAI/Office-Tool

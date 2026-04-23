@@ -9,9 +9,7 @@ starred_at: "2022-12-08T05:22:10Z"
 tags:
   - coding
   - ai
-  - python
-  - api
-  - proxy
+  - library
 ---
 
 # rawandahmad698/PyChatGPT

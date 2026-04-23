@@ -8,11 +8,11 @@ topics: [algorithms, avx2, computer-graphics, cpu, multithreading, opengl, paral
 starred_at: "2023-02-14T17:57:55Z"
 tags:
   - graphic
+  - rendering
   - rasterization
   - simd
-  - concurrency
+  - performance
   - cpp
-  - opengl
 ---
 
 # Zielon/CPURasterizer

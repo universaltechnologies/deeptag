@@ -8,10 +8,10 @@ topics: []
 starred_at: "2025-05-19T06:12:53Z"
 tags:
   - coding
-  - library
   - debug
-  - linux
-  - windows
+  - library
+  - c
+  - performance
 ---
 
 # ianlancetaylor/libbacktrace

@@ -7,12 +7,11 @@ stars: 18
 topics: [shader, unity]
 starred_at: "2024-01-04T12:44:17Z"
 tags:
+  - coding
   - graphic
-  - unity
   - shader
-  - vfx
-  - pbr
-  - rendering
+  - unity
+  - practice
 ---
 
 # SelfishKrus/Krus_TA_Library

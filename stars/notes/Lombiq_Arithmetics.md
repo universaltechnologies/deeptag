@@ -10,7 +10,7 @@ tags:
   - coding
   - dotnet
   - math
-  - algorithm
+  - library
 ---
 
 # Lombiq/Arithmetics

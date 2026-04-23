@@ -9,10 +9,9 @@ starred_at: "2026-04-15T06:50:26Z"
 tags:
   - coding
   - ai
-  - llm
-  - database
-  - cli
-  - productivity
+  - mcp
+  - tool
+  - performance
 ---
 
 # winterfx/lossless-memory

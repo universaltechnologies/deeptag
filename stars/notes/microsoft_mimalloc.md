@@ -8,9 +8,9 @@ topics: []
 starred_at: "2023-11-20T02:51:47Z"
 tags:
   - coding
+  - systems
   - performance
-  - memory
-  - runtime
+  - library
   - c
 ---
 

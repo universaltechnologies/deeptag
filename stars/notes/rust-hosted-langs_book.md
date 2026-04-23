@@ -8,11 +8,10 @@ topics: [allocator, book, garbage-collection, interpreted-programming-language, 
 starred_at: "2023-11-17T07:35:20Z"
 tags:
   - coding
-  - book
-  - compiler
+  - language
   - runtime
+  - book
   - gc
-  - rust
 ---
 
 # rust-hosted-langs/book

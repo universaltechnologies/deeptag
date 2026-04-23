@@ -7,12 +7,11 @@ stars: 55028
 topics: [agent-skills, ai-agents, antigravity, automation, claude, claude-code, codex, composio, cursor, gemini-cli, mcp, rube, saas, skill, workflow-automation]
 starred_at: "2026-01-14T02:04:28Z"
 tags:
-  - awesome
-  - automation
-  - workflow
-  - agent
+  - coding
   - ai
-  - llm
+  - mcp
+  - awesome
+  - tool
 ---
 
 # ComposioHQ/awesome-claude-skills

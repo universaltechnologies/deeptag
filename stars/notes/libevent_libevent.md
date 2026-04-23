@@ -10,9 +10,8 @@ tags:
   - coding
   - networking
   - async
-  - cross-platform
-  - c
   - library
+  - cross-platform
 ---
 
 # libevent/libevent

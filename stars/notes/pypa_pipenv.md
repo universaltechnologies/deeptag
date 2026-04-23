@@ -8,11 +8,10 @@ topics: [packaging, pip, pipfile, python, virtualenv]
 starred_at: "2024-11-29T08:53:04Z"
 tags:
   - coding
-  - python
-  - automation
-  - workflow
-  - package
   - tools
+  - python
+  - library
+  - tool
 ---
 
 # pypa/pipenv

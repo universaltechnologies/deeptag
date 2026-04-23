@@ -9,9 +9,10 @@ starred_at: "2024-08-19T08:59:19Z"
 tags:
   - coding
   - physics
-  - performance
   - rust
   - library
+  - performance
+  - robotics
 ---
 
 # dimforge/rapier

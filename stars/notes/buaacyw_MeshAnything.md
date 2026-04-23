@@ -7,10 +7,12 @@ stars: 2274
 topics: [3d, auto-regressive-model, generative-ai, generative-model, iclr2025, large-language-models, mesh, mesh-generation, point-cloud, transformers]
 starred_at: "2024-06-25T07:04:58Z"
 tags:
+  - graphic
+  - scene
+  - mesh
   - coding
   - ai
-  - mesh
-  - 3d
+  - library
 ---
 
 # buaacyw/MeshAnything

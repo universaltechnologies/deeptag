@@ -9,8 +9,7 @@ starred_at: "2026-01-21T13:49:49Z"
 tags:
   - coding
   - ai
-  - ui
-  - json
+  - web
   - framework
 ---
 

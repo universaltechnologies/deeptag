@@ -9,10 +9,10 @@ starred_at: "2022-12-19T07:17:41Z"
 tags:
   - graphic
   - rendering
-  - vector
   - rasterization
-  - gpu
+  - 2d
   - performance
+  - library
 ---
 
 # google/forma

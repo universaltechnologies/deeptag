@@ -10,6 +10,8 @@ tags:
   - coding
   - ai
   - llm
+  - tools
+  - awesome
 ---
 
 # marckrenn/claude-code-changelog

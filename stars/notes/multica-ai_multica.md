@@ -8,11 +8,10 @@ topics: []
 starred_at: "2026-04-18T03:32:36Z"
 tags:
   - coding
+  - ai
   - agent
-  - llm
-  - self-hosted
-  - platform
-  - typescript
+  - mcp
+  - workflow
 ---
 
 # multica-ai/multica

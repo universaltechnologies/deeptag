@@ -7,12 +7,10 @@ stars: 192
 topics: []
 starred_at: "2025-07-16T06:05:39Z"
 tags:
-  - coding
-  - cpp
-  - ui
-  - desktop
-  - database
+  - tool
+  - game
   - ai
+  - cpp
 ---
 
 # bernds/q5Go

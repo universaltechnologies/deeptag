@@ -8,10 +8,8 @@ topics: [node, nodemon, watch]
 starred_at: "2022-02-18T12:30:14Z"
 tags:
   - coding
-  - automation
   - workflow
-  - cli
-  - tools
+  - tool
 ---
 
 # remy/nodemon

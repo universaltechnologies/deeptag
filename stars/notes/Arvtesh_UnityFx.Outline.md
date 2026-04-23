@@ -7,11 +7,12 @@ stars: 1384
 topics: [image-effects, outline, post-effect, unity, unity3d, unityfx]
 starred_at: "2023-03-17T21:57:00Z"
 tags:
+  - coding
+  - engine
+  - unity
   - graphic
   - post-processing
-  - rendering
-  - unity
-  - rhi
+  - library
 ---
 
 # Arvtesh/UnityFx.Outline

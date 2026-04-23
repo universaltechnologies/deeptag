@@ -8,9 +8,10 @@ topics: []
 starred_at: "2022-02-18T12:31:07Z"
 tags:
   - coding
+  - web
   - frontend
-  - performance
-  - automation
+  - practice
+  - tutorial
 ---
 
 # fouber/blog

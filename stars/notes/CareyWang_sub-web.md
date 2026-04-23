@@ -11,8 +11,7 @@ tags:
   - web
   - frontend
   - docker
-  - self-hosted
-  - proxy
+  - tool
 ---
 
 # CareyWang/sub-web

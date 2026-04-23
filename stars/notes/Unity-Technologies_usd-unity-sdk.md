@@ -8,11 +8,10 @@ topics: []
 starred_at: "2023-10-11T04:22:45Z"
 tags:
   - coding
-  - csharp
-  - unity
   - engine
+  - unity
+  - gltf
   - plugin
-  - binding
 ---
 
 # Unity-Technologies/usd-unity-sdk

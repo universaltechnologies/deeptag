@@ -8,11 +8,9 @@ topics: [compiler, language, zig]
 starred_at: "2023-01-13T08:52:10Z"
 tags:
   - coding
-  - compiler
-  - runtime
   - language
-  - cli
-  - build
+  - compiler
+  - tool
 ---
 
 # ziglang/zig

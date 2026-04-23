@@ -9,10 +9,9 @@ starred_at: "2020-02-18T05:47:02Z"
 tags:
   - coding
   - dotnet
-  - runtime
   - debug
-  - performance
-  - memory
+  - tool
+  - library
 ---
 
 # SergeyTeplyakov/ObjectLayoutInspector

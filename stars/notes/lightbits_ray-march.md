@@ -8,10 +8,10 @@ topics: []
 starred_at: "2017-03-04T09:36:45Z"
 tags:
   - graphic
+  - rendering
   - raymarching
   - webgl
-  - rendering
-  - 3d
+  - procedural
 ---
 
 # lightbits/ray-march

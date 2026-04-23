@@ -8,10 +8,9 @@ topics: [alternatives, csharp, customization, developer-tools, dotnet, file-mana
 starred_at: "2023-12-30T07:46:43Z"
 tags:
   - coding
-  - ui
-  - windows
-  - filesystem
   - dotnet
+  - desktop
+  - gui
 ---
 
 # files-community/Files

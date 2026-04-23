@@ -9,10 +9,9 @@ starred_at: "2024-09-04T04:18:21Z"
 tags:
   - graphic
   - rendering
-  - 2d
-  - gpu
-  - opengl
-  - rasterization
+  - platform
+  - library
+  - cross-platform
 ---
 
 # servo/webrender

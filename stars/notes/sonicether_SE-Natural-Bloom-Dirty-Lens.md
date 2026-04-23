@@ -9,8 +9,10 @@ starred_at: "2023-03-17T21:45:10Z"
 tags:
   - graphic
   - post-processing
-  - bloom
+  - coding
   - engine
+  - unity
+  - shader
 ---
 
 # sonicether/SE-Natural-Bloom-Dirty-Lens

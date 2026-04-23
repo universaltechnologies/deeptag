@@ -10,7 +10,8 @@ tags:
   - graphic
   - shader
   - hlsl
-  - rendering
+  - lighting
+  - library
 ---
 
 # wujuju/UnitySkyAtmosphere

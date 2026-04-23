@@ -9,9 +9,7 @@ starred_at: "2021-07-09T05:11:32Z"
 tags:
   - coding
   - web
-  - image
-  - java
-  - docker
+  - tools
 ---
 
 # plantuml/plantuml-server

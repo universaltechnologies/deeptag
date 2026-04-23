@@ -9,10 +9,8 @@ starred_at: "2025-12-21T01:56:36Z"
 tags:
   - coding
   - ai
-  - inference
-  - audio
-  - deep-learning
-  - awesome
+  - tts
+  - library
 ---
 
 # microsoft/VibeVoice

@@ -8,7 +8,7 @@ topics: []
 starred_at: "2022-06-06T08:09:24Z"
 tags:
   - coding
-  - misc
+  - tool
 ---
 
 # opensgct/sgct-docs

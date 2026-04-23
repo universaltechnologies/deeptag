@@ -11,7 +11,6 @@ tags:
   - robotics
   - simulation
   - unity
-  - physics
   - tutorial
 ---
 

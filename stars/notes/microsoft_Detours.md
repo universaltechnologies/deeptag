@@ -8,11 +8,9 @@ topics: [hacktoberfest, microsoft]
 starred_at: "2025-04-11T13:14:24Z"
 tags:
   - coding
-  - hook
-  - windows
-  - library
   - cpp
-  - reverse
+  - library
+  - windows
 ---
 
 # microsoft/Detours

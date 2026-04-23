@@ -9,7 +9,9 @@ starred_at: "2023-11-06T18:13:11Z"
 tags:
   - graphic
   - rendering
-  - path-tracing
+  - physics
+  - cpp
+  - library
 ---
 
 # mitsuba-renderer/mitsuba2

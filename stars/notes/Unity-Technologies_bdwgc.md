@@ -8,11 +8,9 @@ topics: []
 starred_at: "2025-05-17T03:44:57Z"
 tags:
   - coding
+  - language
   - gc
-  - c
-  - cpp
-  - runtime
-  - algorithm
+  - library
 ---
 
 # Unity-Technologies/bdwgc

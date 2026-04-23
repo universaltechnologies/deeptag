@@ -7,12 +7,10 @@ stars: 41399
 topics: [android, apps, automation, deployment, fastlane, hacktoberfest, ios, mobile, ruby, screenshots]
 starred_at: "2024-11-29T08:54:34Z"
 tags:
+  - coding
   - automation
   - mobile
-  - build
-  - ios
-  - android
-  - tools
+  - tool
 ---
 
 # fastlane/fastlane

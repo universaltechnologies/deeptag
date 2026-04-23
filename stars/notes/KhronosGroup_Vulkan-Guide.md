@@ -7,8 +7,10 @@ stars: 2220
 topics: [khronos, vulkan, vulkan-guide]
 starred_at: "2022-06-03T07:48:31Z"
 tags:
-  - vulkan
   - graphic
+  - platform
+  - vulkan
+  - tutorial
 ---
 
 # KhronosGroup/Vulkan-Guide

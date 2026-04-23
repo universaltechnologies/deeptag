@@ -7,12 +7,12 @@ stars: 6269
 topics: [c-plus-plus, foss, morrowind, open-source, openmw, rpg-engine, tes]
 starred_at: "2017-03-29T03:44:28Z"
 tags:
-  - graphic
+  - coding
   - engine
-  - gameplay
-  - physics
-  - rendering
-  - editor
+  - game
+  - cpp
+  - graphic
+  - framework
 ---
 
 # OpenMW/openmw

@@ -8,12 +8,12 @@ topics: [fluid-simulation, unity]
 starred_at: "2022-06-09T11:00:38Z"
 tags:
   - graphic
-  - physics
+  - vfx
   - shader
   - compute-shader
+  - coding
+  - engine
   - unity
-  - rendering
-  - vfx
 ---
 
 # Scrawk/GPU-GEMS-3D-Fluid-Simulation

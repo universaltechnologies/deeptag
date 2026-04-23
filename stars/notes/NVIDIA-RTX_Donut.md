@@ -9,10 +9,10 @@ starred_at: "2022-10-14T17:55:44Z"
 tags:
   - graphic
   - rendering
+  - pipeline
   - rhi
-  - 3d
-  - gltf
-  - math
+  - framework
+  - cpp
 ---
 
 # NVIDIA-RTX/Donut

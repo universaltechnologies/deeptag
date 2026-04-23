@@ -10,9 +10,7 @@ tags:
   - graphic
   - shader
   - hlsl
-  - glsl
-  - compiler
-  - cpp
+  - tool
 ---
 
 # aras-p/hlsl2glslfork

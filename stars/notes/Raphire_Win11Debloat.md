@@ -7,8 +7,7 @@ stars: 44941
 topics: [automated, bloatware, bloatware-removal, cleanup, cli, debloat, debloater, interactive, optimize, powershell, powershell-script, privacy, ps1, registry-tweaks, tweaks, windows, windows-10, windows-11, windows10, windows11]
 starred_at: "2026-03-10T06:25:07Z"
 tags:
-  - tools
-  - cli
+  - coding
   - automation
   - windows
 ---

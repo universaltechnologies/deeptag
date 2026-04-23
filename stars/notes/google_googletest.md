@@ -9,8 +9,7 @@ starred_at: "2022-04-02T03:14:27Z"
 tags:
   - coding
   - test
-  - cpp
-  - framework
+  - library
 ---
 
 # google/googletest

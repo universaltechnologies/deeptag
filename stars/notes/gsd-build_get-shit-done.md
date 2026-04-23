@@ -9,10 +9,8 @@ starred_at: "2026-03-20T10:30:45Z"
 tags:
   - coding
   - ai
-  - llm
-  - workflow
-  - automation
-  - cli
+  - prompt
+  - tool
 ---
 
 # gsd-build/get-shit-done

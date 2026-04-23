@@ -8,6 +8,7 @@ topics: [beginner-friendly, exercises, rust, rustlings]
 starred_at: "2021-07-23T02:12:11Z"
 tags:
   - coding
+  - language
   - tutorial
 ---
 

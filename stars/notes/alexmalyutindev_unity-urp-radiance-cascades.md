@@ -9,10 +9,11 @@ starred_at: "2024-12-09T02:41:07Z"
 tags:
   - graphic
   - rendering
+  - lighting
   - gi
-  - shader
+  - coding
+  - engine
   - unity
-  - urp
 ---
 
 # alexmalyutindev/unity-urp-radiance-cascades

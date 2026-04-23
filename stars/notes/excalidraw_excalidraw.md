@@ -10,7 +10,8 @@ tags:
   - coding
   - web
   - frontend
-  - tools
+  - tool
+  - library
 ---
 
 # excalidraw/excalidraw

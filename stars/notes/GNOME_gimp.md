@@ -8,10 +8,10 @@ topics: []
 starred_at: "2022-08-17T08:16:01Z"
 tags:
   - coding
-  - image
+  - media
   - image-processing
   - ui
-  - gui
+  - tool
 ---
 
 # GNOME/gimp

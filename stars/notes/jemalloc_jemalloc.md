@@ -8,10 +8,10 @@ topics: []
 starred_at: "2024-08-28T03:54:20Z"
 tags:
   - coding
-  - memory
-  - performance
-  - concurrency
   - c
+  - systems
+  - performance
+  - library
 ---
 
 # jemalloc/jemalloc

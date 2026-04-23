@@ -8,8 +8,10 @@ topics: []
 starred_at: "2024-12-12T16:25:13Z"
 tags:
   - coding
-  - header-only
   - algorithm
+  - cpp
+  - library
+  - header-only
 ---
 
 # gishi523/kd-tree

@@ -7,10 +7,10 @@ stars: 987
 topics: [vulkan]
 starred_at: "2022-10-05T20:02:37Z"
 tags:
-  - graphic
-  - vulkan
+  - coding
   - debug
-  - cpp
+  - vulkan
+  - tool
 ---
 
 # KhronosGroup/Vulkan-ValidationLayers

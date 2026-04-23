@@ -7,10 +7,9 @@ stars: 6577
 topics: [changelog, git, history, markdown, release, tag, versioning]
 starred_at: "2022-05-29T16:21:14Z"
 tags:
-  - coding
   - git
   - markdown
-  - automation
+  - practice
 ---
 
 # olivierlacan/keep-a-changelog

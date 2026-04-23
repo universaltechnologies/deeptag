@@ -8,9 +8,13 @@ topics: [c-sharp, csharp, procedural-generation, procedural-textures, texture-ge
 starred_at: "2023-03-10T08:54:14Z"
 tags:
   - graphic
+  - material
   - texture
-  - procedural
+  - coding
+  - engine
   - unity
+  - tool
+  - plugin
 ---
 
 # M-Fatah/texture_maker

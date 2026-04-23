@@ -7,11 +7,11 @@ stars: 44103
 topics: []
 starred_at: "2024-11-14T05:26:39Z"
 tags:
-  - coding
+  - tools
   - windows
   - desktop
-  - monitoring
   - cpp
+  - tool
 ---
 
 # zhongyang219/TrafficMonitor

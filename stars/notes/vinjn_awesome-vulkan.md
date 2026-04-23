@@ -7,9 +7,10 @@ stars: 3668
 topics: [amd, arm, khronos, nvidia, opengl, qualcomm, vulkan, vulkan-api, vulkan-libraries]
 starred_at: "2022-10-07T13:11:47Z"
 tags:
-  - awesome
-  - vulkan
   - graphic
+  - platform
+  - vulkan
+  - awesome
 ---
 
 # vinjn/awesome-vulkan

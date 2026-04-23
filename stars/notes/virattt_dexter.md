@@ -10,8 +10,7 @@ tags:
   - coding
   - ai
   - agent
-  - automation
-  - workflow
+  - library
 ---
 
 # virattt/dexter

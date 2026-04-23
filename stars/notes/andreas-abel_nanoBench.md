@@ -9,9 +9,7 @@ starred_at: "2022-07-06T09:39:53Z"
 tags:
   - coding
   - benchmark
-  - kernel
-  - performance
-  - hardware
+  - tool
 ---
 
 # andreas-abel/nanoBench

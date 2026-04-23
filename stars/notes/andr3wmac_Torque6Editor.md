@@ -8,11 +8,10 @@ topics: []
 starred_at: "2017-02-07T04:14:22Z"
 tags:
   - coding
-  - editor
   - engine
-  - gui
+  - tool
   - cpp
-  - build
+  - gui
 ---
 
 # andr3wmac/Torque6Editor

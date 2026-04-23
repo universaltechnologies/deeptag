@@ -8,10 +8,9 @@ topics: []
 starred_at: "2025-08-18T06:03:37Z"
 tags:
   - graphic
-  - 3d
   - rendering
-  - python
-  - ai
+  - coding
+  - ml
 ---
 
 # ingra14m/Specular-Gaussians

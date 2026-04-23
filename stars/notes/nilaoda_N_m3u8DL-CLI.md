@@ -7,12 +7,11 @@ stars: 15878
 topics: [command-line, downloader, m3u8, m3u8-downloader, m3u8-parser, m3u8dl-cli, windows]
 starred_at: "2022-11-21T05:41:23Z"
 tags:
-  - tools
+  - coding
+  - media
   - video
-  - http
   - cli
-  - concurrency
-  - windows
+  - tool
 ---
 
 # nilaoda/N_m3u8DL-CLI

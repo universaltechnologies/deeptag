@@ -8,9 +8,10 @@ topics: [cpp, enum, header-only, reflection]
 starred_at: "2016-12-13T11:44:13Z"
 tags:
   - coding
+  - cpp
   - header-only
+  - library
   - reflection
-  - template
 ---
 
 # aantron/better-enums

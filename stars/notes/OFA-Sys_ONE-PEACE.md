@@ -10,8 +10,9 @@ tags:
   - coding
   - ai
   - ml
-  - inference
-  - embeddings
+  - deep-learning
+  - cv
+  - library
 ---
 
 # OFA-Sys/ONE-PEACE

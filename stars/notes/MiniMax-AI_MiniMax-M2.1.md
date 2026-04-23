@@ -11,8 +11,6 @@ tags:
   - ai
   - llm
   - agent
-  - inference
-  - deep-learning
 ---
 
 # MiniMax-AI/MiniMax-M2.1

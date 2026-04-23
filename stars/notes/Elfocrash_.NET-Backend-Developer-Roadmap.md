@@ -9,9 +9,6 @@ starred_at: "2023-03-10T06:45:29Z"
 tags:
   - coding
   - dotnet
-  - backend
-  - cloud
-  - distributed
   - tutorial
 ---
 

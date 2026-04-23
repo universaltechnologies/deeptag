@@ -9,10 +9,10 @@ starred_at: "2026-03-26T02:46:21Z"
 tags:
   - coding
   - ai
+  - agent
   - llm
   - inference
-  - agent
-  - platform
+  - tool
 ---
 
 # walter-grace/mac-code

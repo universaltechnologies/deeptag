@@ -8,10 +8,10 @@ topics: [benchmark, cli, command-line, rust, terminal, tool]
 starred_at: "2023-12-12T03:11:35Z"
 tags:
   - coding
-  - cli
+  - tool
   - benchmark
-  - terminal
-  - performance
+  - cli
+  - cross-platform
 ---
 
 # sharkdp/hyperfine

@@ -8,9 +8,10 @@ topics: [compute-shader, opengl, particle-simulation, particle-system]
 starred_at: "2024-12-06T08:49:19Z"
 tags:
   - graphic
+  - vfx
   - compute-shader
   - opengl
-  - physics
+  - cpp
 ---
 
 # diharaw/gpu-particle-system

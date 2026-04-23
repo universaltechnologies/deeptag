@@ -9,10 +9,8 @@ starred_at: "2024-08-19T08:56:01Z"
 tags:
   - coding
   - ffi
-  - csharp
+  - tool
   - dotnet
-  - unity
-  - rust
 ---
 
 # Cysharp/csbindgen

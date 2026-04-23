@@ -10,9 +10,7 @@ tags:
   - coding
   - ai
   - diffusion
-  - inference
-  - gui
-  - api
+  - tool
 ---
 
 # Comfy-Org/ComfyUI

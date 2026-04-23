@@ -7,13 +7,9 @@ stars: 9
 topics: []
 starred_at: "2017-02-04T03:05:43Z"
 tags:
-  - coding
-  - cpp
-  - framework
-  - web
-  - browser
-  - ui
-  - gui
+  - graphic
+  - plugin
+  - library
 ---
 
 # shelltdf/osgCEF

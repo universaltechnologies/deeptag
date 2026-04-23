@@ -8,10 +8,8 @@ topics: []
 starred_at: "2021-11-14T15:47:48Z"
 tags:
   - coding
-  - header-only
   - cross-platform
   - library
-  - cpp
 ---
 
 # bkaradzic/bx

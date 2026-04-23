@@ -8,9 +8,9 @@ topics: [cli, git, github-api-v4, golang]
 starred_at: "2026-02-27T06:06:10Z"
 tags:
   - coding
-  - cli
   - git
-  - api
+  - cli
+  - tool
 ---
 
 # cli/cli

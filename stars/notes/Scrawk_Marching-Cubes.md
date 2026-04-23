@@ -7,12 +7,13 @@ stars: 521
 topics: [marching-cubes, marching-tetrahedron-algorithm, unity, voxel]
 starred_at: "2022-06-09T11:00:15Z"
 tags:
-  - coding
-  - unity
+  - graphic
+  - scene
   - voxel
-  - mesh
-  - procedural
   - geometry
+  - coding
+  - engine
+  - unity
 ---
 
 # Scrawk/Marching-Cubes

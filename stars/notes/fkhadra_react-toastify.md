@@ -8,8 +8,9 @@ topics: [javascript, notification, react, react-component, reactjs, snackbar, to
 starred_at: "2025-07-25T08:40:17Z"
 tags:
   - coding
+  - web
   - ui
-  - component
+  - library
 ---
 
 # fkhadra/react-toastify

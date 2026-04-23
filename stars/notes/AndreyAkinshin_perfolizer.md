@@ -9,7 +9,8 @@ starred_at: "2023-12-12T07:10:39Z"
 tags:
   - coding
   - performance
-  - benchmark
+  - library
+  - dotnet
 ---
 
 # AndreyAkinshin/perfolizer

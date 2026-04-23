@@ -9,10 +9,9 @@ starred_at: "2022-11-11T16:18:38Z"
 tags:
   - coding
   - gui
+  - go
+  - library
   - cross-platform
-  - android
-  - ios
-  - webassembly
 ---
 
 # gioui/gio

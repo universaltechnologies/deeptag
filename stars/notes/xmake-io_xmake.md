@@ -10,8 +10,7 @@ tags:
   - coding
   - build
   - cross-platform
-  - c
-  - lua
+  - tool
 ---
 
 # xmake-io/xmake

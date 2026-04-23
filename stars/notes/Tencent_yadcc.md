@@ -8,11 +8,10 @@ topics: []
 starred_at: "2024-12-23T09:55:17Z"
 tags:
   - coding
-  - distributed
-  - compiler
-  - performance
-  - linux
   - cpp
+  - systems
+  - distributed
+  - tool
 ---
 
 # Tencent/yadcc

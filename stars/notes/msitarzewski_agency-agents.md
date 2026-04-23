@@ -10,9 +10,8 @@ tags:
   - coding
   - ai
   - agent
-  - automation
-  - workflow
-  - cli
+  - tool
+  - prompt
 ---
 
 # msitarzewski/agency-agents

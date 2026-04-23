@@ -7,10 +7,11 @@ stars: 560
 topics: []
 starred_at: "2022-10-13T10:56:26Z"
 tags:
-  - coding
-  - cli
-  - android
+  - tools
   - terminal
+  - android
+  - cli
+  - tool
 ---
 
 # marshall/logcat-color

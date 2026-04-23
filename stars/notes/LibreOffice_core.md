@@ -7,11 +7,9 @@ stars: 3861
 topics: [libreoffice, tdf]
 starred_at: "2023-05-11T17:19:35Z"
 tags:
-  - coding
+  - tools
   - office
   - cpp
-  - desktop
-  - windows
   - cross-platform
 ---
 

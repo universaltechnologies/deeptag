@@ -8,9 +8,11 @@ topics: [clickhouse, mongodb, mysql, oralce, orm, postgresql, sqlite, sqlsever]
 starred_at: "2019-12-04T01:47:30Z"
 tags:
   - coding
-  - database
+  - data
   - dotnet
-  - sql
+  - library
+  - performance
+  - cross-platform
 ---
 
 # DotNetNext/SqlSugar

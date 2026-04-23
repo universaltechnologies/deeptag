@@ -8,10 +8,9 @@ topics: [ai, automation, excel, llm, mcp, mcp-server, sse, stdio, streamable-htt
 starred_at: "2025-04-21T02:18:58Z"
 tags:
   - coding
-  - automation
   - ai
-  - llm
-  - office
+  - mcp
+  - tool
 ---
 
 # haris-musa/excel-mcp-server

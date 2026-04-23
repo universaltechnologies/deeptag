@@ -8,11 +8,11 @@ topics: [extension-methods, game-development, math, math-functions, math-helper,
 starred_at: "2024-10-10T11:26:47Z"
 tags:
   - coding
-  - math
   - engine
   - unity
+  - math
   - plugin
-  - optimization
+  - library
 ---
 
 # ltmx/Unity.mathx

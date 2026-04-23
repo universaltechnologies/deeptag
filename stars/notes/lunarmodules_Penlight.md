@@ -8,10 +8,9 @@ topics: [lua, lua-library, lua-modules, luajit, luarocks, penlight]
 starred_at: "2018-11-13T06:53:16Z"
 tags:
   - coding
-  - library
   - lua
-  - filesystem
-  - parser
+  - library
+  - tool
 ---
 
 # lunarmodules/Penlight

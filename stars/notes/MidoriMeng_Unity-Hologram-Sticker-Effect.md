@@ -7,11 +7,12 @@ stars: 13
 topics: []
 starred_at: "2025-09-08T18:52:53Z"
 tags:
+  - coding
+  - engine
+  - unity
   - graphic
   - shader
-  - urp
-  - unity
-  - vfx
+  - practice
 ---
 
 # MidoriMeng/Unity-Hologram-Sticker-Effect

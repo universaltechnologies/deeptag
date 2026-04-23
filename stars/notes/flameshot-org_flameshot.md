@@ -8,8 +8,8 @@ topics: [capture, cross-platform, free-software, gnu-linux, gui, hacktoberfest, 
 starred_at: "2022-11-01T11:26:20Z"
 tags:
   - tools
-  - capture
-  - image
+  - coding
+  - desktop
   - cross-platform
   - gui
 ---

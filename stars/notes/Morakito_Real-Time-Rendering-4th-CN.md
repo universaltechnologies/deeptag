@@ -7,9 +7,9 @@ stars: 3134
 topics: []
 starred_at: "2023-11-21T08:47:37Z"
 tags:
-  - book
-  - rendering
   - graphic
+  - rendering
+  - book
 ---
 
 # Morakito/Real-Time-Rendering-4th-CN

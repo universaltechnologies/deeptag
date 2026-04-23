@@ -10,7 +10,8 @@ tags:
   - coding
   - engine
   - godot
-  - editor
+  - graphic
+  - scene
   - plugin
 ---
 

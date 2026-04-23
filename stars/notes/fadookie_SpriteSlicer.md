@@ -8,11 +8,9 @@ topics: []
 starred_at: "2024-10-12T02:22:21Z"
 tags:
   - coding
-  - csharp
+  - engine
   - unity
-  - editor
-  - image
-  - tools
+  - tool
 ---
 
 # fadookie/SpriteSlicer

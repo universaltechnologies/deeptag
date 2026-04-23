@@ -8,11 +8,10 @@ topics: [astronomy, blackhole, effects, glsl, opengl, physics-simulation, raytra
 starred_at: "2022-06-03T11:47:25Z"
 tags:
   - graphic
-  - ray-tracing
+  - rendering
   - shader
   - glsl
   - opengl
-  - physics
 ---
 
 # zhongjn/Messier87

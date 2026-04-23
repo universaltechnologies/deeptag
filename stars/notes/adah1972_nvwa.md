@@ -10,7 +10,6 @@ tags:
   - coding
   - cpp
   - library
-  - misc
 ---
 
 # adah1972/nvwa

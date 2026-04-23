@@ -7,12 +7,11 @@ stars: 60815
 topics: []
 starred_at: "2022-03-09T16:05:09Z"
 tags:
-  - awesome
   - coding
-  - architecture
+  - systems
   - backend
-  - algorithm
-  - database
+  - awesome
+  - architecture
 ---
 
 # xingshaocheng/architect-awesome

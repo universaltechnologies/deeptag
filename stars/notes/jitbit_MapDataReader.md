@@ -9,10 +9,8 @@ starred_at: "2023-12-20T10:53:15Z"
 tags:
   - coding
   - performance
-  - csharp
+  - library
   - dotnet
-  - sql
-  - reflection
 ---
 
 # jitbit/MapDataReader

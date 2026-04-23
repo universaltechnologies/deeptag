@@ -8,8 +8,8 @@ topics: []
 starred_at: "2022-10-10T10:44:18Z"
 tags:
   - coding
+  - tools
   - windows
-  - automation
 ---
 
 # vogeljo/reset-vassistx

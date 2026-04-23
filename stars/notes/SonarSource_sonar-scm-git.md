@@ -10,7 +10,6 @@ tags:
   - coding
   - git
   - plugin
-  - java
 ---
 
 # SonarSource/sonar-scm-git

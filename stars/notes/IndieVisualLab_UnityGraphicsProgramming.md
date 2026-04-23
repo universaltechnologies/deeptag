@@ -9,10 +9,11 @@ starred_at: "2022-11-01T07:02:30Z"
 tags:
   - graphic
   - shader
-  - compute-shader
-  - procedural
-  - simulation
+  - scene
+  - coding
+  - engine
   - unity
+  - book
 ---
 
 # IndieVisualLab/UnityGraphicsProgramming

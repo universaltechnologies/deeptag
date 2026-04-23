@@ -10,7 +10,8 @@ tags:
   - coding
   - reverse
   - android
-  - unity
+  - tool
+  - plugin
 ---
 
 # Perfare/Zygisk-Il2CppDumper

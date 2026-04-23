@@ -7,13 +7,13 @@ stars: 96
 topics: []
 starred_at: "2025-04-11T15:57:40Z"
 tags:
-  - graphic
   - coding
   - engine
   - unity
+  - graphic
+  - scene
   - procedural
-  - mesh
-  - csharp
+  - tool
 ---
 
 # HolmanDev/LOD-Planets-in-Unity

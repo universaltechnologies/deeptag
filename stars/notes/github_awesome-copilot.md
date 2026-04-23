@@ -9,9 +9,9 @@ starred_at: "2026-03-25T03:51:25Z"
 tags:
   - coding
   - ai
-  - llm
   - agent
-  - automation
+  - mcp
+  - prompt
   - awesome
 ---
 

@@ -8,10 +8,9 @@ topics: []
 starred_at: "2022-10-12T11:03:52Z"
 tags:
   - coding
-  - ui
+  - gui
   - mvvm
-  - xml
-  - reflection
+  - library
   - cross-platform
 ---
 

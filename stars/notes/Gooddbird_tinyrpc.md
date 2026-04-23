@@ -8,10 +8,10 @@ topics: [coroutines, protobuf, reactor, rpc]
 starred_at: "2023-09-23T15:42:23Z"
 tags:
   - coding
+  - networking
   - rpc
   - async
-  - performance
-  - networking
+  - framework
 ---
 
 # Gooddbird/tinyrpc

@@ -7,12 +7,11 @@ stars: 36455
 topics: [browser, rust, servo, web, webbrowser, webengine, webplatform]
 starred_at: "2024-09-04T09:12:00Z"
 tags:
-  - coding
-  - browser
-  - rust
   - web
-  - engine
-  - concurrency
+  - browser
+  - coding
+  - rust
+  - cross-platform
 ---
 
 # servo/servo

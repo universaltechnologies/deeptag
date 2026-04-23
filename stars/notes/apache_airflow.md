@@ -10,7 +10,8 @@ tags:
   - coding
   - workflow
   - automation
-  - distributed
+  - platform
+  - python
 ---
 
 # apache/airflow

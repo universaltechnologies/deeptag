@@ -9,9 +9,6 @@ starred_at: "2022-12-07T06:11:59Z"
 tags:
   - coding
   - web
-  - browser
-  - typescript
-  - frontend
   - ai
 ---
 

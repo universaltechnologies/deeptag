@@ -8,9 +8,11 @@ topics: [allocation, csharp-library, gamedev-library, linq, perfromance, simd]
 starred_at: "2023-01-13T03:34:52Z"
 tags:
   - coding
-  - performance
+  - algorithm
   - simd
-  - csharp
+  - dotnet
+  - library
+  - performance
 ---
 
 # jackmott/LinqFaster

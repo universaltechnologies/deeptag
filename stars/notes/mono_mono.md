@@ -8,15 +8,10 @@ topics: [android, csharp, dotnet, garbage-collector, ios, jit, runtime, xamarin]
 starred_at: "2023-02-13T07:51:10Z"
 tags:
   - coding
-  - csharp
+  - language
   - runtime
-  - jit
-  - gc
-  - compiler
+  - dotnet
   - cross-platform
-  - android
-  - ios
-  - linux
 ---
 
 # mono/mono

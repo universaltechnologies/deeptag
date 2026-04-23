@@ -8,9 +8,10 @@ topics: [dependency-injection, di, unity, unity3d]
 starred_at: "2022-11-04T02:45:05Z"
 tags:
   - coding
-  - gc
-  - performance
+  - engine
   - unity
+  - library
+  - performance
 ---
 
 # hadashiA/VContainer

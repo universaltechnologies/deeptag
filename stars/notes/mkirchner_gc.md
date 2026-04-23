@@ -8,9 +8,10 @@ topics: [c, garbage-collection, memory-management, zero-dependency]
 starred_at: "2023-01-16T09:48:05Z"
 tags:
   - coding
-  - gc
-  - algorithm
+  - language
   - c
+  - library
+  - practice
 ---
 
 # mkirchner/gc

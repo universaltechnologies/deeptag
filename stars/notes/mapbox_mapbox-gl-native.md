@@ -8,9 +8,9 @@ topics: [android, c-plus-plus, geojson, ios, java, macos, map, mapbox, mapbox-gl
 starred_at: "2023-11-10T12:03:53Z"
 tags:
   - graphic
-  - rendering
-  - opengl
-  - metal
+  - platform
+  - library
+  - cross-platform
 ---
 
 # mapbox/mapbox-gl-native

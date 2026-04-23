@@ -9,9 +9,9 @@ starred_at: "2018-04-08T08:17:07Z"
 tags:
   - coding
   - networking
-  - rpc
+  - protocol
   - server
-  - typescript
+  - library
 ---
 
 # deepstreamIO/deepstream.io

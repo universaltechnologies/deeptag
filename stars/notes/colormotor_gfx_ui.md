@@ -7,11 +7,10 @@ stars: 115
 topics: []
 starred_at: "2023-02-23T17:28:32Z"
 tags:
-  - graphic
-  - geometry
-  - ui
+  - coding
+  - cpp
   - gui
-  - editor
+  - geometry
 ---
 
 # colormotor/gfx_ui

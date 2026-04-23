@@ -8,10 +8,9 @@ topics: [argument-parser, argument-parsing, arguments, cli, cmdline-parser, comm
 starred_at: "2022-12-22T16:13:36Z"
 tags:
   - coding
-  - cli
   - parser
+  - library
   - header-only
-  - cpp
 ---
 
 # bfgroup/Lyra

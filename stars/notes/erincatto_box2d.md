@@ -7,12 +7,12 @@ stars: 9615
 topics: []
 starred_at: "2025-05-22T07:38:20Z"
 tags:
-  - graphic
+  - coding
   - physics
-  - 2d
-  - engine
-  - simd
-  - concurrency
+  - library
+  - performance
+  - cross-platform
+  - simulation
 ---
 
 # erincatto/box2d

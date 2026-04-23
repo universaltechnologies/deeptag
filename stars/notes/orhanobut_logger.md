@@ -7,12 +7,11 @@ stars: 13872
 topics: [android, java, json-logging, log, logcat, logger, pretty-printer, timber]
 starred_at: "2022-10-13T10:44:30Z"
 tags:
-  - coding
-  - logging
   - android
-  - java
+  - logging
   - debug
-  - json
+  - library
+  - tool
 ---
 
 # orhanobut/logger

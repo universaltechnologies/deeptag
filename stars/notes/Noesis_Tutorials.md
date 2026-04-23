@@ -8,12 +8,8 @@ topics: [noesis, ui, xaml]
 starred_at: "2017-03-08T11:19:31Z"
 tags:
   - coding
-  - ui
   - gui
-  - unity
-  - unreal
-  - cpp
-  - csharp
+  - tutorial
 ---
 
 # Noesis/Tutorials

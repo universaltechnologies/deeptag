@@ -9,10 +9,9 @@ starred_at: "2026-04-15T07:37:55Z"
 tags:
   - coding
   - ai
-  - llm
-  - cli
-  - plugin
   - agent
+  - llm
+  - tool
 ---
 
 # continuedev/continue

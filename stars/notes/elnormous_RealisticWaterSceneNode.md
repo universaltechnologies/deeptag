@@ -8,9 +8,7 @@ topics: []
 starred_at: "2017-03-27T14:06:58Z"
 tags:
   - graphic
-  - rendering
   - water
-  - reflection
   - cpp
 ---
 

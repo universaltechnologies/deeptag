@@ -8,9 +8,9 @@ topics: [big-data, database, iot, java, nosql, timeseries, tsdb]
 starred_at: "2024-01-09T01:32:46Z"
 tags:
   - coding
+  - data
   - database
-  - java
-  - performance
+  - cross-platform
 ---
 
 # apache/iotdb

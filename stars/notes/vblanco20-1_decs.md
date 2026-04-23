@@ -8,10 +8,11 @@ topics: []
 starred_at: "2022-10-07T12:57:14Z"
 tags:
   - coding
+  - game
   - ecs
-  - cpp
-  - simd
   - performance
+  - library
+  - cpp
 ---
 
 # vblanco20-1/decs

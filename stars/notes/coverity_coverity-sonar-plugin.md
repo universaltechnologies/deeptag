@@ -8,9 +8,8 @@ topics: []
 starred_at: "2019-04-21T08:44:11Z"
 tags:
   - coding
-  - plugin
   - java
-  - ci
+  - plugin
 ---
 
 # coverity/coverity-sonar-plugin

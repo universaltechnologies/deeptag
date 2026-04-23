@@ -8,11 +8,10 @@ topics: [better-auth, hacktoberfest, react, resume, resume-builder, self-hosted,
 starred_at: "2022-12-30T11:06:53Z"
 tags:
   - coding
-  - self-hosted
   - web
   - frontend
-  - awesome
-  - docker
+  - self-hosted
+  - tool
 ---
 
 # amruthpillai/reactive-resume

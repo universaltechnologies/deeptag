@@ -8,11 +8,10 @@ topics: [data-analysis, data-science, data-visualization, deep-learning, develop
 starred_at: "2023-01-10T03:49:39Z"
 tags:
   - coding
-  - framework
+  - web
   - ui
   - visualization
-  - python
-  - web
+  - framework
 ---
 
 # streamlit/streamlit

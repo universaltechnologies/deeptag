@@ -10,9 +10,7 @@ tags:
   - graphic
   - font
   - opengl
-  - texture
-  - shader
-  - cli
+  - library
 ---
 
 # ShoYamanishi/SDFont

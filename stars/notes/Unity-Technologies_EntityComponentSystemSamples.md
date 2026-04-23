@@ -8,11 +8,11 @@ topics: [auto-vectorisation, auto-vectorization, burst, component, containers, c
 starred_at: "2022-09-28T06:27:12Z"
 tags:
   - coding
-  - engine
+  - game
   - ecs
-  - csharp
-  - performance
   - tutorial
+  - engine
+  - unity
 ---
 
 # Unity-Technologies/EntityComponentSystemSamples

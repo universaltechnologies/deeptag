@@ -8,9 +8,7 @@ topics: []
 starred_at: "2020-06-11T12:16:24Z"
 tags:
   - coding
-  - c
   - networking
-  - binding
   - library
 ---
 

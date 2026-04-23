@@ -7,11 +7,9 @@ stars: 30137
 topics: [automation, cli, json, money, outreach, python, twitter, youtube]
 starred_at: "2026-03-20T10:27:37Z"
 tags:
-  - coding
   - automation
   - workflow
   - python
-  - api
 ---
 
 # FujiwaraChoki/MoneyPrinterV2

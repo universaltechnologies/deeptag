@@ -10,7 +10,7 @@ tags:
   - coding
   - ai
   - ml
-  - tutorial
+  - awesome
 ---
 
 # google-research/google-research

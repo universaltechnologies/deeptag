@@ -9,9 +9,7 @@ starred_at: "2024-02-23T06:46:10Z"
 tags:
   - coding
   - plugin
-  - typescript
-  - productivity
-  - markdown
+  - tool
 ---
 
 # obsidian-community/obsidian-kanban

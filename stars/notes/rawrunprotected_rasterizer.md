@@ -8,9 +8,10 @@ topics: []
 starred_at: "2023-02-14T17:46:07Z"
 tags:
   - graphic
-  - culling
+  - rendering
   - rasterization
-  - simd
+  - culling
+  - performance
 ---
 
 # rawrunprotected/rasterizer

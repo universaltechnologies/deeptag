@@ -8,8 +8,9 @@ topics: []
 starred_at: "2016-03-20T06:21:15Z"
 tags:
   - coding
-  - cpp
-  - ui
+  - gui
+  - component
+  - tool
 ---
 
 # shelllee/QtPropertyBrowserQt4

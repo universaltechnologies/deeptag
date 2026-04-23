@@ -9,8 +9,9 @@ starred_at: "2025-12-10T03:27:50Z"
 tags:
   - coding
   - ai
+  - agent
+  - tool
   - automation
-  - cli
   - workflow
 ---
 

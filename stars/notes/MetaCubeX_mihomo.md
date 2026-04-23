@@ -9,8 +9,6 @@ starred_at: "2026-04-07T15:32:03Z"
 tags:
   - coding
   - python
-  - api
-  - async
   - library
 ---
 

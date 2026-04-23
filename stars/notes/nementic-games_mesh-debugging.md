@@ -8,11 +8,11 @@ topics: [unity]
 starred_at: "2023-04-10T15:01:57Z"
 tags:
   - graphic
-  - unity
-  - editor
+  - scene
   - mesh
   - shader
-  - normal
+  - tool
+  - unity
 ---
 
 # nementic-games/mesh-debugging

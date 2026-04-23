@@ -7,12 +7,10 @@ stars: 44380
 topics: [copyparty, file-server, file-sharing, file-upload-server, ftp-server, nas-frontend, tftp-server, webdav-server]
 starred_at: "2025-12-20T10:52:27Z"
 tags:
-  - tools
+  - coding
   - server
-  - networking
-  - storage
-  - http
-  - automation
+  - tool
+  - python
 ---
 
 # 9001/copyparty

@@ -9,9 +9,8 @@ starred_at: "2026-03-06T08:48:22Z"
 tags:
   - coding
   - ai
-  - embedded
   - agent
-  - hardware
+  - embedded
   - networking
 ---
 

@@ -11,7 +11,8 @@ tags:
   - ai
   - engine
   - unity
-  - csharp
+  - game
+  - library
 ---
 
 # sploreg/goap

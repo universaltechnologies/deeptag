@@ -8,9 +8,10 @@ topics: []
 starred_at: "2022-10-30T10:31:14Z"
 tags:
   - graphic
+  - rendering
   - shader
-  - depth
   - csharp
+  - tool
 ---
 
 # Ggz91/BakeDepthToVertexColor

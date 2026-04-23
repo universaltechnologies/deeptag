@@ -8,10 +8,10 @@ topics: [ambient-occlusion, shader, ssao, unity, unity3d]
 starred_at: "2020-05-28T15:51:26Z"
 tags:
   - graphic
-  - coding
+  - lighting
   - ssao
   - shader
-  - unity
+  - coding
   - plugin
 ---
 

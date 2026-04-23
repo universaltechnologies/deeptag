@@ -8,10 +8,9 @@ topics: []
 starred_at: "2021-05-26T06:28:56Z"
 tags:
   - coding
-  - tools
   - android
+  - tools
   - docker
-  - automation
 ---
 
 # google/android-emulator-container-scripts

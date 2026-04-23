@@ -7,14 +7,13 @@ stars: 3544
 topics: [3d-engine, blender-python, book, cpp, fbx-sdk, fmod, freetype, game-development, gamedev, gameengine, lua, markdown, opengl, renderdoc, sol2, stb-image, toolbag, wwise]
 starred_at: "2022-11-09T06:51:03Z"
 tags:
-  - graphic
   - coding
-  - book
-  - opengl
+  - graphic
+  - rendering
   - shader
-  - skeletal
-  - animation
-  - gameplay
+  - opengl
+  - book
+  - engine
 ---
 
 # ThisisGame/cpp-game-engine-book

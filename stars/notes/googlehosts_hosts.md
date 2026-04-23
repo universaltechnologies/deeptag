@@ -7,8 +7,8 @@ stars: 20676
 topics: [hosts]
 starred_at: "2017-11-12T06:25:33Z"
 tags:
-  - network
   - tools
+  - network
 ---
 
 # googlehosts/hosts

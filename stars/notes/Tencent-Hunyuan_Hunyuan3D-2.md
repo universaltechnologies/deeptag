@@ -10,8 +10,9 @@ tags:
   - coding
   - ai
   - diffusion
+  - graphic
   - 3d
-  - inference
+  - library
 ---
 
 # Tencent-Hunyuan/Hunyuan3D-2

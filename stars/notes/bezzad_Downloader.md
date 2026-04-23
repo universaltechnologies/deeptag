@@ -8,10 +8,10 @@ topics: [cross-platform, csharp, dotnet, dotnet-core, dotnet-standard, dotnetfra
 starred_at: "2022-12-28T11:39:42Z"
 tags:
   - coding
+  - networking
   - dotnet
-  - async
+  - library
   - cross-platform
-  - http
 ---
 
 # bezzad/Downloader

@@ -9,9 +9,7 @@ starred_at: "2026-03-17T11:53:26Z"
 tags:
   - graphic
   - webgl
-  - 2d
-  - gpu
-  - image-processing
+  - library
 ---
 
 # ryankaplan/gpu-distance-field

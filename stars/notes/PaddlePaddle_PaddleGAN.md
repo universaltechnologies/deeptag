@@ -9,10 +9,9 @@ starred_at: "2022-01-17T13:45:32Z"
 tags:
   - coding
   - ai
-  - cv
   - deep-learning
-  - image-processing
-  - python
+  - cv
+  - library
 ---
 
 # PaddlePaddle/PaddleGAN

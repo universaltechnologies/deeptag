@@ -7,12 +7,10 @@ stars: 3118
 topics: [computing, csharp, d2d1, directx, dotnet, gpgpu, gpu, hlsl, hlsl-shader, library, netstandard, nuget, performance, shader, uwp, visual-studio, winui, winui3, xaml]
 starred_at: "2025-04-29T04:48:02Z"
 tags:
-  - graphic
   - coding
-  - compute-shader
+  - shader
   - hlsl
-  - directx
-  - gpu
+  - compute-shader
   - library
   - performance
 ---

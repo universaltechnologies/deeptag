@@ -9,13 +9,9 @@ starred_at: "2023-03-30T10:07:53Z"
 tags:
   - coding
   - ai
-  - framework
   - cv
-  - inference
-  - mobile
+  - framework
   - cross-platform
-  - pipeline
-  - performance
 ---
 
 # google-ai-edge/mediapipe

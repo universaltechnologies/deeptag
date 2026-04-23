@@ -9,10 +9,9 @@ starred_at: "2017-04-15T06:29:07Z"
 tags:
   - coding
   - benchmark
+  - performance
   - json
   - cpp
-  - performance
-  - algorithm
 ---
 
 # miloyip/nativejson-benchmark

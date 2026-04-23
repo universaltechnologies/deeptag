@@ -10,8 +10,8 @@ tags:
   - coding
   - ai
   - agent
-  - ui
-  - automation
+  - web
+  - tool
 ---
 
 # abhi1693/openclaw-mission-control

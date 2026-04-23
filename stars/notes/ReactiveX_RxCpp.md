@@ -8,11 +8,9 @@ topics: [algorithms, c-plus-plus, reactivex, rxcpp, values-distributed-in-time, 
 starred_at: "2022-06-01T06:45:05Z"
 tags:
   - coding
-  - cpp
   - algorithm
   - library
   - header-only
-  - async
 ---
 
 # ReactiveX/RxCpp

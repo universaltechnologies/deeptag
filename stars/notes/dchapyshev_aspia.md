@@ -8,11 +8,9 @@ topics: [anydesk, cpp, linux, macos, protobuf, qt, qt5, rdp, remote-access, remo
 starred_at: "2025-05-28T17:49:54Z"
 tags:
   - coding
-  - networking
-  - security
-  - cross-platform
   - desktop
-  - encryption
+  - tool
+  - cross-platform
 ---
 
 # dchapyshev/aspia

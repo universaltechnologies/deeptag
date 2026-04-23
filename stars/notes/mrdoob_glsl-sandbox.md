@@ -10,9 +10,8 @@ tags:
   - graphic
   - shader
   - glsl
-  - webgl
   - web
-  - frontend
+  - tool
 ---
 
 # mrdoob/glsl-sandbox

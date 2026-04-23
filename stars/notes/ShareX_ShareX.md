@@ -9,9 +9,10 @@ starred_at: "2023-02-17T03:09:29Z"
 tags:
   - tools
   - coding
-  - csharp
-  - windows
-  - automation
+  - desktop
+  - media
+  - capture
+  - tool
 ---
 
 # ShareX/ShareX

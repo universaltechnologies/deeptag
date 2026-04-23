@@ -11,7 +11,7 @@ tags:
   - engine
   - unity
   - plugin
-  - gui
+  - tool
 ---
 
 # medvejut/dotween-timeline

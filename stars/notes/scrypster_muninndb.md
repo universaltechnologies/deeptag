@@ -8,11 +8,10 @@ topics: []
 starred_at: "2026-03-27T08:05:35Z"
 tags:
   - coding
-  - database
   - ai
-  - storage
-  - rag
-  - server
+  - database
+  - mcp
+  - tool
 ---
 
 # scrypster/muninndb

@@ -7,11 +7,10 @@ stars: 78
 topics: [ktx, ktx2, specification-source, texture-file-format]
 starred_at: "2021-12-30T08:54:23Z"
 tags:
-  - coding
+  - graphic
+  - material
   - texture
-  - vulkan
-  - opengl
-  - json
+  - cross-platform
 ---
 
 # KhronosGroup/KTX-Specification

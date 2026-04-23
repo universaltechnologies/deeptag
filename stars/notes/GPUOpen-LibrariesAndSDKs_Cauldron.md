@@ -8,11 +8,10 @@ topics: []
 starred_at: "2022-10-07T13:19:22Z"
 tags:
   - graphic
-  - rendering
+  - platform
   - vulkan
   - directx
-  - framework
-  - pbr
+  - library
 ---
 
 # GPUOpen-LibrariesAndSDKs/Cauldron

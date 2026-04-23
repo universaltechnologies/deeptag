@@ -8,9 +8,9 @@ topics: []
 starred_at: "2020-10-14T10:40:52Z"
 tags:
   - coding
+  - web
   - lua
-  - template
-  - middleware
+  - library
 ---
 
 # bungle/lua-resty-template

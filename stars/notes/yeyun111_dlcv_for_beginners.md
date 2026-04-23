@@ -8,9 +8,10 @@ topics: [adversarial, beginners, book, caffe, classification, computer-vision, d
 starred_at: "2017-12-31T04:14:04Z"
 tags:
   - coding
-  - cv
+  - ai
   - deep-learning
-  - tutorial
+  - cv
+  - book
 ---
 
 # yeyun111/dlcv_for_beginners

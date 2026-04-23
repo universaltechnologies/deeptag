@@ -7,12 +7,12 @@ stars: 4455
 topics: []
 starred_at: "2017-12-11T13:49:21Z"
 tags:
+  - tools
   - coding
   - web
-  - networking
-  - cli
-  - windows
-  - linux
+  - c
+  - tool
+  - cross-platform
 ---
 
 # xroche/httrack

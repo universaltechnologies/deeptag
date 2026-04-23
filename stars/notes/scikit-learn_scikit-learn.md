@@ -8,11 +8,9 @@ topics: [data-analysis, data-science, machine-learning, python, statistics]
 starred_at: "2017-03-07T06:23:42Z"
 tags:
   - coding
+  - ai
   - ml
-  - algorithm
   - library
-  - math
-  - benchmark
 ---
 
 # scikit-learn/scikit-learn

@@ -9,10 +9,10 @@ starred_at: "2023-03-22T09:12:34Z"
 tags:
   - graphic
   - rendering
-  - pipeline
+  - rasterization
   - ray-tracing
   - mobile
-  - shadow
+  - performance
 ---
 
 # WeakKnight/GDC23_PracticalMobileRendering

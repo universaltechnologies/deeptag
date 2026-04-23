@@ -9,10 +9,10 @@ starred_at: "2026-04-04T05:27:53Z"
 tags:
   - coding
   - engine
+  - game
   - voxel
   - lua
-  - gameplay
-  - 3d
+  - framework
 ---
 
 # luanti-org/luanti

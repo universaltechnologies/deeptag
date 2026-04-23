@@ -8,9 +8,10 @@ topics: []
 starred_at: "2026-04-06T13:08:03Z"
 tags:
   - coding
-  - cli
-  - automation
   - ai
+  - llm
+  - cli
+  - tool
 ---
 
 # foreveryh/claude-code-switch

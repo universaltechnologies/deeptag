@@ -10,8 +10,8 @@ tags:
   - coding
   - ai
   - llm
-  - misc
-  - awesome
+  - prompt
+  - practice
 ---
 
 # forrestchang/andrej-karpathy-skills

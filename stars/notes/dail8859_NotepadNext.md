@@ -9,10 +9,8 @@ starred_at: "2023-06-02T05:57:23Z"
 tags:
   - coding
   - editor
-  - desktop
+  - cpp
   - cross-platform
-  - windows
-  - linux
 ---
 
 # dail8859/NotepadNext

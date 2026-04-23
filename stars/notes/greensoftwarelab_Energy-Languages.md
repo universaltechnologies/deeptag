@@ -9,9 +9,7 @@ starred_at: "2025-05-19T14:46:38Z"
 tags:
   - coding
   - benchmark
-  - performance
-  - compiler
-  - automation
+  - tool
 ---
 
 # greensoftwarelab/Energy-Languages

@@ -8,8 +8,8 @@ topics: [awesome, awesome-list, docker-compose]
 starred_at: "2021-05-25T03:23:56Z"
 tags:
   - coding
-  - awesome
   - docker
+  - awesome
 ---
 
 # docker/awesome-compose

@@ -7,12 +7,9 @@ stars: 112388
 topics: [android, anydesk, dart, flatpak, flutter, flutter-apps, ios, linux, macos, p2p, rdp, remote-control, remote-desktop, rust, rust-lang, teamviewer, vnc, wayland, windows]
 starred_at: "2021-06-03T02:48:57Z"
 tags:
-  - coding
   - networking
-  - p2p
-  - self-hosted
   - cross-platform
-  - rust
+  - tool
 ---
 
 # rustdesk/rustdesk

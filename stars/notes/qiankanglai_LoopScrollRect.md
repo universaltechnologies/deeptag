@@ -8,10 +8,9 @@ topics: [ugui, unity3d]
 starred_at: "2024-04-29T13:23:54Z"
 tags:
   - coding
-  - ui
+  - engine
   - unity
-  - performance
-  - plugin
+  - library
 ---
 
 # qiankanglai/LoopScrollRect

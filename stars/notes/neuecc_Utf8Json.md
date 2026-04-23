@@ -8,11 +8,10 @@ topics: []
 starred_at: "2021-03-29T09:15:45Z"
 tags:
   - coding
-  - performance
-  - csharp
   - serialization
+  - performance
   - dotnet
-  - json
+  - library
 ---
 
 # neuecc/Utf8Json

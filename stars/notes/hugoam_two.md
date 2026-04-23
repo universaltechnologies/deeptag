@@ -8,11 +8,11 @@ topics: [gamedev, reflection, rendering, ui]
 starred_at: "2022-10-07T15:11:22Z"
 tags:
   - coding
-  - reflection
+  - graphic
   - rendering
   - ui
-  - cpp
-  - header-only
+  - reflection
+  - library
 ---
 
 # hugoam/two

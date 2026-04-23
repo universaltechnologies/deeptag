@@ -9,8 +9,7 @@ starred_at: "2023-10-30T06:03:56Z"
 tags:
   - coding
   - android
-  - kernel
-  - cli
+  - tools
 ---
 
 # topjohnwu/Magisk

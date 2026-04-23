@@ -9,10 +9,9 @@ starred_at: "2024-01-12T02:05:13Z"
 tags:
   - coding
   - game
-  - engine
-  - android
-  - desktop
+  - gameplay
   - java
+  - cross-platform
 ---
 
 # Anuken/Mindustry

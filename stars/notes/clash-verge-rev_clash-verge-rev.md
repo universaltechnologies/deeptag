@@ -7,13 +7,9 @@ stars: 111942
 topics: [clash, clash-meta, clash-verge, linux, mac, mihomo, tauri-app, windows]
 starred_at: "2026-04-07T15:29:22Z"
 tags:
-  - coding
-  - network
+  - tools
+  - networking
   - proxy
-  - gui
-  - windows
-  - linux
-  - desktop
   - cross-platform
 ---
 

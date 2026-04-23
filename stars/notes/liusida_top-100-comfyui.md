@@ -9,8 +9,7 @@ starred_at: "2024-05-31T02:51:04Z"
 tags:
   - coding
   - ai
-  - automation
-  - workflow
+  - diffusion
   - awesome
 ---
 

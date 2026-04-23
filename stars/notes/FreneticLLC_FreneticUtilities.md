@@ -9,9 +9,7 @@ starred_at: "2024-03-19T03:32:56Z"
 tags:
   - coding
   - library
-  - csharp
-  - parser
-  - compression
+  - dotnet
 ---
 
 # FreneticLLC/FreneticUtilities

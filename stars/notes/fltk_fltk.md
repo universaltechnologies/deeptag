@@ -9,11 +9,8 @@ starred_at: "2022-10-07T15:25:40Z"
 tags:
   - coding
   - gui
-  - framework
   - library
   - cross-platform
-  - opengl
-  - cpp
 ---
 
 # fltk/fltk

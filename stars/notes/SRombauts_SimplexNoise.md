@@ -9,9 +9,9 @@ starred_at: "2025-09-08T07:43:59Z"
 tags:
   - coding
   - algorithm
-  - math
+  - library
   - header-only
-  - cpp
+  - cross-platform
 ---
 
 # SRombauts/SimplexNoise

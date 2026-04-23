@@ -8,9 +8,9 @@ topics: []
 starred_at: "2019-11-04T06:47:32Z"
 tags:
   - coding
-  - library
   - algorithm
-  - performance
+  - lua
+  - library
 ---
 
 # Tieske/timerwheel.lua

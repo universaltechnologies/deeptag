@@ -8,10 +8,10 @@ topics: [animation, design, directx, directx-11, imgui, motion-design, realtime,
 starred_at: "2023-02-23T17:13:28Z"
 tags:
   - graphic
-  - directx
-  - shader
   - animation
-  - ui
+  - vfx
+  - platform
+  - tool
 ---
 
 # tixl3d/tixl

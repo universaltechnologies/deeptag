@@ -9,9 +9,9 @@ starred_at: "2017-12-06T09:06:56Z"
 tags:
   - coding
   - web
-  - markdown
   - editor
-  - javascript
+  - markdown
+  - tool
 ---
 
 # benweet/stackedit

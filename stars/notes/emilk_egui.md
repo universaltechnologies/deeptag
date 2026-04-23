@@ -8,10 +8,10 @@ topics: [egui, game-development, gamedev, gui, imgui, rust, wasm]
 starred_at: "2023-01-10T03:05:47Z"
 tags:
   - coding
-  - ui
   - gui
   - library
-  - web
+  - cross-platform
+  - webassembly
 ---
 
 # emilk/egui

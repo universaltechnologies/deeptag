@@ -9,8 +9,6 @@ starred_at: "2018-01-18T09:29:28Z"
 tags:
   - coding
   - web
-  - frontend
-  - misc
 ---
 
 # rasmusbarr/rasmusbarr.github.io

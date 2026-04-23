@@ -9,9 +9,10 @@ starred_at: "2026-04-17T21:46:28Z"
 tags:
   - coding
   - ai
+  - llm
   - mobile
   - desktop
-  - cross-platform
+  - tool
 ---
 
 # BasedHardware/omi

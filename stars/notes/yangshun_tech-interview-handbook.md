@@ -9,9 +9,8 @@ starred_at: "2021-09-17T12:39:25Z"
 tags:
   - coding
   - algorithm
-  - practice
   - awesome
-  - misc
+  - practice
 ---
 
 # yangshun/tech-interview-handbook

@@ -8,11 +8,9 @@ topics: []
 starred_at: "2026-03-24T06:46:58Z"
 tags:
   - coding
+  - ai
   - automation
-  - workflow
   - plugin
-  - typescript
-  - misc
 ---
 
 # jshchnz/claude-code-scheduler

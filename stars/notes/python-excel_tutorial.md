@@ -7,10 +7,9 @@ stars: 311
 topics: []
 starred_at: "2018-12-01T07:58:20Z"
 tags:
-  - tools
   - tutorial
-  - office
-  - python
+  - coding
+  - data
 ---
 
 # python-excel/tutorial

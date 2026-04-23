@@ -8,9 +8,11 @@ topics: [compiler, cs2lua, csharp, csharp-to-lua, csharp2lua, lua, lua-compiler]
 starred_at: "2024-10-14T13:10:37Z"
 tags:
   - coding
+  - language
   - compiler
-  - runtime
   - dotnet
+  - cross-platform
+  - tool
 ---
 
 # yanghuan/CSharp.lua

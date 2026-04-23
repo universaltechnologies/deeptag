@@ -8,10 +8,9 @@ topics: [datavisualization, flowmap]
 starred_at: "2024-11-15T05:44:27Z"
 tags:
   - graphic
-  - webgl
   - visualization
-  - coding
-  - typescript
+  - webgl
+  - library
 ---
 
 # visgl/flowmap.gl

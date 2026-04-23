@@ -7,11 +7,10 @@ stars: 78517
 topics: [dart, file-sharing, flutter, flutter-apps]
 starred_at: "2023-08-10T12:32:59Z"
 tags:
-  - tools
-  - network
-  - cross-platform
+  - coding
   - networking
-  - p2p
+  - tool
+  - cross-platform
 ---
 
 # localsend/localsend

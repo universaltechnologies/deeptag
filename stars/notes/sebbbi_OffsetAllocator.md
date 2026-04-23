@@ -8,9 +8,9 @@ topics: []
 starred_at: "2025-04-23T07:17:17Z"
 tags:
   - coding
-  - algorithm
+  - cpp
   - performance
-  - memory
+  - library
 ---
 
 # sebbbi/OffsetAllocator

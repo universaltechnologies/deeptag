@@ -8,11 +8,10 @@ topics: [audio, c, ffmpeg, mplayer, mpv, multimedia, video]
 starred_at: "2025-10-13T09:07:05Z"
 tags:
   - coding
+  - media
   - video
   - audio
-  - rendering
-  - cross-platform
-  - cli
+  - tool
 ---
 
 # mpv-player/mpv

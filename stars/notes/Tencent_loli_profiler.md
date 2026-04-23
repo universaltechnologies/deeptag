@@ -9,11 +9,10 @@ starred_at: "2022-10-24T02:06:29Z"
 tags:
   - coding
   - profiler
-  - memory
-  - ci
   - ai
+  - mcp
   - android
-  - cpp
+  - tool
 ---
 
 # Tencent/loli_profiler

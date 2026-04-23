@@ -8,9 +8,11 @@ topics: []
 starred_at: "2024-12-12T16:53:30Z"
 tags:
   - coding
-  - cpp
   - algorithm
-  - stl
+  - geometry
+  - cpp
+  - header-only
+  - library
 ---
 
 # crvs/KDTree

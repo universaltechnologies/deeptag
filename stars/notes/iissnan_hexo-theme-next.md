@@ -9,9 +9,7 @@ starred_at: "2018-02-02T17:41:45Z"
 tags:
   - coding
   - web
-  - frontend
   - ui
-  - css
 ---
 
 # iissnan/hexo-theme-next

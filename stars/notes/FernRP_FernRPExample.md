@@ -8,11 +8,13 @@ topics: [ai, shader, stable-diffusion, stablediffusion, unity]
 starred_at: "2023-06-27T09:32:45Z"
 tags:
   - graphic
+  - rendering
   - shader
-  - pbr
   - toon
-  - urp
+  - coding
+  - engine
   - unity
+  - framework
 ---
 
 # FernRP/FernRPExample

@@ -10,7 +10,6 @@ tags:
   - coding
   - dotnet
   - performance
-  - concurrency
   - library
 ---
 

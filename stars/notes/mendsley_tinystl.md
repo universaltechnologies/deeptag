@@ -10,9 +10,8 @@ tags:
   - coding
   - cpp
   - stl
-  - header-only
   - library
-  - algorithm
+  - header-only
 ---
 
 # mendsley/tinystl

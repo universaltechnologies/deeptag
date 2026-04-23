@@ -9,8 +9,9 @@ starred_at: "2026-03-31T02:34:50Z"
 tags:
   - coding
   - ai
-  - automation
-  - workflow
+  - mcp
+  - plugin
+  - tool
 ---
 
 # blader/Claudeception

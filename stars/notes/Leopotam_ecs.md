@@ -9,9 +9,10 @@ starred_at: "2024-09-19T07:40:03Z"
 tags:
   - coding
   - engine
+  - gameplay
   - ecs
+  - framework
   - performance
-  - csharp
 ---
 
 # Leopotam/ecs

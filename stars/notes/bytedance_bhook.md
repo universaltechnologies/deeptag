@@ -10,8 +10,7 @@ tags:
   - coding
   - android
   - hook
-  - c
-  - performance
+  - library
 ---
 
 # bytedance/bhook

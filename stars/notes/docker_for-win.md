@@ -7,9 +7,8 @@ stars: 1945
 topics: []
 starred_at: "2021-05-25T03:22:26Z"
 tags:
+  - coding
   - tools
-  - docker
-  - windows
 ---
 
 # docker/for-win

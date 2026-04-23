@@ -8,9 +8,9 @@ topics: [api, codegen, jit, llvm, rust, safe, wrapper, wrapper-api]
 starred_at: "2023-03-06T18:12:25Z"
 tags:
   - coding
+  - language
   - compiler
-  - jit
-  - rust
+  - library
 ---
 
 # TheDan64/inkwell

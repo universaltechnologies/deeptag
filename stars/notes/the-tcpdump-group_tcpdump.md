@@ -10,9 +10,7 @@ tags:
   - coding
   - networking
   - security
-  - cli
-  - linux
-  - tools
+  - tool
 ---
 
 # the-tcpdump-group/tcpdump

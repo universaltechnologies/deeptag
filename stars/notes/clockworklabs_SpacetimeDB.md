@@ -8,10 +8,11 @@ topics: [database, dataoriented, game-development, mmorpg-server, relational, re
 starred_at: "2023-10-24T03:52:54Z"
 tags:
   - coding
-  - database
-  - rust
+  - systems
+  - data
   - networking
-  - distributed
+  - database
+  - library
 ---
 
 # clockworklabs/SpacetimeDB

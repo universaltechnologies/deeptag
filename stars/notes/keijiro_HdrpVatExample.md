@@ -8,10 +8,11 @@ topics: [houdini, unity, unity3d, vat, vfx, vfxgraph]
 starred_at: "2024-01-18T14:10:08Z"
 tags:
   - graphic
-  - shader
   - vfx
-  - texture
-  - animation
+  - shader
+  - coding
+  - engine
+  - unity
 ---
 
 # keijiro/HdrpVatExample

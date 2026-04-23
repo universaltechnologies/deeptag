@@ -7,9 +7,10 @@ stars: 46
 topics: []
 starred_at: "2024-09-19T07:38:53Z"
 tags:
-  - coding
   - tools
-  - cli
+  - windows
+  - automation
+  - go
 ---
 
 # 821869798/excel_merge

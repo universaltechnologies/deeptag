@@ -8,9 +8,9 @@ topics: [addressable, addressables, library, unity, upm-package]
 starred_at: "2023-03-13T02:46:43Z"
 tags:
   - coding
-  - unity
   - engine
-  - async
+  - unity
+  - library
 ---
 
 # dre0dru/AssetManagement

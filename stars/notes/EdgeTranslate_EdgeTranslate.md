@@ -9,6 +9,7 @@ starred_at: "2023-01-07T06:42:09Z"
 tags:
   - tools
   - web
+  - plugin
 ---
 
 # EdgeTranslate/EdgeTranslate

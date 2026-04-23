@@ -7,11 +7,11 @@ stars: 6646
 topics: []
 starred_at: "2019-02-11T05:32:46Z"
 tags:
-  - coding
   - tools
   - windows
+  - shell
   - cli
-  - automation
+  - tool
 ---
 
 # bmatzelle/gow

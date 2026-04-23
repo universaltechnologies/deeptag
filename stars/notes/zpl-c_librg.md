@@ -9,10 +9,10 @@ starred_at: "2023-01-31T09:24:36Z"
 tags:
   - coding
   - networking
-  - middleware
-  - header-only
-  - library
   - game
+  - library
+  - header-only
+  - cross-platform
 ---
 
 # zpl-c/librg

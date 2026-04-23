@@ -8,9 +8,11 @@ topics: []
 starred_at: "2022-02-18T10:29:25Z"
 tags:
   - coding
+  - systems
   - filesystem
   - python
-  - tools
+  - library
+  - tool
 ---
 
 # gorakhargosh/watchdog

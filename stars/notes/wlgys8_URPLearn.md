@@ -7,14 +7,12 @@ stars: 363
 topics: []
 starred_at: "2022-06-13T16:25:15Z"
 tags:
-  - graphic
-  - urp
+  - coding
+  - engine
   - unity
-  - rendering
-  - bloom
-  - ssao
-  - water
+  - graphic
   - post-processing
+  - tutorial
 ---
 
 # wlgys8/URPLearn

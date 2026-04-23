@@ -10,8 +10,9 @@ tags:
   - coding
   - ai
   - agent
+  - mcp
   - desktop
-  - productivity
+  - framework
 ---
 
 # eigent-ai/eigent

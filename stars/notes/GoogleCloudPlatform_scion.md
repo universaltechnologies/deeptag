@@ -10,8 +10,7 @@ tags:
   - coding
   - ai
   - agent
-  - docker
-  - workflow
+  - tool
 ---
 
 # GoogleCloudPlatform/scion

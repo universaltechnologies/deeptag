@@ -8,10 +8,10 @@ topics: []
 starred_at: "2025-12-29T04:19:36Z"
 tags:
   - coding
-  - library
   - algorithm
-  - test
+  - library
   - c
+  - cross-platform
 ---
 
 # umontreal-simul/TestU01-2009

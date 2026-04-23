@@ -7,10 +7,11 @@ stars: 4
 topics: []
 starred_at: "2025-11-14T09:05:35Z"
 tags:
+  - tools
   - coding
-  - font
+  - language
   - python
-  - serialization
+  - library
 ---
 
 # fontra/fontra-glyphs

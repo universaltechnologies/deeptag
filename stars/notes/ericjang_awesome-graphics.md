@@ -7,16 +7,9 @@ stars: 1106
 topics: []
 starred_at: "2023-11-06T18:15:57Z"
 tags:
-  - awesome
   - graphic
-  - pbr
-  - ray-tracing
-  - path-tracing
-  - rendering
-  - shader
-  - simulation
-  - mesh
-  - vr
+  - awesome
+  - tutorial
 ---
 
 # ericjang/awesome-graphics

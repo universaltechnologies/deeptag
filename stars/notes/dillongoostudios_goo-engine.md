@@ -8,7 +8,8 @@ topics: []
 starred_at: "2023-03-17T21:39:02Z"
 tags:
   - graphic
-  - rendering
+  - scene
+  - vfx
   - cpp
 ---
 

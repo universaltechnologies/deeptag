@@ -8,11 +8,10 @@ topics: [bittorrent, electron, hacktoberfest, javascript, linux, macos, nodejs, 
 starred_at: "2022-11-23T16:03:21Z"
 tags:
   - coding
+  - networking
   - p2p
-  - video
-  - electron
   - desktop
-  - cross-platform
+  - electron
 ---
 
 # webtorrent/webtorrent-desktop

@@ -8,10 +8,9 @@ topics: [ai, ai-agents, amp, anthropic, chatgpt, claude, claude-code, claude-ski
 starred_at: "2026-01-09T11:30:56Z"
 tags:
   - coding
-  - agent
   - ai
-  - cli
-  - automation
+  - agent
+  - tool
 ---
 
 # code-yeongyu/oh-my-openagent

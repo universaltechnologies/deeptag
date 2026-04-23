@@ -8,10 +8,11 @@ topics: [baked-global-illumination, birp, hdrp, lighting, progressive-lightmappe
 starred_at: "2022-12-09T14:36:17Z"
 tags:
   - graphic
-  - rendering
-  - pbr
+  - scene
+  - lighting
   - gi
   - unity
+  - practice
 ---
 
 # Unity-Technologies/Classic-Sponza

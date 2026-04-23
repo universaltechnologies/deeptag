@@ -8,10 +8,11 @@ topics: [actions, activate, build, ci, deploy, github, hacktoberfest, test, unit
 starred_at: "2025-09-18T06:27:01Z"
 tags:
   - coding
+  - engine
   - unity
+  - git
   - ci
-  - automation
-  - build
+  - tool
 ---
 
 # game-ci/unity-actions

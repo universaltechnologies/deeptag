@@ -8,9 +8,10 @@ topics: [c-plus-plus, computer-vision, deep-learning, image-processing, opencv]
 starred_at: "2018-03-15T02:48:43Z"
 tags:
   - coding
+  - ai
   - cv
+  - media
   - image-processing
-  - deep-learning
   - library
 ---
 

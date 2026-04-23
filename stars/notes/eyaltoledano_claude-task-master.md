@@ -9,9 +9,7 @@ starred_at: "2026-04-06T09:22:24Z"
 tags:
   - coding
   - ai
-  - workflow
-  - automation
-  - misc
+  - tool
 ---
 
 # eyaltoledano/claude-task-master

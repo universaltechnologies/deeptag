@@ -9,7 +9,7 @@ starred_at: "2023-12-18T03:45:59Z"
 tags:
   - coding
   - cpp
-  - misc
+  - tutorial
 ---
 
 # wanghenshui/cppweeklynews

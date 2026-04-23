@@ -7,9 +7,9 @@ stars: 25284
 topics: [keyboard, keyboard-emulation, mouse, mouse-emulation, network]
 starred_at: "2025-12-21T13:13:46Z"
 tags:
-  - coding
+  - tool
+  - network
   - input
-  - networking
   - cpp
   - cross-platform
 ---

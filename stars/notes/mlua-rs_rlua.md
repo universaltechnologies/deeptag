@@ -9,8 +9,10 @@ starred_at: "2023-09-27T03:59:44Z"
 tags:
   - coding
   - rust
-  - binding
   - lua
+  - ffi
+  - binding
+  - library
 ---
 
 # mlua-rs/rlua

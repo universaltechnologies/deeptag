@@ -8,12 +8,10 @@ topics: [3d-graphics, android, gltf, gltf-viewer, graphics, metal, opengl, openg
 starred_at: "2019-10-09T14:22:09Z"
 tags:
   - graphic
-  - pbr
   - rendering
-  - vulkan
-  - opengl
-  - metal
-  - webgpu
+  - pbr
+  - gltf
+  - cross-platform
   - engine
 ---
 

@@ -10,6 +10,7 @@ tags:
   - coding
   - reverse
   - dotnet
+  - tool
 ---
 
 # de4dot/de4dot

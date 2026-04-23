@@ -8,10 +8,10 @@ topics: []
 starred_at: "2023-03-17T22:05:57Z"
 tags:
   - coding
-  - engine
   - game
-  - c
-  - cpp
+  - engine
+  - platform
+  - practice
 ---
 
 # id-Software/DOOM

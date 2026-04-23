@@ -8,10 +8,9 @@ topics: []
 starred_at: "2018-05-28T07:33:51Z"
 tags:
   - coding
-  - editor
+  - ide
+  - csharp
   - plugin
-  - windows
-  - misc
 ---
 
 # mmanela/SnippetDesigner

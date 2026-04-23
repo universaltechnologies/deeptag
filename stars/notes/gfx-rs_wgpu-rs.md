@@ -8,12 +8,9 @@ topics: [rust, webgpu, wrapper]
 starred_at: "2023-03-29T12:13:06Z"
 tags:
   - coding
-  - webgpu
-  - vulkan
-  - metal
-  - directx
-  - binding
   - rust
+  - webgpu
+  - library
 ---
 
 # gfx-rs/wgpu-rs

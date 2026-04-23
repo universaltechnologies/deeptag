@@ -9,9 +9,8 @@ starred_at: "2023-12-15T09:08:01Z"
 tags:
   - coding
   - reverse
+  - tool
   - security
-  - cli
-  - editor
 ---
 
 # agentbillwh/unilic

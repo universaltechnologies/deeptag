@@ -8,11 +8,8 @@ topics: [browser, gtk, ios, javascript, macos, web, webkit]
 starred_at: "2024-10-25T13:09:16Z"
 tags:
   - coding
-  - browser
   - web
-  - engine
-  - cpp
-  - javascript
+  - platform
 ---
 
 # WebKit/WebKit

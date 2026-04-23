@@ -7,9 +7,8 @@ stars: 2
 topics: []
 starred_at: "2018-03-24T02:31:46Z"
 tags:
-  - graphic
-  - opengl
-  - automation
+  - coding
+  - tool
 ---
 
 # codepilot/makeGLextDefines

@@ -10,10 +10,7 @@ tags:
   - coding
   - ai
   - diffusion
-  - image
-  - image-processing
-  - video
-  - misc
+  - tutorial
 ---
 
 # ZHO-ZHO-ZHO/ZHO-nano-banana-Creation

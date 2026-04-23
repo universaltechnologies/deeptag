@@ -11,6 +11,7 @@ tags:
   - windows
   - hook
   - cpp
+  - tool
 ---
 
 # ramensoftware/windhawk

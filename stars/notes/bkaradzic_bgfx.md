@@ -9,11 +9,8 @@ starred_at: "2021-11-14T15:47:27Z"
 tags:
   - graphic
   - rendering
-  - rhi
   - cross-platform
   - library
-  - vulkan
-  - opengl
 ---
 
 # bkaradzic/bgfx

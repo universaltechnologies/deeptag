@@ -8,13 +8,14 @@ topics: [graphics-programming, rendering, rendering-3d-graphics, shader-programm
 starred_at: "2024-01-08T06:05:59Z"
 tags:
   - graphic
-  - compute-shader
+  - rendering
+  - lighting
+  - shader
   - voxel
-  - ray-tracing
-  - gi
-  - volume
+  - coding
+  - engine
   - unity
-  - csharp
+  - library
 ---
 
 # frostbone25/Unity-Voxel-Tracer

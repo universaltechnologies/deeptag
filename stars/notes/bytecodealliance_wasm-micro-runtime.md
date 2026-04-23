@@ -8,11 +8,10 @@ topics: [aot, assembly-script, embedded, interpreter, iot, jit, pthread, runtime
 starred_at: "2023-04-19T03:04:05Z"
 tags:
   - coding
+  - systems
   - runtime
-  - webassembly
-  - compiler
-  - jit
-  - embedded
+  - library
+  - cross-platform
 ---
 
 # bytecodealliance/wasm-micro-runtime

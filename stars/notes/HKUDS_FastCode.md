@@ -10,6 +10,8 @@ tags:
   - coding
   - ai
   - llm
+  - mcp
+  - tool
   - performance
 ---
 

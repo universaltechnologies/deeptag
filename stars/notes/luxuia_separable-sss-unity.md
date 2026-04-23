@@ -8,8 +8,8 @@ topics: [skinning, subsurface-scattering, unity]
 starred_at: "2025-12-05T11:08:46Z"
 tags:
   - graphic
-  - shader
-  - rendering
+  - post-processing
+  - engine
   - unity
 ---
 

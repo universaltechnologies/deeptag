@@ -8,7 +8,9 @@ topics: [moonray]
 starred_at: "2023-03-16T16:25:54Z"
 tags:
   - graphic
+  - rendering
   - path-tracing
+  - library
 ---
 
 # dreamworksanimation/openmoonray

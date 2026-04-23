@@ -11,7 +11,7 @@ tags:
   - web
   - ui
   - ai
-  - llm
+  - tool
 ---
 
 # siteboon/claudecodeui

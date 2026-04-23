@@ -10,9 +10,8 @@ tags:
   - coding
   - git
   - c
-  - shell
-  - linux
-  - automation
+  - tool
+  - cli
 ---
 
 # git/git

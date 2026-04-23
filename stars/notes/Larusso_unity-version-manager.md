@@ -7,11 +7,11 @@ stars: 42
 topics: [cli, unity, version-manager]
 starred_at: "2021-12-23T15:32:48Z"
 tags:
-  - tools
-  - unity
+  - coding
   - engine
+  - unity
+  - tool
   - cli
-  - rust
 ---
 
 # Larusso/unity-version-manager

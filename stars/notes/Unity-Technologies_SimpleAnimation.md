@@ -10,7 +10,7 @@ tags:
   - coding
   - engine
   - unity
-  - csharp
+  - animation
 ---
 
 # Unity-Technologies/SimpleAnimation

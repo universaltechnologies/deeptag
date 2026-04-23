@@ -8,11 +8,9 @@ topics: []
 starred_at: "2024-04-02T08:15:18Z"
 tags:
   - coding
+  - dotnet
   - benchmark
   - performance
-  - dotnet
-  - runtime
-  - misc
 ---
 
 # dotnet/performance

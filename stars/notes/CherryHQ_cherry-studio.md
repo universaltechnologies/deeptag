@@ -11,8 +11,7 @@ tags:
   - ai
   - llm
   - agent
-  - desktop
-  - electron
+  - tool
 ---
 
 # CherryHQ/cherry-studio

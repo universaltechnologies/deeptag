@@ -10,7 +10,7 @@ tags:
   - coding
   - cli
   - performance
-  - tools
+  - tool
 ---
 
 # wfxr/code-minimap

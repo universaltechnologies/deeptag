@@ -9,9 +9,10 @@ starred_at: "2025-06-11T03:53:13Z"
 tags:
   - coding
   - ai
-  - ui
-  - frontend
+  - llm
   - web
+  - ui
+  - tool
 ---
 
 # wandb/openui

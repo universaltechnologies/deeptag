@@ -8,8 +8,9 @@ topics: [coding-font, font, ligatures, monospace, monospace-font, opentype, prog
 starred_at: "2025-03-19T03:39:10Z"
 tags:
   - coding
+  - media
   - font
-  - tools
+  - tool
 ---
 
 # subframe7536/maple-font

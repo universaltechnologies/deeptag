@@ -7,9 +7,10 @@ stars: 12233
 topics: [autohotkey, automation, c-plus-plus, hotkeys, scripting, scripting-language, windows]
 starred_at: "2023-02-14T04:48:33Z"
 tags:
-  - coding
+  - tools
   - automation
   - windows
+  - cpp
 ---
 
 # AutoHotkey/AutoHotkey

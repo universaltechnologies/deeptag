@@ -8,10 +8,10 @@ topics: []
 starred_at: "2022-04-09T06:12:01Z"
 tags:
   - coding
+  - language
   - compiler
   - c
-  - tutorial
-  - self-hosted
+  - book
 ---
 
 # rui314/chibicc

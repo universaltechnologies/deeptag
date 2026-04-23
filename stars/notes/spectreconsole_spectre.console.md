@@ -10,8 +10,8 @@ tags:
   - coding
   - cli
   - dotnet
-  - ui
-  - terminal
+  - csharp
+  - library
 ---
 
 # spectreconsole/spectre.console

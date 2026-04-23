@@ -11,7 +11,6 @@ tags:
   - database
   - gui
   - cross-platform
-  - sql
 ---
 
 # fastogt/fastonosql

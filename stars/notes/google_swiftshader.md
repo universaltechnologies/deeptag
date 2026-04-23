@@ -8,10 +8,10 @@ topics: []
 starred_at: "2023-02-14T02:11:45Z"
 tags:
   - graphic
+  - platform
   - vulkan
   - rasterization
-  - cpp
-  - optimization
+  - library
   - performance
 ---
 

@@ -7,8 +7,7 @@ stars: 16900
 topics: [autojump, command-line-tool, filesystem, python]
 starred_at: "2022-02-18T12:34:17Z"
 tags:
-  - coding
-  - cli
+  - tool
   - filesystem
   - shell
 ---

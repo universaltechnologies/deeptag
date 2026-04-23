@@ -8,9 +8,10 @@ topics: []
 starred_at: "2024-12-06T06:47:27Z"
 tags:
   - coding
-  - awesome
   - algorithm
   - visualization
+  - awesome
+  - practice
 ---
 
 # enjalot/algovis

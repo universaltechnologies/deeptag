@@ -8,8 +8,7 @@ topics: []
 starred_at: "2020-10-09T07:09:28Z"
 tags:
   - coding
-  - parser
-  - csharp
+  - library
 ---
 
 # alexeveritt/CSharpPathResolver

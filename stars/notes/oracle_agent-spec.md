@@ -10,9 +10,7 @@ tags:
   - coding
   - ai
   - agent
-  - llm
-  - python
-  - serialization
+  - spec
 ---
 
 # oracle/agent-spec

@@ -8,11 +8,11 @@ topics: [c-plus-plus, gpu-svo-builder, path-tracer, svo, vulkan]
 starred_at: "2022-11-11T15:57:11Z"
 tags:
   - graphic
-  - vulkan
-  - voxel
-  - ray-tracing
-  - path-tracing
   - rendering
+  - ray-tracing
+  - rasterization
+  - platform
+  - vulkan
 ---
 
 # AdamYuan/SparseVoxelOctree

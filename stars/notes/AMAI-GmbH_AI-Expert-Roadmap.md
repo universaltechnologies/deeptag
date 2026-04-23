@@ -9,8 +9,6 @@ starred_at: "2022-04-15T02:32:15Z"
 tags:
   - coding
   - ai
-  - ml
-  - deep-learning
 ---
 
 # AMAI-GmbH/AI-Expert-Roadmap

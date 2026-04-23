@@ -10,8 +10,8 @@ tags:
   - coding
   - ai
   - agent
-  - llm
-  - automation
+  - mcp
+  - library
 ---
 
 # anthropics/skills

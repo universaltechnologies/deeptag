@@ -7,12 +7,12 @@ stars: 22595
 topics: [bigquery, cassandra, cockroachdb, database, electron, firebird, linux-app, mac-app, mariadb, mssql, mysql, postgresql, sql, sql-server, sqlite, windows-app]
 starred_at: "2025-11-07T23:58:58Z"
 tags:
+  - tools
   - coding
+  - data
   - sql
-  - ui
-  - database
-  - electron
-  - desktop
+  - cross-platform
+  - tool
 ---
 
 # beekeeper-studio/beekeeper-studio

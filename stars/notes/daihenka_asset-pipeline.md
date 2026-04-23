@@ -10,9 +10,8 @@ tags:
   - coding
   - engine
   - unity
-  - automation
-  - workflow
   - plugin
+  - tool
 ---
 
 # daihenka/asset-pipeline

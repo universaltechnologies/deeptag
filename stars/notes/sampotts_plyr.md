@@ -8,11 +8,10 @@ topics: [html5-video, javascript, plyr, vimeo, youtube]
 starred_at: "2025-10-13T10:32:36Z"
 tags:
   - coding
-  - video
-  - ui
-  - frontend
   - web
-  - api
+  - media
+  - video
+  - library
 ---
 
 # sampotts/plyr

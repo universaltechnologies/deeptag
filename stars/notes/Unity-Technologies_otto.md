@@ -8,9 +8,10 @@ topics: [ai, planner, unity, unity3d]
 starred_at: "2019-09-06T07:12:21Z"
 tags:
   - coding
-  - ai
   - engine
   - unity
+  - ai
+  - tutorial
 ---
 
 # Unity-Technologies/otto

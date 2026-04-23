@@ -8,10 +8,11 @@ topics: []
 starred_at: "2023-08-03T03:13:16Z"
 tags:
   - coding
-  - image
   - ai
-  - deep-learning
+  - cv
   - diffusion
+  - media
+  - image-processing
 ---
 
 # sail-sg/EditAnything

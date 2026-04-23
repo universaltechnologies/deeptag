@@ -8,10 +8,8 @@ topics: [collision-avoidance, cpp, motion-planning, robotics, velocity-obstacles
 starred_at: "2023-11-10T04:19:41Z"
 tags:
   - coding
-  - cpp
-  - algorithm
-  - library
   - robotics
+  - library
 ---
 
 # snape/RVO2

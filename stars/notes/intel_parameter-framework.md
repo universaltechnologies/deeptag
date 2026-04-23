@@ -8,11 +8,9 @@ topics: []
 starred_at: "2016-02-02T14:11:49Z"
 tags:
   - coding
-  - framework
+  - systems
   - plugin
-  - xml
-  - embedded
-  - c
+  - framework
 ---
 
 # intel/parameter-framework

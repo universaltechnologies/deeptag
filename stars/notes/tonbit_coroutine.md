@@ -9,9 +9,8 @@ starred_at: "2018-03-06T03:06:43Z"
 tags:
   - coding
   - cpp
-  - async
-  - concurrency
   - header-only
+  - library
   - cross-platform
 ---
 

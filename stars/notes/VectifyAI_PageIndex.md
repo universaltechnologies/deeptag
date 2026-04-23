@@ -9,10 +9,9 @@ starred_at: "2026-01-21T13:59:23Z"
 tags:
   - coding
   - ai
+  - llm
   - rag
-  - agent
-  - inference
-  - database
+  - tool
 ---
 
 # VectifyAI/PageIndex

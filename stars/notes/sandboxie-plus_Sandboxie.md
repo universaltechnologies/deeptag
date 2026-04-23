@@ -10,8 +10,7 @@ tags:
   - tools
   - security
   - windows
-  - kernel
-  - driver
+  - c
 ---
 
 # sandboxie-plus/Sandboxie

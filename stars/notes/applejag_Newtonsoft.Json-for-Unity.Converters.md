@@ -8,9 +8,11 @@ topics: [hacktoberfest, newtonsoft-json, unity-package-manager, unity3d, unity3d
 starred_at: "2024-03-25T05:30:24Z"
 tags:
   - coding
-  - serialization
+  - engine
   - unity
-  - plugin
+  - data
+  - serialization
+  - library
 ---
 
 # applejag/Newtonsoft.Json-for-Unity.Converters

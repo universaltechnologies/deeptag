@@ -8,10 +8,9 @@ topics: [spriteatlas, textmeshpro, unity, unity3d]
 starred_at: "2025-01-06T06:56:15Z"
 tags:
   - coding
+  - engine
   - unity
-  - image
-  - editor
-  - misc
+  - plugin
 ---
 
 # codewriter-packages/textmeshpro-spriteatlas-support

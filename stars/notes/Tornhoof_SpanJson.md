@@ -11,7 +11,7 @@ tags:
   - dotnet
   - serialization
   - performance
-  - json
+  - library
 ---
 
 # Tornhoof/SpanJson

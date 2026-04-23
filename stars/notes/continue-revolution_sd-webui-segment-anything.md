@@ -8,9 +8,9 @@ topics: [segment-anything, stable-diffusion, stable-diffusion-webui, stable-diff
 starred_at: "2023-06-28T10:07:22Z"
 tags:
   - coding
+  - ai
   - cv
-  - image-processing
-  - automation
+  - plugin
 ---
 
 # continue-revolution/sd-webui-segment-anything

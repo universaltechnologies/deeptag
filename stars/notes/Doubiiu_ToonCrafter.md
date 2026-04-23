@@ -9,10 +9,8 @@ starred_at: "2026-01-24T10:15:08Z"
 tags:
   - coding
   - ai
-  - inference
   - diffusion
-  - video
-  - image-processing
+  - cv
 ---
 
 # Doubiiu/ToonCrafter

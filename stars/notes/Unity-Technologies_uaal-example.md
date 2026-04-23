@@ -10,8 +10,8 @@ tags:
   - coding
   - engine
   - unity
-  - android
-  - ios
+  - mobile
+  - plugin
 ---
 
 # Unity-Technologies/uaal-example

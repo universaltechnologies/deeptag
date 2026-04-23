@@ -7,12 +7,9 @@ stars: 4789
 topics: [cursor, cursor-pro]
 starred_at: "2026-01-08T11:22:07Z"
 tags:
-  - coding
-  - misc
+  - tools
+  - ide
   - automation
-  - cli
-  - windows
-  - linux
 ---
 
 # kingparks/cursor-vip

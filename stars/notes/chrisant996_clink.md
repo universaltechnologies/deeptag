@@ -10,9 +10,8 @@ tags:
   - coding
   - windows
   - terminal
-  - shell
   - lua
-  - hook
+  - tool
 ---
 
 # chrisant996/clink

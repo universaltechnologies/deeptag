@@ -8,11 +8,9 @@ topics: []
 starred_at: "2017-04-15T06:30:20Z"
 tags:
   - coding
-  - json
   - parser
+  - json
   - tutorial
-  - c
-  - algorithm
 ---
 
 # miloyip/json-tutorial

@@ -8,9 +8,9 @@ topics: [ugui, unity, unity-editor, unity3d-plugin]
 starred_at: "2024-04-29T13:24:40Z"
 tags:
   - coding
-  - editor
+  - engine
   - unity
-  - gui
+  - plugin
 ---
 
 # liuhaopen/UGUI-Editor

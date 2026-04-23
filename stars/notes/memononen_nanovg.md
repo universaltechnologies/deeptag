@@ -8,11 +8,9 @@ topics: []
 starred_at: "2015-11-10T17:07:14Z"
 tags:
   - graphic
-  - 2d
-  - opengl
-  - ui
-  - vector
   - rendering
+  - opengl
+  - library
 ---
 
 # memononen/nanovg

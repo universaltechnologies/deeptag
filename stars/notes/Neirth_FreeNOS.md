@@ -8,9 +8,10 @@ topics: []
 starred_at: "2023-09-26T17:59:34Z"
 tags:
   - coding
+  - systems
   - kernel
-  - filesystem
-  - networking
+  - cpp
+  - embedded
 ---
 
 # Neirth/FreeNOS

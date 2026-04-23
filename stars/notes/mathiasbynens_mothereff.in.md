@@ -7,9 +7,11 @@ stars: 1113
 topics: []
 starred_at: "2016-04-02T14:09:00Z"
 tags:
-  - coding
-  - frontend
+  - tools
   - web
+  - frontend
+  - javascript
+  - tool
 ---
 
 # mathiasbynens/mothereff.in

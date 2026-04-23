@@ -7,13 +7,12 @@ stars: 293
 topics: []
 starred_at: "2023-02-17T02:57:29Z"
 tags:
+  - coding
+  - engine
+  - unity
   - graphic
   - post-processing
-  - urp
-  - unity
-  - shader
-  - rendering
-  - optimization
+  - library
 ---
 
 # killop/URP-12-Extension

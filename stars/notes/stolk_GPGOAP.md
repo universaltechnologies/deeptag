@@ -8,11 +8,8 @@ topics: []
 starred_at: "2025-10-22T10:56:42Z"
 tags:
   - coding
-  - ai
-  - algorithm
-  - c
-  - gameplay
-  - simulation
+  - game
+  - library
 ---
 
 # stolk/GPGOAP

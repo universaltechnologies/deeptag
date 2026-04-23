@@ -9,10 +9,9 @@ starred_at: "2021-05-13T18:08:04Z"
 tags:
   - coding
   - web
-  - frontend
   - css
   - parser
-  - compiler
+  - tool
 ---
 
 # less/less.js

@@ -9,8 +9,8 @@ starred_at: "2022-01-05T14:54:56Z"
 tags:
   - coding
   - gui
-  - framework
-  - cpp
+  - library
+  - plugin
   - cross-platform
 ---
 

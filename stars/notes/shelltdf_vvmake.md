@@ -9,7 +9,7 @@ starred_at: "2022-03-31T14:17:27Z"
 tags:
   - coding
   - build
-  - python
+  - tool
 ---
 
 # shelltdf/vvmake

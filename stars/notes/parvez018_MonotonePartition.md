@@ -10,6 +10,8 @@ tags:
   - coding
   - algorithm
   - cpp
+  - geometry
+  - practice
 ---
 
 # parvez018/MonotonePartition

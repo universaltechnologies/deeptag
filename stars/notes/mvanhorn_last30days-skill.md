@@ -11,8 +11,7 @@ tags:
   - ai
   - agent
   - web
-  - api
-  - plugin
+  - tool
 ---
 
 # mvanhorn/last30days-skill

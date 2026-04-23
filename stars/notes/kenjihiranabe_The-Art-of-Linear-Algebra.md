@@ -9,6 +9,7 @@ starred_at: "2024-03-04T03:21:51Z"
 tags:
   - graphic
   - math
+  - book
 ---
 
 # kenjihiranabe/The-Art-of-Linear-Algebra

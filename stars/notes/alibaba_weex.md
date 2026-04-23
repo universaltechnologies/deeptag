@@ -8,11 +8,9 @@ topics: [android, ios, mobile, sdk, web, weex]
 starred_at: "2025-04-17T03:09:11Z"
 tags:
   - coding
-  - framework
-  - cross-platform
   - mobile
-  - ui
-  - android
+  - cross-platform
+  - framework
 ---
 
 # alibaba/weex

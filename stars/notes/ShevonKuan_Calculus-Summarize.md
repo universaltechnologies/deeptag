@@ -7,9 +7,8 @@ stars: 45
 topics: []
 starred_at: "2023-02-07T16:41:26Z"
 tags:
-  - coding
-  - tutorial
-  - misc
+  - tools
+  - office
 ---
 
 # ShevonKuan/Calculus-Summarize

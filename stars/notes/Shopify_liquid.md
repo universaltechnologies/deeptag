@@ -8,10 +8,9 @@ topics: []
 starred_at: "2024-07-08T09:28:55Z"
 tags:
   - coding
-  - language
   - parser
   - web
-  - template
+  - library
 ---
 
 # Shopify/liquid

@@ -10,6 +10,8 @@ tags:
   - coding
   - algorithm
   - performance
+  - library
+  - c
 ---
 
 # g1mv/spookyhash

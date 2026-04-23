@@ -8,11 +8,9 @@ topics: []
 starred_at: "2026-03-03T13:42:31Z"
 tags:
   - coding
-  - agent
   - ai
-  - rag
-  - search
-  - web
+  - agent
+  - tool
 ---
 
 # PromtEngineer/agentic-file-search

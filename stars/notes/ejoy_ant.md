@@ -10,8 +10,7 @@ tags:
   - coding
   - engine
   - lua
-  - editor
-  - shader
+  - framework
 ---
 
 # ejoy/ant

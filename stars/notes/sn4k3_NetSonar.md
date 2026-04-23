@@ -7,10 +7,11 @@ stars: 1418
 topics: []
 starred_at: "2025-12-13T13:07:59Z"
 tags:
+  - coding
+  - networking
   - tools
-  - network
+  - tool
   - cross-platform
-  - dotnet
 ---
 
 # sn4k3/NetSonar

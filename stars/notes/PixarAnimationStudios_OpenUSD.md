@@ -7,11 +7,10 @@ stars: 7217
 topics: []
 starred_at: "2025-05-17T00:39:14Z"
 tags:
-  - graphic
+  - coding
+  - scene
   - library
-  - pipeline
-  - middleware
-  - platform
+  - cross-platform
 ---
 
 # PixarAnimationStudios/OpenUSD

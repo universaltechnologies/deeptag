@@ -7,10 +7,11 @@ stars: 822
 topics: [dear-imgui, imgui, imgui-filebrowser]
 starred_at: "2023-02-23T17:39:53Z"
 tags:
-  - graphic
-  - ui
+  - coding
+  - gui
+  - cpp
   - header-only
-  - editor
+  - library
 ---
 
 # AirGuanZ/imgui-filebrowser

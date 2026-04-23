@@ -8,8 +8,7 @@ topics: []
 starred_at: "2020-02-12T02:54:00Z"
 tags:
   - coding
-  - csharp
-  - shader
+  - vfx
 ---
 
 # AsehesL/ScanEffect

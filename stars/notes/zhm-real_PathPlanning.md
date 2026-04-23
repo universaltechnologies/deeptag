@@ -10,8 +10,8 @@ tags:
   - coding
   - algorithm
   - robotics
-  - simulation
   - visualization
+  - practice
 ---
 
 # zhm-real/PathPlanning

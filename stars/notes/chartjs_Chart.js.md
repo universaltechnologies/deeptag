@@ -9,9 +9,8 @@ starred_at: "2015-12-20T04:08:36Z"
 tags:
   - coding
   - web
-  - frontend
   - visualization
-  - ui
+  - library
 ---
 
 # chartjs/Chart.js

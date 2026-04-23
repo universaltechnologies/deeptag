@@ -10,9 +10,8 @@ tags:
   - graphic
   - texture
   - compression
-  - cli
-  - webgl
-  - tools
+  - tool
+  - nodejs
 ---
 
 # TimvanScherpenzeel/texture-compressor

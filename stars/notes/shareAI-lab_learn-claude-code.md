@@ -10,9 +10,9 @@ tags:
   - coding
   - ai
   - agent
-  - llm
+  - mcp
+  - harness
   - tutorial
-  - typescript
 ---
 
 # shareAI-lab/learn-claude-code

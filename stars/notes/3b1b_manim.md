@@ -7,11 +7,11 @@ stars: 86135
 topics: [3b1b-videos, animation, explanatory-math-videos, python]
 starred_at: "2021-11-10T05:09:35Z"
 tags:
-  - graphic
   - coding
-  - python
+  - media
+  - video
   - animation
-  - math
+  - library
 ---
 
 # 3b1b/manim

@@ -7,10 +7,8 @@ stars: 688
 topics: []
 starred_at: "2024-03-04T03:20:34Z"
 tags:
-  - coding
-  - math
-  - tutorial
   - book
+  - math
 ---
 
 # yhwu-is/Linear-Algebra-Left-Undone

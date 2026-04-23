@@ -7,12 +7,13 @@ stars: 1402
 topics: [game, game-engine, opengl, voxel-game]
 starred_at: "2025-12-03T08:02:41Z"
 tags:
-  - graphic
   - coding
   - engine
+  - graphic
   - voxel
   - opengl
-  - linux
+  - game
+  - framework
 ---
 
 # MihailRis/voxelcore

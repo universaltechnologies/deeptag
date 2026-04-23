@@ -7,13 +7,10 @@ stars: 36318
 topics: [awesome, deepseek]
 starred_at: "2025-10-15T03:17:34Z"
 tags:
-  - awesome
   - coding
   - ai
   - llm
-  - api
-  - office
-  - browser
+  - awesome
 ---
 
 # deepseek-ai/awesome-deepseek-integration

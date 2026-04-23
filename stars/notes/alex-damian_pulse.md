@@ -10,9 +10,8 @@ tags:
   - coding
   - ai
   - cv
-  - inference
-  - cuda
-  - image-processing
+  - deep-learning
+  - library
 ---
 
 # alex-damian/pulse

@@ -8,9 +8,8 @@ topics: []
 starred_at: "2018-11-13T13:53:51Z"
 tags:
   - coding
+  - language
   - library
-  - lua
-  - binding
 ---
 
 # starwing/luautf8

@@ -8,11 +8,10 @@ topics: [c-plus-plus, library, tuio, tuio-client, tuio-simulator, tuio-tracker, 
 starred_at: "2017-05-27T08:33:36Z"
 tags:
   - coding
-  - cpp
-  - library
-  - cross-platform
   - networking
   - protocol
+  - library
+  - cross-platform
 ---
 
 # mkalten/TUIO20_CPP

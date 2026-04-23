@@ -10,9 +10,8 @@ tags:
   - graphic
   - shader
   - cloud
-  - unity
   - engine
-  - volume
+  - unity
 ---
 
 # keijiro/CloudSkybox

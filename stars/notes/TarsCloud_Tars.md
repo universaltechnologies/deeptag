@@ -8,9 +8,8 @@ topics: [high-availability, high-performance, microservice, rpc-framework, tars,
 starred_at: "2025-04-25T02:59:54Z"
 tags:
   - coding
-  - cpp
+  - networking
   - rpc
-  - distributed
   - framework
 ---
 

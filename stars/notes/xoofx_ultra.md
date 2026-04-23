@@ -10,8 +10,8 @@ tags:
   - coding
   - profiler
   - dotnet
-  - gc
   - windows
+  - tool
 ---
 
 # xoofx/ultra

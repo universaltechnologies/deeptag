@@ -10,12 +10,9 @@ tags:
   - graphic
   - shader
   - glsl
-  - rendering
   - post-processing
-  - ssao
-  - bloom
-  - pbr
-  - shadow
+  - lighting
+  - tutorial
 ---
 
 # lettier/3d-game-shaders-for-beginners

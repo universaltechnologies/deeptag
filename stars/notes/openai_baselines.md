@@ -8,11 +8,9 @@ topics: []
 starred_at: "2022-12-04T17:26:32Z"
 tags:
   - coding
+  - ai
   - rl
-  - python
-  - algorithm
-  - framework
-  - benchmark
+  - library
 ---
 
 # openai/baselines

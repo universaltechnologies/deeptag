@@ -8,12 +8,11 @@ topics: [markmap, mindmap]
 starred_at: "2025-07-24T02:41:48Z"
 tags:
   - coding
-  - visualization
-  - markdown
   - web
-  - typescript
-  - parser
-  - cli
+  - frontend
+  - visualization
+  - tool
+  - library
 ---
 
 # markmap/markmap

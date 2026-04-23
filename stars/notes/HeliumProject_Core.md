@@ -10,7 +10,6 @@ tags:
   - coding
   - library
   - reflection
-  - platform
   - serialization
   - cross-platform
 ---

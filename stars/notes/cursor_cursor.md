@@ -10,6 +10,7 @@ tags:
   - coding
   - ai
   - editor
+  - tool
 ---
 
 # cursor/cursor

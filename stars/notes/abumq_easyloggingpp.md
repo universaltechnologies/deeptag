@@ -8,12 +8,9 @@ topics: [c-plus-plus, c-plus-plus-11, cpp, crash-handler, cross-platform, effici
 starred_at: "2016-07-01T22:14:02Z"
 tags:
   - coding
-  - cpp
-  - logging
   - library
-  - cross-platform
-  - performance
   - header-only
+  - logging
 ---
 
 # abumq/easyloggingpp

@@ -8,8 +8,9 @@ topics: [openai, openai-function-calli, openai-functions, pydantic-v2, python, v
 starred_at: "2026-03-28T08:30:05Z"
 tags:
   - coding
-  - inference
+  - ai
   - llm
+  - library
 ---
 
 # 567-labs/instructor

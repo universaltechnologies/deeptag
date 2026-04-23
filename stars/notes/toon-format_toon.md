@@ -8,10 +8,11 @@ topics: [data-format, llm, serialization, tokenization]
 starred_at: "2026-01-24T10:14:53Z"
 tags:
   - coding
-  - serialization
+  - ai
   - llm
-  - json
-  - parser
+  - serialization
+  - typescript
+  - spec
 ---
 
 # toon-format/toon

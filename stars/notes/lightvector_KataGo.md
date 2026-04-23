@@ -9,10 +9,10 @@ starred_at: "2022-11-25T07:15:11Z"
 tags:
   - coding
   - ai
-  - ml
-  - gpu
+  - rl
+  - cpp
   - cuda
-  - algorithm
+  - game
 ---
 
 # lightvector/KataGo

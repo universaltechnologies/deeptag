@@ -10,9 +10,9 @@ tags:
   - coding
   - engine
   - unity
-  - mesh
-  - texture
-  - csharp
+  - graphic
+  - plugin
+  - tool
 ---
 
 # jinsek/MightyTerrainMesh

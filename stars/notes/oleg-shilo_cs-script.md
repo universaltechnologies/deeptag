@@ -8,8 +8,9 @@ topics: []
 starred_at: "2023-02-03T03:13:59Z"
 tags:
   - coding
+  - language
   - csharp
-  - compiler
+  - tool
 ---
 
 # oleg-shilo/cs-script

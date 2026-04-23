@@ -8,10 +8,10 @@ topics: [internet-of-things, iot, javascript, javascript-engine, jerryscript, ru
 starred_at: "2017-03-27T13:15:07Z"
 tags:
   - coding
+  - language
   - runtime
-  - engine
-  - javascript
   - embedded
+  - library
 ---
 
 # jerryscript-project/jerryscript

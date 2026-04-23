@@ -8,8 +8,9 @@ topics: [webgl]
 starred_at: "2022-09-20T08:39:51Z"
 tags:
   - graphic
+  - platform
   - webgl
-  - browser
+  - tool
 ---
 
 # CesiumGS/webglreport

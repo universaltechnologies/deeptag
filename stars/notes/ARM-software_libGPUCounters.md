@@ -10,9 +10,8 @@ tags:
   - coding
   - profiler
   - gpu
-  - performance
   - library
-  - mobile
+  - performance
 ---
 
 # ARM-software/libGPUCounters

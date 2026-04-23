@@ -8,9 +8,10 @@ topics: [agents, anthropic, anthropic-claude, automation, claude, claude-code, c
 starred_at: "2025-12-21T01:51:55Z"
 tags:
   - coding
-  - automation
   - ai
-  - workflow
+  - agent
+  - tool
+  - plugin
 ---
 
 # wshobson/agents

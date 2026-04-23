@@ -8,8 +8,7 @@ topics: []
 starred_at: "2022-10-14T17:55:33Z"
 tags:
   - graphic
-  - rendering
-  - rhi
+  - rasterization
   - ray-tracing
   - vulkan
   - directx

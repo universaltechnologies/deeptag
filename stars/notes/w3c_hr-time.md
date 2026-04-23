@@ -8,9 +8,9 @@ topics: [api, performance, specification, web, web-application, webapp]
 starred_at: "2026-04-12T01:49:51Z"
 tags:
   - coding
-  - api
   - web
   - performance
+  - spec
 ---
 
 # w3c/hr-time

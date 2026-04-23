@@ -8,11 +8,11 @@ topics: [cg, cone, ray-tracing, raytracing, renderer, shader, tracing, voxel]
 starred_at: "2017-03-02T14:05:40Z"
 tags:
   - graphic
+  - rendering
+  - lighting
+  - shader
   - voxel
-  - gi
   - opengl
-  - glsl
-  - pbr
 ---
 
 # Friduric/voxel-cone-tracing

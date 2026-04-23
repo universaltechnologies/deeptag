@@ -10,6 +10,7 @@ tags:
   - coding
   - ai
   - llm
+  - inference
 ---
 
 # MoonshotAI/Kimi-K2

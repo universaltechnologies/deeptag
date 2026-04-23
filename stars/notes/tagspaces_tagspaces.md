@@ -8,10 +8,10 @@ topics: [electron, javascript, note-taking, offline-first, open-source, self-hos
 starred_at: "2023-12-30T08:46:01Z"
 tags:
   - coding
-  - desktop
+  - tools
   - electron
-  - self-hosted
-  - productivity
+  - cross-platform
+  - tool
 ---
 
 # tagspaces/tagspaces

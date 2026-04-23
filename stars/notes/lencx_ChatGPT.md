@@ -10,9 +10,8 @@ tags:
   - coding
   - ai
   - desktop
+  - tool
   - cross-platform
-  - rust
-  - tools
 ---
 
 # lencx/ChatGPT

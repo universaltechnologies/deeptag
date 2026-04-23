@@ -8,10 +8,9 @@ topics: [benchmark, benchmarking, c-sharp, csharp, dotnet, hacktoberfest, perfor
 starred_at: "2023-03-11T08:51:31Z"
 tags:
   - coding
-  - dotnet
-  - benchmark
   - performance
-  - automation
+  - library
+  - dotnet
 ---
 
 # dotnet/BenchmarkDotNet

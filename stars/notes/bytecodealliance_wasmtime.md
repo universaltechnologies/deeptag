@@ -8,11 +8,10 @@ topics: [aot, cranelift, jit, lightweight, portable, runtime, rust, sandbox, sta
 starred_at: "2023-03-28T18:02:48Z"
 tags:
   - coding
-  - webassembly
   - runtime
+  - webassembly
   - jit
-  - compiler
-  - security
+  - rust
 ---
 
 # bytecodealliance/wasmtime

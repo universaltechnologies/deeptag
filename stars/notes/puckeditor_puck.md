@@ -10,9 +10,8 @@ tags:
   - coding
   - web
   - frontend
-  - framework
-  - editor
-  - component
+  - tool
+  - library
 ---
 
 # puckeditor/puck

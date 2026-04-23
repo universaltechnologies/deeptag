@@ -9,7 +9,7 @@ starred_at: "2023-10-09T09:54:02Z"
 tags:
   - graphic
   - gltf
-  - 3d
+  - spec
 ---
 
 # KhronosGroup/glTF

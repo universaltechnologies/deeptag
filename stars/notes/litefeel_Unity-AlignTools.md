@@ -8,11 +8,9 @@ topics: [align, alignment, alignments, distribute, resize, unity-editor, unity3d
 starred_at: "2024-02-02T04:01:46Z"
 tags:
   - coding
+  - engine
   - unity
-  - editor
   - plugin
-  - ui
-  - gui
 ---
 
 # litefeel/Unity-AlignTools

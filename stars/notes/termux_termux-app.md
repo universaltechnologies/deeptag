@@ -9,9 +9,9 @@ starred_at: "2023-07-21T12:31:51Z"
 tags:
   - coding
   - android
-  - terminal
   - linux
-  - cli
+  - terminal
+  - tool
 ---
 
 # termux/termux-app

@@ -8,9 +8,9 @@ topics: []
 starred_at: "2024-11-15T05:42:42Z"
 tags:
   - coding
+  - ai
   - cv
-  - inference
-  - 3d
+  - library
 ---
 
 # dcharatan/flowmap

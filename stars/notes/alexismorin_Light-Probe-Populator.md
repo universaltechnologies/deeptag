@@ -7,11 +7,10 @@ stars: 179
 topics: []
 starred_at: "2020-09-28T02:54:16Z"
 tags:
-  - graphic
+  - coding
+  - engine
   - unity
-  - rendering
   - plugin
-  - automation
 ---
 
 # alexismorin/Light-Probe-Populator

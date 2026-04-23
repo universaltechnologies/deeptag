@@ -10,7 +10,7 @@ tags:
   - coding
   - ai
   - diffusion
-  - misc
+  - awesome
 ---
 
 # ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO

@@ -9,11 +9,10 @@ starred_at: "2022-09-05T09:02:48Z"
 tags:
   - graphic
   - rendering
-  - pipeline
   - shader
-  - pbr
-  - rasterization
+  - game
   - book
+  - practice
 ---
 
 # QianMo/Game-Programmer-Study-Notes

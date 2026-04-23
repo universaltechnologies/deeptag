@@ -8,10 +8,8 @@ topics: [anthropic, claude, claude-code, cli, plugin, statusline, typescript]
 starred_at: "2026-03-24T09:03:36Z"
 tags:
   - coding
+  - ai
   - plugin
-  - cli
-  - automation
-  - workflow
 ---
 
 # jarrodwatts/claude-hud

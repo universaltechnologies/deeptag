@@ -9,8 +9,10 @@ starred_at: "2022-10-31T07:56:26Z"
 tags:
   - graphic
   - rendering
-  - ray-tracing
-  - gpu
+  - framework
+  - cross-platform
+  - performance
+  - cpp
 ---
 
 # LuisaGroup/LuisaCompute

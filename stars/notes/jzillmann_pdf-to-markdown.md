@@ -8,7 +8,9 @@ topics: [markdown, pdf-converter]
 starred_at: "2023-11-07T17:32:11Z"
 tags:
   - coding
-  - markdown
+  - media
+  - tool
+  - javascript
 ---
 
 # jzillmann/pdf-to-markdown

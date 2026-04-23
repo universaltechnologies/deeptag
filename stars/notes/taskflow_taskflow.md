@@ -8,11 +8,10 @@ topics: [concurrent-programming, cuda-programming, gpu-programming, heterogeneou
 starred_at: "2022-05-10T16:41:13Z"
 tags:
   - coding
+  - cpp
   - concurrency
   - header-only
-  - cuda
-  - gpu
-  - algorithm
+  - performance
 ---
 
 # taskflow/taskflow

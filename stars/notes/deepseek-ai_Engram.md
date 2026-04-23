@@ -10,8 +10,7 @@ tags:
   - coding
   - ai
   - llm
-  - inference
-  - deep-learning
+  - library
 ---
 
 # deepseek-ai/Engram

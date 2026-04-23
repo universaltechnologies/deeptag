@@ -7,11 +7,13 @@ stars: 5674
 topics: [component, effects, particle, particle-system, ugui, ui, unity, unity3d]
 starred_at: "2023-07-06T06:04:56Z"
 tags:
-  - graphic
-  - rendering
-  - vfx
-  - ui
+  - coding
+  - engine
   - unity
+  - graphic
+  - vfx
+  - particles
+  - plugin
 ---
 
 # mob-sakai/ParticleEffectForUGUI

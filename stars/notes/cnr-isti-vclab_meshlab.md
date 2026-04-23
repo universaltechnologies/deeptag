@@ -8,10 +8,9 @@ topics: [3d, 3d-models, 3d-printing, 3d-reconstruction, 3d-scanning, mesh, mesh-
 starred_at: "2023-04-10T15:12:24Z"
 tags:
   - graphic
+  - scene
   - mesh
-  - rendering
-  - 3d
-  - editor
+  - tool
   - cross-platform
 ---
 

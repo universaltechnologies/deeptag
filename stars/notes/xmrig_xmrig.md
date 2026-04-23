@@ -8,11 +8,11 @@ topics: [argon2, cpuminer, cryptocurrency, cryptonight, miner, monero, randomx, 
 starred_at: "2023-12-12T03:14:44Z"
 tags:
   - coding
-  - cross-platform
+  - c
+  - cuda
+  - tool
   - performance
-  - hardware
-  - gpu
-  - cli
+  - cross-platform
 ---
 
 # xmrig/xmrig

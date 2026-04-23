@@ -8,10 +8,9 @@ topics: [blog, browser, compiler, components, hybrid, nextjs, node, react, serve
 starred_at: "2026-04-08T07:08:29Z"
 tags:
   - coding
-  - framework
   - web
   - frontend
-  - compiler
+  - framework
 ---
 
 # vercel/next.js

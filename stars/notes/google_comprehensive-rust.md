@@ -8,10 +8,9 @@ topics: [android, classroom, course, google, guide, rust, training, training-mat
 starred_at: "2022-12-30T11:07:29Z"
 tags:
   - coding
-  - tutorial
-  - android
-  - concurrency
+  - language
   - rust
+  - tutorial
 ---
 
 # google/comprehensive-rust

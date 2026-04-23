@@ -8,10 +8,10 @@ topics: []
 starred_at: "2023-11-11T14:28:48Z"
 tags:
   - coding
-  - rendering
-  - rasterization
-  - networking
+  - game
+  - engine
   - c
+  - library
 ---
 
 # id-Software/Quake

@@ -8,11 +8,11 @@ topics: []
 starred_at: "2023-04-19T11:40:48Z"
 tags:
   - coding
+  - game
+  - graphic
+  - scene
   - mesh
-  - algorithm
-  - geometry
   - csharp
-  - misc
 ---
 
 # toninhoPinto/MeshSlicingRunTime

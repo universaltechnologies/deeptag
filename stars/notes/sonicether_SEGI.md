@@ -7,12 +7,14 @@ stars: 1565
 topics: []
 starred_at: "2023-03-17T21:33:10Z"
 tags:
-  - graphic
-  - voxel
-  - gi
-  - rendering
+  - coding
+  - engine
   - unity
-  - csharp
+  - graphic
+  - lighting
+  - gi
+  - voxel
+  - plugin
 ---
 
 # sonicether/SEGI

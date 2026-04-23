@@ -7,12 +7,10 @@ stars: 10500
 topics: [cuda, cuda-12, cuda-cpp, cuda-demo, cuda-kernel, cuda-kernels, cuda-library, cuda-toolkit, flash-attention, hgemm, learn-cuda, leet-cuda]
 starred_at: "2025-04-21T06:55:24Z"
 tags:
-  - awesome
   - coding
+  - systems
   - cuda
-  - gpu
-  - ai
-  - performance
+  - library
   - tutorial
 ---
 

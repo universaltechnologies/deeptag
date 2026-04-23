@@ -8,10 +8,8 @@ topics: []
 starred_at: "2017-10-19T09:14:31Z"
 tags:
   - coding
+  - ai
   - ml
-  - deep-learning
-  - inference
-  - python
 ---
 
 # tensorflow/models

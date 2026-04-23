@@ -8,7 +8,9 @@ topics: [cli, cti, cybersecurity, forensics, hacktoberfest, information-gatherin
 starred_at: "2026-04-03T15:14:02Z"
 tags:
   - coding
+  - tools
   - cli
+  - tool
 ---
 
 # sherlock-project/sherlock

@@ -8,8 +8,10 @@ topics: [package, python, unity, unity3d, utility, windows]
 starred_at: "2026-01-21T04:48:03Z"
 tags:
   - coding
+  - engine
+  - unity
+  - tool
   - cli
-  - parser
 ---
 
 # Cobertos/unitypackage_extractor

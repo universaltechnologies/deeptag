@@ -8,10 +8,10 @@ topics: [agentic-coding, ai-coding, anthropic, claude-code, cli, command-line-to
 starred_at: "2026-03-17T02:56:31Z"
 tags:
   - coding
-  - cli
+  - ai
   - llm
-  - productivity
-  - rust
+  - tool
+  - cli
 ---
 
 # rtk-ai/rtk

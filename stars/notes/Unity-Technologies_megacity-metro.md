@@ -8,11 +8,10 @@ topics: [dots, multiplayer, netcode, samples, services, ugs, unity]
 starred_at: "2024-03-14T06:22:48Z"
 tags:
   - coding
-  - gameplay
   - engine
+  - unity
+  - game
   - networking
-  - rendering
-  - cross-platform
 ---
 
 # Unity-Technologies/megacity-metro

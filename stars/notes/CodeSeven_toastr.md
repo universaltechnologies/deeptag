@@ -8,10 +8,9 @@ topics: []
 starred_at: "2025-07-25T08:41:03Z"
 tags:
   - coding
+  - web
   - library
-  - javascript
   - ui
-  - frontend
 ---
 
 # CodeSeven/toastr

@@ -8,10 +8,8 @@ topics: [geometry, mesh, python, triangular-meshes]
 starred_at: "2024-12-21T05:18:47Z"
 tags:
   - graphic
-  - mesh
+  - scene
   - geometry
-  - 3d
-  - python
   - library
 ---
 

@@ -8,9 +8,11 @@ topics: [glsl, gradient-noise, noise, noise-3d, noise-algorithms, perlin-noise, 
 starred_at: "2023-03-08T13:58:47Z"
 tags:
   - graphic
+  - rendering
   - raymarching
-  - webgl
+  - shader
   - glsl
+  - practice
 ---
 
 # piellardj/ray-marching-webgl

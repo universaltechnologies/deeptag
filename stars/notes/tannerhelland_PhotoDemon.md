@@ -8,10 +8,11 @@ topics: [computer-vision, image-editor, image-filters, image-processing, paint, 
 starred_at: "2023-03-03T06:51:18Z"
 tags:
   - coding
-  - image
+  - media
   - image-processing
-  - windows
-  - tools
+  - tool
+  - cross-platform
+  - performance
 ---
 
 # tannerhelland/PhotoDemon

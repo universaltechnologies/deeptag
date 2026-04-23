@@ -8,8 +8,8 @@ topics: [javascript-library, npm-package, photoshop, psd, typescript]
 starred_at: "2026-04-01T07:25:50Z"
 tags:
   - coding
+  - parser
   - image
-  - serialization
   - library
 ---
 

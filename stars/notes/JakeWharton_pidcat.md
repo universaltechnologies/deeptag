@@ -10,8 +10,8 @@ tags:
   - coding
   - android
   - cli
-  - logging
-  - terminal
+  - tool
+  - python
 ---
 
 # JakeWharton/pidcat

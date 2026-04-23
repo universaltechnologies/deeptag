@@ -9,9 +9,8 @@ starred_at: "2025-06-30T12:50:39Z"
 tags:
   - coding
   - ai
-  - editor
+  - agent
   - plugin
-  - typescript
 ---
 
 # microsoft/vscode-copilot-chat

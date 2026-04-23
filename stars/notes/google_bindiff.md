@@ -9,9 +9,8 @@ starred_at: "2023-11-20T03:07:46Z"
 tags:
   - coding
   - reverse
-  - security
+  - tool
   - plugin
-  - java
 ---
 
 # google/bindiff

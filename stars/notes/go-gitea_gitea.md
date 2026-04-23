@@ -8,10 +8,8 @@ topics: [bitbucket, cicd, devops, docker-registry-v2, git, git-gui, git-lfs, git
 starred_at: "2025-12-04T12:43:08Z"
 tags:
   - coding
-  - self-hosted
   - git
-  - cross-platform
-  - ci
+  - self-hosted
 ---
 
 # go-gitea/gitea

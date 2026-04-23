@@ -8,10 +8,10 @@ topics: []
 starred_at: "2024-09-11T11:31:32Z"
 tags:
   - graphic
-  - bloom
   - post-processing
-  - shader
+  - bloom
   - unity
+  - practice
 ---
 
 # AKGWSB/CasualBloom

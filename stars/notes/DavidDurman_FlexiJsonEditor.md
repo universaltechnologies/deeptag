@@ -8,10 +8,10 @@ topics: []
 starred_at: "2020-10-27T08:53:02Z"
 tags:
   - coding
-  - json
   - web
-  - ui
-  - javascript
+  - data
+  - json
+  - plugin
 ---
 
 # DavidDurman/FlexiJsonEditor

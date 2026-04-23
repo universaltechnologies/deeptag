@@ -7,8 +7,7 @@ stars: 784
 topics: []
 starred_at: "2022-12-22T12:54:25Z"
 tags:
-  - coding
-  - misc
+  - data
 ---
 
 # astronexus/HYG-Database

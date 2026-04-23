@@ -7,12 +7,10 @@ stars: 25812
 topics: [c, cracking, cuda, gpgpu, hashcat, hashes, opencl, password]
 starred_at: "2021-11-24T06:28:01Z"
 tags:
-  - coding
-  - security
-  - gpu
-  - cuda
-  - cli
+  - tools
   - performance
+  - cuda
+  - security
 ---
 
 # hashcat/hashcat

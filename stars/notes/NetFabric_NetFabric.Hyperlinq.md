@@ -9,11 +9,9 @@ starred_at: "2023-01-13T03:30:08Z"
 tags:
   - coding
   - performance
-  - simd
-  - async
   - library
   - dotnet
-  - algorithm
+  - simd
 ---
 
 # NetFabric/NetFabric.Hyperlinq

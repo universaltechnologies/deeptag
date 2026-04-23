@@ -8,11 +8,10 @@ topics: []
 starred_at: "2023-03-30T10:06:20Z"
 tags:
   - coding
-  - ml
-  - 3d
-  - geometry
+  - ai
   - cv
-  - inference
+  - graphic
+  - 3d
 ---
 
 # facebookresearch/pifuhd

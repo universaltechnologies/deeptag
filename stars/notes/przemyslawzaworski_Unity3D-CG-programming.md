@@ -7,12 +7,13 @@ stars: 1920
 topics: [gpu, hlsl, shader, shaders, unity]
 starred_at: "2018-11-04T16:11:13Z"
 tags:
+  - graphic
   - shader
   - hlsl
-  - glsl
+  - coding
+  - engine
   - unity
-  - gpu
-  - awesome
+  - tutorial
 ---
 
 # przemyslawzaworski/Unity3D-CG-programming

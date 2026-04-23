@@ -8,9 +8,8 @@ topics: []
 starred_at: "2016-11-16T02:08:33Z"
 tags:
   - graphic
-  - 3d
-  - webgl
   - rendering
+  - webgl
 ---
 
 # shanzi/sketch-rendering

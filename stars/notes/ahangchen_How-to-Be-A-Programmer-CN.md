@@ -9,8 +9,8 @@ starred_at: "2022-06-07T18:54:11Z"
 tags:
   - coding
   - practice
-  - tutorial
   - book
+  - tutorial
 ---
 
 # ahangchen/How-to-Be-A-Programmer-CN

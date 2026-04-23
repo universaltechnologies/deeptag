@@ -8,9 +8,11 @@ topics: [ai, automation, chatgpt, moviepy, python, shortvideo, tiktok]
 starred_at: "2026-03-20T10:26:58Z"
 tags:
   - coding
-  - video
   - ai
+  - llm
+  - media
   - automation
+  - tool
 ---
 
 # harry0703/MoneyPrinterTurbo

@@ -8,12 +8,10 @@ topics: [ai, ai-agents, ai-memory, anthropic, artificial-intelligence, chromadb,
 starred_at: "2026-01-24T11:25:37Z"
 tags:
   - coding
-  - plugin
   - ai
   - agent
   - rag
-  - embeddings
-  - database
+  - plugin
 ---
 
 # thedotmack/claude-mem

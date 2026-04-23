@@ -10,9 +10,6 @@ tags:
   - coding
   - networking
   - proxy
-  - security
-  - rust
-  - cross-platform
 ---
 
 # shadowsocks/shadowsocks-rust

@@ -10,9 +10,8 @@ tags:
   - coding
   - parser
   - nlp
-  - search
-  - dotnet
-  - cli
+  - library
+  - cross-platform
 ---
 
 # nezaboodka/nevod

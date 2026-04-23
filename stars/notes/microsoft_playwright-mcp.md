@@ -8,11 +8,10 @@ topics: [mcp, playwright]
 starred_at: "2025-07-02T07:59:03Z"
 tags:
   - coding
-  - typescript
-  - browser
-  - automation
+  - ai
   - mcp
-  - llm
+  - automation
+  - tool
 ---
 
 # microsoft/playwright-mcp

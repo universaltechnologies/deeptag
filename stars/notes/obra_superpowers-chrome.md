@@ -8,10 +8,9 @@ topics: []
 starred_at: "2026-04-14T15:21:10Z"
 tags:
   - coding
-  - browser
-  - automation
-  - cli
+  - ai
   - mcp
+  - tool
 ---
 
 # obra/superpowers-chrome

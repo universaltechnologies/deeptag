@@ -10,8 +10,8 @@ tags:
   - graphic
   - shader
   - glsl
-  - webgl
   - tutorial
+  - webgl
 ---
 
 # stackgl/shader-school

@@ -8,11 +8,11 @@ topics: [3d-pathfinding, csharp, csharp-framework, determinism, ecs, ecs-framewo
 starred_at: "2023-09-28T04:16:48Z"
 tags:
   - coding
-  - ecs
   - engine
-  - unity
+  - game
+  - ecs
   - networking
-  - csharp
+  - framework
 ---
 
 # chromealex/ecs

@@ -9,6 +9,10 @@ starred_at: "2018-03-11T06:26:00Z"
 tags:
   - tools
   - coding
+  - media
+  - video
+  - capture
+  - tool
 ---
 
 # justinfrankel/licecap

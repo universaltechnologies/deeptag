@@ -9,10 +9,8 @@ starred_at: "2023-03-30T10:05:25Z"
 tags:
   - coding
   - ai
-  - diffusion
-  - deep-learning
   - cv
-  - image
+  - library
 ---
 
 # yumingj/Text2Human

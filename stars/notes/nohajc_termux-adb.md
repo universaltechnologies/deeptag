@@ -7,11 +7,10 @@ stars: 724
 topics: []
 starred_at: "2024-10-31T11:49:10Z"
 tags:
+  - coding
   - android
-  - tools
-  - cli
-  - shell
-  - misc
+  - tool
+  - terminal
 ---
 
 # nohajc/termux-adb

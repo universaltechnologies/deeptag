@@ -8,10 +8,10 @@ topics: [c, cpp, java, python]
 starred_at: "2023-11-07T02:16:32Z"
 tags:
   - coding
+  - ide
   - cpp
-  - editor
+  - tools
   - cross-platform
-  - misc
 ---
 
 # CoatiSoftware/Sourcetrail

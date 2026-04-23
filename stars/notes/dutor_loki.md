@@ -8,9 +8,10 @@ topics: []
 starred_at: "2018-11-25T08:18:48Z"
 tags:
   - coding
-  - template
+  - language
+  - cpp
   - library
-  - header-only
+  - template
 ---
 
 # dutor/loki

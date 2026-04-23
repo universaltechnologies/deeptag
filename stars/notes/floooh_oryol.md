@@ -7,12 +7,11 @@ stars: 2061
 topics: [fips, oryol]
 starred_at: "2017-02-07T03:52:14Z"
 tags:
+  - coding
   - graphic
   - 3d
-  - engine
-  - library
+  - framework
   - cross-platform
-  - webgl
 ---
 
 # floooh/oryol

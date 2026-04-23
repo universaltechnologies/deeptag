@@ -8,10 +8,11 @@ topics: [filesearch, lua, neovim, neovim-plugin, rust]
 starred_at: "2026-04-02T06:01:25Z"
 tags:
   - coding
-  - search
-  - performance
+  - ai
+  - mcp
+  - rust
   - plugin
-  - cli
+  - performance
 ---
 
 # dmtrKovalenko/fff.nvim

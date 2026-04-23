@@ -9,8 +9,10 @@ starred_at: "2025-07-30T14:55:59Z"
 tags:
   - coding
   - ai
+  - mcp
   - cli
   - nodejs
+  - tool
 ---
 
 # jamubc/gemini-mcp-tool

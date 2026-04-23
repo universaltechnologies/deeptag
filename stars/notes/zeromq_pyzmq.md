@@ -8,9 +8,9 @@ topics: [cython, python, zeromq]
 starred_at: "2020-06-11T07:41:23Z"
 tags:
   - coding
-  - binding
   - networking
-  - protocol
+  - binding
+  - library
 ---
 
 # zeromq/pyzmq

@@ -8,10 +8,9 @@ topics: [ai, ai-gateway, api-gateway, api-management, apis, artificial-intellige
 starred_at: "2024-11-18T16:31:09Z"
 tags:
   - coding
-  - plugin
-  - proxy
   - ai
-  - llm
+  - networking
+  - cloud
 ---
 
 # Kong/kong

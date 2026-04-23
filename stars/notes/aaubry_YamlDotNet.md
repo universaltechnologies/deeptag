@@ -8,9 +8,10 @@ topics: [dotnet, parser, serialization, yaml]
 starred_at: "2023-09-26T04:03:05Z"
 tags:
   - coding
-  - serialization
-  - parser
   - dotnet
+  - parser
+  - serialization
+  - library
 ---
 
 # aaubry/YamlDotNet

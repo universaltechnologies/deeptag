@@ -8,9 +8,9 @@ topics: [database, dotnet, hacktoberfest, litedb, nosql]
 starred_at: "2020-11-02T02:14:35Z"
 tags:
   - coding
-  - database
+  - data
   - dotnet
-  - embedded
+  - library
 ---
 
 # litedb-org/LiteDB

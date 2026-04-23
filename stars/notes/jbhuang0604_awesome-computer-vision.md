@@ -8,11 +8,9 @@ topics: []
 starred_at: "2022-10-07T15:24:30Z"
 tags:
   - coding
-  - awesome
-  - cv
-  - book
-  - tutorial
   - ai
+  - cv
+  - awesome
 ---
 
 # jbhuang0604/awesome-computer-vision

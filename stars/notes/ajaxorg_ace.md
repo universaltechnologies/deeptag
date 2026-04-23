@@ -7,10 +7,11 @@ stars: 27128
 topics: []
 starred_at: "2018-11-27T05:29:39Z"
 tags:
-  - editor
   - coding
+  - editor
+  - frontend
   - javascript
-  - ui
+  - tool
 ---
 
 # ajaxorg/ace

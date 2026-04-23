@@ -9,9 +9,8 @@ starred_at: "2025-07-25T08:44:05Z"
 tags:
   - coding
   - web
-  - frontend
   - ui
-  - component
+  - library
 ---
 
 # iamhosseindhv/notistack

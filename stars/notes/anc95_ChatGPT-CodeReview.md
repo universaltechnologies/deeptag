@@ -9,9 +9,8 @@ starred_at: "2025-12-04T12:37:52Z"
 tags:
   - coding
   - ai
-  - llm
-  - ci
-  - automation
+  - git
+  - tool
 ---
 
 # anc95/ChatGPT-CodeReview

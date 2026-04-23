@@ -9,8 +9,7 @@ starred_at: "2024-04-28T12:15:59Z"
 tags:
   - coding
   - webassembly
-  - tools
-  - parser
+  - tool
   - cli
 ---
 

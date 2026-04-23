@@ -9,7 +9,9 @@ starred_at: "2022-04-24T03:07:30Z"
 tags:
   - coding
   - c
+  - compiler
   - tutorial
+  - practice
 ---
 
 # nomemory/lc3-vm

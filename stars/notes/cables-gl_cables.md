@@ -7,11 +7,11 @@ stars: 520
 topics: []
 starred_at: "2024-11-15T05:55:25Z"
 tags:
-  - coding
-  - webgl
-  - shader
+  - graphic
   - vfx
-  - misc
+  - webgl
+  - tool
+  - web
 ---
 
 # cables-gl/cables

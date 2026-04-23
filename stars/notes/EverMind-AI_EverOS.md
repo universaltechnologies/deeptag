@@ -11,9 +11,7 @@ tags:
   - ai
   - llm
   - agent
-  - rag
-  - database
-  - python
+  - framework
 ---
 
 # EverMind-AI/EverOS

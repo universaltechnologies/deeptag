@@ -10,9 +10,9 @@ tags:
   - coding
   - ai
   - graph
-  - database
-  - cli
+  - vector
   - sql
+  - cli
 ---
 
 # MarchLiu/hypatia

@@ -10,9 +10,7 @@ tags:
   - coding
   - ai
   - agent
-  - workflow
-  - self-hosted
-  - automation
+  - framework
 ---
 
 # lamm-mit/scienceclaw

@@ -8,11 +8,10 @@ topics: []
 starred_at: "2017-04-16T09:58:30Z"
 tags:
   - coding
-  - cpp
   - concurrency
-  - platform
   - library
-  - middleware
+  - cpp
+  - header-only
 ---
 
 # preshing/turf

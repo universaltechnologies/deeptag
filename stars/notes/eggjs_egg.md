@@ -8,11 +8,9 @@ topics: [egg, eggjs, enterprise, framework, koa, koa-middleware, koa2, node-fram
 starred_at: "2021-07-16T16:35:22Z"
 tags:
   - coding
+  - web
   - nodejs
   - framework
-  - typescript
-  - middleware
-  - plugin
 ---
 
 # eggjs/egg

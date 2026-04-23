@@ -8,11 +8,9 @@ topics: []
 starred_at: "2023-04-10T12:01:12Z"
 tags:
   - graphic
-  - algorithm
-  - performance
   - math
-  - 3d
-  - benchmark
+  - performance
+  - tool
 ---
 
 # Jimbly/3dnoise-test

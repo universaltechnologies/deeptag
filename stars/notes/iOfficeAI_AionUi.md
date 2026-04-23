@@ -10,8 +10,9 @@ tags:
   - coding
   - ai
   - agent
-  - llm
-  - automation
+  - web
+  - ui
+  - tool
 ---
 
 # iOfficeAI/AionUi

@@ -8,8 +8,8 @@ topics: []
 starred_at: "2020-05-26T16:04:19Z"
 tags:
   - graphic
-  - vtf
   - rendering
+  - performance
 ---
 
 # jackie2009/VirturalTextureFast

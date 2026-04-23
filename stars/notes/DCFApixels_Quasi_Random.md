@@ -8,8 +8,8 @@ topics: [csharp, no-dependencies, quasi-random-generator, random, unity, unity3d
 starred_at: "2024-04-02T03:32:02Z"
 tags:
   - coding
-  - algorithm
   - math
+  - library
   - unity
 ---
 

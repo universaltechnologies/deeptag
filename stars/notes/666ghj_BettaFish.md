@@ -10,9 +10,8 @@ tags:
   - coding
   - ai
   - agent
-  - llm
   - nlp
-  - docker
+  - library
 ---
 
 # 666ghj/BettaFish

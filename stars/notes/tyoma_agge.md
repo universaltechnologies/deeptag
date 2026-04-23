@@ -8,9 +8,8 @@ topics: [2d-graphics, android-library, cpp, cross-platform-2d, cross-platform-gr
 starred_at: "2023-02-15T03:08:40Z"
 tags:
   - graphic
-  - rasterization
-  - 2d
   - rendering
+  - rasterization
   - cpp
   - cross-platform
 ---

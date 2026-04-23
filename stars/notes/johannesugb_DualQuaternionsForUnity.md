@@ -7,10 +7,13 @@ stars: 10
 topics: []
 starred_at: "2024-10-22T03:37:19Z"
 tags:
+  - coding
+  - engine
+  - unity
   - graphic
-  - animation
-  - csharp
-  - math
+  - scene
+  - skeletal
+  - library
 ---
 
 # johannesugb/DualQuaternionsForUnity

@@ -8,8 +8,9 @@ topics: [compiler, lua, teal, type-checking]
 starred_at: "2023-10-26T03:37:51Z"
 tags:
   - coding
+  - language
   - compiler
-  - lua
+  - library
 ---
 
 # teal-language/tl

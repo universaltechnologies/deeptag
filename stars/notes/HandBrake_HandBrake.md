@@ -8,7 +8,10 @@ topics: [gplv2, multi-platform, video-transcoding]
 starred_at: "2021-11-12T04:07:00Z"
 tags:
   - coding
+  - media
   - video
+  - tool
+  - cross-platform
 ---
 
 # HandBrake/HandBrake

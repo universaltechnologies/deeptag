@@ -8,10 +8,10 @@ topics: [android, arm, graphics, hwcpipe, mobile, moltenvk, performance, vulkan]
 starred_at: "2022-10-11T11:32:18Z"
 tags:
   - graphic
-  - vulkan
+  - platform
   - mobile
-  - performance
-  - android
+  - tutorial
+  - practice
 ---
 
 # ARM-software/vulkan_best_practice_for_mobile_developers

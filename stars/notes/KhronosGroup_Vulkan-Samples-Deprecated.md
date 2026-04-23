@@ -8,10 +8,10 @@ topics: []
 starred_at: "2017-05-19T01:47:38Z"
 tags:
   - graphic
+  - platform
   - vulkan
-  - tutorial
   - cross-platform
-  - misc
+  - tutorial
 ---
 
 # KhronosGroup/Vulkan-Samples-Deprecated

@@ -10,9 +10,8 @@ tags:
   - coding
   - engine
   - unity
+  - game
   - gameplay
-  - networking
-  - physics
 ---
 
 # Unity-Technologies/DOTSSample

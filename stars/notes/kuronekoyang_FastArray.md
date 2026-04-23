@@ -8,10 +8,10 @@ topics: []
 starred_at: "2025-04-22T03:02:24Z"
 tags:
   - coding
-  - csharp
   - performance
-  - memory
-  - optimization
+  - csharp
+  - dotnet
+  - library
 ---
 
 # kuronekoyang/FastArray

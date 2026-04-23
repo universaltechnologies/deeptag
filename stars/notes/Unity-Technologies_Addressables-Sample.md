@@ -8,11 +8,10 @@ topics: []
 starred_at: "2019-10-16T02:57:31Z"
 tags:
   - coding
-  - csharp
   - engine
   - unity
-  - plugin
-  - misc
+  - game
+  - practice
 ---
 
 # Unity-Technologies/Addressables-Sample

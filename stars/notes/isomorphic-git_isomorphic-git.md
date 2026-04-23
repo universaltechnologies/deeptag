@@ -9,10 +9,10 @@ starred_at: "2022-12-04T18:32:19Z"
 tags:
   - coding
   - git
-  - javascript
   - nodejs
   - browser
-  - webassembly
+  - javascript
+  - library
 ---
 
 # isomorphic-git/isomorphic-git

@@ -8,10 +8,11 @@ topics: [editor-extension, hierarchy, inspector, serialization, sourcegenerator,
 starred_at: "2025-04-12T07:20:53Z"
 tags:
   - coding
-  - editor
+  - engine
   - unity
+  - library
+  - editor
   - serialization
-  - csharp
 ---
 
 # annulusgames/Alchemy

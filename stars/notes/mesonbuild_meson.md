@@ -9,9 +9,7 @@ starred_at: "2024-05-28T06:33:37Z"
 tags:
   - coding
   - build
-  - python
-  - automation
-  - workflow
+  - tool
 ---
 
 # mesonbuild/meson

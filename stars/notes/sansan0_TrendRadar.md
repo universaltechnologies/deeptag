@@ -12,9 +12,7 @@ tags:
   - llm
   - mcp
   - automation
-  - workflow
-  - docker
-  - self-hosted
+  - tool
 ---
 
 # sansan0/TrendRadar

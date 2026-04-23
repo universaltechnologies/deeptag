@@ -8,9 +8,10 @@ topics: [audio, cross-platform, editor, gplv2, wxwidgets-applications]
 starred_at: "2023-05-11T17:14:41Z"
 tags:
   - coding
+  - media
   - audio
+  - tool
   - cross-platform
-  - editor
 ---
 
 # audacity/audacity

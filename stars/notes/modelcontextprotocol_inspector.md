@@ -8,11 +8,10 @@ topics: []
 starred_at: "2025-07-02T07:45:08Z"
 tags:
   - coding
+  - ai
+  - mcp
+  - tool
   - debug
-  - typescript
-  - nodejs
-  - web
-  - docker
 ---
 
 # modelcontextprotocol/inspector

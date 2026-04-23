@@ -8,8 +8,8 @@ topics: []
 starred_at: "2026-04-17T02:59:02Z"
 tags:
   - coding
-  - misc
-  - tutorial
+  - awesome
+  - practice
 ---
 
 # ruanyf/weekly

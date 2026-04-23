@@ -8,10 +8,11 @@ topics: [csharp, dotnet, dotnet-obfuscator, dotnet-protector, il2cpp, mono, obfu
 starred_at: "2023-01-04T08:02:48Z"
 tags:
   - coding
-  - security
+  - game
+  - engine
   - unity
-  - csharp
-  - dotnet
+  - plugin
+  - tool
 ---
 
 # Ether2023/Ether-Uprotector

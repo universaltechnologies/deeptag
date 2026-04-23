@@ -9,7 +9,9 @@ starred_at: "2022-11-28T13:39:50Z"
 tags:
   - coding
   - ai
-  - tools
+  - tool
+  - python
+  - game
 ---
 
 # sanderland/katrain

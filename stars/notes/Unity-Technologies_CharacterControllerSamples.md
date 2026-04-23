@@ -8,11 +8,9 @@ topics: [billing-5056, owner-dots-kernel-red]
 starred_at: "2023-04-20T04:07:50Z"
 tags:
   - coding
-  - csharp
-  - unity
   - engine
   - gameplay
-  - physics
+  - tutorial
 ---
 
 # Unity-Technologies/CharacterControllerSamples

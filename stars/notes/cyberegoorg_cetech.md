@@ -9,9 +9,8 @@ starred_at: "2017-02-07T06:15:22Z"
 tags:
   - coding
   - engine
+  - game
   - ecs
-  - c
-  - cross-platform
 ---
 
 # cyberegoorg/cetech

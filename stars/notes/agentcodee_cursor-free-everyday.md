@@ -7,8 +7,8 @@ stars: 6052
 topics: []
 starred_at: "2026-01-08T13:58:33Z"
 tags:
-  - tools
-  - automation
+  - coding
+  - tool
 ---
 
 # agentcodee/cursor-free-everyday

@@ -8,10 +8,10 @@ topics: [adreno, best-practices-snapdragon, gpu, opengl, opengles, qualcomm, sam
 starred_at: "2023-01-07T10:44:16Z"
 tags:
   - graphic
+  - platform
   - opengl
   - framework
   - android
-  - mobile
 ---
 
 # SnapdragonGameStudios/adreno-gpu-opengl-es-code-sample-framework

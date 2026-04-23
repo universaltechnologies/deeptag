@@ -8,11 +8,10 @@ topics: []
 starred_at: "2017-11-10T08:10:14Z"
 tags:
   - graphic
-  - texture
+  - material
   - normal
-  - image-processing
-  - gpu
-  - tools
+  - post-processing
+  - tool
 ---
 
 # kmkolasinski/AwesomeBump

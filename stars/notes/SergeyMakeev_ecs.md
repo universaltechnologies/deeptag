@@ -8,9 +8,10 @@ topics: [entity-component-system, game-development, performance]
 starred_at: "2023-04-24T09:12:14Z"
 tags:
   - coding
+  - game
   - ecs
   - performance
-  - architecture
+  - practice
 ---
 
 # SergeyMakeev/ecs

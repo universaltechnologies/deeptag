@@ -10,11 +10,7 @@ tags:
   - coding
   - engine
   - unity
-  - android
-  - ios
-  - windows
-  - linux
-  - webgl
+  - plugin
 ---
 
 # RimuruDev/UnitySkipSplashScreen

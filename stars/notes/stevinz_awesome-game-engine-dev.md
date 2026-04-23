@@ -8,9 +8,9 @@ topics: [articles, assets, awesome, awesome-list, computer-graphics, game-design
 starred_at: "2024-09-20T05:32:52Z"
 tags:
   - coding
-  - awesome
   - engine
-  - tutorial
+  - graphic
+  - awesome
 ---
 
 # stevinz/awesome-game-engine-dev

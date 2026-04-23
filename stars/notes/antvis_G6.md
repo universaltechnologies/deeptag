@@ -9,10 +9,8 @@ starred_at: "2025-06-29T12:37:36Z"
 tags:
   - coding
   - visualization
-  - graph
-  - web
   - framework
-  - typescript
+  - graph
 ---
 
 # antvis/G6

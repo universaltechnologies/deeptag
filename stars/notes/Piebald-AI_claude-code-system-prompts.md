@@ -7,11 +7,12 @@ stars: 9143
 topics: [claude-code, claude-code-system-prompts, system-prompts]
 starred_at: "2026-02-11T14:35:11Z"
 tags:
+  - coding
   - ai
   - llm
-  - agent
+  - mcp
   - awesome
-  - misc
+  - tool
 ---
 
 # Piebald-AI/claude-code-system-prompts

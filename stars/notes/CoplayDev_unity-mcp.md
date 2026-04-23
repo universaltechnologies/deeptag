@@ -8,11 +8,10 @@ topics: [ai, ai-integration, anthropic, claude, copilot, cursor, game-developmen
 starred_at: "2025-03-24T02:29:23Z"
 tags:
   - coding
-  - engine
-  - unity
   - ai
-  - llm
-  - automation
+  - mcp
+  - engine
+  - tool
 ---
 
 # CoplayDev/unity-mcp

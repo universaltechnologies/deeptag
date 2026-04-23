@@ -9,10 +9,10 @@ starred_at: "2023-07-13T03:55:55Z"
 tags:
   - coding
   - engine
-  - cross-platform
-  - vulkan
-  - rendering
-  - editor
+  - game
+  - graphic
+  - platform
+  - csharp
 ---
 
 # stride3d/stride

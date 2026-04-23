@@ -7,12 +7,13 @@ stars: 51
 topics: [cg, shaderlab, shaders, unity]
 starred_at: "2023-03-14T10:53:08Z"
 tags:
+  - coding
+  - engine
+  - unity
   - graphic
   - shader
   - post-processing
-  - hlsl
-  - urp
-  - unity
+  - library
 ---
 
 # aki-null/GaussianBlurURP

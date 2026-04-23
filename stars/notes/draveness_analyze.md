@@ -8,10 +8,9 @@ topics: [analyze, article, ios, objective-c, sourcecode, swift]
 starred_at: "2025-07-29T08:48:01Z"
 tags:
   - coding
-  - ios
   - architecture
+  - ios
   - tutorial
-  - reverse
 ---
 
 # draveness/analyze

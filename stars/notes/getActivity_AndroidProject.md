@@ -10,10 +10,8 @@ tags:
   - coding
   - android
   - java
-  - framework
-  - ui
-  - architecture
   - kotlin
+  - framework
 ---
 
 # getActivity/AndroidProject

@@ -8,10 +8,10 @@ topics: []
 starred_at: "2024-01-04T03:09:48Z"
 tags:
   - coding
+  - engine
   - unity
   - debug
-  - gui
-  - runtime
+  - plugin
 ---
 
 # yasirkula/UnityIngameDebugConsole

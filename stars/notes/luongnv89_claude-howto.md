@@ -9,9 +9,9 @@ starred_at: "2026-03-30T02:34:42Z"
 tags:
   - coding
   - ai
-  - tutorial
-  - agent
   - llm
+  - mcp
+  - tutorial
 ---
 
 # luongnv89/claude-howto

@@ -10,6 +10,9 @@ tags:
   - coding
   - debug
   - cpp
+  - library
+  - cross-platform
+  - header-only
 ---
 
 # jeremy-rifkin/cpptrace

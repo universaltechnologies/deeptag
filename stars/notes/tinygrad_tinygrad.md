@@ -8,10 +8,11 @@ topics: []
 starred_at: "2023-02-01T03:54:04Z"
 tags:
   - coding
+  - ai
   - deep-learning
-  - inference
+  - library
   - compiler
-  - jit
+  - runtime
 ---
 
 # tinygrad/tinygrad

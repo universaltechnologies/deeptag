@@ -7,11 +7,12 @@ stars: 97
 topics: []
 starred_at: "2022-10-26T06:37:43Z"
 tags:
+  - coding
   - graphic
+  - shader
   - compute-shader
-  - gpu
+  - algorithm
   - simulation
-  - unity
 ---
 
 # jtsorlinis/BoidsUnity

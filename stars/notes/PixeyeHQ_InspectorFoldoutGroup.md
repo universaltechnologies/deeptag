@@ -8,10 +8,9 @@ topics: []
 starred_at: "2020-09-29T12:42:25Z"
 tags:
   - coding
-  - editor
+  - engine
   - unity
-  - gui
-  - plugin
+  - library
 ---
 
 # PixeyeHQ/InspectorFoldoutGroup

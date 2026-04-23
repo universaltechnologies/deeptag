@@ -10,8 +10,8 @@ tags:
   - coding
   - ai
   - agent
-  - database
-  - python
+  - library
+  - tool
 ---
 
 # K-Dense-AI/scientific-agent-skills

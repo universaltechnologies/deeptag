@@ -8,11 +8,11 @@ topics: []
 starred_at: "2016-08-26T12:01:04Z"
 tags:
   - coding
-  - capture
+  - media
   - video
   - audio
   - windows
-  - cpp
+  - tool
 ---
 
 # rdp/screen-capture-recorder-to-video-windows-free

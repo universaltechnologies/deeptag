@@ -7,12 +7,12 @@ stars: 4856
 topics: []
 starred_at: "2023-03-27T17:59:16Z"
 tags:
-  - graphic
   - coding
-  - opengl
   - gui
+  - library
   - cross-platform
-  - rendering
+  - opengl
+  - cpp
 ---
 
 # wjakob/nanogui

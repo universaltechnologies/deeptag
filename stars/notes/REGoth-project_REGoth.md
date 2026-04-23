@@ -7,9 +7,9 @@ stars: 648
 topics: [cpp, engine, gothic, gothic2, reimplementation]
 starred_at: "2017-02-07T05:38:15Z"
 tags:
+  - coding
   - engine
-  - graphic
-  - gameplay
+  - game
   - cpp
 ---
 

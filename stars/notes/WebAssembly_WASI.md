@@ -9,7 +9,9 @@ starred_at: "2023-08-01T13:20:25Z"
 tags:
   - coding
   - webassembly
-  - api
+  - systems
+  - cross-platform
+  - spec
 ---
 
 # WebAssembly/WASI

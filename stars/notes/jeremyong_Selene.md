@@ -8,10 +8,12 @@ topics: []
 starred_at: "2016-06-26T15:23:18Z"
 tags:
   - coding
+  - language
   - lua
-  - header-only
+  - cpp
   - binding
-  - ffi
+  - library
+  - header-only
 ---
 
 # jeremyong/Selene

@@ -8,10 +8,10 @@ topics: []
 starred_at: "2017-03-01T12:39:46Z"
 tags:
   - graphic
+  - gui
   - 3d
-  - ui
-  - editor
-  - cpp
+  - math
+  - library
 ---
 
 # CedricGuillemet/ImGuizmo

@@ -8,13 +8,11 @@ topics: [android, developer-tools, development, gesture, ios, mobile, multi-touc
 starred_at: "2023-03-28T17:59:29Z"
 tags:
   - coding
+  - engine
   - unity
-  - logging
-  - plugin
   - mobile
-  - debug
-  - android
-  - ios
+  - plugin
+  - tool
 ---
 
 # SpaceMadness/lunar-unity-console

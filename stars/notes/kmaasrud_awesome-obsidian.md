@@ -7,10 +7,8 @@ stars: 8685
 topics: [awesome, awesome-list, obsidian]
 starred_at: "2026-04-11T15:22:43Z"
 tags:
-  - awesome
   - tools
-  - css
-  - markdown
+  - awesome
 ---
 
 # kmaasrud/awesome-obsidian

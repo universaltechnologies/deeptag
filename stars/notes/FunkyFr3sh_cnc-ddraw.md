@@ -8,11 +8,11 @@ topics: [borderless, compatiblity, d3d9, ddraw, directdraw, directx, integer-sca
 starred_at: "2024-06-27T08:10:15Z"
 tags:
   - graphic
-  - rendering
-  - directx
+  - platform
   - opengl
-  - shader
+  - directx
   - windows
+  - tool
 ---
 
 # FunkyFr3sh/cnc-ddraw

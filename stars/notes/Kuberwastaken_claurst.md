@@ -10,9 +10,7 @@ tags:
   - coding
   - ai
   - agent
-  - llm
-  - rust
-  - terminal
+  - tool
 ---
 
 # Kuberwastaken/claurst

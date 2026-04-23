@@ -8,10 +8,10 @@ topics: [3d-engine, cpp, cpp11, gamedev, gamedev-library, gamedev-tool, gizmo, o
 starred_at: "2017-11-13T06:43:46Z"
 tags:
   - graphic
+  - scene
+  - coding
   - cpp
-  - math
-  - opengl
-  - editor
+  - library
 ---
 
 # ddiakopoulos/tinygizmo

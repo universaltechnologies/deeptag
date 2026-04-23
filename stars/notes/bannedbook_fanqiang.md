@@ -7,12 +7,8 @@ stars: 43277
 topics: [brook, daze, fanqiang, goflyway, lightsocks, proxy, psiphon, shadowsocks, ssr, trojan, v2ray]
 starred_at: "2022-11-23T15:48:10Z"
 tags:
-  - coding
-  - proxy
-  - network
-  - android
-  - linux
-  - windows
+  - tools
+  - awesome
 ---
 
 # bannedbook/fanqiang

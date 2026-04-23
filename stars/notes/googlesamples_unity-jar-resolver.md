@@ -8,10 +8,9 @@ topics: [android-dependency, android-resolver, cocoapods, ios-resolver, jar-reso
 starred_at: "2022-02-18T10:07:45Z"
 tags:
   - coding
-  - csharp
+  - engine
+  - unity
   - plugin
-  - android
-  - ios
 ---
 
 # googlesamples/unity-jar-resolver

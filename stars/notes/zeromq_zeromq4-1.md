@@ -10,9 +10,6 @@ tags:
   - coding
   - networking
   - library
-  - middleware
-  - protocol
-  - async
 ---
 
 # zeromq/zeromq4-1

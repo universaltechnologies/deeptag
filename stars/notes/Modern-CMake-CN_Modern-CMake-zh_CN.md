@@ -10,7 +10,7 @@ tags:
   - coding
   - build
   - tutorial
-  - cpp
+  - book
 ---
 
 # Modern-CMake-CN/Modern-CMake-zh_CN

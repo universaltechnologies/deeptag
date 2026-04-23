@@ -12,7 +12,6 @@ tags:
   - ml
   - deep-learning
   - framework
-  - distributed
 ---
 
 # tensorflow/tensorflow

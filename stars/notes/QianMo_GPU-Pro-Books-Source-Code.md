@@ -8,10 +8,10 @@ topics: [book-source-code, game-development, gpu-pro, gpu-programming, graphics-
 starred_at: "2022-05-01T00:10:47Z"
 tags:
   - graphic
-  - shader
   - rendering
+  - shader
   - book
-  - glsl
+  - awesome
 ---
 
 # QianMo/GPU-Pro-Books-Source-Code

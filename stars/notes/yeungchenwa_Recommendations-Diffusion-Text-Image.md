@@ -8,12 +8,10 @@ topics: [awesome, diffusion-models, font-generation, handwritten, scene-text-det
 starred_at: "2026-03-02T18:00:45Z"
 tags:
   - coding
-  - awesome
   - ai
   - diffusion
   - cv
-  - font
-  - image
+  - awesome
 ---
 
 # yeungchenwa/Recommendations-Diffusion-Text-Image

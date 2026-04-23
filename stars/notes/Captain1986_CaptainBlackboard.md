@@ -10,8 +10,7 @@ tags:
   - coding
   - ai
   - cv
-  - cpp
-  - algorithm
+  - deep-learning
   - tutorial
 ---
 

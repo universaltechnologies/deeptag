@@ -8,8 +8,10 @@ topics: [agent, chatbot, large-language-models, llm, llm-agent, mcp, multi-agent
 starred_at: "2026-02-06T08:34:55Z"
 tags:
   - coding
-  - agent
+  - ai
   - llm
+  - agent
+  - mcp
   - framework
 ---
 

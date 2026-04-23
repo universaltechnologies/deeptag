@@ -8,9 +8,8 @@ topics: [artificial-intelligence, large-language-model]
 starred_at: "2026-04-03T16:12:41Z"
 tags:
   - coding
-  - llm
   - ai
-  - deep-learning
+  - llm
   - tutorial
 ---
 

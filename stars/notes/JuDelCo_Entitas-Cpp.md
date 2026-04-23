@@ -8,10 +8,8 @@ topics: [cpp, design-pattern, ecs, entitas, entity, entity-component, entity-com
 starred_at: "2016-12-24T10:38:35Z"
 tags:
   - coding
-  - ecs
-  - engine
+  - game
   - cpp
-  - performance
   - framework
 ---
 

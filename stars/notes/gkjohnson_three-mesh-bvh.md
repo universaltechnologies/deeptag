@@ -8,10 +8,10 @@ topics: [acceleration, bounds, bounds-hierarchy, bvh, distance, geometry, graphi
 starred_at: "2023-05-25T05:46:56Z"
 tags:
   - graphic
-  - algorithm
-  - webgl
   - ray-tracing
-  - mesh
+  - geometry
+  - webgl
+  - library
   - performance
 ---
 

@@ -8,11 +8,11 @@ topics: [asynchronous-programming, futures, rpc-framework, rust, tokio]
 starred_at: "2022-03-09T16:40:13Z"
 tags:
   - coding
+  - networking
   - rpc
-  - async
   - rust
   - framework
-  - middleware
+  - library
 ---
 
 # google/tarpc

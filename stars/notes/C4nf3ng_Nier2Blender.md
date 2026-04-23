@@ -7,12 +7,11 @@ stars: 76
 topics: []
 starred_at: "2020-02-24T15:02:26Z"
 tags:
-  - tools
   - coding
-  - python
+  - media
   - 3d
+  - tool
   - plugin
-  - modeling
 ---
 
 # C4nf3ng/Nier2Blender

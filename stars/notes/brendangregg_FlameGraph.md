@@ -8,11 +8,9 @@ topics: []
 starred_at: "2025-06-03T16:33:29Z"
 tags:
   - coding
-  - visualization
-  - performance
   - profiler
-  - cli
-  - linux
+  - visualization
+  - tool
 ---
 
 # brendangregg/FlameGraph

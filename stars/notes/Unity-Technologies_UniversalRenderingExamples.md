@@ -10,9 +10,8 @@ tags:
   - coding
   - engine
   - unity
-  - urp
-  - rendering
   - graphic
+  - rendering
 ---
 
 # Unity-Technologies/UniversalRenderingExamples

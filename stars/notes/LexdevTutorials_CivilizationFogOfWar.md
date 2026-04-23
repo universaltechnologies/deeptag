@@ -8,9 +8,8 @@ topics: []
 starred_at: "2024-12-27T11:47:10Z"
 tags:
   - coding
-  - unity
-  - gameplay
-  - shader
+  - game
+  - tutorial
 ---
 
 # LexdevTutorials/CivilizationFogOfWar

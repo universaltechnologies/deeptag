@@ -8,8 +8,9 @@ topics: []
 starred_at: "2019-04-17T01:24:05Z"
 tags:
   - coding
-  - python
+  - data
   - tutorial
+  - practice
 ---
 
 # WillKoehrsen/Data-Analysis

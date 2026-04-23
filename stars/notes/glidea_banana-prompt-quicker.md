@@ -7,11 +7,11 @@ stars: 2318
 topics: [banana, gemini, prompt]
 starred_at: "2025-12-21T02:56:41Z"
 tags:
-  - tools
+  - coding
   - ai
   - prompt
-  - productivity
-  - misc
+  - web
+  - tool
 ---
 
 # glidea/banana-prompt-quicker

@@ -7,13 +7,12 @@ stars: 381
 topics: []
 starred_at: "2026-03-03T09:58:50Z"
 tags:
+  - coding
+  - ai
+  - mcp
   - graphic
   - debug
-  - rendering
-  - pipeline
-  - shader
-  - python
-  - ai
+  - tool
 ---
 
 # halby24/RenderDocMCP

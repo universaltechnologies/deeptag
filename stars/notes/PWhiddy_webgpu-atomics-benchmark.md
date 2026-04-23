@@ -7,13 +7,12 @@ stars: 7
 topics: []
 starred_at: "2024-11-01T08:28:02Z"
 tags:
-  - coding
+  - graphic
+  - platform
   - webgpu
-  - gpu
-  - benchmark
+  - coding
   - performance
-  - algorithm
-  - misc
+  - tool
 ---
 
 # PWhiddy/webgpu-atomics-benchmark

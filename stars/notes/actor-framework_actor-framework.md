@@ -8,11 +8,11 @@ topics: [actor-model, actors, async, caf, pattern-matching]
 starred_at: "2017-01-20T05:53:43Z"
 tags:
   - coding
-  - framework
-  - concurrency
   - cpp
+  - concurrency
   - async
-  - distributed
+  - library
+  - framework
 ---
 
 # actor-framework/actor-framework

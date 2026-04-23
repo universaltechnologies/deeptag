@@ -9,8 +9,9 @@ starred_at: "2024-06-12T07:08:38Z"
 tags:
   - coding
   - ai
-  - ui
-  - python
+  - diffusion
+  - plugin
+  - gui
 ---
 
 # ZHO-ZHO-ZHO/ComfyUI-ArtGallery

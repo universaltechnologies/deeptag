@@ -10,9 +10,8 @@ tags:
   - coding
   - ai
   - agent
-  - llm
-  - editor
-  - typescript
+  - plugin
+  - tool
 ---
 
 # RooCodeInc/Roo-Code

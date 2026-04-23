@@ -10,9 +10,6 @@ tags:
   - coding
   - ai
   - agent
-  - cli
-  - markdown
-  - misc
 ---
 
 # kepano/obsidian-skills

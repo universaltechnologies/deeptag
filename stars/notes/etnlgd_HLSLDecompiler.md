@@ -8,11 +8,9 @@ topics: []
 starred_at: "2023-08-14T07:14:02Z"
 tags:
   - graphic
-  - hlsl
   - shader
-  - reverse
-  - rendering
-  - tools
+  - hlsl
+  - tool
 ---
 
 # etnlgd/HLSLDecompiler

@@ -9,10 +9,11 @@ starred_at: "2023-02-16T07:06:58Z"
 tags:
   - coding
   - ai
-  - distributed
   - deep-learning
-  - inference
-  - cuda
+  - systems
+  - distributed
+  - library
+  - framework
 ---
 
 # hpcaitech/ColossalAI

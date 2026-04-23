@@ -10,7 +10,6 @@ tags:
   - coding
   - awesome
   - book
-  - tutorial
 ---
 
 # justjavac/free-programming-books-zh_CN

@@ -8,11 +8,10 @@ topics: [mcp, mcp-server, n8n, workflows]
 starred_at: "2026-01-20T02:55:15Z"
 tags:
   - coding
-  - workflow
-  - automation
-  - typescript
-  - api
   - ai
+  - mcp
+  - tool
+  - library
 ---
 
 # czlonkowski/n8n-mcp

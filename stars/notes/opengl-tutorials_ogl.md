@@ -8,10 +8,9 @@ topics: []
 starred_at: "2016-04-16T12:13:30Z"
 tags:
   - graphic
-  - opengl
-  - cpp
+  - rendering
+  - rasterization
   - tutorial
-  - math
 ---
 
 # opengl-tutorials/ogl

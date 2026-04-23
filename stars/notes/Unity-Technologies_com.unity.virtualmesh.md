@@ -8,11 +8,11 @@ topics: [owner-lighthouse-japan, unity]
 starred_at: "2025-11-24T04:10:57Z"
 tags:
   - graphic
-  - engine
-  - gpu
-  - culling
+  - rendering
+  - shader
   - compute-shader
-  - mobile
+  - culling
+  - library
 ---
 
 # Unity-Technologies/com.unity.virtualmesh

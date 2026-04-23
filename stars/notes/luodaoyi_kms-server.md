@@ -8,8 +8,8 @@ topics: [docker-image, kms]
 starred_at: "2022-04-26T17:44:22Z"
 tags:
   - coding
+  - tools
   - docker
-  - network
 ---
 
 # luodaoyi/kms-server

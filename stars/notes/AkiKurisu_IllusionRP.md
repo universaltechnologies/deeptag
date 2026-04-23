@@ -7,12 +7,13 @@ stars: 215
 topics: [graphics, hdrp, rendergraph, rendering, shader, srp, unity, unity3d, urp]
 starred_at: "2026-01-04T07:16:11Z"
 tags:
-  - graphic
-  - shader
-  - rendering
+  - coding
+  - engine
   - unity
-  - urp
-  - pbr
+  - graphic
+  - rendering
+  - shader
+  - plugin
 ---
 
 # AkiKurisu/IllusionRP

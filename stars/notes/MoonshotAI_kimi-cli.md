@@ -11,8 +11,7 @@ tags:
   - ai
   - agent
   - cli
-  - automation
-  - terminal
+  - tool
 ---
 
 # MoonshotAI/kimi-cli

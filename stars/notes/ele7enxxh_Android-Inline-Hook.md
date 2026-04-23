@@ -10,7 +10,7 @@ tags:
   - coding
   - android
   - hook
-  - reverse
+  - library
 ---
 
 # ele7enxxh/Android-Inline-Hook

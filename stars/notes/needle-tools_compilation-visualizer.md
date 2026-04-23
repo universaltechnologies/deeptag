@@ -7,11 +7,12 @@ stars: 1105
 topics: [assembly, compact, compilation-visualizer, unity]
 starred_at: "2023-02-02T16:49:05Z"
 tags:
-  - tools
+  - coding
+  - engine
   - unity
-  - editor
+  - tool
+  - debug
   - visualization
-  - csharp
 ---
 
 # needle-tools/compilation-visualizer

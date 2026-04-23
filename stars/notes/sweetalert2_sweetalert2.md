@@ -8,8 +8,8 @@ topics: [accessible, alert, angular, confirm, confirmation-dialog, dialog, modal
 starred_at: "2025-07-25T08:40:10Z"
 tags:
   - coding
-  - ui
-  - javascript
+  - web
+  - library
 ---
 
 # sweetalert2/sweetalert2

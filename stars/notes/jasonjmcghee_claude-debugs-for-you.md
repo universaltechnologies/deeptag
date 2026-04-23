@@ -8,10 +8,10 @@ topics: [anthropic, autodebug, automation, claude, context, debug, debugging, de
 starred_at: "2025-02-18T02:48:26Z"
 tags:
   - coding
-  - debug
-  - llm
+  - ai
   - mcp
-  - automation
+  - tool
+  - plugin
 ---
 
 # jasonjmcghee/claude-debugs-for-you

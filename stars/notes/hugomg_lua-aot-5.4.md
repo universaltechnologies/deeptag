@@ -8,9 +8,9 @@ topics: []
 starred_at: "2024-10-10T03:59:54Z"
 tags:
   - coding
+  - language
   - compiler
-  - lua
-  - performance
+  - tool
 ---
 
 # hugomg/lua-aot-5.4

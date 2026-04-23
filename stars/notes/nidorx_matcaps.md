@@ -8,8 +8,9 @@ topics: [blender-3d, envmap, lighting, litsphere, matcap, non-photorealistic, op
 starred_at: "2023-03-17T21:54:05Z"
 tags:
   - graphic
+  - material
   - texture
-  - 3d
+  - library
 ---
 
 # nidorx/matcaps

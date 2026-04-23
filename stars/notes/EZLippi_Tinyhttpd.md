@@ -8,10 +8,9 @@ topics: []
 starred_at: "2022-04-09T11:05:52Z"
 tags:
   - coding
-  - c
-  - http
-  - server
   - networking
+  - server
+  - http
   - tutorial
 ---
 

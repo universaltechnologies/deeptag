@@ -9,10 +9,8 @@ starred_at: "2026-03-30T02:34:19Z"
 tags:
   - tools
   - cli
-  - terminal
   - performance
   - c
-  - linux
 ---
 
 # fastfetch-cli/fastfetch

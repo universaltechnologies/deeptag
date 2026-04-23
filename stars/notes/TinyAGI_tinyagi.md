@@ -10,8 +10,7 @@ tags:
   - coding
   - ai
   - agent
-  - typescript
-  - llm
+  - library
 ---
 
 # TinyAGI/tinyagi

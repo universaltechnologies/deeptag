@@ -8,10 +8,8 @@ topics: []
 starred_at: "2024-12-16T07:13:35Z"
 tags:
   - coding
+  - language
   - book
-  - compiler
-  - tutorial
-  - java
 ---
 
 # GuoYaxiang/craftinginterpreters_zh

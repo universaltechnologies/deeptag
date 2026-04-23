@@ -11,8 +11,7 @@ tags:
   - web
   - frontend
   - ui
-  - component
-  - typescript
+  - library
 ---
 
 # timolins/react-hot-toast

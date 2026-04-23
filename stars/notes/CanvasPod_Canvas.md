@@ -9,9 +9,8 @@ starred_at: "2015-12-20T06:17:31Z"
 tags:
   - coding
   - ios
-  - animation
-  - ui
   - library
+  - tool
 ---
 
 # CanvasPod/Canvas

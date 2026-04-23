@@ -10,7 +10,9 @@ tags:
   - coding
   - web
   - automation
+  - mcp
   - framework
+  - library
 ---
 
 # D4Vinci/Scrapling

@@ -7,10 +7,11 @@ stars: 123
 topics: []
 starred_at: "2024-02-21T06:56:44Z"
 tags:
-  - coding
-  - procedural
+  - graphic
+  - material
   - texture
-  - webgl
+  - procedural
+  - tool
 ---
 
 # cpetry/TextureGenerator-Online

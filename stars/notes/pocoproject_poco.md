@@ -8,11 +8,11 @@ topics: [c-plus-plus, configuration, cross-platform, database-access, http-clien
 starred_at: "2023-08-02T07:04:47Z"
 tags:
   - coding
-  - library
   - networking
-  - cross-platform
   - database
-  - json
+  - library
+  - cross-platform
+  - cpp
 ---
 
 # pocoproject/poco

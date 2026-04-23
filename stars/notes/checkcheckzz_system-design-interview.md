@@ -8,9 +8,9 @@ topics: [design-systems, interview, interview-preparation, interview-questions, 
 starred_at: "2023-11-18T12:32:17Z"
 tags:
   - coding
-  - distributed
   - architecture
-  - misc
+  - awesome
+  - tutorial
 ---
 
 # checkcheckzz/system-design-interview

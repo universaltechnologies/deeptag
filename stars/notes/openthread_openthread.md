@@ -9,8 +9,10 @@ starred_at: "2016-06-28T13:48:00Z"
 tags:
   - coding
   - networking
-  - embedded
   - protocol
+  - embedded
+  - library
+  - cross-platform
 ---
 
 # openthread/openthread

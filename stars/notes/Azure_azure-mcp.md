@@ -8,10 +8,10 @@ topics: []
 starred_at: "2026-03-05T03:28:58Z"
 tags:
   - coding
-  - csharp
-  - agent
+  - ai
+  - mcp
   - cloud
-  - self-hosted
+  - tool
 ---
 
 # Azure/azure-mcp

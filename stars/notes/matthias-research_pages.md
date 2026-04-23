@@ -10,8 +10,8 @@ tags:
   - coding
   - physics
   - web
-  - javascript
-  - simulation
+  - frontend
+  - tool
 ---
 
 # matthias-research/pages

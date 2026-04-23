@@ -8,12 +8,10 @@ topics: [android-performance, battery, cpu, fps, ios-performance, jank, memory, 
 starred_at: "2024-08-19T07:33:25Z"
 tags:
   - tools
+  - performance
   - android
   - ios
-  - performance
-  - automation
-  - debug
-  - monitoring
+  - tool
 ---
 
 # smart-test-ti/SoloX

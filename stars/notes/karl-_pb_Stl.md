@@ -8,9 +8,9 @@ topics: [stl, stl-importer, unity, unity-editor, unity-plugin, unity3d]
 starred_at: "2023-04-11T09:18:26Z"
 tags:
   - coding
+  - engine
   - unity
-  - mesh
-  - 3d
+  - plugin
 ---
 
 # karl-/pb_Stl

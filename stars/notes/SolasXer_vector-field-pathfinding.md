@@ -8,9 +8,9 @@ topics: []
 starred_at: "2025-12-18T17:34:32Z"
 tags:
   - coding
-  - gameplay
   - algorithm
-  - typescript
+  - simulation
+  - game
 ---
 
 # SolasXer/vector-field-pathfinding

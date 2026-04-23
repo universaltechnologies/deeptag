@@ -8,8 +8,9 @@ topics: [font, glyphs, javascript, kerning, nodejs, opentype, opentypejs, otf, t
 starred_at: "2025-11-14T03:54:50Z"
 tags:
   - coding
-  - font
-  - nodejs
+  - media
+  - library
+  - cross-platform
 ---
 
 # opentypejs/opentype.js

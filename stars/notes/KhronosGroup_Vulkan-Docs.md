@@ -7,8 +7,10 @@ stars: 3244
 topics: []
 starred_at: "2017-04-21T01:58:17Z"
 tags:
-  - graphic
+  - coding
+  - platform
   - vulkan
+  - spec
 ---
 
 # KhronosGroup/Vulkan-Docs

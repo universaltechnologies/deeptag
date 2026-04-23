@@ -8,8 +8,9 @@ topics: [apache-doris, business-intelligence, data-analysis, data-visualization,
 starred_at: "2024-07-09T11:29:32Z"
 tags:
   - coding
+  - data
   - visualization
-  - gui
+  - tool
 ---
 
 # dataease/dataease

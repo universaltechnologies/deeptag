@@ -8,6 +8,7 @@ topics: []
 starred_at: "2022-10-07T12:51:17Z"
 tags:
   - graphic
+  - platform
   - vulkan
   - tutorial
 ---

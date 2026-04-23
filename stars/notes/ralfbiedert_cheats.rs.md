@@ -8,7 +8,9 @@ topics: [cheatsheet, language, rust]
 starred_at: "2023-01-05T05:00:36Z"
 tags:
   - coding
-  - tutorial
+  - language
+  - rust
+  - tool
 ---
 
 # ralfbiedert/cheats.rs

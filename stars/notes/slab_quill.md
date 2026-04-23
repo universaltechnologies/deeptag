@@ -8,11 +8,9 @@ topics: [editor, quill, rich-text-editor, wysiwyg]
 starred_at: "2023-10-20T15:42:37Z"
 tags:
   - coding
-  - editor
   - web
   - frontend
-  - ui
-  - framework
+  - library
 ---
 
 # slab/quill

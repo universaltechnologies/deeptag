@@ -9,9 +9,8 @@ starred_at: "2023-11-20T09:56:20Z"
 tags:
   - coding
   - algorithm
-  - library
   - geometry
-  - math
+  - library
 ---
 
 # d3/d3-delaunay

@@ -8,7 +8,10 @@ topics: [gpgpu-computing, gpu, w3c, webgpu, wgsl]
 starred_at: "2022-05-01T09:55:33Z"
 tags:
   - graphic
+  - platform
   - webgpu
+  - shader
+  - spec
 ---
 
 # gpuweb/gpuweb

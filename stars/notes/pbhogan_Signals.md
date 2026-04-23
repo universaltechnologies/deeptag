@@ -8,9 +8,8 @@ topics: []
 starred_at: "2016-12-20T08:19:08Z"
 tags:
   - coding
-  - library
   - cpp
-  - template
+  - library
 ---
 
 # pbhogan/Signals

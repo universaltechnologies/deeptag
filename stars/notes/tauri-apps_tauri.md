@@ -10,8 +10,9 @@ tags:
   - coding
   - framework
   - desktop
-  - mobile
-  - cross-platform
+  - web
+  - frontend
+  - rust
 ---
 
 # tauri-apps/tauri

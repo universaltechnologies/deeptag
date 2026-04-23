@@ -7,8 +7,7 @@ stars: 15291
 topics: [chinese, chinese-simplified, chinese-traditional, copywriting, css, documentation, guideline, leancloud, markdown]
 starred_at: "2022-05-12T19:42:22Z"
 tags:
-  - coding
-  - css
+  - markdown
 ---
 
 # sparanoid/chinese-copywriting-guidelines

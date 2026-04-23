@@ -7,12 +7,11 @@ stars: 556
 topics: [apng, astc, bmp, crop, dds, dear-imgui, exr, gif, hdr, image, image-processing, image-viewer, jpg, ktx, ktx2, png, qoi, tga, tiff, webp]
 starred_at: "2025-05-14T02:00:54Z"
 tags:
-  - graphic
+  - coding
+  - media
   - image-processing
   - image
-  - opengl
-  - tools
-  - cross-platform
+  - tool
 ---
 
 # bluescan/tacentview

@@ -8,11 +8,8 @@ topics: [component-driven, design-system, learning, storybook]
 starred_at: "2023-05-15T10:56:08Z"
 tags:
   - coding
-  - frontend
-  - ui
-  - component
-  - tutorial
   - web
+  - tutorial
 ---
 
 # chromaui/learnstorybook.com

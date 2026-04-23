@@ -8,11 +8,11 @@ topics: [cross-platform, distributed-systems, encryption, file-manager, open-sou
 starred_at: "2023-03-06T18:01:57Z"
 tags:
   - coding
-  - rust
-  - p2p
-  - filesystem
+  - systems
   - storage
-  - encryption
+  - networking
+  - cross-platform
+  - tool
 ---
 
 # spacedriveapp/spacedrive

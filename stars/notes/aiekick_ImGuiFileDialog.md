@@ -8,10 +8,9 @@ topics: [bookmark, cimgui, cross-platform, custom-filter, custom-pane, dialog, d
 starred_at: "2023-02-23T17:07:11Z"
 tags:
   - coding
-  - ui
-  - cross-platform
+  - gui
   - library
-  - misc
+  - cross-platform
 ---
 
 # aiekick/ImGuiFileDialog

@@ -11,6 +11,7 @@ tags:
   - compiler
   - jit
   - rust
+  - library
 ---
 
 # nbp/holyjit

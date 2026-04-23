@@ -8,10 +8,8 @@ topics: []
 starred_at: "2017-02-07T05:36:57Z"
 tags:
   - coding
-  - memory
-  - debug
-  - header-only
-  - cross-platform
+  - cpp
+  - library
 ---
 
 # r-lyeh-archived/tracey

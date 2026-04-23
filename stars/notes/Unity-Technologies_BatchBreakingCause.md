@@ -8,11 +8,9 @@ topics: []
 starred_at: "2020-02-29T13:40:30Z"
 tags:
   - graphic
-  - rendering
   - engine
   - unity
-  - debug
-  - culling
+  - tutorial
 ---
 
 # Unity-Technologies/BatchBreakingCause

@@ -8,10 +8,9 @@ topics: [blur, effects, filter, gaussian, unity]
 starred_at: "2020-09-29T11:03:14Z"
 tags:
   - graphic
-  - unity
-  - shader
   - post-processing
-  - ui
+  - unity
+  - tool
 ---
 
 # PavelDoGreat/Super-Blur

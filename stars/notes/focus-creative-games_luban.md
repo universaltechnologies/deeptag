@@ -9,7 +9,7 @@ starred_at: "2023-04-14T07:33:17Z"
 tags:
   - coding
   - game
-  - serialization
+  - data
   - tools
 ---
 

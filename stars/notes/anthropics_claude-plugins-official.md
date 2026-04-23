@@ -8,8 +8,9 @@ topics: [claude-code, mcp, skills]
 starred_at: "2026-03-14T13:04:19Z"
 tags:
   - coding
-  - plugin
   - ai
+  - mcp
+  - awesome
 ---
 
 # anthropics/claude-plugins-official

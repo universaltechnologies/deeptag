@@ -8,8 +8,8 @@ topics: [elasticsearch, sql]
 starred_at: "2025-06-07T05:04:01Z"
 tags:
   - coding
+  - data
   - sql
-  - database
   - plugin
 ---
 

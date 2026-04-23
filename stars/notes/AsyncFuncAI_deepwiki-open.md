@@ -10,8 +10,8 @@ tags:
   - coding
   - ai
   - llm
-  - python
-  - self-hosted
+  - web
+  - tool
 ---
 
 # AsyncFuncAI/deepwiki-open

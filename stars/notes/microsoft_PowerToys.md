@@ -11,8 +11,8 @@ tags:
   - productivity
   - windows
   - desktop
-  - ui
-  - misc
+  - csharp
+  - tool
 ---
 
 # microsoft/PowerToys

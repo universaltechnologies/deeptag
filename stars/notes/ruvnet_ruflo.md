@@ -8,11 +8,11 @@ topics: [agentic-ai, agentic-engineering, agentic-framework, agentic-rag, agenti
 starred_at: "2026-02-27T04:55:01Z"
 tags:
   - coding
-  - agent
   - ai
-  - workflow
+  - agent
   - rag
-  - llm
+  - mcp
+  - framework
 ---
 
 # ruvnet/ruflo

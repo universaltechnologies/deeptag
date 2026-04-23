@@ -7,11 +7,10 @@ stars: 19054
 topics: [chrome, chrome-extension, firefox, firefox-extension, javascript, jquery, m3u8-downloader, video-downloader]
 starred_at: "2024-10-29T04:25:14Z"
 tags:
+  - tools
   - coding
-  - browser
-  - video
+  - web
   - plugin
-  - javascript
 ---
 
 # xifangczy/cat-catch

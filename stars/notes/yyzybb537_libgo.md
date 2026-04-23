@@ -10,7 +10,8 @@ tags:
   - coding
   - concurrency
   - library
-  - performance
+  - cpp
+  - cross-platform
 ---
 
 # yyzybb537/libgo

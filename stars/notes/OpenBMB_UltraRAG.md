@@ -8,11 +8,11 @@ topics: [deepseek, demo, easy, embedding, flask, gpt, huggingface-transformers, 
 starred_at: "2026-01-21T13:49:31Z"
 tags:
   - coding
-  - rag
+  - ai
   - llm
+  - rag
   - mcp
-  - inference
-  - awesome
+  - framework
 ---
 
 # OpenBMB/UltraRAG

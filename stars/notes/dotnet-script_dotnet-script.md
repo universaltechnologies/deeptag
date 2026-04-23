@@ -8,10 +8,9 @@ topics: [csharp-script, csi, csx, dotnet-script, roslyn]
 starred_at: "2024-08-12T13:27:09Z"
 tags:
   - coding
-  - csharp
-  - cli
+  - language
   - dotnet
-  - compiler
+  - tool
 ---
 
 # dotnet-script/dotnet-script

@@ -8,8 +8,9 @@ topics: [aiart, stable-diffusion, stable-diffusion-tutorial, stable-diffusion-we
 starred_at: "2023-04-19T03:05:01Z"
 tags:
   - coding
-  - tutorial
   - ai
+  - diffusion
+  - tutorial
 ---
 
 # sudoskys/StableDiffusionBook

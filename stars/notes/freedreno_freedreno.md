@@ -8,11 +8,9 @@ topics: []
 starred_at: "2023-11-23T07:19:35Z"
 tags:
   - coding
+  - systems
   - driver
   - gpu
-  - linux
-  - android
-  - reverse
 ---
 
 # freedreno/freedreno

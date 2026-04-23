@@ -7,9 +7,10 @@ stars: 15568
 topics: []
 starred_at: "2022-11-23T16:02:12Z"
 tags:
-  - coding
-  - web
-  - misc
+  - tools
+  - awesome
+  - media
+  - image
 ---
 
 # zhaoolee/ChineseBQB

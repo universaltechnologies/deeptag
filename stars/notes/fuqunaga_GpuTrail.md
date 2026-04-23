@@ -8,9 +8,12 @@ topics: [compute-shader, trail, unity3d]
 starred_at: "2025-05-20T05:06:58Z"
 tags:
   - graphic
+  - shader
   - compute-shader
+  - coding
   - engine
-  - culling
+  - unity
+  - plugin
 ---
 
 # fuqunaga/GpuTrail

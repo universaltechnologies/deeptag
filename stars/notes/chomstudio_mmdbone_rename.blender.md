@@ -7,10 +7,9 @@ stars: 55
 topics: []
 starred_at: "2019-02-15T17:22:33Z"
 tags:
-  - tools
+  - coding
   - python
-  - editor
-  - automation
+  - plugin
 ---
 
 # chomstudio/mmdbone_rename.blender

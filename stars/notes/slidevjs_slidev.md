@@ -9,9 +9,7 @@ starred_at: "2026-01-18T07:33:49Z"
 tags:
   - coding
   - web
-  - frontend
-  - markdown
-  - editor
+  - tool
 ---
 
 # slidevjs/slidev

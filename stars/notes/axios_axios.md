@@ -8,9 +8,8 @@ topics: [hacktoberfest, http-client, javascript, nodejs, promise]
 starred_at: "2022-11-26T02:13:55Z"
 tags:
   - coding
-  - http
-  - frontend
-  - nodejs
+  - web
+  - networking
   - library
 ---
 

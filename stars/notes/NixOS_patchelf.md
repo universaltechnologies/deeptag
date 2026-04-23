@@ -7,9 +7,10 @@ stars: 4184
 topics: []
 starred_at: "2024-10-24T03:43:33Z"
 tags:
+  - tools
   - coding
   - cli
-  - linux
+  - tool
 ---
 
 # NixOS/patchelf

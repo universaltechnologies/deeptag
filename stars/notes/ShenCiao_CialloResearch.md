@@ -9,8 +9,7 @@ starred_at: "2025-03-30T09:06:36Z"
 tags:
   - graphic
   - rendering
-  - gpu
-  - cpp
+  - shader
 ---
 
 # ShenCiao/CialloResearch

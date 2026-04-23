@@ -8,10 +8,10 @@ topics: [ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawd
 starred_at: "2026-03-10T06:10:42Z"
 tags:
   - coding
-  - agent
+  - ai
   - llm
-  - cli
-  - python
+  - agent
+  - library
 ---
 
 # NousResearch/hermes-agent

@@ -8,8 +8,10 @@ topics: [assetbundle, unity]
 starred_at: "2021-12-20T02:58:36Z"
 tags:
   - coding
+  - engine
   - unity
-  - editor
+  - tool
+  - plugin
 ---
 
 # akof1314/AssetBundleReporter

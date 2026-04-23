@@ -7,11 +7,12 @@ stars: 646
 topics: [custom, scriptable-render-pipline, srp, unity, unity3d]
 starred_at: "2023-01-12T08:47:54Z"
 tags:
+  - coding
+  - engine
+  - unity
   - graphic
   - rendering
-  - unity
-  - compute-shader
-  - culling
+  - tutorial
 ---
 
 # cinight/CustomSRP

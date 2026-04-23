@@ -8,7 +8,7 @@ topics: []
 starred_at: "2023-02-07T16:50:31Z"
 tags:
   - coding
-  - misc
+  - math
   - tutorial
 ---
 

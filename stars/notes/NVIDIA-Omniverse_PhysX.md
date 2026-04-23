@@ -9,10 +9,7 @@ starred_at: "2025-10-14T10:50:27Z"
 tags:
   - coding
   - physics
-  - engine
-  - cpp
-  - simulation
-  - gpu
+  - library
 ---
 
 # NVIDIA-Omniverse/PhysX

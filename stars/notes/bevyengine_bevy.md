@@ -9,9 +9,9 @@ starred_at: "2023-02-24T03:26:10Z"
 tags:
   - coding
   - engine
-  - gameplay
+  - game
   - ecs
-  - performance
+  - framework
 ---
 
 # bevyengine/bevy

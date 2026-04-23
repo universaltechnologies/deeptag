@@ -8,11 +8,9 @@ topics: []
 starred_at: "2017-03-05T06:54:51Z"
 tags:
   - graphic
-  - 2d
+  - rendering
+  - library
   - windows
-  - directx
-  - csharp
-  - cpp
 ---
 
 # microsoft/Win2D

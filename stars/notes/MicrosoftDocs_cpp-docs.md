@@ -9,8 +9,7 @@ starred_at: "2022-05-27T03:59:39Z"
 tags:
   - coding
   - cpp
-  - stl
-  - tutorial
+  - language
 ---
 
 # MicrosoftDocs/cpp-docs

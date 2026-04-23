@@ -7,11 +7,8 @@ stars: 6986
 topics: []
 starred_at: "2024-11-16T00:17:55Z"
 tags:
-  - coding
-  - web
-  - frontend
-  - javascript
-  - misc
+  - tools
+  - awesome
 ---
 
 # kska32/ebooks

@@ -8,9 +8,10 @@ topics: [android, dynamic, hotfix, wechat]
 starred_at: "2023-11-28T08:17:48Z"
 tags:
   - coding
-  - hotfix
   - android
-  - java
+  - hotfix
+  - library
+  - tool
 ---
 
 # Tencent/tinker

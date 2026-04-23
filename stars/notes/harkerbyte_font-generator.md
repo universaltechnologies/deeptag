@@ -8,10 +8,9 @@ topics: [facebook, font-awesome, fontgen, fonts, hack, kali, kali-linux, termux,
 starred_at: "2025-11-13T12:47:30Z"
 tags:
   - coding
-  - python
+  - media
   - font
-  - automation
-  - cli
+  - tool
 ---
 
 # harkerbyte/font-generator

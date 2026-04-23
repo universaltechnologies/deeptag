@@ -9,8 +9,9 @@ starred_at: "2023-02-23T17:19:16Z"
 tags:
   - coding
   - engine
+  - game
   - ecs
-  - gameplay
+  - platform
   - opengl
   - vulkan
   - cross-platform

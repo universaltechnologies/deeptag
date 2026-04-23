@@ -8,8 +8,10 @@ topics: [generic-functions, go, linq]
 starred_at: "2021-03-17T23:31:04Z"
 tags:
   - coding
+  - data
   - algorithm
   - library
+  - performance
 ---
 
 # ahmetb/go-linq

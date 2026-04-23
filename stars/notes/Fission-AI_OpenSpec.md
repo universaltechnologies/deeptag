@@ -9,8 +9,9 @@ starred_at: "2025-12-04T10:08:05Z"
 tags:
   - coding
   - ai
+  - library
+  - tool
   - workflow
-  - automation
 ---
 
 # Fission-AI/OpenSpec

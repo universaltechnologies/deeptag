@@ -10,9 +10,9 @@ tags:
   - coding
   - ai
   - agent
-  - cli
-  - automation
   - workflow
+  - framework
+  - automation
 ---
 
 # catlog22/Claude-Code-Workflow

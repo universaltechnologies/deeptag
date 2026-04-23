@@ -8,11 +8,11 @@ topics: []
 starred_at: "2024-03-06T13:00:06Z"
 tags:
   - coding
-  - voxel
-  - godot
-  - mesh
   - engine
-  - cpp
+  - godot
+  - graphic
+  - voxel
+  - library
 ---
 
 # Zylann/godot_voxel

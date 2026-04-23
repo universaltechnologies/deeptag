@@ -8,11 +8,10 @@ topics: [compiler, hacktoberfest, interpreter, jit, language, python-language, p
 starred_at: "2021-07-16T07:39:54Z"
 tags:
   - coding
+  - language
   - compiler
   - runtime
-  - webassembly
-  - python
-  - rust
+  - jit
 ---
 
 # RustPython/RustPython

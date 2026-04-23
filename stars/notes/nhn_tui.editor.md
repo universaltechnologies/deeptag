@@ -9,10 +9,8 @@ starred_at: "2025-07-25T08:48:33Z"
 tags:
   - coding
   - web
-  - frontend
-  - editor
   - markdown
-  - ui
+  - tool
 ---
 
 # nhn/tui.editor

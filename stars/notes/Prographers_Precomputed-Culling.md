@@ -8,11 +8,10 @@ topics: [asset-store, culling, game-development, occlusion-culling, precomputed,
 starred_at: "2026-01-21T03:13:31Z"
 tags:
   - coding
-  - culling
-  - unity
-  - performance
   - engine
-  - optimization
+  - unity
+  - culling
+  - tool
 ---
 
 # Prographers/Precomputed-Culling

@@ -9,6 +9,7 @@ starred_at: "2015-11-17T03:35:44Z"
 tags:
   - coding
   - algorithm
+  - game
   - library
   - javascript
 ---

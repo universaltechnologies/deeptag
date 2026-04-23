@@ -9,6 +9,8 @@ starred_at: "2024-12-12T14:38:34Z"
 tags:
   - coding
   - algorithm
+  - awesome
+  - csharp
 ---
 
 # TheAlgorithms/C-Sharp

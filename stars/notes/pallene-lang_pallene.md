@@ -8,8 +8,8 @@ topics: []
 starred_at: "2024-10-10T03:57:38Z"
 tags:
   - coding
+  - language
   - compiler
-  - lua
   - performance
 ---
 

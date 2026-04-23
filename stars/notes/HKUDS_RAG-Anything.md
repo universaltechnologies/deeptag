@@ -8,10 +8,9 @@ topics: [multi-modal-rag, retrieval-augmented-generation]
 starred_at: "2026-01-12T03:58:09Z"
 tags:
   - coding
-  - rag
   - ai
+  - rag
   - framework
-  - inference
 ---
 
 # HKUDS/RAG-Anything

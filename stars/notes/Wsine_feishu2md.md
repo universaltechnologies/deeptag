@@ -8,10 +8,9 @@ topics: [feishu, lark, markdown]
 starred_at: "2025-10-27T06:12:22Z"
 tags:
   - coding
-  - cli
-  - markdown
+  - web
   - api
-  - automation
+  - tool
 ---
 
 # Wsine/feishu2md

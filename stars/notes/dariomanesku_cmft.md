@@ -8,9 +8,8 @@ topics: []
 starred_at: "2017-02-07T05:40:11Z"
 tags:
   - graphic
-  - tools
-  - image-processing
-  - cli
+  - lighting
+  - tool
   - cross-platform
 ---
 

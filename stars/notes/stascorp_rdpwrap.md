@@ -9,9 +9,7 @@ starred_at: "2018-09-06T06:21:37Z"
 tags:
   - coding
   - windows
-  - hook
-  - reverse
-  - automation
+  - library
 ---
 
 # stascorp/rdpwrap

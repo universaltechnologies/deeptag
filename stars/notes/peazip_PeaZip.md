@@ -11,7 +11,8 @@ tags:
   - compression
   - encryption
   - cross-platform
-  - ui
+  - windows
+  - linux
 ---
 
 # peazip/PeaZip
