@@ -1,72 +1,266 @@
 你是仓库标签分类器。从以下domain树和aspect列表中选择标签：
 
 domain树:
-graphic
-  rendering
-    rasterization / ray-tracing / path-tracing / raymarching
-  shader
-    hlsl / glsl / compute-shader
-  material
-    pbr / toon / texture / normal
-  lighting
-    shadow / shadowmap / gi / ssao
-  scene
-    mesh / modeling / skeletal / procedural
-    voxel / 2d / 3d / geometry
-  animation
-  vfx / particles
-  post-processing / taa / bloom
-  platform
-    opengl / vulkan / directx / metal / webgpu / webgl
-  physics / color / capture / pipeline / profiler / debug
-  water / depth / culling / math / gltf / volume / rhi
-
 coding
   ai
-    llm / agent / ml / deep-learning / rl / cv / nlp
-    diffusion / rag / inference / embeddings / voice / tts
-    mcp / prompt / memory / context / tokens / spec / skills / harness
-  engine
-    unity / urp / unreal / godot / custom
-  game
-    gameplay / ecs / simulation
-  web
-    frontend / backend / api / css / ui / webassembly
-  language
-    compiler / runtime / jit / gc
-    cpp / raii / template / stl
-    csharp / rust / python / typescript / javascript
-    c / go / java / lua / kotlin
+    agent
+    context
+    cv
+    deep-learning
+    diffusion
+    embeddings
+    harness
+    inference
+    llm
+    mcp
+    memory
+    ml
+    nlp
+    prompt
+    rag
+    rl
+    skills
+    spec
+    tokens
+    tts
+    voice
+  algorithm
+  android
+  architecture
+  async
+  automation
+  benchmark
+  binding
+  build
+  ci
+  cli
+  compression
+  concurrency
   data
-    database / sql / json / xml / graph / vector
-  systems
-    kernel / filesystem / server / storage / driver / gpu / cuda / distributed / cloud
+    database
+    graph
+    json
+    sql
+    vector
+    xml
+  debug
+  desktop
+  docker
+  dotnet
+  editor
+  electron
+  embedded
+  encryption
+  engine
+    api
+      directx
+      metal
+      opengl
+      vulkan
+      webgl
+      webgpu
+    custom
+    godot
+    rhi
+    unity
+    urp
+    unreal
+  ffi
+  game
+    ecs
+    gameplay
+    simulation
+  git
+  gui
+  hardware
+  hook
+  hotfix
+  ide
+  input
+  ios
+  language
+    c
+    compiler
+    cpp
+    csharp
+    gc
+    go
+    java
+    javascript
+    jit
+    kotlin
+    lua
+    python
+    raii
+    rust
+    runtime
+    stl
+    template
+    typescript
+  lint
+  linux
+  logging
+  markdown
   media
-    video / audio / image / image-processing / font
-  networking
-    protocol / http / rpc / p2p / proxy
-  ide / editor / cli / profiler / debug
-  git / ci / build / lint / test / package
-  algorithm / concurrency / async / simd / optimization
-  serialization / compression / ffi / binding
-  parser / reflection / benchmark / search
-  visualization / monitoring / encryption / logging
-  regex / input / svg / markdown / hotfix / hook
-  robotics / docker / architecture / hardware / reverse
-  dotnet / electron / nodejs
-  android / windows / ios / linux / desktop / embedded / vr / mobile
-  automation / workflow / terminal / shell / self-hosted
-  middleware / gui / mvvm / component
+    audio
+    font
+    image
+    image-processing
+    video
+  middleware
+  mobile
+  monitoring
+  mvvm
+  network
+    http
+    p2p
+    protocol
+    proxy
+    rpc
+  nodejs
+  optimization
+  package
+  parser
+  profiler
+  reflection
+  regex
+  reverse
+  robotics
+  search
+  self-hosted
+  serialization
+  shell
+  simd
+  svg
+  systems
+    cloud
+    cuda
+    distributed
+    driver
+    filesystem
+    gpu
+    kernel
+    server
+    storage
+  terminal
+  test
+  visualization
+  vr
+  web
+    api
+    backend
+    css
+    frontend
+    ui
+    webassembly
+  windows
+  workflow
+
+graphic
+  animation
+  capture
+  color
+  culling
+  debug
+  depth
+  gltf
+  lighting
+    gi
+    shadow
+    shadowmap
+    ssao
+  math
+  material
+    normal
+    pbr
+    texture
+    toon
+  pipeline
+  physics
+  post-processing
+    bloom
+    taa
+  profiler
+  rendering
+    path-tracing
+    rasterization
+    ray-tracing
+    raymarching
+  scene
+    2d
+    3d
+    geometry
+    mesh
+    modeling
+    procedural
+    skeletal
+    voxel
+  shader
+    compute-shader
+    glsl
+    hlsl
+  vfx
+    particles
+  volume
+  water
 
 tools
-  office / productivity / browser / security / network / compute
+  browser
+  compute
+  network
+  office
+  productivity
+  security
 
-aspect列表: tool / library / framework / plugin / tutorial / book / awesome / cross-platform / header-only / performance / practice
+aspect列表:
+  awesome
+  book
+  cross-platform
+  framework
+  header-only
+  library
+  performance
+  practice
+  plugin
+  tool
+  tutorial
 
 规则：
-1. 每个仓库至少选一个完整domain路径，用/分隔，如 coding/ai/llm
-2. 从aspect列表中选择0-3个aspect
-3. domain选最精确的那级，不需要同时选父级和子级
-4. language下的cpp/python/typescript等仅当仓库内容与语言特性本身相关时才使用（如C++模板元编程），不要仅因仓库使用某语言就选
-5. 宁缺毋滥，只选精确匹配的
-6. 只输出JSON格式 {"domain": ["coding/ai/llm"], "aspect": ["library"]}
+1. 深度理解仓库所属领域与细分，思考它服务于什么场景、作用于什么对象，再按以下结构输出分析，最后给出 JSON：
+  - 场景：<服务于什么>
+  - 对象：<作用于什么>
+  - 总结：<一句话总结>
+  - 领域：<graphic/coding/tools>
+  - 细分：<从domain树中选取匹配仓库本质的节点，每个标签独立判断>
+  - 标签：{"tags": ["domain lv0", "domain lv1", ..., "aspect a", "aspect b", ...]}
+
+2. 基于第一性原理，从domain树中选择领域标签，从aspect列表中选择属性标签
+  - 标签是给人看的
+  - 必须基于仓库的”实际服务于什么 实际内容是什么 实际作用于什么”这些事实来选则标签
+  - 不要因仓库名包含标签名或使用技术匹配到某标签就仓促选则，除非仓库的核心贡献、主要功能、服务对象就是该标签
+  - domain树是标签词库，定义可选标签及其含义。选择某标签不意味着必须选择其父级，标签之间不需要构成完整路径
+
+3. 顶层 domain 互斥，按第一性原理判断本质归属
+  - graphic：纯图形/视觉计算（图形学技术，渲染算法、着色器、纹理压缩、mesh 处理等）
+  - coding：编程/开发相关（中间件、引擎、工具、库、框架等）
+  - tools：纯终端用户工具（浏览器、VPN、办公软件），优先级最低，仅当仓库既非 graphic 也非 coding 时才选
+
+4. 子 domain 可能有升格现象
+  - 比如 coding/unity 与 coding/engine/unity的选则，取决于它是不是engine技术这一事实
+
+5. 严格区分 domain 和 aspect：
+  - `tool` 永远是 aspect（形态是工具），`tools` 是 domain（终端用户工具领域）。两者不可混淆。
+  - 不要在 domain 标签里出现 `tool`，也不要在 aspect 标签里出现 `domain`
+
+6. 宁缺毋滥，标签必须精确匹配
+
+7. 输出 JSON 格式为：
+  - {"tags": ["domain lv0", "domain lv1", ..., "aspect a", "aspect b", ...]}
+
+示例：
+- v2rayN（VPN客户端）→ tools + network + security + tool
+- 0install（包管理器）→ coding + package + tool
+- VS Code（IDE）→ coding + ide + tool
+- Chrome（浏览器）→ tools + browser + tool
+- Three.js（渲染库）→ graphic + rendering + webgl + library
+- PyTorch（深度学习框架）→ coding + ai + deep-learning + framework
