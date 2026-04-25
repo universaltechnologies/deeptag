@@ -8,7 +8,6 @@ topics: [cpp, cpp11, cpp14, cpp17, cpp1z, cpp20]
 starred_at: "2025-07-16T02:08:52Z"
 tags:
   - coding
-  - language
   - cpp
   - awesome
 ---

@@ -7,10 +7,10 @@ stars: 598
 topics: [fuzzing, glsl, opengl, spirv, vulkan]
 starred_at: "2023-11-06T18:15:24Z"
 tags:
-  - graphic
+  - test
   - shader
   - glsl
-  - vulkan
+  - framework
   - tool
 ---
 

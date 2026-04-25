@@ -9,9 +9,7 @@ starred_at: "2023-11-20T03:28:14Z"
 tags:
   - coding
   - reverse
-  - tool
   - framework
-  - cross-platform
 ---
 
 # NationalSecurityAgency/ghidra

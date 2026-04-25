@@ -8,7 +8,7 @@ topics: [cil, csharp, detour, detours, dotnet, monkey-patching, mono, non-destru
 starred_at: "2021-03-04T07:51:06Z"
 tags:
   - coding
-  - dotnet
+  - hook
   - library
 ---
 

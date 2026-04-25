@@ -10,9 +10,8 @@ tags:
   - coding
   - game
   - ecs
-  - performance
   - library
-  - cpp
+  - performance
 ---
 
 # vblanco20-1/decs

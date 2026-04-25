@@ -7,9 +7,8 @@ stars: 59
 topics: [api, performance, specification, web, web-application, webapp]
 starred_at: "2026-04-12T01:49:51Z"
 tags:
-  - coding
   - web
-  - performance
+  - api
   - spec
 ---
 

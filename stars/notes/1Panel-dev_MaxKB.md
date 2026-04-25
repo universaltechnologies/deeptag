@@ -9,11 +9,11 @@ starred_at: "2024-04-28T08:32:23Z"
 tags:
   - coding
   - ai
-  - llm
   - agent
   - rag
+  - llm
   - mcp
-  - tool
+  - framework
 ---
 
 # 1Panel-dev/MaxKB

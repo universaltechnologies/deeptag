@@ -7,10 +7,8 @@ stars: 741
 topics: []
 starred_at: "2016-04-12T15:46:06Z"
 tags:
-  - graphic
-  - platform
+  - coding
   - opengl
-  - tool
   - library
 ---
 

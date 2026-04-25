@@ -7,10 +7,9 @@ stars: 5003
 topics: [3d, audio, csharp, game-development, glfw, graphics, graphics-library, haptics, native, openal, opencl, opengl, scientific-visualization, silk, vulkan, webgpu, wgpu]
 starred_at: "2024-02-04T07:01:01Z"
 tags:
-  - graphic
-  - platform
-  - library
+  - coding
   - binding
+  - library
 ---
 
 # dotnet/Silk.NET

@@ -9,9 +9,16 @@ starred_at: "2023-11-28T08:47:25Z"
 tags:
   - coding
   - algorithm
-  - cuda
-  - hlsl
+  - graphic
+  - shader
   - compute-shader
+  - systems
+  - cuda
+  - engine
+  - api
+  - directx
+  - webgpu
+  - library
 ---
 
 # b0nes164/GPUPrefixSums

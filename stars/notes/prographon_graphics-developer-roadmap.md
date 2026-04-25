@@ -7,12 +7,9 @@ stars: 1279
 topics: []
 starred_at: "2024-08-07T02:46:57Z"
 tags:
-  - graphic
-  - rendering
-  - rasterization
-  - ray-tracing
   - awesome
   - tutorial
+  - book
 ---
 
 # prographon/graphics-developer-roadmap

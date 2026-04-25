@@ -7,11 +7,11 @@ stars: 7632
 topics: [c-sharp, code-generation, csharp, design-pattern, design-patterns, ecs, entity, entity-component-system, game, game-development, game-engine, gamedev, performance, tdd, unity, unity3d]
 starred_at: "2023-09-28T19:57:26Z"
 tags:
-  - coding
-  - engine
   - game
+  - ecs
+  - unity
+  - csharp
   - framework
-  - performance
 ---
 
 # sschmid/Entitas

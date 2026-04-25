@@ -7,11 +7,11 @@ stars: 1183
 topics: [art, game-development, houdini, procedural, real-time, tech-art, tools, toolset, unity3d, unreal-engine, vfx]
 starred_at: "2024-01-18T14:36:59Z"
 tags:
-  - tools
-  - graphic
-  - vfx
-  - scene
-  - procedural
+  - coding
+  - engine
+  - custom
+  - plugin
+  - tool
 ---
 
 # sideeffects/SideFXLabs

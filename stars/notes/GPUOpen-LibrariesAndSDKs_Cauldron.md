@@ -7,11 +7,9 @@ stars: 1075
 topics: []
 starred_at: "2022-10-07T13:19:22Z"
 tags:
-  - graphic
-  - platform
   - vulkan
   - directx
-  - library
+  - framework
 ---
 
 # GPUOpen-LibrariesAndSDKs/Cauldron

@@ -9,7 +9,6 @@ starred_at: "2017-04-14T02:35:30Z"
 tags:
   - coding
   - serialization
-  - cpp
   - library
   - header-only
 ---

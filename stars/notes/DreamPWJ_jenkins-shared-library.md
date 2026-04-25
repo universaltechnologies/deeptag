@@ -7,11 +7,8 @@ stars: 93
 topics: []
 starred_at: "2024-06-26T02:37:34Z"
 tags:
-  - coding
   - ci
-  - docker
   - library
-  - framework
 ---
 
 # DreamPWJ/jenkins-shared-library

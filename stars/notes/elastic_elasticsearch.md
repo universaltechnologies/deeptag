@@ -9,10 +9,9 @@ starred_at: "2025-06-07T05:03:33Z"
 tags:
   - coding
   - search
-  - database
   - distributed
-  - java
-  - tool
+  - server
+  - framework
 ---
 
 # elastic/elasticsearch

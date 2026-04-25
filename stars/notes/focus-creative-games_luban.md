@@ -7,10 +7,10 @@ stars: 4355
 topics: [cocos2d-x, config, csv, datatable, excel, flatbuffers, game, godot, hybridclr, json, lua, msgpack, protobuf, unity, xls2json, xls2lua, xlsx2json, xlsx2lua, xml, yaml]
 starred_at: "2023-04-14T07:33:17Z"
 tags:
-  - coding
   - game
   - data
-  - tools
+  - build
+  - tool
 ---
 
 # focus-creative-games/luban

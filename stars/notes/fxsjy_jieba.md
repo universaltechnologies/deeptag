@@ -10,7 +10,6 @@ tags:
   - coding
   - nlp
   - library
-  - algorithm
 ---
 
 # fxsjy/jieba

@@ -8,7 +8,6 @@ topics: [api, api-client, browser-library, buddha, customer-service, customer-su
 starred_at: "2025-06-21T03:21:14Z"
 tags:
   - coding
-  - web
   - api
   - library
 ---

@@ -8,10 +8,10 @@ topics: [bootstrap, cpp, headeronly, setup, utility, vulkan]
 starred_at: "2022-10-07T14:16:25Z"
 tags:
   - coding
-  - platform
+  - engine
+  - api
   - vulkan
   - library
-  - header-only
 ---
 
 # charles-lunarg/vk-bootstrap

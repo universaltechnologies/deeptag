@@ -8,8 +8,8 @@ topics: []
 starred_at: "2020-09-29T10:19:16Z"
 tags:
   - coding
-  - cpp
-  - tutorial
+  - architecture
+  - book
 ---
 
 # me115/design_patterns

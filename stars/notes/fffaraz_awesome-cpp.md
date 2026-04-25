@@ -8,7 +8,9 @@ topics: [awesome, awesome-list, c, c-plus-plus, cpp, cpp-library, cppcon, librar
 starred_at: "2022-03-09T16:23:22Z"
 tags:
   - coding
+  - language
   - cpp
+  - c
   - awesome
 ---
 

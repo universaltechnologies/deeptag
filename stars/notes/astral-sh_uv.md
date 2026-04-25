@@ -8,8 +8,9 @@ topics: [packaging, python, resolver, uv]
 starred_at: "2025-05-23T08:37:27Z"
 tags:
   - coding
+  - package
   - python
-  - performance
+  - rust
   - tool
 ---
 

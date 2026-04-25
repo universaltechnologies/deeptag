@@ -7,10 +7,9 @@ stars: 56485
 topics: []
 starred_at: "2026-03-13T09:46:31Z"
 tags:
-  - coding
   - ai
   - agent
-  - tool
+  - framework
 ---
 
 # paperclipai/paperclip

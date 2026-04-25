@@ -9,11 +9,8 @@ starred_at: "2025-08-18T04:07:56Z"
 tags:
   - graphic
   - shader
-  - hlsl
-  - pbr
-  - engine
   - unity
-  - tool
+  - library
 ---
 
 # gomson/AnisotropicStandardShader

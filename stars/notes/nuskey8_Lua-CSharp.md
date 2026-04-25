@@ -8,11 +8,12 @@ topics: []
 starred_at: "2024-10-14T13:13:28Z"
 tags:
   - coding
-  - engine
-  - unity
+  - language
+  - lua
+  - csharp
+  - runtime
   - library
   - performance
-  - dotnet
 ---
 
 # nuskey8/Lua-CSharp

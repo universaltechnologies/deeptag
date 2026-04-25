@@ -10,7 +10,7 @@ tags:
   - coding
   - data
   - database
-  - cross-platform
+  - library
 ---
 
 # apache/iotdb

@@ -7,8 +7,6 @@ stars: 37411
 topics: [javascript, jquery, nerv, nervjs, react, react-native, reactjs, taro, typescript, vue, vue3, wechat, wechat-mini-program, weixin, wxapp]
 starred_at: "2023-07-13T11:21:18Z"
 tags:
-  - coding
-  - web
   - frontend
   - framework
   - cross-platform

@@ -10,6 +10,8 @@ tags:
   - coding
   - ai
   - agent
+  - terminal
+  - plugin
   - tool
 ---
 

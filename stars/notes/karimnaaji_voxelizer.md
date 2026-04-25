@@ -8,9 +8,10 @@ topics: [c99, computer-graphics, geometry-processing, voxelizer]
 starred_at: "2017-03-02T14:03:25Z"
 tags:
   - graphic
-  - scene
   - voxel
+  - mesh
   - header-only
+  - library
 ---
 
 # karimnaaji/voxelizer

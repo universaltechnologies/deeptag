@@ -10,12 +10,9 @@ tags:
   - graphic
   - lighting
   - shadow
-  - shader
-  - compute-shader
-  - coding
-  - engine
   - unity
-  - performance
+  - urp
+  - plugin
 ---
 
 # LexCapp/TVSO-Temporal-Variance-Shadow-Optimizer

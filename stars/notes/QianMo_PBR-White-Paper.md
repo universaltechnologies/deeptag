@@ -8,11 +8,8 @@ topics: [ebook, game-development, pbr, physically-based-rendering, real-time-ren
 starred_at: "2023-02-08T05:34:05Z"
 tags:
   - graphic
-  - rendering
   - pbr
-  - shader
   - book
-  - tutorial
 ---
 
 # QianMo/PBR-White-Paper

@@ -8,9 +8,8 @@ topics: []
 starred_at: "2023-07-05T04:42:43Z"
 tags:
   - coding
-  - systems
   - android
-  - tool
+  - framework
 ---
 
 # RikkaApps/Shizuku

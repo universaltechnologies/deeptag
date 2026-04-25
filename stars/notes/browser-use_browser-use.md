@@ -7,11 +7,11 @@ stars: 88771
 topics: [ai-agents, ai-tools, browser-automation, browser-use, llm, playwright, python]
 starred_at: "2026-03-23T08:57:42Z"
 tags:
-  - coding
   - ai
   - agent
+  - browser
   - automation
-  - web
+  - library
 ---
 
 # browser-use/browser-use

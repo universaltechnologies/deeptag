@@ -7,10 +7,10 @@ stars: 162484
 topics: [ai, ai-art, deep-learning, diffusion, gradio, image-generation, image2image, img2img, pytorch, stable-diffusion, text2image, torch, txt2img, unstable, upscaling, web]
 starred_at: "2022-12-13T02:22:15Z"
 tags:
-  - coding
   - ai
   - diffusion
   - web
+  - frontend
   - tool
 ---
 

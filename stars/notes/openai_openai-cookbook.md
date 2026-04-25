@@ -7,12 +7,10 @@ stars: 72831
 topics: [chatgpt, gpt-4, openai, openai-api]
 starred_at: "2022-12-04T17:28:14Z"
 tags:
-  - coding
   - ai
   - llm
-  - python
   - tutorial
-  - awesome
+  - practice
 ---
 
 # openai/openai-cookbook

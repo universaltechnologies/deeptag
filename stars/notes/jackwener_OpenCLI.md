@@ -7,12 +7,9 @@ stars: 16504
 topics: [ai-agent, ai-agents, ai-tools, cli]
 starred_at: "2026-03-19T01:53:05Z"
 tags:
-  - coding
-  - ai
+  - cli
   - agent
   - tool
-  - nodejs
-  - automation
 ---
 
 # jackwener/OpenCLI

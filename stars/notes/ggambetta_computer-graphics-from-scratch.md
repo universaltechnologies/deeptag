@@ -8,8 +8,7 @@ topics: []
 starred_at: "2023-11-06T18:16:31Z"
 tags:
   - graphic
-  - rasterization
-  - ray-tracing
+  - rendering
   - book
 ---
 

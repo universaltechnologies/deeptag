@@ -7,8 +7,6 @@ stars: 636
 topics: [draw-io, obsidian-md, obsidian-plugin]
 starred_at: "2025-10-31T07:47:09Z"
 tags:
-  - coding
-  - web
   - plugin
 ---
 

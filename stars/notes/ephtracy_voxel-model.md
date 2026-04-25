@@ -8,10 +8,8 @@ topics: []
 starred_at: "2017-02-21T12:29:23Z"
 tags:
   - graphic
-  - scene
   - voxel
   - benchmark
-  - data
 ---
 
 # ephtracy/voxel-model

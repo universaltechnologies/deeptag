@@ -7,9 +7,11 @@ stars: 275
 topics: [activator, createinstance, csharp, csharp-library, csharp-sourcegenerator, delegate, dotnet, dotnet-core, expression, fast, generic, incremental, library, netframework, nuget, optimization, performance, roslyn, roslyn-analyzer, sourcegenerator]
 starred_at: "2023-08-25T06:31:01Z"
 tags:
-  - dotnet
-  - optimization
+  - coding
+  - language
+  - csharp
   - library
+  - performance
 ---
 
 # Nyrest/FastGenericNew

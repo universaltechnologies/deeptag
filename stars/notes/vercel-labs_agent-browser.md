@@ -10,7 +10,7 @@ tags:
   - coding
   - ai
   - agent
-  - automation
+  - cli
   - tool
 ---
 

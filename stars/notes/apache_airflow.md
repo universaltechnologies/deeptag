@@ -9,9 +9,7 @@ starred_at: "2024-11-29T08:35:50Z"
 tags:
   - coding
   - workflow
-  - automation
-  - platform
-  - python
+  - framework
 ---
 
 # apache/airflow

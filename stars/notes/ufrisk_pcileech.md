@@ -7,9 +7,7 @@ stars: 7573
 topics: []
 starred_at: "2024-04-25T11:04:47Z"
 tags:
-  - coding
-  - reverse
-  - hardware
+  - tools
   - security
   - tool
 ---

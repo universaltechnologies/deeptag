@@ -7,9 +7,8 @@ stars: 1061
 topics: []
 starred_at: "2023-03-06T18:03:23Z"
 tags:
-  - coding
-  - language
   - rust
+  - gc
   - library
 ---
 

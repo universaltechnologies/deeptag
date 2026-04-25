@@ -8,8 +8,8 @@ topics: []
 starred_at: "2024-11-14T12:26:34Z"
 tags:
   - coding
-  - physics
-  - javascript
+  - simulation
+  - tool
 ---
 
 # TheHappyKoala/Harmony-of-the-Spheres

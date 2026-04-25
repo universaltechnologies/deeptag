@@ -8,10 +8,8 @@ topics: [cpp, cpp11, cpp14, cpp17, cpp20, cpp23, cuda, cxx, cxx11, cxx14, cxx17,
 starred_at: "2022-10-14T18:47:33Z"
 tags:
   - coding
-  - language
-  - cpp
-  - systems
   - library
+  - header-only
 ---
 
 # NVIDIA/libcudacxx

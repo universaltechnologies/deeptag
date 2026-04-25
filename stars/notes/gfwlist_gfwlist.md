@@ -9,7 +9,7 @@ starred_at: "2022-11-25T15:59:38Z"
 tags:
   - tools
   - network
-  - awesome
+  - proxy
 ---
 
 # gfwlist/gfwlist

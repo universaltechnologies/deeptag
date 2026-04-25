@@ -7,9 +7,7 @@ stars: 4035
 topics: [popup, swiftui, swiftui-components, swiftui-framework, toast]
 starred_at: "2025-07-25T08:44:37Z"
 tags:
-  - coding
   - ui
-  - ios
   - library
 ---
 

@@ -7,11 +7,10 @@ stars: 78
 topics: []
 starred_at: "2022-11-25T12:33:02Z"
 tags:
-  - coding
-  - dotnet
-  - csharp
   - benchmark
   - serialization
+  - dotnet
+  - framework
 ---
 
 # Alois-xx/SerializerTests

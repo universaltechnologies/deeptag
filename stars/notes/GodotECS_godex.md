@@ -7,10 +7,7 @@ stars: 1395
 topics: [ecs, entity-component-system, game-development, game-engine, gamedev]
 starred_at: "2023-04-24T07:38:17Z"
 tags:
-  - coding
-  - engine
   - godot
-  - game
   - ecs
   - library
 ---

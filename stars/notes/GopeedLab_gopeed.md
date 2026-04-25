@@ -7,10 +7,10 @@ stars: 24026
 topics: [android, bittorrent, cross-platform, debian, downloader, flutter, golang, http, https, ios, macos, magnet, torrent, ubuntu, windows]
 starred_at: "2025-12-21T01:29:14Z"
 tags:
-  - coding
-  - networking
-  - tool
+  - tools
+  - network
   - cross-platform
+  - tool
 ---
 
 # GopeedLab/gopeed

@@ -10,9 +10,8 @@ tags:
   - coding
   - engine
   - unreal
-  - gui
+  - ui
   - framework
-  - plugin
 ---
 
 # fairygui/FairyGUI-unreal

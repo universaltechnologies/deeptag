@@ -9,6 +9,7 @@ starred_at: "2023-02-17T17:14:59Z"
 tags:
   - coding
   - book
+  - awesome
 ---
 
 # mitolH/books

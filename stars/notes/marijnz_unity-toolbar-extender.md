@@ -10,9 +10,7 @@ tags:
   - coding
   - engine
   - unity
-  - csharp
-  - plugin
-  - reflection
+  - library
 ---
 
 # marijnz/unity-toolbar-extender

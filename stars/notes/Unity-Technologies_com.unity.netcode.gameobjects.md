@@ -10,9 +10,8 @@ tags:
   - coding
   - engine
   - unity
-  - networking
+  - network
   - library
-  - framework
 ---
 
 # Unity-Technologies/com.unity.netcode.gameobjects

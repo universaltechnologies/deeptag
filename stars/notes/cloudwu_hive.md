@@ -10,8 +10,7 @@ tags:
   - coding
   - concurrency
   - lua
-  - c
-  - library
+  - framework
 ---
 
 # cloudwu/hive

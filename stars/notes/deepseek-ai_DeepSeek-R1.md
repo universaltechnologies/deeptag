@@ -7,11 +7,9 @@ stars: 91959
 topics: []
 starred_at: "2025-01-27T05:43:30Z"
 tags:
-  - coding
   - ai
   - llm
-  - deep-learning
-  - framework
+  - rl
 ---
 
 # deepseek-ai/DeepSeek-R1

@@ -7,12 +7,11 @@ stars: 2438
 topics: [ai, automation, cli, cli-tool, code-generation, developer-tools, generative-ai, multi-agent-systems, orchestration, scaffolding, workflow-automation]
 starred_at: "2025-12-10T03:27:50Z"
 tags:
-  - coding
   - ai
   - agent
-  - tool
+  - cli
   - automation
-  - workflow
+  - tool
 ---
 
 # moazbuilds/CodeMachine-CLI

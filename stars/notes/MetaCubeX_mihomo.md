@@ -8,7 +8,7 @@ topics: [honkai-star-rail, mihomo, python, star-rail-api]
 starred_at: "2026-04-07T15:32:03Z"
 tags:
   - coding
-  - python
+  - api
   - library
 ---
 

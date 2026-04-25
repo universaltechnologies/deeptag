@@ -9,7 +9,6 @@ starred_at: "2024-12-04T06:24:22Z"
 tags:
   - coding
   - ai
-  - llm
   - agent
   - plugin
 ---

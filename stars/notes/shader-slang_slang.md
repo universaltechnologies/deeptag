@@ -7,12 +7,11 @@ stars: 5221
 topics: [cuda, d3d12, glsl, hlsl, shaders, vulkan]
 starred_at: "2024-02-04T06:44:40Z"
 tags:
-  - graphic
-  - shader
-  - hlsl
-  - glsl
+  - coding
+  - language
   - compiler
-  - tool
+  - library
+  - cross-platform
 ---
 
 # shader-slang/slang

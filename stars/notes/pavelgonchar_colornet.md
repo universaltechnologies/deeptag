@@ -7,11 +7,10 @@ stars: 3561
 topics: []
 starred_at: "2023-03-03T05:32:10Z"
 tags:
-  - coding
   - ai
   - cv
+  - deep-learning
   - library
-  - image-processing
 ---
 
 # pavelgonchar/colornet

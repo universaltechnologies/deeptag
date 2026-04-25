@@ -7,10 +7,9 @@ stars: 93
 topics: []
 starred_at: "2021-04-29T13:20:53Z"
 tags:
-  - dotnet
-  - logging
+  - coding
+  - hook
   - library
-  - plugin
 ---
 
 # csnemes/tracer

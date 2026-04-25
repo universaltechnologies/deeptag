@@ -7,11 +7,10 @@ stars: 146
 topics: []
 starred_at: "2023-03-28T18:21:15Z"
 tags:
-  - coding
-  - engine
   - unity
   - rust
-  - plugin
+  - ffi
+  - tutorial
 ---
 
 # keijiro/UnityRustPlugin

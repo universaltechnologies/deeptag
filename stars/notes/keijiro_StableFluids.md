@@ -7,12 +7,11 @@ stars: 1156
 topics: [compute, fluid-dynamics, gpu, shader, unity, unity3d]
 starred_at: "2023-03-28T18:22:17Z"
 tags:
-  - coding
-  - engine
-  - unity
   - graphic
-  - shader
+  - simulation
   - compute-shader
+  - unity
+  - library
 ---
 
 # keijiro/StableFluids

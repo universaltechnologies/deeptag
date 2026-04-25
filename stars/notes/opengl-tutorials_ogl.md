@@ -7,8 +7,8 @@ stars: 2844
 topics: []
 starred_at: "2016-04-16T12:13:30Z"
 tags:
-  - graphic
-  - rendering
+  - opengl
+  - glsl
   - rasterization
   - tutorial
 ---

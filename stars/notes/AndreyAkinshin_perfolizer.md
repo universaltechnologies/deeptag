@@ -8,9 +8,9 @@ topics: [analysis, c-sharp, dotnet, performance]
 starred_at: "2023-12-12T07:10:39Z"
 tags:
   - coding
-  - performance
+  - profiler
   - library
-  - dotnet
+  - tool
 ---
 
 # AndreyAkinshin/perfolizer

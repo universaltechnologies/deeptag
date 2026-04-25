@@ -9,9 +9,8 @@ starred_at: "2024-09-04T09:12:00Z"
 tags:
   - web
   - browser
-  - coding
   - rust
-  - cross-platform
+  - library
 ---
 
 # servo/servo

@@ -7,11 +7,11 @@ stars: 84129
 topics: []
 starred_at: "2025-02-10T07:15:50Z"
 tags:
-  - coding
   - ai
   - mcp
+  - llm
   - library
-  - tool
+  - tutorial
 ---
 
 # modelcontextprotocol/servers

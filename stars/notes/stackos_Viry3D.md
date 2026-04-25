@@ -9,10 +9,9 @@ starred_at: "2018-11-17T06:55:58Z"
 tags:
   - coding
   - engine
-  - graphic
-  - rendering
-  - mesh
+  - cpp
   - cross-platform
+  - framework
 ---
 
 # stackos/Viry3D

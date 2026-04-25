@@ -10,7 +10,6 @@ tags:
   - coding
   - search
   - tool
-  - performance
 ---
 
 # sourcegraph/zoekt

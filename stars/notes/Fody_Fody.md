@@ -7,10 +7,9 @@ stars: 4520
 topics: []
 starred_at: "2023-01-03T13:13:24Z"
 tags:
-  - coding
+  - build
   - dotnet
   - tool
-  - library
 ---
 
 # Fody/Fody

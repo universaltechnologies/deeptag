@@ -10,7 +10,8 @@ tags:
   - coding
   - engine
   - unreal
-  - graphic
+  - book
+  - tutorial
 ---
 
 # ikrima/gamedevguide

@@ -9,10 +9,10 @@ starred_at: "2023-03-29T02:54:26Z"
 tags:
   - coding
   - profiler
-  - debug
-  - cpp
+  - android
+  - linux
+  - visualization
   - tool
-  - cross-platform
 ---
 
 # google/perfetto

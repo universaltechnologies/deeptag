@@ -7,10 +7,9 @@ stars: 1277
 topics: [engine, game, numpy, opengl, python, rendering, science, visualization]
 starred_at: "2023-11-23T12:07:56Z"
 tags:
-  - graphic
   - rendering
-  - opengl
-  - visualization
+  - glsl
+  - python
   - library
 ---
 

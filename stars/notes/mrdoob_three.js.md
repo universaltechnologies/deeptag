@@ -7,7 +7,8 @@ stars: 112074
 topics: [3d, augmented-reality, canvas, html5, javascript, svg, virtual-reality, webaudio, webgl, webgl2, webgpu, webxr]
 starred_at: "2017-04-07T06:03:22Z"
 tags:
-  - graphic
+  - rendering
+  - 3d
   - webgl
   - webgpu
   - library

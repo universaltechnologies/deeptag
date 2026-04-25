@@ -8,10 +8,8 @@ topics: [cli, diagrams, mermaid]
 starred_at: "2025-07-23T14:05:23Z"
 tags:
   - coding
-  - web
   - cli
   - tool
-  - svg
 ---
 
 # mermaid-js/mermaid-cli

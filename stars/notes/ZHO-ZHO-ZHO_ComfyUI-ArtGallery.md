@@ -7,11 +7,9 @@ stars: 559
 topics: [art, comfyui, stable-diffusion]
 starred_at: "2024-06-12T07:08:38Z"
 tags:
-  - coding
   - ai
-  - diffusion
+  - prompt
   - plugin
-  - gui
 ---
 
 # ZHO-ZHO-ZHO/ComfyUI-ArtGallery

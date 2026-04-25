@@ -7,13 +7,10 @@ stars: 45177
 topics: [chat, collaboration, foss, free, hacktoberfest, javascript, meteor, mit, real-time, slack, webrtc]
 starred_at: "2018-01-28T08:30:58Z"
 tags:
-  - coding
-  - web
-  - frontend
-  - backend
-  - networking
-  - platform
-  - framework
+  - tools
+  - network
+  - cross-platform
+  - self-hosted
 ---
 
 # RocketChat/Rocket.Chat

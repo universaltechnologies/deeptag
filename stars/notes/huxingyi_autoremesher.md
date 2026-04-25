@@ -8,8 +8,7 @@ topics: [quadremesh, retopology]
 starred_at: "2023-04-10T14:38:25Z"
 tags:
   - graphic
-  - scene
-  - geometry
+  - mesh
   - tool
 ---
 

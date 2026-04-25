@@ -7,11 +7,9 @@ stars: 28642
 topics: [actioncable, chat-widget, conversation, customer-support, dashboard, design, docker, docker-image, heroku, intercom, javascript, livechat, opensource, rails, ruby, sass, vuejs, whatsapp, zendesk]
 starred_at: "2025-06-21T04:38:49Z"
 tags:
-  - coding
-  - web
-  - frontend
-  - backend
-  - framework
+  - tools
+  - productivity
+  - tool
 ---
 
 # chatwoot/chatwoot

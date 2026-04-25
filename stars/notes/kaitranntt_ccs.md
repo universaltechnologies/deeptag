@@ -7,11 +7,10 @@ stars: 2036
 topics: [ai-gateway, anthropic-api, claude, claude-code, cli-tool, cliproxyapi, developer-productivity, gemini, github-copilot, multi-account, nodejs, oauth, openrouter, profile-switching, react-dashboard, typescript, websearch]
 starred_at: "2026-04-05T05:40:29Z"
 tags:
-  - coding
   - ai
-  - llm
-  - nodejs
+  - agent
   - cli
+  - proxy
   - tool
 ---
 

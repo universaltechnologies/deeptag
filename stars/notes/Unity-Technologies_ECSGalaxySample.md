@@ -8,11 +8,10 @@ topics: [owner-dots-samples]
 starred_at: "2024-05-31T04:20:08Z"
 tags:
   - coding
-  - engine
-  - unity
   - game
   - ecs
   - simulation
+  - unity
 ---
 
 # Unity-Technologies/ECSGalaxySample

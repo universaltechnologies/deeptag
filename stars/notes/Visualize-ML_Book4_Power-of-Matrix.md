@@ -7,7 +7,6 @@ stars: 9866
 topics: [linear, linear-algebra, machine-learning, mathematics, matrix, matrix-factorization]
 starred_at: "2022-12-04T17:25:06Z"
 tags:
-  - math
   - ai
   - ml
   - book

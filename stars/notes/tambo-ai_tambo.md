@@ -7,10 +7,10 @@ stars: 11124
 topics: [agent, agents, ai, assistant, assistant-chat-bots, generative-ui, js, react, reactjs, ui, ui-components]
 starred_at: "2026-01-21T14:00:19Z"
 tags:
-  - coding
   - ai
   - agent
-  - library
+  - frontend
+  - framework
 ---
 
 # tambo-ai/tambo

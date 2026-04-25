@@ -7,9 +7,10 @@ stars: 1948
 topics: [c, cpp, unicode, utf8]
 starred_at: "2022-05-16T04:22:55Z"
 tags:
-  - coding
-  - library
+  - c
+  - cpp
   - header-only
+  - library
 ---
 
 # sheredom/utf8.h

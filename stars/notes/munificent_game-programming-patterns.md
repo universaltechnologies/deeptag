@@ -8,10 +8,9 @@ topics: [architecture, book, c-plus-plus, design-patterns, game-development, mar
 starred_at: "2017-04-16T08:04:28Z"
 tags:
   - coding
-  - game
   - architecture
+  - game
   - book
-  - practice
 ---
 
 # munificent/game-programming-patterns

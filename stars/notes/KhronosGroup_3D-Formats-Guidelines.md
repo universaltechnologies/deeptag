@@ -8,10 +8,8 @@ topics: []
 starred_at: "2024-11-05T14:36:22Z"
 tags:
   - graphic
-  - material
   - texture
-  - gltf
-  - tutorial
+  - practice
 ---
 
 # KhronosGroup/3D-Formats-Guidelines

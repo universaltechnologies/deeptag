@@ -7,11 +7,10 @@ stars: 872
 topics: [computer-use-agents, desktop-automation, edge-computing, gui-automation, gui-grounding, local-inference, mano, mano-p, multimodal-ai, on-device-ai, osworld, vision-language-action, visual-language-model]
 starred_at: "2026-04-18T03:41:30Z"
 tags:
-  - coding
   - ai
   - agent
-  - inference
-  - desktop
+  - automation
+  - library
 ---
 
 # Mininglamp-AI/Mano-P

@@ -8,11 +8,9 @@ topics: []
 starred_at: "2025-05-22T07:38:20Z"
 tags:
   - coding
+  - game
   - physics
   - library
-  - performance
-  - cross-platform
-  - simulation
 ---
 
 # erincatto/box2d

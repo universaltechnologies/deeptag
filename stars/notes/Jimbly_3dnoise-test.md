@@ -7,10 +7,9 @@ stars: 1
 topics: []
 starred_at: "2023-04-10T12:01:12Z"
 tags:
-  - graphic
-  - math
-  - performance
-  - tool
+  - coding
+  - benchmark
+  - visualization
 ---
 
 # Jimbly/3dnoise-test

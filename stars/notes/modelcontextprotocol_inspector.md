@@ -11,7 +11,6 @@ tags:
   - ai
   - mcp
   - tool
-  - debug
 ---
 
 # modelcontextprotocol/inspector

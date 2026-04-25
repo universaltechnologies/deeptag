@@ -8,9 +8,6 @@ topics: []
 starred_at: "2024-09-21T07:26:44Z"
 tags:
   - coding
-  - systems
-  - memory
-  - c
   - library
 ---
 

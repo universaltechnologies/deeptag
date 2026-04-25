@@ -9,8 +9,8 @@ starred_at: "2020-08-22T05:07:04Z"
 tags:
   - coding
   - algorithm
+  - book
   - tutorial
-  - awesome
 ---
 
 # geekxh/hello-algorithm

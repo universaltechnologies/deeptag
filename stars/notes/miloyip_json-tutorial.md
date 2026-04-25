@@ -7,9 +7,8 @@ stars: 7937
 topics: []
 starred_at: "2017-04-15T06:30:20Z"
 tags:
-  - coding
-  - parser
   - json
+  - c
   - tutorial
 ---
 

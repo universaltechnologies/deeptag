@@ -9,6 +9,7 @@ starred_at: "2022-03-10T08:17:53Z"
 tags:
   - graphic
   - pipeline
+  - 3d
 ---
 
 # manaijin/3D

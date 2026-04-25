@@ -8,10 +8,9 @@ topics: [android, il2cpp, reverse-engineering, riru, unity, unity3d, zygisk]
 starred_at: "2022-03-03T16:46:41Z"
 tags:
   - coding
-  - reverse
   - android
+  - reverse
   - tool
-  - plugin
 ---
 
 # Perfare/Zygisk-Il2CppDumper

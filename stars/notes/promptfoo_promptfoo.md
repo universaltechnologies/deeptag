@@ -7,12 +7,10 @@ stars: 20321
 topics: [ci, ci-cd, cicd, evaluation, evaluation-framework, llm, llm-eval, llm-evaluation, llm-evaluation-framework, llmops, pentesting, prompt-engineering, prompt-testing, prompts, rag, red-teaming, testing, vulnerability-scanners]
 starred_at: "2026-03-10T12:37:44Z"
 tags:
-  - coding
   - ai
   - llm
-  - rag
+  - test
   - tool
-  - cli
 ---
 
 # promptfoo/promptfoo

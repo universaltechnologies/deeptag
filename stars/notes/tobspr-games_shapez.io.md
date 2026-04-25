@@ -7,9 +7,8 @@ stars: 6862
 topics: [game, game-2d, game-development, gamedev, games, javascript-game]
 starred_at: "2023-11-28T11:48:49Z"
 tags:
-  - coding
   - game
-  - gameplay
+  - web
 ---
 
 # tobspr-games/shapez.io

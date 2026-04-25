@@ -8,10 +8,10 @@ topics: [autonomous-vehicles, frenet-frames, front-wheel-feedback, hybrid-astar,
 starred_at: "2021-07-22T04:16:44Z"
 tags:
   - coding
-  - algorithm
   - robotics
-  - simulation
-  - python
+  - algorithm
+  - library
+  - tutorial
 ---
 
 # zhm-real/MotionPlanning

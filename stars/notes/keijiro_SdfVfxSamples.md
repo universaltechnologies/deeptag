@@ -7,11 +7,10 @@ stars: 960
 topics: [unity, unity3d, vfx, vfxgraph]
 starred_at: "2023-03-28T18:21:38Z"
 tags:
-  - coding
-  - engine
-  - unity
   - graphic
   - vfx
+  - unity
+  - practice
 ---
 
 # keijiro/SdfVfxSamples

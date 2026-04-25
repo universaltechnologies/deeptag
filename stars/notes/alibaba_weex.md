@@ -7,10 +7,10 @@ stars: 18593
 topics: [android, ios, mobile, sdk, web, weex]
 starred_at: "2025-04-17T03:09:11Z"
 tags:
-  - coding
+  - frontend
   - mobile
-  - cross-platform
   - framework
+  - cross-platform
 ---
 
 # alibaba/weex

@@ -7,9 +7,9 @@ stars: 17206
 topics: [agent, ai, ai-agents, browser-automation, javascript, mcp, typescript, web]
 starred_at: "2026-03-10T06:13:37Z"
 tags:
-  - coding
   - ai
   - agent
+  - web
   - library
 ---
 

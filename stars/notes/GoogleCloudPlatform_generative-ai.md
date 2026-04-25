@@ -7,11 +7,11 @@ stars: 16687
 topics: [agents, gcp, gemini, gemini-api, gen-ai, generative-ai, google, google-cloud, google-gemini, langchain, large-language-models, llm, vertex-ai, vertex-ai-gemini-api, vertexai]
 starred_at: "2026-03-14T06:22:59Z"
 tags:
-  - coding
   - ai
   - llm
   - cloud
   - tutorial
+  - awesome
 ---
 
 # GoogleCloudPlatform/generative-ai

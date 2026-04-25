@@ -10,8 +10,7 @@ tags:
   - coding
   - engine
   - unity
-  - tool
-  - component
+  - library
 ---
 
 # Unity-Technologies/guid-based-reference

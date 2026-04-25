@@ -7,9 +7,8 @@ stars: 6182
 topics: [convex-optimization, cvxpy, mathematical-optimization, modeling-language, numerical-optimization, optimization, optimization-modeling, python]
 starred_at: "2021-07-22T04:15:46Z"
 tags:
-  - coding
-  - algorithm
-  - math
+  - optimization
+  - python
   - library
 ---
 

@@ -8,11 +8,11 @@ topics: []
 starred_at: "2024-08-23T04:16:26Z"
 tags:
   - coding
-  - game
   - engine
   - unity
-  - csharp
-  - tool
+  - game
+  - voxel
+  - practice
 ---
 
 # samhogan/Minecraft-Unity3D

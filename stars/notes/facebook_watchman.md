@@ -8,7 +8,6 @@ topics: []
 starred_at: "2022-02-18T09:26:20Z"
 tags:
   - coding
-  - systems
   - filesystem
   - tool
 ---

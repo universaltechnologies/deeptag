@@ -7,10 +7,9 @@ stars: 562
 topics: [image-processing, machine-learning, python, super-resolution]
 starred_at: "2018-10-28T13:40:53Z"
 tags:
-  - coding
-  - ai
-  - cv
+  - graphic
   - image-processing
+  - python
   - library
 ---
 

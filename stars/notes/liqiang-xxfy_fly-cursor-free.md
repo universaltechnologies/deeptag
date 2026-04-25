@@ -8,8 +8,7 @@ topics: [cursor, cursor-pro, free, trial]
 starred_at: "2026-01-08T14:06:19Z"
 tags:
   - tools
-  - automation
-  - workflow
+  - tool
 ---
 
 # liqiang-xxfy/fly-cursor-free

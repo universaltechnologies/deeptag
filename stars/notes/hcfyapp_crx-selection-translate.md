@@ -7,10 +7,9 @@ stars: 4131
 topics: [chrome, chrome-extension, crx, firefox, javascript, pdf, translation]
 starred_at: "2018-04-08T11:49:49Z"
 tags:
-  - coding
-  - web
-  - ai
-  - plugin
+  - tools
+  - browser
+  - tool
 ---
 
 # hcfyapp/crx-selection-translate

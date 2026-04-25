@@ -8,9 +8,7 @@ topics: [vulkan]
 starred_at: "2022-10-05T20:02:56Z"
 tags:
   - coding
-  - platform
   - vulkan
-  - debug
   - tool
 ---
 

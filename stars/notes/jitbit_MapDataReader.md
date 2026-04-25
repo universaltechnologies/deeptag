@@ -7,10 +7,10 @@ stars: 77
 topics: [csharp-sourcegenerator, datareader, orm, reflection]
 starred_at: "2023-12-20T10:53:15Z"
 tags:
-  - coding
-  - performance
+  - sql
+  - csharp
   - library
-  - dotnet
+  - performance
 ---
 
 # jitbit/MapDataReader

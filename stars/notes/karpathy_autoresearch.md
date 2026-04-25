@@ -7,11 +7,11 @@ stars: 74664
 topics: []
 starred_at: "2026-03-16T04:58:28Z"
 tags:
-  - coding
   - ai
   - agent
   - llm
-  - library
+  - automation
+  - framework
 ---
 
 # karpathy/autoresearch

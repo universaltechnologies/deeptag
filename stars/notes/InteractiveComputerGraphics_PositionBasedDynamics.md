@@ -7,8 +7,7 @@ stars: 2211
 topics: [deformable-solids, position-based-dynamics, rigid-bodies, rigid-body-dynamics, simulation]
 starred_at: "2022-06-09T11:05:13Z"
 tags:
-  - coding
-  - simulation
+  - graphic
   - physics
   - library
 ---

@@ -10,8 +10,8 @@ tags:
   - coding
   - ai
   - agent
-  - mcp
-  - workflow
+  - self-hosted
+  - framework
 ---
 
 # multica-ai/multica

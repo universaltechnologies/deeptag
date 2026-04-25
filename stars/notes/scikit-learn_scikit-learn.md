@@ -7,9 +7,9 @@ stars: 65873
 topics: [data-analysis, data-science, machine-learning, python, statistics]
 starred_at: "2017-03-07T06:23:42Z"
 tags:
-  - coding
   - ai
   - ml
+  - python
   - library
 ---
 

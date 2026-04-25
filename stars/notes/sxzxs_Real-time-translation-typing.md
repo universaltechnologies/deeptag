@@ -7,12 +7,9 @@ stars: 1765
 topics: [autohotkey, lol, translators, windows]
 starred_at: "2023-10-24T01:26:28Z"
 tags:
-  - coding
-  - media
-  - audio
   - tools
-  - windows
-  - desktop
+  - productivity
+  - tool
 ---
 
 # sxzxs/Real-time-translation-typing

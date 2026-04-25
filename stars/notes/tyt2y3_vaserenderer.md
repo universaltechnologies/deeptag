@@ -7,11 +7,10 @@ stars: 365
 topics: []
 starred_at: "2023-11-20T04:06:39Z"
 tags:
-  - graphic
+  - rendering
   - 2d
   - opengl
   - library
-  - cpp
 ---
 
 # tyt2y3/vaserenderer

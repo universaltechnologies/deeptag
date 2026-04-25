@@ -7,7 +7,6 @@ stars: 23215
 topics: []
 starred_at: "2022-10-07T15:24:30Z"
 tags:
-  - coding
   - ai
   - cv
   - awesome

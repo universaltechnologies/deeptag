@@ -10,7 +10,7 @@ tags:
   - coding
   - ai
   - mcp
-  - automation
+  - server
   - tool
 ---
 

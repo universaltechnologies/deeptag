@@ -7,11 +7,8 @@ stars: 687
 topics: []
 starred_at: "2022-05-01T18:20:41Z"
 tags:
-  - graphic
   - rendering
-  - shader
-  - hlsl
-  - platform
+  - pipeline
   - directx
 ---
 

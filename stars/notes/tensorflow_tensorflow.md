@@ -10,7 +10,6 @@ tags:
   - coding
   - ai
   - ml
-  - deep-learning
   - framework
 ---
 

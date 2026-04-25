@@ -7,12 +7,11 @@ stars: 1551
 topics: []
 starred_at: "2026-01-19T09:08:30Z"
 tags:
-  - robotics
   - coding
+  - robotics
   - ai
   - rl
-  - physics
-  - hardware
+  - framework
 ---
 
 # Roboparty/roboto_origin

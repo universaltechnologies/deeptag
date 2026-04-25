@@ -7,9 +7,9 @@ stars: 4866
 topics: [chatgpt, claude, embeddings, gemini, llama3, obsidian, obsidian-plugin]
 starred_at: "2024-04-09T12:23:21Z"
 tags:
-  - coding
   - ai
   - embeddings
+  - llm
   - plugin
 ---
 

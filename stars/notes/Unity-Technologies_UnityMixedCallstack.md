@@ -9,9 +9,7 @@ starred_at: "2020-04-16T17:12:24Z"
 tags:
   - coding
   - debug
-  - ide
   - plugin
-  - engine
 ---
 
 # Unity-Technologies/UnityMixedCallstack

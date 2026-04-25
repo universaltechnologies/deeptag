@@ -8,7 +8,6 @@ topics: [environment-configuration, multi-platform, package-management, resolved
 starred_at: "2024-01-29T06:27:03Z"
 tags:
   - coding
-  - build
   - package
   - cross-platform
   - tool

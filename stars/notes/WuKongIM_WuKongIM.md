@@ -7,11 +7,10 @@ stars: 4800
 topics: [agent, chat, im, message]
 starred_at: "2025-11-09T06:33:56Z"
 tags:
-  - coding
-  - networking
-  - go
+  - protocol
   - distributed
-  - performance
+  - go
+  - middleware
   - library
 ---
 

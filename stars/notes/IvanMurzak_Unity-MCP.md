@@ -7,12 +7,10 @@ stars: 2225
 topics: [ai, ai-integration, anthropic, claude, claude-code, claude-desktop, cli, copilot, cursor, game-development, gamedev, gemini, llm, mcp, mcp-server, model-context-protocol, openai, unity, windsurf]
 starred_at: "2025-12-24T02:33:52Z"
 tags:
-  - coding
   - ai
   - mcp
-  - engine
-  - tool
   - unity
+  - plugin
 ---
 
 # IvanMurzak/Unity-MCP

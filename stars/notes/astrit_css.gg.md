@@ -7,8 +7,9 @@ stars: 9990
 topics: [adobe-xd, api, css, css-icon, customizable, figma, figma-ui-icons, icons, json, multiple-icons, npm, purecss, retina-ready, styled-components, svg, svg-icon, svg-icon-pack, svg-icons, svg-sprite, svg-sprites]
 starred_at: "2025-11-14T03:53:56Z"
 tags:
-  - coding
   - web
+  - svg
+  - ui
   - library
 ---
 

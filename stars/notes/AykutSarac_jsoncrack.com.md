@@ -7,10 +7,10 @@ stars: 43889
 topics: [csv, diagrams, graph, json, nextjs, react, tool, visualization, yaml]
 starred_at: "2022-04-18T14:42:24Z"
 tags:
-  - tools
   - coding
-  - web
   - visualization
+  - data
+  - web
   - tool
 ---
 

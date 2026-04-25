@@ -7,9 +7,10 @@ stars: 371
 topics: [algorithms, algorithms-datastructures, datastructures, datastructures-algorithms, dsa, hacktoberfest, lua]
 starred_at: "2024-12-12T14:38:58Z"
 tags:
-  - coding
   - algorithm
+  - data
   - lua
+  - practice
 ---
 
 # TheAlgorithms/Lua

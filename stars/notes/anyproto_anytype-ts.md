@@ -7,11 +7,11 @@ stars: 7421
 topics: [anytype, e2ee, local-first, offline-first, p2p, privacy]
 starred_at: "2024-02-27T12:01:39Z"
 tags:
-  - coding
-  - web
-  - p2p
-  - electron
+  - tools
+  - office
   - cross-platform
+  - electron
+  - typescript
 ---
 
 # anyproto/anytype-ts

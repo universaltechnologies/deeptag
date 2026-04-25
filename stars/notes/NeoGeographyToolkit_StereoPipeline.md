@@ -7,10 +7,9 @@ stars: 587
 topics: []
 starred_at: "2017-07-20T02:00:33Z"
 tags:
-  - tools
-  - cpp
+  - coding
   - image-processing
-  - 3d
+  - tool
 ---
 
 # NeoGeographyToolkit/StereoPipeline

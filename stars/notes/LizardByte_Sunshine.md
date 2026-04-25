@@ -7,10 +7,9 @@ stars: 36184
 topics: [cpp, docker, flathub-pkg, game-stream, game-streaming, game-streaming-server, geforce-experience, homebrew-pkg, maintainer-wanted, moonlight, pacman-pkg, python, remote-desktop, replicator-custom-issues, replicator-release-notifications, rtd, winget-pkg]
 starred_at: "2025-12-27T11:02:33Z"
 tags:
-  - coding
-  - video
+  - network
+  - self-hosted
   - tool
-  - networking
 ---
 
 # LizardByte/Sunshine

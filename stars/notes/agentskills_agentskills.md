@@ -7,9 +7,9 @@ stars: 16640
 topics: [agent-skills]
 starred_at: "2026-03-11T08:13:53Z"
 tags:
-  - coding
   - ai
   - agent
+  - skills
   - spec
 ---
 

@@ -9,10 +9,7 @@ starred_at: "2026-03-30T23:08:09Z"
 tags:
   - coding
   - ai
-  - ml
-  - cv
-  - nlp
-  - library
+  - framework
 ---
 
 # modelscope/modelscope

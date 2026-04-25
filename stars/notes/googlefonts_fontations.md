@@ -9,8 +9,8 @@ starred_at: "2025-11-13T12:00:59Z"
 tags:
   - coding
   - media
+  - font
   - library
-  - performance
 ---
 
 # googlefonts/fontations

@@ -9,7 +9,6 @@ starred_at: "2022-08-30T09:28:31Z"
 tags:
   - coding
   - data
-  - serialization
   - library
 ---
 

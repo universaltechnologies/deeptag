@@ -10,7 +10,7 @@ tags:
   - coding
   - engine
   - unity
-  - plugin
+  - tool
 ---
 
 # RimuruDev/UnitySkipSplashScreen

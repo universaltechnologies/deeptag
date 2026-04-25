@@ -10,9 +10,7 @@ tags:
   - coding
   - ai
   - agent
-  - llm
   - framework
-  - mcp
 ---
 
 # openai/openai-agents-python

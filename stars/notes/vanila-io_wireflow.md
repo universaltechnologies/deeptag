@@ -7,8 +7,8 @@ stars: 4148
 topics: [collaboration, flowchart, hacktoberfest, javascript]
 starred_at: "2025-10-18T02:49:32Z"
 tags:
-  - coding
   - web
+  - frontend
   - tool
 ---
 

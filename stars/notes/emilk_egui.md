@@ -9,9 +9,10 @@ starred_at: "2023-01-10T03:05:47Z"
 tags:
   - coding
   - gui
-  - library
-  - cross-platform
+  - rust
   - webassembly
+  - cross-platform
+  - library
 ---
 
 # emilk/egui

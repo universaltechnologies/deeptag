@@ -7,8 +7,7 @@ stars: 45
 topics: []
 starred_at: "2023-02-07T16:41:26Z"
 tags:
-  - tools
-  - office
+  - book
 ---
 
 # ShevonKuan/Calculus-Summarize

@@ -7,11 +7,9 @@ stars: 766
 topics: [gpu-acceleration, image-editor, node-based, vulkan]
 starred_at: "2023-10-07T05:00:55Z"
 tags:
-  - graphic
-  - post-processing
-  - vulkan
-  - glsl
   - image-processing
+  - glsl
+  - vulkan
   - tool
 ---
 

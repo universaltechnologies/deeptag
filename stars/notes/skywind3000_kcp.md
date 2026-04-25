@@ -7,11 +7,9 @@ stars: 16679
 topics: [accelerator, ack, arq, c, kcp, kcptun, low-latency, protocol, quic, rtc, rtt, socket, srt, tunnel, udp]
 starred_at: "2023-01-31T10:09:50Z"
 tags:
-  - coding
-  - networking
+  - network
   - protocol
   - library
-  - performance
 ---
 
 # skywind3000/kcp

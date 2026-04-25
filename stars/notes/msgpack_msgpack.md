@@ -8,7 +8,6 @@ topics: []
 starred_at: "2019-04-08T04:30:09Z"
 tags:
   - coding
-  - data
   - serialization
   - spec
 ---

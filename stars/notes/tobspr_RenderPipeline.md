@@ -8,10 +8,11 @@ topics: [deferred-rendering, game-development, glsl, opengl, panda3d-game-engine
 starred_at: "2017-02-07T03:53:25Z"
 tags:
   - graphic
-  - rendering
+  - pipeline
   - pbr
   - post-processing
   - plugin
+  - library
 ---
 
 # tobspr/RenderPipeline

@@ -7,9 +7,7 @@ stars: 19314
 topics: [docs, works-with-codespaces]
 starred_at: "2026-01-24T10:00:17Z"
 tags:
-  - web
-  - frontend
-  - tool
+  - coding
 ---
 
 # github/docs

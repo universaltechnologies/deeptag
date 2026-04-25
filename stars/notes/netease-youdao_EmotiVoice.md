@@ -7,10 +7,9 @@ stars: 8469
 topics: [ai, deep-learning, emotion, emotivoice, multi-speaker, prompt, python, pytorch, speech, speech-synthesis, style, text-to-speech, tts]
 starred_at: "2023-11-23T18:13:15Z"
 tags:
-  - coding
   - ai
   - tts
-  - deep-learning
+  - engine
   - library
 ---
 

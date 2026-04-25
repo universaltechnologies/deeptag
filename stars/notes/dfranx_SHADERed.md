@@ -7,11 +7,11 @@ stars: 4737
 topics: [debugger, game-development, glsl, glsl-editors, glsl-sandbox, gpgpu, graphics-programming, hlsl, hlsl-shader, opengl, shader-editor, shaders]
 starred_at: "2023-03-17T22:07:24Z"
 tags:
+  - coding
+  - ide
   - graphic
   - shader
-  - glsl
-  - hlsl
-  - debug
+  - cross-platform
   - tool
 ---
 

@@ -7,9 +7,9 @@ stars: 139014
 topics: [blog, browser, compiler, components, hybrid, nextjs, node, react, server-rendering, ssg, static, static-site-generator, universal, vercel]
 starred_at: "2026-04-08T07:08:29Z"
 tags:
-  - coding
   - web
   - frontend
+  - backend
   - framework
 ---
 

@@ -7,11 +7,11 @@ stars: 121484
 topics: [canvas, collaboration, diagrams, drawing, hacktoberfest, productivity, whiteboard]
 starred_at: "2023-10-26T16:02:21Z"
 tags:
-  - coding
   - web
   - frontend
-  - tool
+  - ui
   - library
+  - tool
 ---
 
 # excalidraw/excalidraw

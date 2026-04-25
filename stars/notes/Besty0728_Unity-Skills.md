@@ -7,11 +7,9 @@ stars: 801
 topics: [ai, antygravity-ai, chatgpt, claude, claudecode, codex, gemini-cli, geminicli, skill, unity, unity3d]
 starred_at: "2026-03-04T12:19:26Z"
 tags:
-  - coding
   - ai
-  - engine
+  - skills
   - unity
-  - automation
   - tool
 ---
 

@@ -9,10 +9,7 @@ starred_at: "2025-05-26T14:44:51Z"
 tags:
   - coding
   - systems
-  - kernel
   - filesystem
-  - storage
-  - linux
   - cross-platform
 ---
 

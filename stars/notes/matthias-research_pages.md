@@ -7,11 +7,9 @@ stars: 880
 topics: []
 starred_at: "2023-11-01T12:15:10Z"
 tags:
-  - coding
-  - physics
-  - web
-  - frontend
-  - tool
+  - graphic
+  - simulation
+  - tutorial
 ---
 
 # matthias-research/pages

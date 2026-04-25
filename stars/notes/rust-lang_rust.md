@@ -7,9 +7,11 @@ stars: 112144
 topics: [compiler, language, rust]
 starred_at: "2020-04-16T07:55:43Z"
 tags:
-  - coding
   - language
+  - rust
   - compiler
+  - runtime
+  - library
 ---
 
 # rust-lang/rust

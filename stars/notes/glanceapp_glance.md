@@ -7,9 +7,7 @@ stars: 33590
 topics: [aggregator, dashboard, docker, feed-reader, go, homelab, homepage, monitoring, reddit, rss, rss-reader, self-hosted, startpage, youtube]
 starred_at: "2025-03-20T05:50:08Z"
 tags:
-  - coding
-  - web
-  - frontend
+  - tools
   - self-hosted
   - tool
 ---

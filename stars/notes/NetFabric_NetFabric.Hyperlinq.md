@@ -7,11 +7,9 @@ stars: 901
 topics: [array, async-enumerable, buffer-pools, csharp, csharp-library, dotnet, dotnet-core, dotnet-standard, enumeration, heap-allocations, linq, nuget-package, performance, reduced-heap-allocations, simd, span]
 starred_at: "2023-01-13T03:30:08Z"
 tags:
-  - coding
-  - performance
-  - library
   - dotnet
-  - simd
+  - library
+  - performance
 ---
 
 # NetFabric/NetFabric.Hyperlinq

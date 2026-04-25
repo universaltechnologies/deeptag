@@ -7,9 +7,6 @@ stars: 73310
 topics: [alerting, analytics, business-intelligence, dashboard, data-visualization, elasticsearch, go, grafana, hacktoberfest, influxdb, metrics, monitoring, mysql, postgres, prometheus]
 starred_at: "2021-03-06T20:29:32Z"
 tags:
-  - coding
-  - web
-  - ui
   - monitoring
   - visualization
   - framework

@@ -7,10 +7,10 @@ stars: 334
 topics: []
 starred_at: "2026-03-25T13:55:30Z"
 tags:
-  - coding
   - ai
   - agent
   - spec
+  - library
 ---
 
 # oracle/agent-spec

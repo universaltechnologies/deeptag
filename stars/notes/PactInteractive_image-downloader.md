@@ -7,10 +7,9 @@ stars: 940
 topics: [brave-extension, google-chrome-extension, microsoft-edge-extension]
 starred_at: "2025-02-08T09:44:21Z"
 tags:
-  - coding
-  - web
+  - tools
+  - browser
   - tool
-  - plugin
 ---
 
 # PactInteractive/image-downloader

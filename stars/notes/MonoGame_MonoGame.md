@@ -8,11 +8,9 @@ topics: [3d, c-sharp, cross-platform, csharp, dotnet, game-development, game-eng
 starred_at: "2017-12-31T07:23:52Z"
 tags:
   - coding
-  - engine
-  - csharp
-  - dotnet
-  - cross-platform
+  - game
   - framework
+  - cross-platform
 ---
 
 # MonoGame/MonoGame

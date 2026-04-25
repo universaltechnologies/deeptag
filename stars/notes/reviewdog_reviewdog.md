@@ -7,8 +7,8 @@ stars: 9230
 topics: [bitbucket, ci, cli, code-quality, code-review, codereview, github, gitlab, go, lint, linter, static-analysis, static-code-analysis]
 starred_at: "2025-12-04T12:40:23Z"
 tags:
-  - coding
   - ci
+  - lint
   - tool
 ---
 

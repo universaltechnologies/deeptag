@@ -8,7 +8,7 @@ topics: [pathtracing, pbr]
 starred_at: "2023-06-12T08:54:47Z"
 tags:
   - graphic
-  - rendering
+  - material
   - pbr
   - awesome
 ---

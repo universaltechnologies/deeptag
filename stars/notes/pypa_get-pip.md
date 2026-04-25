@@ -8,8 +8,9 @@ topics: []
 starred_at: "2022-02-25T17:26:46Z"
 tags:
   - coding
+  - package
   - python
-  - tools
+  - tool
 ---
 
 # pypa/get-pip

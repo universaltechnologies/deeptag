@@ -10,8 +10,8 @@ tags:
   - coding
   - engine
   - unity
-  - plugin
   - ui
+  - library
 ---
 
 # keijiro/KlakUI

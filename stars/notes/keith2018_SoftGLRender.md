@@ -10,8 +10,7 @@ tags:
   - graphic
   - rendering
   - rasterization
-  - shader
-  - platform
+  - library
   - tutorial
 ---
 

@@ -8,10 +8,8 @@ topics: []
 starred_at: "2023-04-27T10:58:48Z"
 tags:
   - coding
-  - csharp
   - unity
-  - engine
-  - library
+  - framework
 ---
 
 # sator-imaging/Unity-AltSourceGenerator

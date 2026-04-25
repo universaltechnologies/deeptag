@@ -11,7 +11,6 @@ tags:
   - media
   - image-processing
   - library
-  - cross-platform
 ---
 
 # python-pillow/Pillow

@@ -7,10 +7,8 @@ stars: 1698
 topics: [awesome, awesome-rust, book, rust]
 starred_at: "2023-02-24T03:15:25Z"
 tags:
-  - coding
-  - language
+  - rust
   - awesome
-  - book
 ---
 
 # rust-boom/rust-boom

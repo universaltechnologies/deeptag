@@ -7,10 +7,9 @@ stars: 761
 topics: [allocation, csharp-library, gamedev-library, linq, perfromance, simd]
 starred_at: "2023-01-13T03:34:52Z"
 tags:
-  - coding
-  - algorithm
+  - csharp
   - simd
-  - dotnet
+  - optimization
   - library
   - performance
 ---

@@ -9,10 +9,7 @@ starred_at: "2021-11-15T11:44:41Z"
 tags:
   - coding
   - ide
-  - editor
   - plugin
-  - csharp
-  - tool
 ---
 
 # madskristensen/EditorConfigLanguage

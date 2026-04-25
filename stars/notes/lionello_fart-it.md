@@ -10,8 +10,6 @@ tags:
   - coding
   - cli
   - tool
-  - c
-  - cpp
 ---
 
 # lionello/fart-it

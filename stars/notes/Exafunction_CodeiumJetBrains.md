@@ -7,10 +7,10 @@ stars: 63
 topics: []
 starred_at: "2024-01-09T06:01:57Z"
 tags:
-  - coding
   - ai
-  - plugin
+  - llm
   - ide
+  - plugin
 ---
 
 # Exafunction/CodeiumJetBrains

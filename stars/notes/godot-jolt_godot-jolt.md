@@ -12,7 +12,6 @@ tags:
   - godot
   - physics
   - plugin
-  - performance
 ---
 
 # godot-jolt/godot-jolt

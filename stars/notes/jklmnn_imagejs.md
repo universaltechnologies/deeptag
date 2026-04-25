@@ -8,8 +8,7 @@ topics: [injection, xss]
 starred_at: "2021-05-22T09:13:45Z"
 tags:
   - coding
-  - media
-  - image
+  - security
   - tool
 ---
 

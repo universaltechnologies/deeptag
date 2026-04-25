@@ -8,9 +8,9 @@ topics: [image-optimization, photoshop, photoshop-plug, pngquant]
 starred_at: "2016-06-09T05:12:58Z"
 tags:
   - coding
-  - media
+  - image-processing
+  - compression
   - plugin
-  - tool
 ---
 
 # kornelski/pngquant-photoshop

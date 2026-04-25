@@ -7,10 +7,9 @@ stars: 10633
 topics: []
 starred_at: "2025-07-18T10:03:22Z"
 tags:
-  - coding
   - ai
   - llm
-  - inference
+  - library
 ---
 
 # MoonshotAI/Kimi-K2

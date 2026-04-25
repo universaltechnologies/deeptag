@@ -7,7 +7,6 @@ stars: 9585
 topics: [hacktoberfest, localization]
 starred_at: "2025-12-20T13:24:26Z"
 tags:
-  - coding
   - dotnet
   - library
 ---

@@ -8,8 +8,7 @@ topics: [forward-error-correction, multiplex-networks, network-acceleration, qua
 starred_at: "2024-03-26T06:54:27Z"
 tags:
   - coding
-  - networking
-  - protocol
+  - network
   - tool
 ---
 

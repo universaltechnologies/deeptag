@@ -8,10 +8,8 @@ topics: [android, dll, hook, il2cpp, jit, mac, unity, unityeditor]
 starred_at: "2022-11-16T16:27:48Z"
 tags:
   - coding
-  - csharp
-  - runtime
-  - unity
-  - tool
+  - hook
+  - library
 ---
 
 # Misaka-Mikoto-Tech/MonoHook

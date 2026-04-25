@@ -9,9 +9,8 @@ starred_at: "2023-03-17T22:05:57Z"
 tags:
   - coding
   - game
-  - engine
-  - platform
-  - practice
+  - c
+  - book
 ---
 
 # id-Software/DOOM

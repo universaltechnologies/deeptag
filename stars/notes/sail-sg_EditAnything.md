@@ -7,12 +7,9 @@ stars: 3430
 topics: []
 starred_at: "2023-08-03T03:13:16Z"
 tags:
-  - coding
   - ai
-  - cv
   - diffusion
-  - media
-  - image-processing
+  - tool
 ---
 
 # sail-sg/EditAnything

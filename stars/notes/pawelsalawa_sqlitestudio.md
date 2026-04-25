@@ -7,10 +7,10 @@ stars: 6510
 topics: [cpp, database, database-management, qt, qt5, sqlcipher, sqlite, sqlite3-database, wxsqlite3]
 starred_at: "2021-03-05T03:37:09Z"
 tags:
-  - coding
-  - data
-  - tool
+  - tools
+  - database
   - cross-platform
+  - tool
 ---
 
 # pawelsalawa/sqlitestudio

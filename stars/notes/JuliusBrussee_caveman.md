@@ -7,9 +7,9 @@ stars: 39388
 topics: [ai, anthropic, caveman, claude, claude-code, llm, meme, prompt-engineering, skill, tokens]
 starred_at: "2026-04-12T04:20:25Z"
 tags:
-  - coding
   - ai
-  - llm
+  - prompt
+  - tokens
   - plugin
 ---
 

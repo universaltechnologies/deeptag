@@ -10,8 +10,8 @@ tags:
   - graphic
   - rendering
   - path-tracing
-  - cpp
-  - tool
+  - ray-tracing
+  - library
 ---
 
 # mitsuba-renderer/mitsuba

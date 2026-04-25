@@ -7,12 +7,12 @@ stars: 28094
 topics: []
 starred_at: "2026-02-27T06:32:04Z"
 tags:
-  - coding
   - ai
+  - agent
   - rag
   - mcp
-  - web
-  - library
+  - graph
+  - tool
 ---
 
 # abhigyanpatwari/GitNexus

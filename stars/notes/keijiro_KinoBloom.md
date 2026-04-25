@@ -8,12 +8,9 @@ topics: [effect, graphics, shader, unity, unity3d]
 starred_at: "2022-11-11T15:11:19Z"
 tags:
   - graphic
-  - post-processing
   - bloom
-  - coding
-  - engine
   - unity
-  - library
+  - plugin
 ---
 
 # keijiro/KinoBloom

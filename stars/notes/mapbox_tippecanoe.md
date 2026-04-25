@@ -7,9 +7,9 @@ stars: 3061
 topics: [c-plus-plus, geojson, vector-tiles]
 starred_at: "2023-11-10T12:03:19Z"
 tags:
-  - tools
-  - cpp
+  - cli
   - data
+  - tool
 ---
 
 # mapbox/tippecanoe

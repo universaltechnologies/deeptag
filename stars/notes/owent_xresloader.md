@@ -7,11 +7,10 @@ stars: 307
 topics: [convert, cpp, cross-platform, cxx, excel, ini, jar, java, javascript, json, lua, msgpack, pbc, protobuf, protobuf3, xls, xlsx, xml, xresloader]
 starred_at: "2023-02-19T15:57:19Z"
 tags:
-  - tools
   - coding
-  - data
-  - game
-  - protocol
+  - build
+  - serialization
+  - cross-platform
   - tool
 ---
 

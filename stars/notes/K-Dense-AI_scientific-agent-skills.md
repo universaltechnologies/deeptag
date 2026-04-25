@@ -7,11 +7,10 @@ stars: 18930
 topics: [agent-skills, ai-scientist, bioinformatics, chemoinformatics, claude, claude-skills, claudecode, clinical-research, computational-biology, data-analysis, drug-discovery, genomics, materials-science, metabolomics, proteomics, scientific-computing, scientific-visualization]
 starred_at: "2026-03-02T17:45:29Z"
 tags:
-  - coding
   - ai
   - agent
-  - library
-  - tool
+  - skills
+  - awesome
 ---
 
 # K-Dense-AI/scientific-agent-skills

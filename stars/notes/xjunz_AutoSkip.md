@@ -7,8 +7,7 @@ stars: 923
 topics: [automation, shizuku]
 starred_at: "2023-07-05T05:18:29Z"
 tags:
-  - coding
-  - automation
+  - tools
   - android
   - tool
 ---

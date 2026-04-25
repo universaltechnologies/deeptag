@@ -7,9 +7,8 @@ stars: 33
 topics: []
 starred_at: "2016-07-26T16:22:07Z"
 tags:
-  - coding
+  - terminal
   - gui
-  - plugin
   - library
 ---
 

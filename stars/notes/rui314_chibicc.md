@@ -11,7 +11,7 @@ tags:
   - language
   - compiler
   - c
-  - book
+  - tutorial
 ---
 
 # rui314/chibicc

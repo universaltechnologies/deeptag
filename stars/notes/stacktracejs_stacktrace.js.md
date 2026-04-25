@@ -9,9 +9,8 @@ starred_at: "2024-08-07T06:51:43Z"
 tags:
   - coding
   - debug
-  - web
+  - javascript
   - library
-  - tool
 ---
 
 # stacktracejs/stacktrace.js

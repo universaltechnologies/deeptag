@@ -11,7 +11,6 @@ tags:
   - concurrency
   - lua
   - library
-  - serialization
 ---
 
 # torch/threads

@@ -7,11 +7,8 @@ stars: 11396
 topics: [ai, app, bci, c, flutter, friend, mobile, necklace, nextjs, omi, personas, python, smartglasses, summary, transcription, wearable]
 starred_at: "2026-04-17T21:46:28Z"
 tags:
-  - coding
-  - ai
-  - llm
-  - mobile
-  - desktop
+  - tools
+  - cross-platform
   - tool
 ---
 

@@ -8,10 +8,10 @@ topics: []
 starred_at: "2023-05-07T06:31:27Z"
 tags:
   - coding
+  - package
   - cpp
+  - cross-platform
   - tool
-  - git
-  - ci
 ---
 
 # microsoft/vcpkg-tool

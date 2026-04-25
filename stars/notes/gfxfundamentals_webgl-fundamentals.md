@@ -8,10 +8,8 @@ topics: [3d, 3d-math, glsl, glsl-shaders, math, shaders, webgl]
 starred_at: "2023-01-10T06:14:00Z"
 tags:
   - graphic
-  - shader
-  - math
-  - tutorial
   - webgl
+  - tutorial
 ---
 
 # gfxfundamentals/webgl-fundamentals

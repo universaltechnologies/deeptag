@@ -8,11 +8,8 @@ topics: []
 starred_at: "2023-05-31T03:55:58Z"
 tags:
   - coding
-  - engine
-  - unity
   - profiler
-  - debug
-  - plugin
+  - tool
 ---
 
 # Unity-Technologies/com.unity.editoriterationprofiler

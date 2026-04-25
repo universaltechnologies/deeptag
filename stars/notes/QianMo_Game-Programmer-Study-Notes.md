@@ -7,12 +7,9 @@ stars: 9906
 topics: [blog, book, books, cg, ebook, ebooks, game-developing-notes, game-development, game-programmer, game-programming, gpu-programming, graphics, notes, real-time-rendering, realtime-rendering, rendering, shader, study-notes]
 starred_at: "2022-09-05T09:02:48Z"
 tags:
-  - graphic
-  - rendering
-  - shader
   - game
   - book
-  - practice
+  - tutorial
 ---
 
 # QianMo/Game-Programmer-Study-Notes

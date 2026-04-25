@@ -7,7 +7,6 @@ stars: 4294
 topics: []
 starred_at: "2026-04-07T03:30:50Z"
 tags:
-  - coding
   - ai
   - llm
   - library

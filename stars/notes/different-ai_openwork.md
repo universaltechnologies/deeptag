@@ -11,6 +11,7 @@ tags:
   - ai
   - agent
   - desktop
+  - cross-platform
   - tool
 ---
 

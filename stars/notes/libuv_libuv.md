@@ -7,9 +7,8 @@ stars: 26780
 topics: [asynchronous, deep-io, io, networking, unicorns, unix, velociraptors, windows]
 starred_at: "2018-06-08T00:43:43Z"
 tags:
-  - coding
-  - networking
   - async
+  - c
   - library
   - cross-platform
 ---

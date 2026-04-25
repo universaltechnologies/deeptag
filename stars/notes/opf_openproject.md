@@ -7,10 +7,9 @@ stars: 14867
 topics: [angular, bcf, boards, bug-tracker, gantt, gantt-chart, ifc, issue-tracker, kanban, openproject, project-management, project-planning, roadmap, ruby, scrum, timeline, workflows]
 starred_at: "2025-11-01T03:28:51Z"
 tags:
-  - coding
-  - web
   - tools
-  - framework
+  - productivity
+  - tool
 ---
 
 # opf/openproject

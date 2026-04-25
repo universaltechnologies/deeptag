@@ -9,8 +9,7 @@ starred_at: "2023-11-06T18:08:27Z"
 tags:
   - graphic
   - rendering
-  - shadow
-  - library
+  - tutorial
 ---
 
 # Veerzeng/GraphicAlgorithm

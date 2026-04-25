@@ -7,11 +7,10 @@ stars: 187
 topics: [bonsai-rx, language]
 starred_at: "2024-11-29T08:55:11Z"
 tags:
-  - coding
-  - language
-  - compiler
   - ide
-  - dotnet
+  - compiler
+  - library
+  - framework
 ---
 
 # bonsai-rx/bonsai

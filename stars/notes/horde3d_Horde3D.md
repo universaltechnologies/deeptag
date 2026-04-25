@@ -7,12 +7,11 @@ stars: 1583
 topics: [3d-graphics, rendering-engine]
 starred_at: "2015-10-15T01:23:22Z"
 tags:
-  - graphic
-  - rendering
+  - coding
   - engine
-  - library
+  - custom
   - cross-platform
-  - tool
+  - library
 ---
 
 # horde3d/Horde3D

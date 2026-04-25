@@ -8,10 +8,9 @@ topics: [bsd, gpu, linux, macos, opengl, rust, terminal, terminal-emulators, vte
 starred_at: "2022-03-11T07:28:35Z"
 tags:
   - coding
-  - platform
-  - opengl
-  - tool
+  - terminal
   - cross-platform
+  - tool
 ---
 
 # alacritty/alacritty

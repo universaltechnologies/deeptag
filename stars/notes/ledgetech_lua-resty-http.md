@@ -7,9 +7,9 @@ stars: 2074
 topics: [http, http-client, lua, luajit, nginx, nginx-lua, openresty, streaming]
 starred_at: "2019-12-16T12:56:18Z"
 tags:
-  - coding
-  - networking
+  - network
   - http
+  - lua
   - library
 ---
 

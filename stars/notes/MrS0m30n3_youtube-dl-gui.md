@@ -7,12 +7,10 @@ stars: 9439
 topics: [cross-platform, downloader, gui, linux, pypi, python, video, video-downloader, windows, wxpython, youtube, youtube-dl, youtube-dl-gui, youtube-dlg]
 starred_at: "2017-05-19T05:58:42Z"
 tags:
-  - coding
-  - web
-  - media
-  - gui
-  - tool
+  - tools
+  - video
   - cross-platform
+  - tool
 ---
 
 # MrS0m30n3/youtube-dl-gui

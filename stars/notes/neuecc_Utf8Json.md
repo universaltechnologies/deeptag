@@ -7,11 +7,10 @@ stars: 2387
 topics: []
 starred_at: "2021-03-29T09:15:45Z"
 tags:
-  - coding
-  - serialization
-  - performance
-  - dotnet
+  - json
+  - csharp
   - library
+  - performance
 ---
 
 # neuecc/Utf8Json

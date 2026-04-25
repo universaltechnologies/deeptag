@@ -11,7 +11,6 @@ tags:
   - rendering
   - shader
   - book
-  - awesome
 ---
 
 # QianMo/GPU-Pro-Books-Source-Code

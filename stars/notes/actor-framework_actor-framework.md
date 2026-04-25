@@ -7,11 +7,9 @@ stars: 3413
 topics: [actor-model, actors, async, caf, pattern-matching]
 starred_at: "2017-01-20T05:53:43Z"
 tags:
-  - coding
-  - cpp
   - concurrency
-  - async
-  - library
+  - distributed
+  - cpp
   - framework
 ---
 

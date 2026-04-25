@@ -7,8 +7,8 @@ stars: 4272
 topics: [bash, bash-on-windows, installer, utility, windows-subsystem-linux, wsl]
 starred_at: "2022-01-19T03:57:01Z"
 tags:
-  - tools
   - windows
+  - linux
   - cli
   - tool
 ---

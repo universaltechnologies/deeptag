@@ -7,11 +7,9 @@ stars: 30474
 topics: [agent-skills, agents, ai, awesome, custom-agents, github-copilot, hacktoberfest, prompt-engineering]
 starred_at: "2026-03-25T03:51:25Z"
 tags:
-  - coding
   - ai
   - agent
-  - mcp
-  - prompt
+  - skills
   - awesome
 ---
 

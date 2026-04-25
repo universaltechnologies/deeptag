@@ -7,10 +7,9 @@ stars: 12154
 topics: [containers, docker, electron, electron-app, kitematic, toolbox]
 starred_at: "2017-12-26T06:58:49Z"
 tags:
-  - tools
-  - coding
-  - desktop
+  - docker
   - gui
+  - tool
 ---
 
 # docker-archive-public/docker.kitematic

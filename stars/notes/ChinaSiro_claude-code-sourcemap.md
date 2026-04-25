@@ -7,11 +7,11 @@ stars: 8945
 topics: []
 starred_at: "2026-03-31T13:07:24Z"
 tags:
-  - coding
   - ai
-  - mcp
-  - tool
-  - reverse
+  - agent
+  - cli
+  - typescript
+  - practice
 ---
 
 # ChinaSiro/claude-code-sourcemap

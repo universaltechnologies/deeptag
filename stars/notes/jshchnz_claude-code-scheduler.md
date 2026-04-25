@@ -7,8 +7,8 @@ stars: 496
 topics: []
 starred_at: "2026-03-24T06:46:58Z"
 tags:
-  - coding
   - ai
+  - agent
   - automation
   - plugin
 ---

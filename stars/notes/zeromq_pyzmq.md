@@ -7,9 +7,9 @@ stars: 4123
 topics: [cython, python, zeromq]
 starred_at: "2020-06-11T07:41:23Z"
 tags:
-  - coding
-  - networking
   - binding
+  - network
+  - python
   - library
 ---
 

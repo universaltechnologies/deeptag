@@ -8,8 +8,8 @@ topics: [human-readable, lua, tables]
 starred_at: "2018-11-13T06:58:37Z"
 tags:
   - coding
-  - debug
   - lua
+  - debug
   - library
 ---
 

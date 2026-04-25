@@ -7,10 +7,11 @@ stars: 3704
 topics: []
 starred_at: "2026-04-17T20:31:12Z"
 tags:
-  - coding
-  - reverse
+  - ai
+  - skills
   - android
-  - tool
+  - reverse
+  - plugin
 ---
 
 # SimoneAvogadro/android-reverse-engineering-skill

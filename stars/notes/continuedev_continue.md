@@ -7,10 +7,9 @@ stars: 32663
 topics: [agent, ai, cli, developer-tools, jetbrains-plugin, llm, open-source, vs-code-extenstion]
 starred_at: "2026-04-15T07:37:55Z"
 tags:
-  - coding
   - ai
-  - agent
-  - llm
+  - ci
+  - ide
   - tool
 ---
 

@@ -10,9 +10,7 @@ tags:
   - graphic
   - rendering
   - raymarching
-  - shader
-  - glsl
-  - practice
+  - webgl
 ---
 
 # piellardj/ray-marching-webgl

@@ -7,8 +7,7 @@ stars: 809
 topics: []
 starred_at: "2022-05-23T23:47:49Z"
 tags:
-  - coding
-  - media
+  - graphic
   - image
   - library
   - header-only

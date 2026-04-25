@@ -7,11 +7,9 @@ stars: 40523
 topics: [agent-framework, data-analysis, deep-research, deep-search, llms, multi-agent-system, nlp, public-opinion-analysis, python3, sentiment-analysis]
 starred_at: "2026-03-09T02:53:18Z"
 tags:
-  - coding
   - ai
   - agent
-  - nlp
-  - library
+  - tool
 ---
 
 # 666ghj/BettaFish

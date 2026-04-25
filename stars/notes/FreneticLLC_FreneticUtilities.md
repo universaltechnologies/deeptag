@@ -8,8 +8,8 @@ topics: [c-sharp, csharp, dll, frenetic, frenetic-utilities]
 starred_at: "2024-03-19T03:32:56Z"
 tags:
   - coding
+  - csharp
   - library
-  - dotnet
 ---
 
 # FreneticLLC/FreneticUtilities

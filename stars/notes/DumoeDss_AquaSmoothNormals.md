@@ -7,12 +7,9 @@ stars: 83
 topics: []
 starred_at: "2023-10-31T02:59:10Z"
 tags:
-  - graphic
-  - normal
-  - shader
-  - coding
-  - engine
   - unity
+  - shader
+  - plugin
 ---
 
 # DumoeDss/AquaSmoothNormals

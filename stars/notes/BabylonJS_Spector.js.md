@@ -7,9 +7,9 @@ stars: 1574
 topics: [3d, debug, debugger, inspector, webgl, webgl2, webvr]
 starred_at: "2024-07-16T01:53:02Z"
 tags:
-  - graphic
-  - webgl
+  - coding
   - debug
+  - webgl
   - tool
 ---
 

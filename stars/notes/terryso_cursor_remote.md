@@ -7,10 +7,8 @@ stars: 57
 topics: []
 starred_at: "2025-05-21T10:01:22Z"
 tags:
-  - coding
-  - ai
+  - ide
   - mcp
-  - automation
   - tool
 ---
 

@@ -7,10 +7,10 @@ stars: 379
 topics: []
 starred_at: "2024-12-12T16:55:54Z"
 tags:
-  - coding
+  - data
   - algorithm
-  - library
   - python
+  - library
 ---
 
 # stefankoegl/kdtree

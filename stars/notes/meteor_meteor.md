@@ -8,9 +8,11 @@ topics: [build-system, framework, hacktoberfest, javascript, meteor, mongodb, no
 starred_at: "2021-05-13T18:10:38Z"
 tags:
   - coding
-  - web
-  - nodejs
   - framework
+  - web
+  - mobile
+  - nodejs
+  - cross-platform
 ---
 
 # meteor/meteor

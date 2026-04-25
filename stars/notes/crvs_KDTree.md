@@ -9,9 +9,6 @@ starred_at: "2024-12-12T16:53:30Z"
 tags:
   - coding
   - algorithm
-  - geometry
-  - cpp
-  - header-only
   - library
 ---
 

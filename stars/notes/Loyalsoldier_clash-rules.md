@@ -7,10 +7,9 @@ stars: 25936
 topics: [adblock, adguard, anticensorship, chinalist, clash, dnsmasq, easylist, geosite, gfw, gfwlist, proxy, routing, shadowsocks, ss, ssr, surge, v2ray]
 starred_at: "2022-11-25T15:54:22Z"
 tags:
-  - networking
-  - protocol
   - tools
-  - practice
+  - network
+  - proxy
 ---
 
 # Loyalsoldier/clash-rules

@@ -7,12 +7,12 @@ stars: 2372
 topics: [effects, graphics, postprocess, unity, unity3d]
 starred_at: "2023-03-28T18:09:11Z"
 tags:
-  - graphic
-  - post-processing
   - coding
   - engine
   - unity
-  - library
+  - graphic
+  - post-processing
+  - plugin
 ---
 
 # keijiro/Kino

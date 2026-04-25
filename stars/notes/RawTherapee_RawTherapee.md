@@ -7,8 +7,7 @@ stars: 3904
 topics: [photography, raw, rawtherapee]
 starred_at: "2021-11-16T03:24:40Z"
 tags:
-  - coding
-  - media
+  - tools
   - image-processing
   - cross-platform
   - tool

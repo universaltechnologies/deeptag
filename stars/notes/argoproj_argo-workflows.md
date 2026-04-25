@@ -8,10 +8,8 @@ topics: [airflow, argo, argo-workflows, batch-processing, cloud-native, cncf, da
 starred_at: "2024-11-29T08:34:24Z"
 tags:
   - coding
-  - systems
-  - cloud
-  - automation
   - workflow
+  - framework
 ---
 
 # argoproj/argo-workflows

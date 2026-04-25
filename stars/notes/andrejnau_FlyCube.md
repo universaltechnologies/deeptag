@@ -7,9 +7,9 @@ stars: 462
 topics: [d3d12, direct3d, directx, directx-12, directx12, dxr, gamedev, graphics-api, graphics-engine, graphics-library, graphics-programming, metal, ray-tracing, raytracing, renderer, rendering, rtx, vulkan, vulkan-api]
 starred_at: "2025-10-16T03:15:56Z"
 tags:
-  - graphic
-  - rendering
-  - platform
+  - coding
+  - engine
+  - rhi
   - library
   - cross-platform
 ---

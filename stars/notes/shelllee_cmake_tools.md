@@ -7,8 +7,8 @@ stars: 1
 topics: []
 starred_at: "2018-11-27T05:35:23Z"
 tags:
-  - coding
   - build
+  - library
 ---
 
 # shelllee/cmake_tools

@@ -7,11 +7,9 @@ stars: 30263
 topics: [agentic-coding, ai-coding, anthropic, claude-code, cli, command-line-tool, cost-reduction, developer-tools, llm, open-source, productivity, rust, token-optimization]
 starred_at: "2026-03-17T02:56:31Z"
 tags:
-  - coding
-  - ai
-  - llm
-  - tool
   - cli
+  - tokens
+  - tool
 ---
 
 # rtk-ai/rtk

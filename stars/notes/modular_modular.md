@@ -10,8 +10,7 @@ tags:
   - coding
   - ai
   - inference
-  - tool
-  - platform
+  - framework
 ---
 
 # modular/modular

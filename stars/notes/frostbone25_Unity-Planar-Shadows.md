@@ -8,12 +8,9 @@ topics: [computer-graphics, graphics, graphics-programming, rendering, rendering
 starred_at: "2025-10-31T13:34:47Z"
 tags:
   - graphic
-  - rendering
-  - shader
+  - lighting
   - shadow
-  - engine
   - unity
-  - mobile
   - plugin
 ---
 

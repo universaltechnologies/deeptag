@@ -7,10 +7,9 @@ stars: 5286
 topics: []
 starred_at: "2015-12-20T06:17:31Z"
 tags:
-  - coding
   - ios
+  - animation
   - library
-  - tool
 ---
 
 # CanvasPod/Canvas

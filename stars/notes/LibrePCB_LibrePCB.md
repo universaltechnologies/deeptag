@@ -8,9 +8,6 @@ topics: [cad, eda, electronics, hacktoberfest, linux, macos, pcb, qt, schematic,
 starred_at: "2023-11-17T15:37:47Z"
 tags:
   - tools
-  - coding
-  - cpp
-  - gui
   - cross-platform
   - tool
 ---

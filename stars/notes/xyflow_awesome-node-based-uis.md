@@ -7,9 +7,6 @@ stars: 3524
 topics: [awesome-list, etl, node-based-ui, visual-programming, workflow-editor]
 starred_at: "2024-09-11T08:21:37Z"
 tags:
-  - coding
-  - gui
-  - visualization
   - awesome
 ---
 

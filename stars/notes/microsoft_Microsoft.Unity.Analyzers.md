@@ -11,8 +11,8 @@ tags:
   - engine
   - unity
   - csharp
-  - tool
-  - library
+  - lint
+  - plugin
 ---
 
 # microsoft/Microsoft.Unity.Analyzers

@@ -7,12 +7,9 @@ stars: 234
 topics: []
 starred_at: "2021-08-18T07:03:05Z"
 tags:
-  - tools
-  - coding
-  - engine
+  - sql
   - unity
   - tool
-  - cli
 ---
 
 # faelenor/asset-bundle-analyzer

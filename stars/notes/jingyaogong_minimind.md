@@ -10,6 +10,8 @@ tags:
   - coding
   - ai
   - llm
+  - nlp
+  - deep-learning
   - tutorial
 ---
 

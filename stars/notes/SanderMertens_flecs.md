@@ -10,9 +10,9 @@ tags:
   - coding
   - game
   - ecs
-  - performance
+  - c
+  - cpp
   - framework
-  - cross-platform
 ---
 
 # SanderMertens/flecs

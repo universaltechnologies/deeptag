@@ -7,11 +7,7 @@ stars: 62
 topics: [automation, beta, cursor, cursor-ai, cursor-ide, cursor-pro, desktop-app, educational, electron, electron-app, free-trial-helper, freetrial, gui, machine-id-reset, multi-account-manager, open-source, trial-helper, vue, vuejs, windows]
 starred_at: "2026-01-08T14:15:12Z"
 tags:
-  - coding
-  - automation
   - tool
-  - windows
-  - desktop
 ---
 
 # ChloeVPin/cursor-free-vip

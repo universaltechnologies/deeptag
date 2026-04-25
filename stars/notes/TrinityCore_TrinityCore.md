@@ -8,10 +8,10 @@ topics: [hacktoberfest, linux, mmorpg, multi-platform, multiplayer, trinitycore,
 starred_at: "2015-11-10T02:49:10Z"
 tags:
   - coding
-  - game
+  - engine
+  - custom
+  - language
   - cpp
-  - networking
-  - database
   - framework
 ---
 

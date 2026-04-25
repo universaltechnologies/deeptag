@@ -8,9 +8,7 @@ topics: []
 starred_at: "2017-05-09T05:32:29Z"
 tags:
   - coding
-  - cpp
-  - java
-  - python
+  - lint
   - book
 ---
 

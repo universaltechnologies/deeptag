@@ -7,13 +7,11 @@ stars: 13913
 topics: [ai-agents, ai-assisted-development, anthropic, claude, claude-code, game-design, game-development, gamedev, godot, indie-game-dev, unity, unreal-engine]
 starred_at: "2026-04-17T20:33:05Z"
 tags:
-  - coding
   - ai
   - agent
-  - engine
-  - unity
-  - godot
-  - tool
+  - game
+  - workflow
+  - awesome
 ---
 
 # Donchitos/Claude-Code-Game-Studios

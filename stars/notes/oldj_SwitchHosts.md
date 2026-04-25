@@ -7,10 +7,10 @@ stars: 26525
 topics: [electron, hosts, hostseditor, hostsfile, switch-hosts, switchhosts]
 starred_at: "2022-11-23T15:09:59Z"
 tags:
-  - coding
-  - electron
-  - tool
+  - tools
+  - network
   - cross-platform
+  - tool
 ---
 
 # oldj/SwitchHosts

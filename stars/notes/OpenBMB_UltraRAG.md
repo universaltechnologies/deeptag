@@ -7,11 +7,10 @@ stars: 5504
 topics: [deepseek, demo, easy, embedding, flask, gpt, huggingface-transformers, llm, mcp, multimodal, openai, qwen, rag, sentence-transformers, ui, vllm, vlm]
 starred_at: "2026-01-21T13:49:31Z"
 tags:
-  - coding
   - ai
-  - llm
   - rag
   - mcp
+  - agent
   - framework
 ---
 

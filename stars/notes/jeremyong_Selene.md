@@ -7,13 +7,11 @@ stars: 822
 topics: []
 starred_at: "2016-06-26T15:23:18Z"
 tags:
-  - coding
-  - language
-  - lua
-  - cpp
   - binding
-  - library
+  - cpp
+  - lua
   - header-only
+  - library
 ---
 
 # jeremyong/Selene

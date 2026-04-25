@@ -8,7 +8,6 @@ topics: []
 starred_at: "2017-04-21T01:58:17Z"
 tags:
   - coding
-  - platform
   - vulkan
   - spec
 ---

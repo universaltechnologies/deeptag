@@ -7,9 +7,9 @@ stars: 1719
 topics: []
 starred_at: "2016-05-27T01:11:09Z"
 tags:
-  - coding
+  - c
+  - raii
   - library
-  - cross-platform
 ---
 
 # Snaipe/libcsptr

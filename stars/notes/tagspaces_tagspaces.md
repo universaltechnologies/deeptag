@@ -7,9 +7,8 @@ stars: 5038
 topics: [electron, javascript, note-taking, offline-first, open-source, self-hosting, tagspaces]
 starred_at: "2023-12-30T08:46:01Z"
 tags:
-  - coding
   - tools
-  - electron
+  - productivity
   - cross-platform
   - tool
 ---

@@ -7,10 +7,8 @@ stars: 9547
 topics: [astronomy, c, c-plus-plus, planetarium, qt5, qt6, science, sky, stars, stellarium, universe]
 starred_at: "2022-10-21T10:18:26Z"
 tags:
-  - graphic
-  - rendering
-  - opengl
-  - cpp
+  - tools
+  - compute
   - cross-platform
 ---
 

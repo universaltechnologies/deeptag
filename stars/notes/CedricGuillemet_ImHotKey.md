@@ -9,9 +9,9 @@ starred_at: "2023-02-23T17:35:35Z"
 tags:
   - coding
   - gui
-  - library
+  - input
   - header-only
-  - tool
+  - plugin
 ---
 
 # CedricGuillemet/ImHotKey

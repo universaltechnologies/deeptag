@@ -10,9 +10,8 @@ tags:
   - graphic
   - lighting
   - ssao
-  - coding
-  - engine
   - unity
+  - library
 ---
 
 # haolange/Unity_ScreenSpaceLighting_Old

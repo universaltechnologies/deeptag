@@ -7,11 +7,10 @@ stars: 2379
 topics: []
 starred_at: "2023-03-28T18:08:31Z"
 tags:
-  - coding
   - ai
-  - engine
   - unity
   - shader
+  - plugin
 ---
 
 # keijiro/AIShader

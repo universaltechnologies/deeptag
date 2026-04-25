@@ -7,8 +7,8 @@ stars: 1045
 topics: []
 starred_at: "2026-01-12T08:36:30Z"
 tags:
-  - coding
   - ai
+  - memory
   - plugin
 ---
 

@@ -8,7 +8,7 @@ topics: [awesome, awesome-list, electron, list]
 starred_at: "2022-03-09T16:31:40Z"
 tags:
   - coding
-  - desktop
+  - electron
   - awesome
 ---
 

@@ -7,12 +7,11 @@ stars: 161469
 topics: [ai-agents, anthropic, claude, claude-code, developer-tools, llm, mcp, productivity]
 starred_at: "2026-01-24T11:25:25Z"
 tags:
-  - coding
   - ai
-  - llm
   - agent
-  - mcp
-  - tool
+  - prompt
+  - memory
+  - awesome
 ---
 
 # affaan-m/everything-claude-code

@@ -7,10 +7,10 @@ stars: 25
 topics: [ai-agent, ai-tools, claude-code, code-retrieval, code-search, codebase-indexing, context-engineering, context-management, developer-tools, hybrid-search, lancedb, mcp, mcp-server, oss, project-memory, rag, semantic-search, tree-sitter, typescript, vector-database]
 starred_at: "2026-04-09T07:38:17Z"
 tags:
-  - coding
-  - ai
-  - rag
+  - agent
+  - context
   - mcp
+  - rag
   - library
   - tool
 ---

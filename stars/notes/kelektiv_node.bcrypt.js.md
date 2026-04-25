@@ -7,10 +7,9 @@ stars: 7788
 topics: [bcrypt]
 starred_at: "2019-06-20T15:34:13Z"
 tags:
-  - coding
-  - security
-  - library
+  - encryption
   - nodejs
+  - library
 ---
 
 # kelektiv/node.bcrypt.js

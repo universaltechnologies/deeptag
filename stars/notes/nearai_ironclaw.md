@@ -7,9 +7,9 @@ stars: 11878
 topics: []
 starred_at: "2026-03-06T10:42:36Z"
 tags:
-  - coding
+  - tools
   - ai
-  - rust
+  - security
   - tool
 ---
 

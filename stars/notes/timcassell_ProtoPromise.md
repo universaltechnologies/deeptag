@@ -8,8 +8,9 @@ topics: [async, async-await, await, callback, callbacks, concurrency, concurrent
 starred_at: "2023-11-03T08:02:29Z"
 tags:
   - coding
-  - async
+  - csharp
   - dotnet
+  - async
   - library
 ---
 

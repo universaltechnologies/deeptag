@@ -11,6 +11,7 @@ tags:
   - language
   - compiler
   - performance
+  - library
 ---
 
 # pallene-lang/pallene

@@ -7,8 +7,8 @@ stars: 7592
 topics: [crowler, spider]
 starred_at: "2017-06-09T09:15:22Z"
 tags:
-  - coding
-  - web
+  - network
+  - go
   - distributed
   - framework
 ---

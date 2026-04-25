@@ -7,8 +7,9 @@ stars: 581
 topics: [argument-parser, argument-parsing, arguments, cli, cmdline-parser, command-line, command-line-parser, cpp, cpp11, cpp14, cpp17, cpp20, header-only, option-parser, options, options-parsing, parameters, parser]
 starred_at: "2022-12-22T16:13:36Z"
 tags:
-  - coding
+  - cli
   - parser
+  - cpp
   - library
   - header-only
 ---

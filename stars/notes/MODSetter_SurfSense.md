@@ -7,12 +7,10 @@ stars: 13866
 topics: [agent, agents, ai, chrome-extension, extension, fastapi, langchain, langgraph, nextjs, notebooklm, ollama, perplexity, python, rag, typescript]
 starred_at: "2025-12-21T01:34:45Z"
 tags:
-  - coding
   - ai
-  - rag
   - agent
+  - llm
   - tool
-  - web
 ---
 
 # MODSetter/SurfSense

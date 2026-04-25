@@ -8,10 +8,12 @@ topics: [android, claude-code, cpp, memory, profiler, qt5, unity3d, unreal-engin
 starred_at: "2022-10-24T02:06:29Z"
 tags:
   - coding
+  - android
+  - game
   - profiler
   - ai
   - mcp
-  - android
+  - cli
   - tool
 ---
 

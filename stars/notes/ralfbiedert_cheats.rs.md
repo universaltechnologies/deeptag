@@ -10,7 +10,7 @@ tags:
   - coding
   - language
   - rust
-  - tool
+  - tutorial
 ---
 
 # ralfbiedert/cheats.rs

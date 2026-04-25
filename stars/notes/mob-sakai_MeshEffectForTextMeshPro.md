@@ -10,9 +10,7 @@ tags:
   - coding
   - engine
   - unity
-  - graphic
-  - shader
-  - component
+  - plugin
 ---
 
 # mob-sakai/MeshEffectForTextMeshPro

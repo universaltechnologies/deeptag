@@ -7,11 +7,9 @@ stars: 80136
 topics: []
 starred_at: "2019-01-29T07:00:23Z"
 tags:
-  - coding
   - ai
   - nlp
   - awesome
-  - data
 ---
 
 # fighting41love/funNLP

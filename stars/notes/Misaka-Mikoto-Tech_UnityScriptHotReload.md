@@ -7,12 +7,8 @@ stars: 387
 topics: [debug, hotreload, scriptreload, unity3d]
 starred_at: "2023-02-01T04:11:08Z"
 tags:
-  - coding
-  - engine
-  - unity
-  - csharp
-  - debug
   - hotfix
+  - unity
   - tool
 ---
 

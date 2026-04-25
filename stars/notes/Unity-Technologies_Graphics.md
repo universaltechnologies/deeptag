@@ -8,11 +8,12 @@ topics: []
 starred_at: "2022-07-06T10:09:21Z"
 tags:
   - coding
-  - graphic
-  - rendering
-  - shader
   - engine
   - unity
+  - graphic
+  - pipeline
+  - rendering
+  - library
 ---
 
 # Unity-Technologies/Graphics

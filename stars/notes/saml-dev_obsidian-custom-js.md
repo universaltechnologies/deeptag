@@ -8,8 +8,7 @@ topics: []
 starred_at: "2024-02-23T06:45:55Z"
 tags:
   - plugin
-  - javascript
-  - automation
+  - cross-platform
 ---
 
 # saml-dev/obsidian-custom-js

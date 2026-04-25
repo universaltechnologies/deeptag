@@ -7,10 +7,11 @@ stars: 11898
 topics: [glsl, hlsl, slang, vulkan, vulkan-api]
 starred_at: "2017-02-20T14:35:05Z"
 tags:
-  - graphic
-  - platform
   - vulkan
-  - shader
+  - gltf
+  - pbr
+  - ray-tracing
+  - compute-shader
   - tutorial
 ---
 

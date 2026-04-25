@@ -10,10 +10,7 @@ tags:
   - coding
   - ai
   - agent
-  - library
-  - python
-  - docker
-  - simulation
+  - framework
 ---
 
 # 666ghj/MiroFish

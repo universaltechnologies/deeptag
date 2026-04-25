@@ -7,7 +7,6 @@ stars: 16501
 topics: [agents, ai, chatgpt, gemini, google, grok, hacking, leak, leaked, openai, prompt, prompt-engineering, prompts, red-team, red-teaming, system, system-info, system-prompts, tools, transparency]
 starred_at: "2025-04-23T09:57:14Z"
 tags:
-  - coding
   - ai
   - prompt
   - awesome

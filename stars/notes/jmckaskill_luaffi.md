@@ -10,9 +10,7 @@ tags:
   - coding
   - ffi
   - lua
-  - c
   - library
-  - cross-platform
 ---
 
 # jmckaskill/luaffi

@@ -7,11 +7,11 @@ stars: 10023
 topics: []
 starred_at: "2026-04-17T20:47:53Z"
 tags:
-  - coding
   - ai
   - agent
-  - tool
+  - desktop
   - gui
+  - tool
 ---
 
 # pingdotgg/t3code

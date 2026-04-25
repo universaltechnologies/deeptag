@@ -11,7 +11,7 @@ tags:
   - engine
   - unity
   - simulation
-  - plugin
+  - tool
 ---
 
 # Unity-Technologies/com.unity.simviz

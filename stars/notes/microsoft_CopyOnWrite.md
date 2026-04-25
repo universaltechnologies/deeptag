@@ -9,9 +9,8 @@ starred_at: "2023-01-31T07:43:18Z"
 tags:
   - coding
   - dotnet
-  - library
   - filesystem
-  - windows
+  - library
 ---
 
 # microsoft/CopyOnWrite

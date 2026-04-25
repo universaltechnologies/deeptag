@@ -7,9 +7,9 @@ stars: 3584
 topics: [backup, bash, rsync, shell, time-machine]
 starred_at: "2022-03-13T17:16:35Z"
 tags:
-  - tools
-  - automation
-  - workflow
+  - coding
+  - shell
+  - cross-platform
   - tool
 ---
 

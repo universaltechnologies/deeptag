@@ -7,9 +7,8 @@ stars: 575
 topics: [burst, c-sharp, ecs, graphics, unity, unity3d]
 starred_at: "2018-11-04T16:08:24Z"
 tags:
-  - coding
-  - engine
-  - game
+  - unity
+  - ecs
   - vfx
 ---
 

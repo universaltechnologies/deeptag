@@ -7,11 +7,9 @@ stars: 24867
 topics: [algorithm, csharp, gamedev, machine-learning, procedural-generation, wfc]
 starred_at: "2023-06-16T12:25:10Z"
 tags:
-  - coding
-  - algorithm
   - graphic
-  - scene
   - procedural
+  - algorithm
   - library
 ---
 

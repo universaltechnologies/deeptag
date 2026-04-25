@@ -7,11 +7,11 @@ stars: 30352
 topics: [agent, agentic, ai, infra, ml, openclaw, os, zeroclaw]
 starred_at: "2026-03-06T08:40:39Z"
 tags:
-  - coding
   - ai
   - agent
   - rust
-  - performance
+  - cross-platform
+  - framework
 ---
 
 # zeroclaw-labs/zeroclaw

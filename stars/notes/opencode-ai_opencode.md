@@ -9,9 +9,9 @@ starred_at: "2026-01-07T18:01:20Z"
 tags:
   - coding
   - ai
-  - llm
-  - tool
+  - agent
   - cli
+  - tool
 ---
 
 # opencode-ai/opencode

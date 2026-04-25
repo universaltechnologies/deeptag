@@ -7,10 +7,9 @@ stars: 2419
 topics: []
 starred_at: "2025-05-28T17:49:28Z"
 tags:
-  - coding
+  - capture
   - video
-  - windows
-  - networking
+  - network
   - tool
 ---
 

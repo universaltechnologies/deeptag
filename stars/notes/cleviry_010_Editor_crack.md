@@ -9,7 +9,7 @@ starred_at: "2024-08-22T09:04:05Z"
 tags:
   - coding
   - reverse
-  - tools
+  - tutorial
 ---
 
 # cleviry/010_Editor_crack

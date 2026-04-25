@@ -10,6 +10,8 @@ tags:
   - coding
   - ai
   - cv
+  - llm
+  - prompt
   - tool
 ---
 

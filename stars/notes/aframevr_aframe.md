@@ -7,9 +7,9 @@ stars: 17515
 topics: [3d, aframe, augmented-reality, daydream, ecs, game-development, game-engine, gamedev, html, metaverse, oculus, rift, threejs, virtual-reality, virtualreality, vive, vr, webgl, webvr, webxr]
 starred_at: "2022-11-08T10:52:56Z"
 tags:
-  - coding
   - web
-  - engine
+  - vr
+  - 3d
   - framework
 ---
 

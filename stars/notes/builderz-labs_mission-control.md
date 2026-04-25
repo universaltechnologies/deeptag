@@ -7,11 +7,10 @@ stars: 4224
 topics: [agent-orchestration, ai-agents, ai-automation, ai-dashboard, claude, dashboard, developer-tools, llm, mcp, nextjs, open-source, openclaw, self-hosted, sqlite, task-management, typescript]
 starred_at: "2026-03-06T08:49:14Z"
 tags:
-  - coding
   - ai
   - agent
-  - mcp
   - self-hosted
+  - framework
 ---
 
 # builderz-labs/mission-control

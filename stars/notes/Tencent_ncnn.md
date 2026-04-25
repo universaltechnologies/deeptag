@@ -10,9 +10,8 @@ tags:
   - coding
   - ai
   - inference
-  - mobile
+  - cross-platform
   - framework
-  - performance
 ---
 
 # Tencent/ncnn

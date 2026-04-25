@@ -7,11 +7,11 @@ stars: 2476
 topics: [desktop-capturing, virtual-camera, webcam]
 starred_at: "2025-02-07T12:21:50Z"
 tags:
-  - coding
-  - media
-  - video
-  - desktop
+  - tools
+  - compute
+  - network
   - cross-platform
+  - tool
 ---
 
 # webcamoid/webcamoid

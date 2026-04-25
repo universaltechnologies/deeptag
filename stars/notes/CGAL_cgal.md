@@ -7,10 +7,10 @@ stars: 5854
 topics: [algorithms, arrange, boolean-operations, c-plus-plus, cgal, computational-geometry, cpp, geometry, geometry-processing, library, mesh-processing, meshes, point-cloud, polygon, template-library, triangulation, voronoi-diagram]
 starred_at: "2021-09-29T06:54:08Z"
 tags:
-  - coding
-  - cpp
-  - header-only
+  - graphic
+  - geometry
   - library
+  - header-only
 ---
 
 # CGAL/cgal

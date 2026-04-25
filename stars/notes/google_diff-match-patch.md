@@ -10,8 +10,6 @@ tags:
   - coding
   - algorithm
   - library
-  - performance
-  - cross-platform
 ---
 
 # google/diff-match-patch

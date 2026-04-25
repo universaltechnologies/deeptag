@@ -10,8 +10,8 @@ tags:
   - coding
   - engine
   - unity
-  - graphic
   - vfx
+  - practice
 ---
 
 # Unity-Technologies/SpaceshipDemo

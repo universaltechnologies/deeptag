@@ -8,8 +8,8 @@ topics: [automated, bloatware, bloatware-removal, cleanup, cli, debloat, debloat
 starred_at: "2026-03-10T06:25:07Z"
 tags:
   - coding
-  - automation
   - windows
+  - tool
 ---
 
 # Raphire/Win11Debloat

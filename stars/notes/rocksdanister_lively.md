@@ -7,10 +7,9 @@ stars: 18663
 topics: [csharp, desktop, desktop-wallpaper, dynamic-desktop, dynamic-wallpaper, fluent-design, live-wallpaper, screensavers, wallpaper, wallpaper-app, wallpaper-changer, wallpaper-engine, wallpaperengine, wallpapers, widgets, windows-10, windows-11, windows-app, winui, winui3]
 starred_at: "2023-11-17T16:17:18Z"
 tags:
-  - coding
+  - tools
+  - windows
   - desktop
-  - media
-  - video
   - tool
 ---
 

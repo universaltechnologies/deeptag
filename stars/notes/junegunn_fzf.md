@@ -7,9 +7,8 @@ stars: 79643
 topics: [bash, cli, fish, fzf, go, neovim, tmux, unix, vim, zsh]
 starred_at: "2025-12-19T09:40:20Z"
 tags:
-  - tools
-  - coding
   - cli
+  - search
   - tool
 ---
 

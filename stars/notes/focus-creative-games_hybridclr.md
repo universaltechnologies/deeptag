@@ -7,10 +7,10 @@ stars: 7794
 topics: [csharp, framework, hot, hot-update, hotfix, hotupdate, huatuo, il2cpp, ios, unity, update]
 starred_at: "2022-07-19T04:54:53Z"
 tags:
-  - coding
-  - engine
+  - unity
   - csharp
-  - performance
+  - hotfix
+  - library
 ---
 
 # focus-creative-games/hybridclr

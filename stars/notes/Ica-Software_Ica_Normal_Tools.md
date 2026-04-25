@@ -10,9 +10,6 @@ tags:
   - coding
   - engine
   - unity
-  - graphic
-  - scene
-  - mesh
   - library
 ---
 

@@ -9,7 +9,7 @@ starred_at: "2018-06-01T07:30:58Z"
 tags:
   - coding
   - mobile
-  - ios
+  - library
 ---
 
 # bitstadium/HockeyKit

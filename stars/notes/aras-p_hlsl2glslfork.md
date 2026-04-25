@@ -7,10 +7,14 @@ stars: 573
 topics: [cross-compiler, glsl, hlsl, shaders]
 starred_at: "2017-03-27T14:06:17Z"
 tags:
+  - coding
+  - language
+  - compiler
   - graphic
   - shader
   - hlsl
-  - tool
+  - glsl
+  - library
 ---
 
 # aras-p/hlsl2glslfork

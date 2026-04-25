@@ -12,7 +12,7 @@ tags:
   - unity
   - debug
   - profiler
-  - plugin
+  - tool
 ---
 
 # Tayx94/graphy

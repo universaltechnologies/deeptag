@@ -7,12 +7,10 @@ stars: 209
 topics: []
 starred_at: "2023-02-27T13:27:17Z"
 tags:
-  - graphic
-  - shader
-  - depth
   - coding
   - engine
   - unity
+  - shader
   - tutorial
 ---
 

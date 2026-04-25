@@ -7,10 +7,8 @@ stars: 518
 topics: []
 starred_at: "2025-02-10T06:58:36Z"
 tags:
-  - coding
   - ai
   - mcp
-  - engine
   - unity
   - plugin
 ---

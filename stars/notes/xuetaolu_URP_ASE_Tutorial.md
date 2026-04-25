@@ -10,7 +10,6 @@ tags:
   - coding
   - engine
   - unity
-  - urp
   - shader
   - tutorial
 ---

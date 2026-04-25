@@ -10,8 +10,7 @@ tags:
   - coding
   - engine
   - unity
-  - tools
-  - plugin
+  - tool
 ---
 
 # giantparticlegames/InspectorGraph

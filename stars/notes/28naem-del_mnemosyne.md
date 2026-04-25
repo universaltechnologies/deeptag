@@ -7,9 +7,9 @@ stars: 36
 topics: [agents, ai, ai-agents, artificial-intelligence, cognitive, embeddings, knowledge-graph, llm, machine-learning, memory, multi-agent, qdrant, self-improving, typescript, vector]
 starred_at: "2026-03-04T12:25:37Z"
 tags:
-  - coding
   - ai
   - agent
+  - memory
   - library
 ---
 

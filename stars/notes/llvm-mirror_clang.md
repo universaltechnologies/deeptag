@@ -10,7 +10,9 @@ tags:
   - coding
   - language
   - compiler
+  - c
   - cpp
+  - library
 ---
 
 # llvm-mirror/clang

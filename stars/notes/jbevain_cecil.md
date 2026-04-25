@@ -10,7 +10,6 @@ tags:
   - coding
   - dotnet
   - library
-  - reflection
 ---
 
 # jbevain/cecil

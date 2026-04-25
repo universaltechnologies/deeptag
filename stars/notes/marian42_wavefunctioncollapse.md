@@ -7,9 +7,8 @@ stars: 4844
 topics: [procjam, unity, wavefunctioncollapse]
 starred_at: "2022-12-05T02:19:37Z"
 tags:
-  - coding
-  - game
-  - algorithm
+  - unity
+  - simulation
   - procedural
   - tool
 ---

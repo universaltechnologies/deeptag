@@ -7,9 +7,7 @@ stars: 343389
 topics: [design, design-patterns, design-system, development, interview, interview-practice, interview-questions, programming, python, system, web, web-application, webapp]
 starred_at: "2022-06-01T13:05:02Z"
 tags:
-  - coding
   - systems
-  - architecture
   - tutorial
   - awesome
 ---

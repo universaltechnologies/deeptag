@@ -7,12 +7,9 @@ stars: 10840
 topics: [ai, faiss, gpt-oss, langchain, llama-index, llm, localstorage, offline-first, ollama, privacy, python, rag, retrieval-augmented-generation, vector-database, vector-search, vectors]
 starred_at: "2026-01-18T14:34:24Z"
 tags:
-  - coding
   - ai
   - rag
-  - llm
   - mcp
-  - performance
   - library
 ---
 

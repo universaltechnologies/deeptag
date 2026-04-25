@@ -10,9 +10,7 @@ tags:
   - coding
   - ai
   - mcp
-  - graphic
-  - 3d
-  - plugin
+  - tool
 ---
 
 # ahujasid/blender-mcp

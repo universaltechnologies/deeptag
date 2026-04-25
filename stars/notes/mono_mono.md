@@ -7,11 +7,12 @@ stars: 11434
 topics: [android, csharp, dotnet, garbage-collector, ios, jit, runtime, xamarin]
 starred_at: "2023-02-13T07:51:10Z"
 tags:
-  - coding
-  - language
   - runtime
+  - compiler
+  - csharp
   - dotnet
   - cross-platform
+  - framework
 ---
 
 # mono/mono

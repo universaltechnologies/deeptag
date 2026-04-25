@@ -7,9 +7,10 @@ stars: 16486
 topics: [agent-skills, ai-agents, antigravity-skills, awesome, awesome-list, awesome-lists, claude-code, claude-code-skills, claude-skills, codex-skills, cursor-skills, gemini-skills, opencode-skills, skills]
 starred_at: "2026-01-14T02:04:45Z"
 tags:
-  - coding
   - ai
   - agent
+  - skills
+  - prompt
   - awesome
 ---
 

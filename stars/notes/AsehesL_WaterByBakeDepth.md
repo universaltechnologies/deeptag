@@ -9,9 +9,6 @@ starred_at: "2022-10-31T02:51:56Z"
 tags:
   - graphic
   - water
-  - shader
-  - mesh
-  - procedural
   - tool
 ---
 

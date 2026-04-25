@@ -7,11 +7,9 @@ stars: 16418
 topics: []
 starred_at: "2026-04-03T08:14:57Z"
 tags:
-  - coding
   - ai
-  - llm
+  - agent
   - cli
-  - reverse
   - tool
 ---
 

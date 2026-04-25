@@ -10,7 +10,8 @@ tags:
   - coding
   - ai
   - diffusion
-  - tool
+  - image
+  - library
 ---
 
 # carefree0910/carefree-creator

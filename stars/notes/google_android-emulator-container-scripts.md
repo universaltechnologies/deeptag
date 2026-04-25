@@ -7,10 +7,10 @@ stars: 2035
 topics: []
 starred_at: "2021-05-26T06:28:56Z"
 tags:
-  - coding
   - android
-  - tools
   - docker
+  - test
+  - tool
 ---
 
 # google/android-emulator-container-scripts

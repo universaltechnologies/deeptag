@@ -8,7 +8,6 @@ topics: []
 starred_at: "2022-05-12T19:19:39Z"
 tags:
   - coding
-  - language
   - cpp
   - book
 ---

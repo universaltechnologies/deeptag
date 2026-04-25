@@ -7,9 +7,9 @@ stars: 9754
 topics: [browser, gtk, ios, javascript, macos, web, webkit]
 starred_at: "2024-10-25T13:09:16Z"
 tags:
-  - coding
   - web
-  - platform
+  - api
+  - framework
 ---
 
 # WebKit/WebKit

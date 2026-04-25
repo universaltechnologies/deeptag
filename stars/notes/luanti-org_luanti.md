@@ -10,9 +10,7 @@ tags:
   - coding
   - engine
   - game
-  - voxel
-  - lua
-  - framework
+  - tool
 ---
 
 # luanti-org/luanti

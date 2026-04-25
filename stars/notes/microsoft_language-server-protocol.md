@@ -10,8 +10,6 @@ tags:
   - coding
   - language
   - spec
-  - protocol
-  - ide
 ---
 
 # microsoft/language-server-protocol

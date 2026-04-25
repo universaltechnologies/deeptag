@@ -7,9 +7,9 @@ stars: 9832
 topics: []
 starred_at: "2025-06-30T12:50:39Z"
 tags:
-  - coding
   - ai
   - agent
+  - ide
   - plugin
 ---
 

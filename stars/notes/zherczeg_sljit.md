@@ -8,11 +8,8 @@ topics: []
 starred_at: "2023-02-19T15:41:59Z"
 tags:
   - coding
-  - language
-  - compiler
   - jit
   - library
-  - cross-platform
 ---
 
 # zherczeg/sljit

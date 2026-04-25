@@ -7,12 +7,9 @@ stars: 2436
 topics: [automation, avalonia, classisland, classroom, dotnet, education, fluent-design, fluentavalonia, linux, macos, plugins, tools, windows]
 starred_at: "2025-12-25T13:40:56Z"
 tags:
-  - tools
-  - gui
-  - dotnet
-  - windows
-  - linux
+  - productivity
   - cross-platform
+  - tool
 ---
 
 # ClassIsland/ClassIsland

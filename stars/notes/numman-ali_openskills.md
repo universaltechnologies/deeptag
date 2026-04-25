@@ -7,10 +7,11 @@ stars: 9840
 topics: []
 starred_at: "2026-01-16T04:21:24Z"
 tags:
-  - coding
   - ai
-  - tool
+  - agent
+  - skills
   - cli
+  - tool
 ---
 
 # numman-ali/openskills

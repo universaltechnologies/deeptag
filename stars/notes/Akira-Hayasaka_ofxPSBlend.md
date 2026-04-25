@@ -7,12 +7,10 @@ stars: 114
 topics: []
 starred_at: "2016-06-09T05:05:52Z"
 tags:
-  - coding
-  - engine
   - graphic
   - shader
   - glsl
-  - plugin
+  - library
 ---
 
 # Akira-Hayasaka/ofxPSBlend

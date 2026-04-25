@@ -8,6 +8,7 @@ topics: [array, collection, functional, functional-programming, lua, object, tab
 starred_at: "2018-11-13T06:59:54Z"
 tags:
   - coding
+  - language
   - lua
   - library
 ---

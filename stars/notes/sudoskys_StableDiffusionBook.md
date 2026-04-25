@@ -7,10 +7,10 @@ stars: 1971
 topics: [aiart, stable-diffusion, stable-diffusion-tutorial, stable-diffusion-webui, stablediffusion]
 starred_at: "2023-04-19T03:05:01Z"
 tags:
-  - coding
   - ai
   - diffusion
-  - tutorial
+  - prompt
+  - book
 ---
 
 # sudoskys/StableDiffusionBook

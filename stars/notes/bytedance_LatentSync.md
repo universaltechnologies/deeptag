@@ -7,11 +7,8 @@ stars: 5598
 topics: [diffusion-models, lipsync, research, video-gen, virtual-avatars]
 starred_at: "2025-06-13T11:41:42Z"
 tags:
-  - coding
   - ai
   - diffusion
-  - cv
-  - audio
   - library
 ---
 

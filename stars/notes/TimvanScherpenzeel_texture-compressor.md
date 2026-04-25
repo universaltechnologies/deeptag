@@ -9,9 +9,8 @@ starred_at: "2025-05-14T02:01:16Z"
 tags:
   - graphic
   - texture
-  - compression
+  - cli
   - tool
-  - nodejs
 ---
 
 # TimvanScherpenzeel/texture-compressor

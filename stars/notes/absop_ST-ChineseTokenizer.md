@@ -7,9 +7,10 @@ stars: 17
 topics: []
 starred_at: "2023-03-28T06:04:31Z"
 tags:
-  - tools
-  - plugin
+  - coding
+  - editor
   - nlp
+  - plugin
 ---
 
 # absop/ST-ChineseTokenizer

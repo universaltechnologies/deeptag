@@ -7,9 +7,8 @@ stars: 53563
 topics: [agents, ai, ai-agents, application, chatbots, chatgpt, genai, llm, long-term-memory, memory, memory-management, python, rag, state-management]
 starred_at: "2026-03-28T08:22:08Z"
 tags:
-  - coding
   - ai
-  - llm
+  - memory
   - library
 ---
 

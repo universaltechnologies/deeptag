@@ -11,6 +11,7 @@ tags:
   - language
   - compiler
   - cross-platform
+  - tool
 ---
 
 # HaxeFoundation/haxe

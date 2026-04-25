@@ -7,11 +7,9 @@ stars: 10110
 topics: [ai, ai-agent, ai-infra, kubernetes, sandbox]
 starred_at: "2026-03-02T17:45:14Z"
 tags:
-  - coding
   - ai
   - agent
-  - systems
-  - library
+  - framework
 ---
 
 # alibaba/OpenSandbox

@@ -9,8 +9,8 @@ starred_at: "2018-12-09T07:32:44Z"
 tags:
   - coding
   - algorithm
-  - tutorial
   - visualization
+  - tutorial
 ---
 
 # MisterBooo/LeetCodeAnimation

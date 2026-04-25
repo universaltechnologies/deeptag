@@ -9,7 +9,7 @@ starred_at: "2017-05-12T13:27:46Z"
 tags:
   - coding
   - reverse
-  - library
+  - framework
 ---
 
 # capstone-engine/capstone

@@ -9,8 +9,9 @@ starred_at: "2025-05-26T14:42:20Z"
 tags:
   - coding
   - systems
-  - storage
-  - linux
+  - filesystem
+  - cross-platform
+  - library
 ---
 
 # openzfs/zfs

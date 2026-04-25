@@ -8,10 +8,10 @@ topics: [binary, c-sharp, dotnet, serialization, serializer]
 starred_at: "2024-04-02T08:12:17Z"
 tags:
   - coding
-  - dotnet
   - serialization
-  - performance
+  - dotnet
   - library
+  - performance
 ---
 
 # adam-dot-cohen/HyperSerializer

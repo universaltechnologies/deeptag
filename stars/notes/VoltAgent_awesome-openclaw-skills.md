@@ -7,9 +7,9 @@ stars: 46665
 topics: [agent-skills, awesome, awesome-list, awesome-lists, clawd, clawdbot, clawdbot-skill, clawdhub, moltbot, moltbot-skills, openclaw, openclaw-skills]
 starred_at: "2026-01-26T16:14:41Z"
 tags:
-  - coding
   - ai
   - agent
+  - skills
   - awesome
 ---
 

@@ -8,10 +8,8 @@ topics: []
 starred_at: "2020-03-31T06:03:08Z"
 tags:
   - coding
-  - media
-  - 3d
-  - binding
-  - tool
+  - data
+  - library
 ---
 
 # dreamhunter007/ManagedFbxSDK

@@ -7,11 +7,9 @@ stars: 2137
 topics: []
 starred_at: "2026-03-04T12:26:57Z"
 tags:
-  - coding
   - ai
-  - llm
   - mcp
-  - tool
+  - framework
   - performance
 ---
 

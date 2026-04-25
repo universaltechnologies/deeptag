@@ -7,12 +7,9 @@ stars: 681
 topics: []
 starred_at: "2020-09-29T11:02:30Z"
 tags:
-  - coding
-  - engine
+  - volume
   - unity
-  - graphic
-  - shader
-  - library
+  - plugin
 ---
 
 # SlightlyMad/AtmosphericScattering

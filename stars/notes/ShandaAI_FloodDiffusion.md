@@ -7,12 +7,9 @@ stars: 79
 topics: [text-to-motion]
 starred_at: "2026-04-16T16:51:42Z"
 tags:
-  - coding
   - ai
   - diffusion
-  - graphic
-  - animation
-  - library
+  - framework
 ---
 
 # ShandaAI/FloodDiffusion

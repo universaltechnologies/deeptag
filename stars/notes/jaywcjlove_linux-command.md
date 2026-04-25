@@ -7,8 +7,9 @@ stars: 35877
 topics: [bash, chrome, chrome-extension, command-line, gh-pages, linux, linux-command, ls, screen, screenshot, search, ssh, tools, web-tools]
 starred_at: "2023-02-16T16:20:58Z"
 tags:
-  - tools
+  - linux
   - awesome
+  - tutorial
 ---
 
 # jaywcjlove/linux-command

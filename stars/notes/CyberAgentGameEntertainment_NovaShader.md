@@ -7,14 +7,11 @@ stars: 1519
 topics: [graphics, particles, particlesystem, shaders, unity, urp, vfx]
 starred_at: "2023-03-16T18:09:40Z"
 tags:
-  - graphic
-  - shader
-  - vfx
-  - particles
-  - coding
-  - engine
   - unity
-  - plugin
+  - urp
+  - shader
+  - particles
+  - library
 ---
 
 # CyberAgentGameEntertainment/NovaShader

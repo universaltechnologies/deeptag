@@ -7,9 +7,8 @@ stars: 217
 topics: [finite-volume, flooding, shallow-water-equations, tsunami]
 starred_at: "2018-11-27T05:43:23Z"
 tags:
-  - coding
   - simulation
-  - math
+  - python
   - library
 ---
 

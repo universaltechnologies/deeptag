@@ -7,10 +7,8 @@ stars: 3681
 topics: []
 starred_at: "2025-09-05T09:27:36Z"
 tags:
-  - coding
   - ai
-  - diffusion
-  - tutorial
+  - awesome
 ---
 
 # ZHO-ZHO-ZHO/ZHO-nano-banana-Creation

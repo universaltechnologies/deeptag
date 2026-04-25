@@ -7,11 +7,9 @@ stars: 1
 topics: []
 starred_at: "2017-03-10T02:46:53Z"
 tags:
-  - coding
-  - algorithm
-  - cpp
+  - graphic
   - geometry
-  - practice
+  - algorithm
 ---
 
 # parvez018/MonotonePartition

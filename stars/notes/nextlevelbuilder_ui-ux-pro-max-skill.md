@@ -7,12 +7,9 @@ stars: 67954
 topics: [ai-skills, antigravity, claude, claude-code, codex, command-line, copilot, cursor-ai, html5, kiro, landing-page, mobile-ui, qoder, react, tailwindcss, trae, ui-design, uikit, windsurf-ai]
 starred_at: "2026-02-06T15:55:57Z"
 tags:
-  - coding
   - ai
-  - prompt
-  - web
+  - skills
   - ui
-  - tool
 ---
 
 # nextlevelbuilder/ui-ux-pro-max-skill

@@ -7,11 +7,10 @@ stars: 51
 topics: [benchmark, benchmarking, csharp, dotnet, performance, performance-optimization]
 starred_at: "2024-08-02T02:29:01Z"
 tags:
-  - coding
   - benchmark
-  - performance
   - csharp
-  - dotnet
+  - performance
+  - practice
 ---
 
 # mjebrahimi/Performance-Wars-Benchmarking-CSharp

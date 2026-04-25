@@ -7,9 +7,7 @@ stars: 19
 topics: [ai-upscaling, frame-generation, fsr-alternative, game-upscaler, gaming-booster, gaming-performance, integer-scaling, lossless-scaling, lossless-scaling-2026, lossless-scaling-isfg, lossless-scaling-lsfg, lossless-scaling-pc, lossless-scaling-v3, lsfg, lsfg-3, pixel-art-upscaling, retro-game-scaling, smooth-gaming, upscaling-tool, windows-scaling-tool]
 starred_at: "2026-04-20T01:47:44Z"
 tags:
-  - graphic
-  - ai
-  - post-processing
+  - tools
   - windows
   - tool
 ---

@@ -8,10 +8,10 @@ topics: [shader, toon-shader, unity, urp, urp-toon]
 starred_at: "2023-10-31T02:57:10Z"
 tags:
   - graphic
-  - shader
+  - material
   - toon
-  - coding
-  - engine
+  - shader
+  - urp
   - unity
   - library
 ---

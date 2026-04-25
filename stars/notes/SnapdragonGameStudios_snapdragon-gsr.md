@@ -10,7 +10,6 @@ tags:
   - graphic
   - post-processing
   - shader
-  - glsl
   - library
 ---
 

@@ -7,11 +7,11 @@ stars: 3013
 topics: [hacktoberfest2025, social-winter-of-code]
 starred_at: "2026-03-06T11:10:18Z"
 tags:
-  - coding
   - ai
   - mcp
-  - tools
   - cli
+  - graph
+  - tool
 ---
 
 # CodeGraphContext/CodeGraphContext

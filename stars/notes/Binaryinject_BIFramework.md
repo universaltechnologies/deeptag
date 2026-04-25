@@ -8,8 +8,7 @@ topics: []
 starred_at: "2024-11-22T08:51:23Z"
 tags:
   - coding
-  - engine
-  - dotnet
+  - framework
 ---
 
 # Binaryinject/BIFramework

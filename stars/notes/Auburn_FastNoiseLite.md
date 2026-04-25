@@ -7,12 +7,10 @@ stars: 3382
 topics: [cellular-noise, cubic-noise, fractal-algorithms, hacktoberfest, noise, noise-2d, noise-3d, noise-algorithms, noise-generator, noise-library, perlin, perlin-noise, procedural, procedural-generation, shader, simplex, simplex-algorithm, terrain-generation, voronoi]
 starred_at: "2023-02-01T02:48:16Z"
 tags:
-  - coding
-  - algorithm
   - graphic
-  - shader
   - procedural
   - library
+  - cross-platform
 ---
 
 # Auburn/FastNoiseLite

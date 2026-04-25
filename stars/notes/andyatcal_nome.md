@@ -7,11 +7,10 @@ stars: 4
 topics: []
 starred_at: "2022-10-14T18:38:44Z"
 tags:
-  - graphic
-  - scene
-  - mesh
-  - tool
+  - coding
+  - modeling
   - cross-platform
+  - tool
 ---
 
 # andyatcal/nome

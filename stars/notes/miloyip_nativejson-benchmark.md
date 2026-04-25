@@ -7,11 +7,7 @@ stars: 2056
 topics: []
 starred_at: "2017-04-15T06:29:07Z"
 tags:
-  - coding
   - benchmark
-  - performance
-  - json
-  - cpp
 ---
 
 # miloyip/nativejson-benchmark

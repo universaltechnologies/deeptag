@@ -7,10 +7,8 @@ stars: 2675
 topics: [baduk, board-game, electron, go, goban, igo, javascript, linux, macos, sgf, weiqi, windows]
 starred_at: "2020-01-04T09:38:22Z"
 tags:
-  - coding
-  - web
-  - electron
-  - tools
+  - desktop
+  - cross-platform
   - tool
 ---
 

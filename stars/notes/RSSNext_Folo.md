@@ -7,10 +7,10 @@ stars: 38108
 topics: [ai, reader, rss, rss-reader, rsshub]
 starred_at: "2025-07-25T09:24:11Z"
 tags:
-  - coding
-  - ai
-  - web
+  - tools
+  - productivity
   - cross-platform
+  - tool
 ---
 
 # RSSNext/Folo

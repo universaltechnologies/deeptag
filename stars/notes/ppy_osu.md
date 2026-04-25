@@ -7,10 +7,9 @@ stars: 18221
 topics: [beatmap, catch, game, mania, osu, rhythm, taiko]
 starred_at: "2022-07-04T04:54:01Z"
 tags:
-  - coding
   - game
-  - csharp
   - cross-platform
+  - framework
 ---
 
 # ppy/osu

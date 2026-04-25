@@ -8,9 +8,8 @@ topics: [ktx, ktx2, specification-source, texture-file-format]
 starred_at: "2021-12-30T08:54:23Z"
 tags:
   - graphic
-  - material
   - texture
-  - cross-platform
+  - spec
 ---
 
 # KhronosGroup/KTX-Specification

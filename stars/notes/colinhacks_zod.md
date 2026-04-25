@@ -10,7 +10,6 @@ tags:
   - coding
   - language
   - typescript
-  - parser
   - library
 ---
 

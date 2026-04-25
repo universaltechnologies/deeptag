@@ -7,7 +7,6 @@ stars: 23574
 topics: []
 starred_at: "2025-08-09T09:26:59Z"
 tags:
-  - coding
   - ai
   - agent
   - terminal

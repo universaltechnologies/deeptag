@@ -9,9 +9,7 @@ starred_at: "2026-03-20T10:26:58Z"
 tags:
   - coding
   - ai
-  - llm
-  - media
-  - automation
+  - video
   - tool
 ---
 

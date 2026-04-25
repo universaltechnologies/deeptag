@@ -10,8 +10,7 @@ tags:
   - coding
   - engine
   - unity
-  - plugin
-  - tool
+  - library
 ---
 
 # STARasGAMES/tmpro-dynamic-data-cleaner

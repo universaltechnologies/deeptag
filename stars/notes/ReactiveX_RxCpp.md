@@ -7,10 +7,10 @@ stars: 3190
 topics: [algorithms, c-plus-plus, reactivex, rxcpp, values-distributed-in-time, virtuous-procrastination]
 starred_at: "2022-06-01T06:45:05Z"
 tags:
-  - coding
-  - algorithm
-  - library
+  - async
+  - cpp
   - header-only
+  - library
 ---
 
 # ReactiveX/RxCpp

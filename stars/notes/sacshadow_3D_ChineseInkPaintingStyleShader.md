@@ -9,9 +9,6 @@ starred_at: "2023-02-03T02:29:52Z"
 tags:
   - graphic
   - shader
-  - material
-  - coding
-  - engine
   - unity
 ---
 

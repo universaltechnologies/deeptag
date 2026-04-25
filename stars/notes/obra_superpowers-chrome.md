@@ -7,9 +7,10 @@ stars: 255
 topics: []
 starred_at: "2026-04-14T15:21:10Z"
 tags:
-  - coding
   - ai
   - mcp
+  - agent
+  - plugin
   - tool
 ---
 

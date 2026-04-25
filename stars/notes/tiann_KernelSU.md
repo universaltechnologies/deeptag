@@ -7,9 +7,8 @@ stars: 16056
 topics: [android, kernel, kernelsu, root, su]
 starred_at: "2025-09-15T10:17:29Z"
 tags:
-  - coding
-  - kernel
   - android
+  - kernel
   - tool
 ---
 

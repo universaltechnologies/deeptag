@@ -10,8 +10,8 @@ tags:
   - coding
   - ai
   - deep-learning
+  - book
   - tutorial
-  - ml
 ---
 
 # yao62995/tensorflow

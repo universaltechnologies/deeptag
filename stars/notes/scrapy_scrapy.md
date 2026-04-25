@@ -7,9 +7,11 @@ stars: 61380
 topics: [crawler, crawling, framework, hacktoberfest, python, scraping, web-scraping, web-scraping-python]
 starred_at: "2017-06-09T05:57:12Z"
 tags:
-  - coding
-  - web
+  - network
+  - http
+  - python
   - framework
+  - cross-platform
 ---
 
 # scrapy/scrapy

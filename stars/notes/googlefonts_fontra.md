@@ -8,11 +8,9 @@ topics: []
 starred_at: "2025-11-13T12:46:51Z"
 tags:
   - coding
-  - media
+  - editor
   - font
-  - web
-  - frontend
-  - tool
+  - cross-platform
 ---
 
 # googlefonts/fontra

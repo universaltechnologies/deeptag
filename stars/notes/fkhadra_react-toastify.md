@@ -7,8 +7,8 @@ stars: 13431
 topics: [javascript, notification, react, react-component, reactjs, snackbar, toast]
 starred_at: "2025-07-25T08:40:17Z"
 tags:
-  - coding
   - web
+  - frontend
   - ui
   - library
 ---

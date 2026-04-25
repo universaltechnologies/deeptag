@@ -7,8 +7,8 @@ stars: 22925
 topics: [book, database, ddia, distributed-systems]
 starred_at: "2021-09-17T12:39:50Z"
 tags:
-  - coding
-  - data
+  - systems
+  - distributed
   - book
 ---
 

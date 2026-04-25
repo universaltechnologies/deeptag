@@ -9,7 +9,8 @@ starred_at: "2025-12-09T04:11:53Z"
 tags:
   - coding
   - git
-  - tools
+  - desktop
+  - gui
   - tool
 ---
 

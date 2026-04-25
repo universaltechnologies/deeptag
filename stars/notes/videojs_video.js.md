@@ -7,12 +7,9 @@ stars: 39705
 topics: [dash, hls, html, html5, html5-audio, html5-video, javascript, player, video, video-player, videojs]
 starred_at: "2025-10-13T10:36:29Z"
 tags:
-  - coding
   - web
-  - frontend
-  - media
-  - library
-  - cross-platform
+  - video
+  - framework
 ---
 
 # videojs/video.js

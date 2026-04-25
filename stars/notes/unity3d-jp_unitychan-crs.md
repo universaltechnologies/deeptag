@@ -10,8 +10,6 @@ tags:
   - coding
   - engine
   - unity
-  - graphic
-  - shader
 ---
 
 # unity3d-jp/unitychan-crs

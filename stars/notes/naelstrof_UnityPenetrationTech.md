@@ -10,11 +10,7 @@ tags:
   - coding
   - engine
   - unity
-  - graphic
-  - shader
-  - physics
   - library
-  - plugin
 ---
 
 # naelstrof/UnityPenetrationTech

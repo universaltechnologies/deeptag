@@ -7,8 +7,7 @@ stars: 26693
 topics: [node, nodemon, watch]
 starred_at: "2022-02-18T12:30:14Z"
 tags:
-  - coding
-  - workflow
+  - nodejs
   - tool
 ---
 

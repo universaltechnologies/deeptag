@@ -7,14 +7,9 @@ stars: 45889
 topics: [activiti, agent, ai, aiflow, antd, codegenerator, deepseek, flowable, langchain4j, llm, low-code, mcp, mybatis-plus, rag, skills, spring-ai, springboot, springboot3, springcloud, vue3]
 starred_at: "2021-04-17T05:56:56Z"
 tags:
-  - coding
-  - ai
+  - backend
+  - frontend
   - llm
-  - agent
-  - mcp
-  - rag
-  - workflow
-  - java
   - framework
 ---
 

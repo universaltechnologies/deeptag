@@ -7,11 +7,8 @@ stars: 4022
 topics: [administration, anydesk, c-sharp, chat, control, dotnet, helpdesk, net, p2p, p2p-chat, rdp, remote, remote-access, remote-control, remote-desktop, software, teamviewer, vnc, windows, windows-desktop]
 starred_at: "2025-05-28T17:48:34Z"
 tags:
-  - coding
-  - networking
-  - protocol
-  - p2p
-  - dotnet
+  - tools
+  - network
   - tool
 ---
 

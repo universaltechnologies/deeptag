@@ -8,10 +8,9 @@ topics: [cli-debugger, dbg, debugger, lua, lua-debugger, luajit, pure-lua, singl
 starred_at: "2018-11-13T07:03:18Z"
 tags:
   - coding
-  - language
-  - lua
   - debug
-  - tool
+  - lua
+  - library
 ---
 
 # slembcke/debugger.lua

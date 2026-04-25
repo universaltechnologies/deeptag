@@ -7,9 +7,11 @@ stars: 54995
 topics: [bitbucket, cicd, devops, docker-registry-v2, git, git-gui, git-lfs, git-server, gitea, github, github-actions, gitlab, go, golang, hacktoberfest, maven-server, npm-registry, self-hosted, typescript, vue]
 starred_at: "2025-12-04T12:43:08Z"
 tags:
-  - coding
   - git
+  - ci
   - self-hosted
+  - cross-platform
+  - tool
 ---
 
 # go-gitea/gitea

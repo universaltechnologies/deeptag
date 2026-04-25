@@ -11,6 +11,7 @@ tags:
   - ai
   - cv
   - library
+  - cross-platform
 ---
 
 # CMU-Perceptual-Computing-Lab/openpose

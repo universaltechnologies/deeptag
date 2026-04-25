@@ -7,11 +7,12 @@ stars: 2864
 topics: [c, egl, glew, glewinfo, glx, opengl, visualinfo, wgl]
 starred_at: "2015-10-31T13:14:07Z"
 tags:
-  - graphic
-  - platform
+  - coding
+  - engine
+  - api
   - opengl
-  - library
   - cross-platform
+  - library
 ---
 
 # nigels-com/glew

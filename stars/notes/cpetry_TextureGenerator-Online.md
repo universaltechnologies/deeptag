@@ -7,10 +7,9 @@ stars: 123
 topics: []
 starred_at: "2024-02-21T06:56:44Z"
 tags:
-  - graphic
-  - material
-  - texture
   - procedural
+  - texture
+  - frontend
   - tool
 ---
 

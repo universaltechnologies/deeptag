@@ -7,10 +7,10 @@ stars: 14495
 topics: [alibabacloud, android, android-emulator, aws, azure, cloud, docker, docker-android, emulator, gcp, genymotion, jenkins, kubernetes, mobile-app, mobile-web, novnc, saltstack, selenium, selenium-grid, terraform]
 starred_at: "2021-05-26T05:26:11Z"
 tags:
-  - tools
-  - coding
   - android
   - docker
+  - test
+  - tool
 ---
 
 # budtmo/docker-android

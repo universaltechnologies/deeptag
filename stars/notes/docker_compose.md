@@ -8,10 +8,8 @@ topics: [docker, docker-compose, go, golang, orchestration]
 starred_at: "2021-05-25T03:24:29Z"
 tags:
   - coding
-  - tools
   - docker
   - tool
-  - cross-platform
 ---
 
 # docker/compose

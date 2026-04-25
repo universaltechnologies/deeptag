@@ -9,10 +9,8 @@ starred_at: "2026-02-11T14:35:11Z"
 tags:
   - coding
   - ai
-  - llm
-  - mcp
+  - prompt
   - awesome
-  - tool
 ---
 
 # Piebald-AI/claude-code-system-prompts

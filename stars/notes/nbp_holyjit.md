@@ -8,9 +8,9 @@ topics: []
 starred_at: "2023-02-14T10:27:14Z"
 tags:
   - coding
-  - compiler
-  - jit
+  - language
   - rust
+  - jit
   - library
 ---
 

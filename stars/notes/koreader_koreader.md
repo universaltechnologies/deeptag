@@ -7,11 +7,10 @@ stars: 26384
 topics: [cbz, djvu, djvu-reflow, ebook, ebook-reader, eink, epub, ereader, fb2, kindle, kobo, luajit, opds, pdf, pdf-reflow, pocketbook, reader, reflow, remarkable-tablet, ubuntu-touch]
 starred_at: "2018-11-13T06:21:32Z"
 tags:
-  - coding
   - tools
-  - lua
-  - embedded
-  - mobile
+  - office
+  - cross-platform
+  - plugin
 ---
 
 # koreader/koreader

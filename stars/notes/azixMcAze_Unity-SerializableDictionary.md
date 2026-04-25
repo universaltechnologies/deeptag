@@ -10,8 +10,7 @@ tags:
   - coding
   - engine
   - unity
-  - csharp
-  - plugin
+  - library
 ---
 
 # azixMcAze/Unity-SerializableDictionary

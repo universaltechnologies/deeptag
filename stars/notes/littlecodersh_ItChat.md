@@ -7,11 +7,9 @@ stars: 26546
 topics: [api, itchat, robot, wechat]
 starred_at: "2022-12-06T02:35:18Z"
 tags:
-  - coding
-  - web
   - api
+  - python
   - library
-  - tool
 ---
 
 # littlecodersh/ItChat

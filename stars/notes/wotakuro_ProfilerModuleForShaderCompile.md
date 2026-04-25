@@ -10,8 +10,7 @@ tags:
   - coding
   - engine
   - unity
-  - debug
-  - shader
+  - profiler
   - tool
 ---
 

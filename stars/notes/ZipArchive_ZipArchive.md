@@ -7,10 +7,9 @@ stars: 5590
 topics: [objective-c, objective-c-library, swift, swift-3, swift-library, unzipping-files, ziparchive]
 starred_at: "2021-11-05T10:04:51Z"
 tags:
+  - coding
   - compression
-  - ios
   - library
-  - cross-platform
 ---
 
 # ZipArchive/ZipArchive

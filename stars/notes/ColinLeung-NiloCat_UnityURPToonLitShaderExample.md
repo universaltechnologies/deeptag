@@ -7,12 +7,9 @@ stars: 7542
 topics: [character, hlsl, lit, outline, shader, toon, unity, urp]
 starred_at: "2023-06-02T03:58:36Z"
 tags:
-  - graphic
   - shader
   - toon
-  - coding
-  - engine
-  - unity
+  - urp
   - tutorial
 ---
 

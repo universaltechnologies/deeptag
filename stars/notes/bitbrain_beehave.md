@@ -7,11 +7,8 @@ stars: 3046
 topics: [ai, behavior-tree, game-development, gamedev, gdscript, godot, godot3, godot4, godotengine]
 starred_at: "2023-09-18T01:30:02Z"
 tags:
-  - coding
-  - engine
   - godot
-  - ai
-  - game
+  - agent
   - plugin
 ---
 

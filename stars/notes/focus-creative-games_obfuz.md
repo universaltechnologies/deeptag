@@ -10,8 +10,8 @@ tags:
   - coding
   - engine
   - unity
+  - encryption
   - plugin
-  - security
 ---
 
 # focus-creative-games/obfuz

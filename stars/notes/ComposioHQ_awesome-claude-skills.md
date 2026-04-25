@@ -9,9 +9,8 @@ starred_at: "2026-01-14T02:04:28Z"
 tags:
   - coding
   - ai
-  - mcp
+  - skills
   - awesome
-  - tool
 ---
 
 # ComposioHQ/awesome-claude-skills

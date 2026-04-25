@@ -7,13 +7,11 @@ stars: 381
 topics: [behaviortree, fairygui, lua, unity3d]
 starred_at: "2020-09-29T09:46:26Z"
 tags:
-  - coding
-  - game
   - engine
   - unity
+  - lua
   - dotnet
   - framework
-  - tool
 ---
 
 # DukeChiang/DCET

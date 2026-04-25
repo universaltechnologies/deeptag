@@ -9,10 +9,7 @@ starred_at: "2023-02-14T17:54:32Z"
 tags:
   - graphic
   - culling
-  - depth
-  - cpp
-  - simd
-  - optimization
+  - library
 ---
 
 # GameTechDev/OcclusionCulling

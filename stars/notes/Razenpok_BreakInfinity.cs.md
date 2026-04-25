@@ -7,11 +7,8 @@ stars: 302
 topics: []
 starred_at: "2023-01-09T10:30:23Z"
 tags:
-  - coding
   - csharp
-  - math
   - library
-  - gameplay
 ---
 
 # Razenpok/BreakInfinity.cs

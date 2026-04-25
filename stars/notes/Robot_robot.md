@@ -7,8 +7,8 @@ stars: 216
 topics: [automation, c-plus-plus, cross-platform, desktop, framework, linux, macos, native, system, windows]
 starred_at: "2017-03-27T13:21:40Z"
 tags:
-  - coding
   - automation
+  - desktop
   - library
   - cross-platform
 ---

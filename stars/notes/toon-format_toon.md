@@ -7,12 +7,11 @@ stars: 23940
 topics: [data-format, llm, serialization, tokenization]
 starred_at: "2026-01-24T10:14:53Z"
 tags:
-  - coding
   - ai
-  - llm
-  - serialization
-  - typescript
+  - tokens
+  - json
   - spec
+  - tool
 ---
 
 # toon-format/toon

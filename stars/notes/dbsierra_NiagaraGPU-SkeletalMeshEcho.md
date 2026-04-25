@@ -7,15 +7,11 @@ stars: 19
 topics: []
 starred_at: "2024-10-22T08:44:10Z"
 tags:
-  - graphic
-  - vfx
-  - particles
-  - animation
-  - skeletal
-  - material
+  - coding
   - engine
   - unreal
-  - practice
+  - vfx
+  - animation
 ---
 
 # dbsierra/NiagaraGPU-SkeletalMeshEcho

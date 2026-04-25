@@ -10,8 +10,7 @@ tags:
   - coding
   - ai
   - agent
-  - tool
-  - workflow
+  - framework
 ---
 
 # marian2js/opengoat

@@ -9,9 +9,8 @@ starred_at: "2023-06-15T11:26:46Z"
 tags:
   - coding
   - ai
-  - diffusion
+  - prompt
   - plugin
-  - tool
 ---
 
 # Physton/sd-webui-prompt-all-in-one

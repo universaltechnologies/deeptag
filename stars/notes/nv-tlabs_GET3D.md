@@ -7,11 +7,11 @@ stars: 4431
 topics: []
 starred_at: "2023-03-30T10:05:42Z"
 tags:
-  - coding
   - ai
   - deep-learning
-  - graphic
-  - scene
+  - diffusion
+  - mesh
+  - texture
   - library
 ---
 

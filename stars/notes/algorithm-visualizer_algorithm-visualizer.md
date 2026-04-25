@@ -10,8 +10,7 @@ tags:
   - coding
   - algorithm
   - visualization
-  - web
-  - tool
+  - tutorial
 ---
 
 # algorithm-visualizer/algorithm-visualizer

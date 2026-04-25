@@ -7,11 +7,7 @@ stars: 2172
 topics: [game-development, godot-engine, heightmap, terrain]
 starred_at: "2024-03-06T13:02:39Z"
 tags:
-  - coding
-  - engine
   - godot
-  - graphic
-  - scene
   - plugin
 ---
 

@@ -7,14 +7,10 @@ stars: 16457
 topics: [agents, ai, chatbot, langchain, langgraph, nextjs, openai, pdf, typescript]
 starred_at: "2025-11-12T03:01:12Z"
 tags:
-  - coding
   - ai
-  - agent
   - rag
-  - vector
-  - web
-  - frontend
-  - framework
+  - agent
+  - book
 ---
 
 # mayooear/ai-pdf-chatbot-langchain

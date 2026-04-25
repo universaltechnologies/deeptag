@@ -8,10 +8,10 @@ topics: [c-plus-plus, memory-leaks, visual-studio, vld]
 starred_at: "2020-08-20T04:01:01Z"
 tags:
   - coding
-  - cpp
-  - tool
   - debug
-  - memory
+  - cpp
+  - windows
+  - tool
 ---
 
 # KindDragon/vld

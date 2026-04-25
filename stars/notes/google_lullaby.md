@@ -7,10 +7,9 @@ stars: 1198
 topics: [android, ar, daydream, daydream-controllers, ios, linux, vr, windows]
 starred_at: "2017-12-18T11:39:20Z"
 tags:
-  - coding
   - vr
-  - game
   - ecs
+  - cpp
   - library
   - cross-platform
 ---

@@ -9,10 +9,8 @@ starred_at: "2025-05-19T06:11:57Z"
 tags:
   - coding
   - debug
-  - cpp
   - library
-  - cross-platform
-  - header-only
+  - cpp
 ---
 
 # jeremy-rifkin/cpptrace

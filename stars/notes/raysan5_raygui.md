@@ -8,9 +8,9 @@ topics: [buttons, c, gui, imgui, immediate-mode-gui, open-source, raylib, ui-des
 starred_at: "2023-02-23T17:14:59Z"
 tags:
   - coding
+  - gui
   - library
   - header-only
-  - tools
 ---
 
 # raysan5/raygui

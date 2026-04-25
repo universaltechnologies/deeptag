@@ -10,8 +10,6 @@ tags:
   - coding
   - ai
   - cv
-  - library
-  - graphic
 ---
 
 # QwenLM/Qwen-Image-Layered

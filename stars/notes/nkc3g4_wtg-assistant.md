@@ -7,10 +7,9 @@ stars: 1434
 topics: [usb, windows-to-go]
 starred_at: "2016-09-19T05:22:52Z"
 tags:
-  - coding
-  - csharp
-  - tool
+  - tools
   - windows
+  - tool
 ---
 
 # nkc3g4/wtg-assistant

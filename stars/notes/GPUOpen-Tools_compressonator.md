@@ -9,8 +9,7 @@ starred_at: "2022-07-13T07:59:09Z"
 tags:
   - graphic
   - texture
-  - compression
-  - tools
+  - tool
 ---
 
 # GPUOpen-Tools/compressonator

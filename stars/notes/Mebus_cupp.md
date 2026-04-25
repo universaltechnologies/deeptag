@@ -7,10 +7,8 @@ stars: 5876
 topics: [dictionary-attack, password, password-strength, weak-passwords, wordlist, wordlist-generator]
 starred_at: "2026-01-18T14:36:55Z"
 tags:
-  - coding
-  - python
-  - tools
   - security
+  - tool
 ---
 
 # Mebus/cupp

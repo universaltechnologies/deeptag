@@ -12,7 +12,6 @@ tags:
   - unity
   - practice
   - tutorial
-  - awesome
 ---
 
 # Lafree317/Unity-InterviewQuestion

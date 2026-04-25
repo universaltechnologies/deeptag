@@ -10,8 +10,9 @@ tags:
   - coding
   - language
   - gc
+  - c
+  - cpp
   - library
-  - cross-platform
 ---
 
 # bdwgc/bdwgc

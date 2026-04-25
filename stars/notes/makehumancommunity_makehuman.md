@@ -10,7 +10,6 @@ tags:
   - graphic
   - modeling
   - tool
-  - cross-platform
 ---
 
 # makehumancommunity/makehuman

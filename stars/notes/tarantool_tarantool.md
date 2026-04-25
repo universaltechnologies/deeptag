@@ -7,11 +7,10 @@ stars: 3623
 topics: [appserver, database, disk, in-memory, lua, msgpack, tarantool, transactions]
 starred_at: "2018-11-13T06:30:51Z"
 tags:
-  - coding
-  - data
   - database
-  - systems
   - server
+  - lua
+  - framework
 ---
 
 # tarantool/tarantool

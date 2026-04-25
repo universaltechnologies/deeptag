@@ -8,10 +8,9 @@ topics: [barcode, cpp17, fountain-codes, image-hash, opencv, proof-of-concept]
 starred_at: "2024-09-20T02:36:44Z"
 tags:
   - coding
-  - image
-  - cpp
+  - image-processing
+  - compression
   - library
-  - performance
 ---
 
 # sz3/libcimbar

@@ -7,8 +7,8 @@ stars: 61
 topics: []
 starred_at: "2025-05-17T03:44:57Z"
 tags:
-  - coding
-  - language
+  - c
+  - cpp
   - gc
   - library
 ---

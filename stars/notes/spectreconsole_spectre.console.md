@@ -8,10 +8,10 @@ topics: [ansi-colors, cli-parser, console, console-tables, console-visualization
 starred_at: "2026-01-14T06:54:19Z"
 tags:
   - coding
+  - terminal
   - cli
-  - dotnet
-  - csharp
   - library
+  - cross-platform
 ---
 
 # spectreconsole/spectre.console

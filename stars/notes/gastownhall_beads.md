@@ -7,12 +7,10 @@ stars: 20946
 topics: [agents, claude-code, coding]
 starred_at: "2025-12-04T12:35:47Z"
 tags:
-  - coding
   - ai
   - agent
-  - database
+  - memory
   - tool
-  - sql
 ---
 
 # gastownhall/beads

@@ -9,8 +9,8 @@ starred_at: "2023-01-11T03:43:33Z"
 tags:
   - coding
   - language
-  - lua
-  - practice
+  - compiler
+  - tutorial
 ---
 
 # frog-game/lua-5.4.4-comments

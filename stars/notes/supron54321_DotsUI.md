@@ -10,8 +10,6 @@ tags:
   - coding
   - engine
   - unity
-  - game
-  - ecs
   - library
 ---
 

@@ -8,8 +8,7 @@ topics: []
 starred_at: "2024-03-26T06:41:03Z"
 tags:
   - coding
-  - hardware
-  - architecture
+  - compiler
   - book
 ---
 

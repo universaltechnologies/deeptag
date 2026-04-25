@@ -8,10 +8,7 @@ topics: [graphics, shader, unity, unity3d]
 starred_at: "2021-11-09T15:35:59Z"
 tags:
   - graphic
-  - shader
-  - hlsl
-  - coding
-  - engine
+  - texture
   - unity
   - tool
 ---

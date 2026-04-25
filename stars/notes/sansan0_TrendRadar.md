@@ -7,11 +7,8 @@ stars: 52609
 topics: [ai, bark, data-analysis, docker, hot-news, llm, mail, mcp, mcp-server, news, ntfy, python, rss, trending-topics, wechat, wework]
 starred_at: "2025-12-21T02:02:57Z"
 tags:
-  - coding
-  - ai
-  - llm
-  - mcp
-  - automation
+  - network
+  - productivity
   - tool
 ---
 

@@ -7,10 +7,9 @@ stars: 6279
 topics: [clipboard, clipboard-manager]
 starred_at: "2025-12-21T01:09:20Z"
 tags:
-  - coding
+  - tools
+  - productivity
   - tool
-  - windows
-  - data
 ---
 
 # sabrogden/Ditto

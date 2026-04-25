@@ -7,11 +7,11 @@ stars: 54
 topics: []
 starred_at: "2020-06-03T16:54:32Z"
 tags:
-  - graphic
-  - platform
+  - coding
   - vulkan
   - python
   - cross-platform
+  - tutorial
 ---
 
 # gabdube/python-vulkan-triangle

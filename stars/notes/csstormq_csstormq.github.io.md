@@ -7,7 +7,8 @@ stars: 18
 topics: []
 starred_at: "2024-02-10T10:10:39Z"
 tags:
-  - coding
+  - web
+  - frontend
 ---
 
 # csstormq/csstormq.github.io

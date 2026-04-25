@@ -9,7 +9,7 @@ starred_at: "2025-12-21T00:59:31Z"
 tags:
   - coding
   - editor
-  - rust
+  - terminal
   - tool
 ---
 

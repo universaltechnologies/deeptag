@@ -8,8 +8,8 @@ topics: [android, angular, books, free, ios, javascript, kotlin, pdf, programmin
 starred_at: "2022-05-12T19:25:15Z"
 tags:
   - coding
-  - awesome
   - book
+  - awesome
 ---
 
 # justjavac/free-programming-books-zh_CN

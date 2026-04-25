@@ -7,11 +7,10 @@ stars: 2220
 topics: [c-sharp, dotnet, lua, lua-functions, luainterface, netcore, netstandard, xamarin]
 starred_at: "2024-10-14T13:11:37Z"
 tags:
-  - coding
+  - binding
   - lua
   - dotnet
   - library
-  - binding
   - cross-platform
 ---
 

@@ -9,7 +9,6 @@ starred_at: "2023-04-10T11:37:15Z"
 tags:
   - graphic
   - material
-  - pbr
   - library
 ---
 

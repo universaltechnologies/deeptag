@@ -7,12 +7,10 @@ stars: 48
 topics: [unity]
 starred_at: "2023-04-10T15:01:57Z"
 tags:
-  - graphic
-  - scene
-  - mesh
-  - shader
-  - tool
+  - coding
   - unity
+  - debug
+  - tool
 ---
 
 # nementic-games/mesh-debugging

@@ -7,9 +7,8 @@ stars: 1080
 topics: [community, cpp, cxx, free, open-source, plugin, sonarqube, technical-debt]
 starred_at: "2019-04-21T08:42:28Z"
 tags:
-  - coding
+  - lint
   - cpp
-  - parser
   - plugin
 ---
 

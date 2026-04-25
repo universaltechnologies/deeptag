@@ -7,12 +7,12 @@ stars: 524
 topics: []
 starred_at: "2023-04-24T11:13:09Z"
 tags:
-  - coding
   - game
-  - library
+  - c
+  - font
   - header-only
+  - library
   - cross-platform
-  - math
 ---
 
 # empyreanx/pico_headers

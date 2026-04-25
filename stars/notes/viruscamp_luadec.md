@@ -8,8 +8,9 @@ topics: [decompiler, lua, lua-decompiler]
 starred_at: "2024-11-14T14:08:29Z"
 tags:
   - coding
-  - language
   - reverse
+  - lua
+  - tool
 ---
 
 # viruscamp/luadec

@@ -9,10 +9,8 @@ starred_at: "2025-12-24T09:32:15Z"
 tags:
   - tools
   - compression
-  - encryption
   - cross-platform
-  - windows
-  - linux
+  - tool
 ---
 
 # peazip/PeaZip

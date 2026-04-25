@@ -7,10 +7,9 @@ stars: 1131
 topics: [animations, composition, csharp, effects, fluent, uwp, uwp-apps, windows-10, windowsui]
 starred_at: "2017-03-05T06:53:29Z"
 tags:
-  - coding
   - windows
-  - gui
-  - animation
+  - ui
+  - csharp
   - tutorial
 ---
 

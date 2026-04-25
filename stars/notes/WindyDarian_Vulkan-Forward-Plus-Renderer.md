@@ -9,11 +9,9 @@ starred_at: "2017-03-05T06:40:59Z"
 tags:
   - graphic
   - rendering
-  - lighting
-  - platform
   - vulkan
   - compute-shader
-  - cpp
+  - culling
 ---
 
 # WindyDarian/Vulkan-Forward-Plus-Renderer

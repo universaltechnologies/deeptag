@@ -8,10 +8,11 @@ topics: []
 starred_at: "2016-11-19T06:23:14Z"
 tags:
   - coding
-  - cpp
   - concurrency
-  - performance
+  - cpp
   - header-only
+  - library
+  - performance
 ---
 
 # cameron314/concurrentqueue

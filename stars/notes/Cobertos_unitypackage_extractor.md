@@ -10,8 +10,8 @@ tags:
   - coding
   - engine
   - unity
+  - python
   - tool
-  - cli
 ---
 
 # Cobertos/unitypackage_extractor

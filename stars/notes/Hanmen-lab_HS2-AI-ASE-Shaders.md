@@ -7,12 +7,9 @@ stars: 53
 topics: []
 starred_at: "2025-08-18T05:08:52Z"
 tags:
-  - coding
-  - engine
-  - unity
-  - shader
   - graphic
-  - library
+  - shader
+  - plugin
 ---
 
 # Hanmen-lab/HS2-AI-ASE-Shaders

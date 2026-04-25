@@ -7,9 +7,8 @@ stars: 9500
 topics: [codeql, github-advanced-security, github-security-lab, semmle-ql, works-with-codespaces]
 starred_at: "2026-04-04T03:29:31Z"
 tags:
-  - coding
-  - language
   - security
+  - lint
   - library
 ---
 

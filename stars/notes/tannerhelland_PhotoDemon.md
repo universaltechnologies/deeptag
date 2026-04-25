@@ -7,12 +7,9 @@ stars: 2178
 topics: [computer-vision, image-editor, image-filters, image-processing, paint, photo-editor, vb6, win32]
 starred_at: "2023-03-03T06:51:18Z"
 tags:
-  - coding
-  - media
-  - image-processing
+  - tools
+  - office
   - tool
-  - cross-platform
-  - performance
 ---
 
 # tannerhelland/PhotoDemon

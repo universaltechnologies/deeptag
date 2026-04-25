@@ -7,11 +7,9 @@ stars: 32297
 topics: [monitoring, multi-platform, python, restful, restful-api, system, terminal, web]
 starred_at: "2023-12-04T07:25:42Z"
 tags:
-  - coding
-  - systems
   - monitoring
-  - tool
   - cross-platform
+  - tool
 ---
 
 # nicolargo/glances

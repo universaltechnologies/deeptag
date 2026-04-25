@@ -8,10 +8,8 @@ topics: [c, code-generation, cpp, d, egl, generator, gl, glad, gles, gles2, glx,
 starred_at: "2023-05-20T09:50:01Z"
 tags:
   - coding
-  - graphic
-  - platform
-  - opengl
-  - vulkan
+  - engine
+  - api
   - library
   - tool
 ---

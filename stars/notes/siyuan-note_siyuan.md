@@ -8,11 +8,9 @@ topics: [anki, chatgpt, deepseek, electron, evernote, knowledge-base, local-firs
 starred_at: "2022-05-11T15:02:55Z"
 tags:
   - tools
-  - web
+  - productivity
   - self-hosted
   - tool
-  - markdown
-  - electron
 ---
 
 # siyuan-note/siyuan

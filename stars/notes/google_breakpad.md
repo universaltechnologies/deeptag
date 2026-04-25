@@ -9,10 +9,9 @@ starred_at: "2023-11-08T15:13:50Z"
 tags:
   - coding
   - debug
-  - library
-  - cpp
-  - tool
   - cross-platform
+  - library
+  - tool
 ---
 
 # google/breakpad

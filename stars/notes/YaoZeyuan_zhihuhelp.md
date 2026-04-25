@@ -7,9 +7,8 @@ stars: 954
 topics: []
 starred_at: "2022-05-10T07:11:01Z"
 tags:
-  - coding
-  - web
-  - typescript
+  - desktop
+  - api
   - tool
 ---
 

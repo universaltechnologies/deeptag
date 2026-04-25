@@ -7,10 +7,10 @@ stars: 2728
 topics: [chinese-characters, deep-learning, deep-neural-networks, deeplearning, generative-adversarial-networks, machine-learning, pix2pix, style-transfer, tensorflow]
 starred_at: "2026-03-02T17:57:03Z"
 tags:
-  - coding
   - ai
   - deep-learning
-  - ml
+  - image-processing
+  - library
 ---
 
 # kaonashi-tyc/zi2zi

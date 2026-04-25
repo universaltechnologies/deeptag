@@ -7,11 +7,10 @@ stars: 4416
 topics: []
 starred_at: "2026-04-17T20:43:16Z"
 tags:
-  - coding
   - ai
   - agent
+  - desktop
   - tool
-  - mcp
 ---
 
 # lukilabs/craft-agents-oss

@@ -8,11 +8,9 @@ topics: [alfred, launcher, launchy, linux, macos, raycast, spotlight, windows, w
 starred_at: "2019-02-11T05:30:17Z"
 tags:
   - tools
-  - desktop
-  - plugin
+  - productivity
   - cross-platform
-  - ai
-  - mcp
+  - plugin
 ---
 
 # Wox-launcher/Wox

@@ -7,7 +7,6 @@ stars: 9782
 topics: [gemini, nanobanana, nanobanana-pro, nanobanana2, nanobananapro, prompt-engineering, prompt-guide, prompts]
 starred_at: "2025-12-21T02:56:27Z"
 tags:
-  - coding
   - ai
   - prompt
   - awesome

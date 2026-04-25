@@ -7,10 +7,9 @@ stars: 44746
 topics: [crm, crm-system, customer, good-first-issue, graphql, hacktoberfest, javascript, marketing, monorepo, nestjs, open-source, postgresql, react, reactjs, sales, typescript, web]
 starred_at: "2026-03-26T13:11:11Z"
 tags:
-  - coding
-  - web
-  - database
-  - awesome
+  - tools
+  - office
+  - self-hosted
 ---
 
 # twentyhq/twenty

@@ -8,9 +8,8 @@ topics: []
 starred_at: "2016-03-20T03:07:01Z"
 tags:
   - coding
-  - cpp
   - gui
-  - component
+  - framework
 ---
 
 # abhijitkundu/QtPropertyBrowser

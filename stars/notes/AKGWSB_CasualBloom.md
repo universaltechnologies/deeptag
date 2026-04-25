@@ -11,7 +11,7 @@ tags:
   - post-processing
   - bloom
   - unity
-  - practice
+  - tutorial
 ---
 
 # AKGWSB/CasualBloom

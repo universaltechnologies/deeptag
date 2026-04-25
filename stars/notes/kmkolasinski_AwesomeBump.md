@@ -9,8 +9,7 @@ starred_at: "2017-11-10T08:10:14Z"
 tags:
   - graphic
   - material
-  - normal
-  - post-processing
+  - texture
   - tool
 ---
 

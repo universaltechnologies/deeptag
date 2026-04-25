@@ -7,10 +7,8 @@ stars: 249
 topics: []
 starred_at: "2017-03-11T08:05:40Z"
 tags:
-  - coding
-  - cpp
+  - graphic
   - culling
-  - performance
 ---
 
 # rygorous/intel_occlusion_cull

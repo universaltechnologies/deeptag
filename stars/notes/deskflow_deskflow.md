@@ -7,11 +7,10 @@ stars: 25284
 topics: [keyboard, keyboard-emulation, mouse, mouse-emulation, network]
 starred_at: "2025-12-21T13:13:46Z"
 tags:
-  - tool
-  - network
+  - coding
   - input
-  - cpp
   - cross-platform
+  - tool
 ---
 
 # deskflow/deskflow

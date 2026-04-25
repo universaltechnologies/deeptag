@@ -7,10 +7,9 @@ stars: 16749
 topics: [java, kcp, private-server, server]
 starred_at: "2023-04-27T07:41:51Z"
 tags:
-  - coding
-  - game
-  - java
   - server
+  - java
+  - tool
 ---
 
 # Grasscutters/Grasscutter

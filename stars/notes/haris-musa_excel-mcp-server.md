@@ -7,7 +7,6 @@ stars: 3715
 topics: [ai, automation, excel, llm, mcp, mcp-server, sse, stdio, streamable-http, toolcalling]
 starred_at: "2025-04-21T02:18:58Z"
 tags:
-  - coding
   - ai
   - mcp
   - tool

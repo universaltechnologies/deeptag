@@ -12,7 +12,6 @@ tags:
   - unity
   - ui
   - library
-  - plugin
 ---
 
 # Unity-UI-Extensions/com.unity.uiextensions

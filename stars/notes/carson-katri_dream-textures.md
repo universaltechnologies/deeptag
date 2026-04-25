@@ -7,7 +7,6 @@ stars: 8144
 topics: [ai, blender, blender-addon, image-generation, stable-diffusion]
 starred_at: "2024-03-21T03:09:53Z"
 tags:
-  - coding
   - ai
   - diffusion
   - plugin

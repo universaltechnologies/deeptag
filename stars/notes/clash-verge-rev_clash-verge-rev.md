@@ -8,9 +8,10 @@ topics: [clash, clash-meta, clash-verge, linux, mac, mihomo, tauri-app, windows]
 starred_at: "2026-04-07T15:29:22Z"
 tags:
   - tools
-  - networking
-  - proxy
+  - network
+  - security
   - cross-platform
+  - tool
 ---
 
 # clash-verge-rev/clash-verge-rev

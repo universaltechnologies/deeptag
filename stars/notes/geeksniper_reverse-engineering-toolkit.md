@@ -10,7 +10,6 @@ tags:
   - coding
   - reverse
   - awesome
-  - tools
 ---
 
 # geeksniper/reverse-engineering-toolkit

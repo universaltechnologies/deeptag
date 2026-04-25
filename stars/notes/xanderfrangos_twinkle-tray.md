@@ -7,8 +7,8 @@ stars: 8386
 topics: [backlight, backlight-brightness, brightness, brightness-control, brightness-level, brightness-levels, brightness-slider, ddc-ic, electron-app, monitors, multiple-monitors, nodejs, react, reactjs, windows, windows-10, windows-11]
 starred_at: "2023-11-18T04:38:21Z"
 tags:
-  - coding
-  - desktop
+  - tools
+  - hardware
   - windows
   - tool
 ---

@@ -11,7 +11,6 @@ tags:
   - ai
   - mcp
   - tool
-  - automation
 ---
 
 # ChromeDevTools/chrome-devtools-mcp

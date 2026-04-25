@@ -7,10 +7,10 @@ stars: 1873
 topics: [anydesk, cpp, linux, macos, protobuf, qt, qt5, rdp, remote-access, remote-control, remote-desktop, teamviewer, vnc, windows]
 starred_at: "2025-05-28T17:49:54Z"
 tags:
-  - coding
-  - desktop
-  - tool
+  - tools
+  - network
   - cross-platform
+  - tool
 ---
 
 # dchapyshev/aspia

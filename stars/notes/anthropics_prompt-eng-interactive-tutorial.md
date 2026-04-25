@@ -7,9 +7,7 @@ stars: 34835
 topics: []
 starred_at: "2026-03-02T17:45:01Z"
 tags:
-  - coding
   - ai
-  - llm
   - prompt
   - tutorial
 ---

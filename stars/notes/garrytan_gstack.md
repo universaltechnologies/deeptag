@@ -7,12 +7,10 @@ stars: 77884
 topics: []
 starred_at: "2026-03-18T03:49:24Z"
 tags:
-  - coding
   - ai
   - agent
-  - workflow
+  - prompt
   - tool
-  - automation
 ---
 
 # garrytan/gstack

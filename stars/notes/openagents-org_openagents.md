@@ -7,11 +7,10 @@ stars: 3273
 topics: [agents, ai, collaboration, llm, network]
 starred_at: "2026-03-31T01:58:13Z"
 tags:
-  - coding
   - ai
   - agent
-  - llm
-  - network
+  - cli
+  - desktop
   - tool
 ---
 

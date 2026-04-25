@@ -11,6 +11,7 @@ tags:
   - ai
   - ml
   - algorithm
+  - library
 ---
 
 # twitter/the-algorithm

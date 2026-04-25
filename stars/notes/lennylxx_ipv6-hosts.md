@@ -8,9 +8,8 @@ topics: [ggc, google, hosts, ipv6, reverse-engineering]
 starred_at: "2017-11-24T13:36:23Z"
 tags:
   - tools
-  - automation
-  - networking
-  - reverse
+  - network
+  - tool
 ---
 
 # lennylxx/ipv6-hosts

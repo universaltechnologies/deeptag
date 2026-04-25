@@ -8,10 +8,9 @@ topics: [ai-tools, claude-code, codex, desktop-app, mcp, minimax, omo, open-sour
 starred_at: "2026-01-16T04:22:11Z"
 tags:
   - coding
-  - ai
-  - mcp
-  - tool
+  - desktop
   - cross-platform
+  - tool
 ---
 
 # farion1231/cc-switch

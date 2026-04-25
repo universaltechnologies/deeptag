@@ -7,8 +7,8 @@ stars: 566
 topics: []
 starred_at: "2020-10-27T08:53:02Z"
 tags:
-  - coding
   - web
+  - frontend
   - data
   - json
   - plugin

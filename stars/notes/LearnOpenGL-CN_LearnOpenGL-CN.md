@@ -8,8 +8,9 @@ topics: [learnopengl, translation]
 starred_at: "2020-08-21T07:03:18Z"
 tags:
   - graphic
-  - platform
+  - rendering
   - opengl
+  - book
   - tutorial
 ---
 

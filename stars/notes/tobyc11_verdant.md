@@ -9,8 +9,6 @@ starred_at: "2022-10-14T18:37:12Z"
 tags:
   - graphic
   - material
-  - rendering
-  - cpp
   - library
 ---
 

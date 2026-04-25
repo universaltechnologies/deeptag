@@ -8,10 +8,9 @@ topics: [owner-lighthouse-japan, unity]
 starred_at: "2025-11-24T04:10:57Z"
 tags:
   - graphic
-  - rendering
-  - shader
-  - compute-shader
   - culling
+  - compute-shader
+  - unity
   - library
 ---
 

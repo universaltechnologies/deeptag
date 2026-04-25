@@ -7,10 +7,10 @@ stars: 376
 topics: [onedrive, onedrive-folder, symbolic-links, sync]
 starred_at: "2022-05-11T00:31:50Z"
 tags:
-  - coding
-  - csharp
-  - tool
+  - tools
+  - productivity
   - windows
+  - tool
 ---
 
 # ktheod/OneDriveBully

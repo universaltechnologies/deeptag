@@ -7,10 +7,10 @@ stars: 33448
 topics: [ai, codegen, coding-assistant, coding-language, developer-experience, developer-tools, gen-ai, ide, llms]
 starred_at: "2023-11-12T12:11:33Z"
 tags:
-  - coding
   - ai
-  - llm
+  - agent
   - self-hosted
+  - tool
 ---
 
 # TabbyML/tabby

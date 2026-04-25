@@ -7,8 +7,8 @@ stars: 50
 topics: []
 starred_at: "2024-02-04T04:19:24Z"
 tags:
-  - coding
-  - web
+  - browser
+  - tool
 ---
 
 # GitZip/chrome-extension

@@ -7,13 +7,10 @@ stars: 31
 topics: [arm, astc, gpu, unity]
 starred_at: "2025-01-06T07:01:20Z"
 tags:
-  - graphic
-  - material
-  - texture
   - coding
   - engine
   - unity
-  - performance
+  - practice
 ---
 
 # huailiang/Astc

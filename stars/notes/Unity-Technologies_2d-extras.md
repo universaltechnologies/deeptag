@@ -10,7 +10,7 @@ tags:
   - coding
   - engine
   - unity
-  - plugin
+  - library
 ---
 
 # Unity-Technologies/2d-extras

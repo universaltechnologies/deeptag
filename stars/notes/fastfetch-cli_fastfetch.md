@@ -7,10 +7,11 @@ stars: 22085
 topics: [bsdfetch, command-line, fastfetch, fetch, flashfetch, hacktoberfest, macfetch, neofetch, terminal, winfetch]
 starred_at: "2026-03-30T02:34:19Z"
 tags:
-  - tools
+  - coding
+  - terminal
   - cli
   - performance
-  - c
+  - tool
 ---
 
 # fastfetch-cli/fastfetch

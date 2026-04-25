@@ -9,10 +9,8 @@ starred_at: "2016-01-22T03:16:36Z"
 tags:
   - coding
   - engine
-  - web
-  - typescript
-  - javascript
   - cross-platform
+  - framework
 ---
 
 # egret-labs/egret-core

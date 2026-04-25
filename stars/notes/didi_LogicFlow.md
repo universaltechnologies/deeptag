@@ -7,10 +7,9 @@ stars: 11283
 topics: [bpmn, diagram, diagramming, didi, flow, flowchart, graph, javascript, javascript-diagramming-library, mvvm, svg, typescript, visualization]
 starred_at: "2023-11-10T05:00:26Z"
 tags:
-  - coding
   - web
+  - frontend
   - framework
-  - visualization
 ---
 
 # didi/LogicFlow

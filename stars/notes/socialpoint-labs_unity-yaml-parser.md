@@ -7,10 +7,8 @@ stars: 175
 topics: [python-library, pyyaml, unity, unity-yamls]
 starred_at: "2023-10-25T05:45:33Z"
 tags:
-  - coding
-  - engine
-  - unity
-  - serialization
+  - python
+  - parser
   - library
 ---
 

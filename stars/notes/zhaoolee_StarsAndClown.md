@@ -8,8 +8,6 @@ topics: []
 starred_at: "2022-11-23T15:45:38Z"
 tags:
   - awesome
-  - web
-  - automation
 ---
 
 # zhaoolee/StarsAndClown

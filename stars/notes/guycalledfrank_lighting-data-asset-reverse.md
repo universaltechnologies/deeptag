@@ -7,11 +7,9 @@ stars: 22
 topics: []
 starred_at: "2021-10-26T04:40:03Z"
 tags:
-  - coding
   - reverse
-  - engine
-  - unity
   - lighting
+  - practice
 ---
 
 # guycalledfrank/lighting-data-asset-reverse

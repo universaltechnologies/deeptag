@@ -7,9 +7,8 @@ stars: 5051
 topics: [graphics-programming, rust, spir-v, vulkan, vulkan-api]
 starred_at: "2023-09-02T10:54:13Z"
 tags:
-  - graphic
-  - platform
   - vulkan
+  - rust
   - library
 ---
 

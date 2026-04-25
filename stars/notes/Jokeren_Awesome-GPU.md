@@ -7,11 +7,9 @@ stars: 612
 topics: []
 starred_at: "2023-01-13T03:29:09Z"
 tags:
-  - coding
   - systems
-  - hardware
+  - gpu
   - awesome
-  - performance
 ---
 
 # Jokeren/Awesome-GPU

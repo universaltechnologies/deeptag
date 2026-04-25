@@ -7,12 +7,9 @@ stars: 41374
 topics: [ai, big-model, data-parallelism, deep-learning, distributed-computing, foundation-models, heterogeneous-training, hpc, inference, large-scale, model-parallelism, pipeline-parallelism]
 starred_at: "2023-02-16T07:06:58Z"
 tags:
-  - coding
   - ai
   - deep-learning
-  - systems
   - distributed
-  - library
   - framework
 ---
 

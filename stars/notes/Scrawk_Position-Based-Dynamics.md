@@ -7,10 +7,9 @@ stars: 331
 topics: [pbd, physics-simulation, position-based-dynamics, rigid-bodies, soft-bodies, unity]
 starred_at: "2023-02-14T16:32:21Z"
 tags:
-  - coding
-  - physics
   - unity
-  - engine
+  - physics
+  - tutorial
 ---
 
 # Scrawk/Position-Based-Dynamics

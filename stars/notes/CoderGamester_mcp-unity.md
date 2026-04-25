@@ -7,10 +7,8 @@ stars: 1604
 topics: [antigravity-ide, claudecode, codex-cli, copilot, cursor, game-development, gemini, mcp, model-context-protocol, openai, unity, unity-package, unity3d, windsurf]
 starred_at: "2025-08-01T08:37:46Z"
 tags:
-  - coding
   - ai
   - mcp
-  - engine
   - unity
   - plugin
 ---

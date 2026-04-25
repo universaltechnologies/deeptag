@@ -7,9 +7,9 @@ stars: 2995
 topics: [gui, imgui, rust, rust-library]
 starred_at: "2023-02-23T17:06:15Z"
 tags:
-  - coding
   - gui
-  - binding
+  - rust
+  - ffi
   - library
 ---
 

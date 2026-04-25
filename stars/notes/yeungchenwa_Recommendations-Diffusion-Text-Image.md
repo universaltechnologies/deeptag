@@ -7,10 +7,8 @@ stars: 273
 topics: [awesome, diffusion-models, font-generation, handwritten, scene-text-detection, scene-text-recognition, super-resolution, text, text-editing, text-image, text-removal, text-to-image]
 starred_at: "2026-03-02T18:00:45Z"
 tags:
-  - coding
   - ai
   - diffusion
-  - cv
   - awesome
 ---
 

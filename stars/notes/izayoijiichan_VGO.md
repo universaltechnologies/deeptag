@@ -7,12 +7,10 @@ stars: 44
 topics: [3d-model, animation, avatar, blendshape, cloth, collider, matarial, mesh, metaverse, model-format, particle-system, rigidbody, texture, unity3d, unity3d-plugin, unity6, univgo, vgo]
 starred_at: "2023-02-19T15:55:17Z"
 tags:
-  - graphic
-  - scene
   - coding
   - engine
   - unity
-  - data
+  - serialization
   - library
 ---
 

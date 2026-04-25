@@ -7,11 +7,9 @@ stars: 17507
 topics: [proxy, websocket-server, websockets]
 starred_at: "2020-10-25T08:30:57Z"
 tags:
-  - coding
-  - networking
-  - web
+  - network
+  - http
   - tool
-  - proxy
 ---
 
 # joewalnes/websocketd

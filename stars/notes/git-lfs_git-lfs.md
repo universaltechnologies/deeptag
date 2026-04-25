@@ -10,7 +10,6 @@ tags:
   - coding
   - git
   - tool
-  - cross-platform
 ---
 
 # git-lfs/git-lfs

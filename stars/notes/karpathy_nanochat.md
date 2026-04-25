@@ -10,7 +10,7 @@ tags:
   - coding
   - ai
   - llm
-  - inference
+  - framework
 ---
 
 # karpathy/nanochat

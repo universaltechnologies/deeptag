@@ -7,9 +7,9 @@ stars: 3626
 topics: []
 starred_at: "2025-07-25T08:45:09Z"
 tags:
+  - coding
   - android
   - library
-  - tools
 ---
 
 # litesuits/android-common

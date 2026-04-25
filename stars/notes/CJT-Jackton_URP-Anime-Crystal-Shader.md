@@ -7,11 +7,11 @@ stars: 108
 topics: [shader, unity, urp]
 starred_at: "2022-05-18T11:24:17Z"
 tags:
-  - graphic
   - shader
-  - hlsl
+  - toon
   - unity
   - urp
+  - library
 ---
 
 # CJT-Jackton/URP-Anime-Crystal-Shader

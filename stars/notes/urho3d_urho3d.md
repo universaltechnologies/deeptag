@@ -9,11 +9,8 @@ starred_at: "2017-02-07T03:51:50Z"
 tags:
   - coding
   - engine
-  - game
-  - graphic
-  - 2d
-  - 3d
   - cross-platform
+  - framework
 ---
 
 # urho3d/urho3d

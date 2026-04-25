@@ -7,12 +7,11 @@ stars: 43943
 topics: [ai-gateway, anthropic, azure-openai, bedrock, gateway, langchain, litellm, llm, llm-gateway, llmops, mcp-gateway, openai, openai-proxy, vertex-ai]
 starred_at: "2026-02-11T07:14:34Z"
 tags:
-  - coding
   - ai
   - llm
   - proxy
   - library
-  - framework
+  - tool
 ---
 
 # BerriAI/litellm

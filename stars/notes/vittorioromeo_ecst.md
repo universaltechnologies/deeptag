@@ -7,12 +7,11 @@ stars: 491
 topics: [cpp, cpp11, cpp14, entity, entity-component, generic, library, parallel, thesis]
 starred_at: "2017-03-27T12:52:44Z"
 tags:
-  - coding
-  - game
+  - ecs
   - cpp
-  - library
+  - concurrency
   - header-only
-  - performance
+  - library
 ---
 
 # vittorioromeo/ecst

@@ -7,10 +7,9 @@ stars: 8093
 topics: [algorithm, algorithms, algorithms-and-data-structures, c-sharp, data-structures, hacktoberfest]
 starred_at: "2024-12-12T14:38:34Z"
 tags:
-  - coding
   - algorithm
-  - awesome
   - csharp
+  - tutorial
 ---
 
 # TheAlgorithms/C-Sharp

@@ -7,9 +7,9 @@ stars: 157927
 topics: [digitalplat, domain, domain-platform, domainname, domains, free, freedomain]
 starred_at: "2025-12-13T00:17:36Z"
 tags:
-  - web
+  - tools
+  - network
   - tool
-  - tutorial
 ---
 
 # DigitalPlatDev/FreeDomain

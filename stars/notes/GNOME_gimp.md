@@ -7,10 +7,8 @@ stars: 6105
 topics: []
 starred_at: "2022-08-17T08:16:01Z"
 tags:
-  - coding
-  - media
-  - image-processing
-  - ui
+  - tools
+  - image
   - tool
 ---
 

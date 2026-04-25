@@ -7,10 +7,9 @@ stars: 2289
 topics: [c-plus-plus, computer-graphics, computer-language, llvm, open-shading-language, osl, shaders, shading-language, vfx]
 starred_at: "2023-10-17T03:30:53Z"
 tags:
-  - coding
   - graphic
   - shader
-  - language
+  - library
 ---
 
 # AcademySoftwareFoundation/OpenShadingLanguage

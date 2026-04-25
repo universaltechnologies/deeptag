@@ -7,10 +7,8 @@ stars: 2091
 topics: []
 starred_at: "2026-04-01T06:47:35Z"
 tags:
-  - coding
+  - desktop
   - voice
-  - input
-  - audio
   - tool
 ---
 

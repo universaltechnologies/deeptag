@@ -7,10 +7,10 @@ stars: 590
 topics: [cache, dotnet, lfu, lru, threadsafe]
 starred_at: "2023-12-13T10:42:05Z"
 tags:
-  - coding
   - dotnet
-  - performance
+  - optimization
   - library
+  - performance
 ---
 
 # bitfaster/BitFaster.Caching

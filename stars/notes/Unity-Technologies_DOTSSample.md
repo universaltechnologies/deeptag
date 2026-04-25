@@ -11,7 +11,8 @@ tags:
   - engine
   - unity
   - game
-  - gameplay
+  - ecs
+  - practice
 ---
 
 # Unity-Technologies/DOTSSample

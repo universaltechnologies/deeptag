@@ -8,10 +8,11 @@ topics: []
 starred_at: "2024-11-22T06:32:17Z"
 tags:
   - coding
-  - dotnet
+  - json
   - serialization
-  - performance
+  - dotnet
   - library
+  - performance
 ---
 
 # Tornhoof/SpanJson

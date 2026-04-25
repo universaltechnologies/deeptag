@@ -7,9 +7,10 @@ stars: 35736
 topics: [android, css, desktop, html, ios, native, react, rust, ssr, ui, virtualdom, wasm, web]
 starred_at: "2023-02-24T03:17:15Z"
 tags:
-  - coding
-  - web
   - frontend
+  - desktop
+  - mobile
+  - rust
   - framework
   - cross-platform
 ---

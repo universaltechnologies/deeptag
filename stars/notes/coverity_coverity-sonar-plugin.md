@@ -7,8 +7,6 @@ stars: 52
 topics: []
 starred_at: "2019-04-21T08:44:11Z"
 tags:
-  - coding
-  - java
   - plugin
 ---
 

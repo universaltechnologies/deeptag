@@ -10,8 +10,8 @@ tags:
   - coding
   - gui
   - rust
-  - library
   - cross-platform
+  - library
 ---
 
 # iced-rs/iced

@@ -10,8 +10,7 @@ tags:
   - coding
   - engine
   - unity
-  - game
-  - practice
+  - tutorial
 ---
 
 # Unity-Technologies/Addressables-Sample

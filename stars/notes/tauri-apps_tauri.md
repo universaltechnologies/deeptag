@@ -7,12 +7,11 @@ stars: 105650
 topics: [desktop-app, high-performance, mobile-app, native-app, rust, web-frontend, webview]
 starred_at: "2026-04-07T16:36:19Z"
 tags:
-  - coding
-  - framework
   - desktop
-  - web
+  - mobile
   - frontend
-  - rust
+  - cross-platform
+  - framework
 ---
 
 # tauri-apps/tauri

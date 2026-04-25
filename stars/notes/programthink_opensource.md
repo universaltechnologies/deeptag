@@ -7,7 +7,6 @@ stars: 5096
 topics: []
 starred_at: "2017-07-17T02:13:15Z"
 tags:
-  - coding
   - awesome
 ---
 

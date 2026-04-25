@@ -8,10 +8,9 @@ topics: []
 starred_at: "2017-04-14T17:25:45Z"
 tags:
   - coding
-  - library
+  - data
   - cross-platform
-  - cpp
-  - header-only
+  - library
 ---
 
 # graeme-hill/crossguid

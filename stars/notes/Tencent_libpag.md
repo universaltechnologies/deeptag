@@ -8,10 +8,9 @@ topics: [after-effects, animation, keyframes, libpag, pag]
 starred_at: "2022-01-17T10:18:32Z"
 tags:
   - graphic
-  - rendering
   - animation
-  - cross-platform
   - library
+  - cross-platform
 ---
 
 # Tencent/libpag

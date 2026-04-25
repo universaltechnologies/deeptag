@@ -8,9 +8,9 @@ topics: [c, cmake, cplusplus, cpp, libraries, package-manager, packages, vcpkg, 
 starred_at: "2021-12-21T06:15:19Z"
 tags:
   - coding
-  - cpp
-  - tool
+  - package
   - cross-platform
+  - tool
 ---
 
 # microsoft/vcpkg

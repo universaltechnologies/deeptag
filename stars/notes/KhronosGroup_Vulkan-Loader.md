@@ -7,8 +7,9 @@ stars: 652
 topics: [vulkan]
 starred_at: "2022-10-05T20:03:06Z"
 tags:
-  - graphic
-  - platform
+  - coding
+  - engine
+  - api
   - vulkan
   - library
   - cross-platform

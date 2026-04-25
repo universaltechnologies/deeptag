@@ -7,9 +7,6 @@ stars: 5723
 topics: [decoding-images, pixel, rust]
 starred_at: "2023-02-24T18:30:55Z"
 tags:
-  - coding
-  - media
-  - image
   - image-processing
   - rust
   - library

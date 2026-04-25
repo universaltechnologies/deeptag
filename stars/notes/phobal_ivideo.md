@@ -7,10 +7,8 @@ stars: 11844
 topics: []
 starred_at: "2022-02-18T12:31:47Z"
 tags:
-  - coding
-  - web
-  - media
-  - electron
+  - tools
+  - browser
   - cross-platform
   - tool
 ---

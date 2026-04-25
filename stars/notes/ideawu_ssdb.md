@@ -10,10 +10,7 @@ tags:
   - coding
   - data
   - database
-  - sql
-  - cpp
-  - server
-  - tool
+  - library
 ---
 
 # ideawu/ssdb

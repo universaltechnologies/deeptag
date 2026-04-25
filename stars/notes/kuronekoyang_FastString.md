@@ -9,8 +9,8 @@ starred_at: "2025-04-16T02:03:47Z"
 tags:
   - coding
   - csharp
-  - performance
   - library
+  - performance
 ---
 
 # kuronekoyang/FastString

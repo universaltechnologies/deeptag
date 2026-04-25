@@ -8,8 +8,6 @@ topics: []
 starred_at: "2021-09-09T08:04:41Z"
 tags:
   - tools
-  - coding
-  - dotnet
   - windows
   - tool
 ---

@@ -7,9 +7,9 @@ stars: 2249
 topics: [gamedev, rust, vulkan]
 starred_at: "2025-04-23T07:18:28Z"
 tags:
-  - graphic
-  - platform
   - vulkan
+  - rust
+  - binding
   - library
 ---
 

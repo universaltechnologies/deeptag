@@ -11,7 +11,6 @@ tags:
   - ai
   - agent
   - framework
-  - library
 ---
 
 # openai/swarm

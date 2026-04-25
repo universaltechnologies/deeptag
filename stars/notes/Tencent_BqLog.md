@@ -9,10 +9,9 @@ starred_at: "2025-09-10T12:01:04Z"
 tags:
   - coding
   - logging
-  - performance
   - library
   - cross-platform
-  - encryption
+  - performance
 ---
 
 # Tencent/BqLog

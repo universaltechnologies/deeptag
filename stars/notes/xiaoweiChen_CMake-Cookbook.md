@@ -9,7 +9,6 @@ starred_at: "2022-05-12T19:12:38Z"
 tags:
   - coding
   - build
-  - tool
   - book
 ---
 

@@ -7,13 +7,10 @@ stars: 296
 topics: [marching-cubes, marching-cubes-algorithm, unity, voxel]
 starred_at: "2022-06-09T11:00:25Z"
 tags:
-  - graphic
-  - shader
-  - compute-shader
-  - scene
-  - voxel
-  - engine
   - unity
+  - voxel
+  - compute-shader
+  - library
 ---
 
 # Scrawk/Marching-Cubes-On-The-GPU

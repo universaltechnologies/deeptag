@@ -10,7 +10,6 @@ tags:
   - coding
   - practice
   - book
-  - tutorial
 ---
 
 # ahangchen/How-to-Be-A-Programmer-CN

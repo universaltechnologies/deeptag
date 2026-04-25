@@ -8,10 +8,9 @@ topics: []
 starred_at: "2016-08-30T03:56:30Z"
 tags:
   - coding
-  - systems
   - windows
-  - driver
   - audio
+  - tool
 ---
 
 # rdp/virtual-audio-capture-grabber-device

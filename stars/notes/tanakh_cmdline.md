@@ -7,7 +7,7 @@ stars: 1427
 topics: []
 starred_at: "2023-04-10T18:07:58Z"
 tags:
-  - coding
+  - cli
   - parser
   - cpp
   - header-only

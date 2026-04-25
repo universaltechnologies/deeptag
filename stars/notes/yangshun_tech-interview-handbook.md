@@ -8,9 +8,9 @@ topics: [algorithm, algorithm-interview, algorithm-interview-questions, algorith
 starred_at: "2021-09-17T12:39:25Z"
 tags:
   - coding
-  - algorithm
-  - awesome
   - practice
+  - awesome
+  - book
 ---
 
 # yangshun/tech-interview-handbook

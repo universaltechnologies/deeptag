@@ -8,7 +8,6 @@ topics: [binding, gui, imgui, immediate-gui, sfml]
 starred_at: "2024-08-15T03:42:10Z"
 tags:
   - coding
-  - gui
   - binding
   - library
 ---

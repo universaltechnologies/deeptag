@@ -8,10 +8,10 @@ topics: []
 starred_at: "2026-01-09T11:27:20Z"
 tags:
   - coding
-  - framework
-  - python
+  - systems
   - distributed
-  - cloud
+  - automation
+  - framework
 ---
 
 # microsoft/batch-processing-kit

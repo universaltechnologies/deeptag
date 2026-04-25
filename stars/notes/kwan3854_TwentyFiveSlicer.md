@@ -11,7 +11,6 @@ tags:
   - engine
   - unity
   - library
-  - ui
 ---
 
 # kwan3854/TwentyFiveSlicer

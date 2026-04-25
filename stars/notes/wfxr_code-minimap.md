@@ -9,7 +9,6 @@ starred_at: "2023-07-21T12:46:37Z"
 tags:
   - coding
   - cli
-  - performance
   - tool
 ---
 

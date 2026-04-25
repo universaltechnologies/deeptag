@@ -8,9 +8,8 @@ topics: []
 starred_at: "2025-11-02T09:33:23Z"
 tags:
   - coding
-  - tools
-  - dotnet
   - encryption
+  - tool
 ---
 
 # svatyvabin/NikkeTools

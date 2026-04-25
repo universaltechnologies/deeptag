@@ -7,8 +7,6 @@ stars: 1083
 topics: [javascript, wasm, webassembly]
 starred_at: "2025-05-21T14:06:17Z"
 tags:
-  - coding
-  - language
   - compiler
   - webassembly
   - tool

@@ -9,9 +9,9 @@ starred_at: "2021-07-03T07:22:29Z"
 tags:
   - coding
   - data
-  - library
   - database
-  - embedded
+  - go
+  - library
 ---
 
 # boltdb/bolt

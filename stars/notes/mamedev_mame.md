@@ -7,11 +7,9 @@ stars: 10088
 topics: []
 starred_at: "2024-11-18T17:14:51Z"
 tags:
-  - tools
   - coding
   - framework
   - cross-platform
-  - cpp
 ---
 
 # mamedev/mame

@@ -7,8 +7,8 @@ stars: 45858
 topics: [markdown, presentation, slides, vite, vue, vueuse]
 starred_at: "2026-01-18T07:33:49Z"
 tags:
-  - coding
-  - web
+  - markdown
+  - frontend
   - tool
 ---
 

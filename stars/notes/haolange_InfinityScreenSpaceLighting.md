@@ -9,10 +9,8 @@ starred_at: "2022-06-02T12:55:16Z"
 tags:
   - graphic
   - lighting
-  - shader
-  - hlsl
-  - engine
   - unity
+  - library
 ---
 
 # haolange/InfinityScreenSpaceLighting

@@ -7,10 +7,8 @@ stars: 698
 topics: [libgdx, texture-atlas, texture-packing, texturepacker, utility]
 starred_at: "2024-11-05T15:25:03Z"
 tags:
-  - graphic
-  - texture
-  - tools
   - gui
+  - image-processing
   - tool
 ---
 

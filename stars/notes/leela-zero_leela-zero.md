@@ -7,9 +7,8 @@ stars: 5571
 topics: []
 starred_at: "2020-01-06T14:44:52Z"
 tags:
-  - coding
   - ai
-  - ml
+  - deep-learning
   - rl
   - tool
 ---

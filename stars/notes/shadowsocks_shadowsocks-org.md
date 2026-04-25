@@ -7,7 +7,6 @@ stars: 991
 topics: []
 starred_at: "2022-11-23T15:57:24Z"
 tags:
-  - coding
   - web
   - frontend
 ---

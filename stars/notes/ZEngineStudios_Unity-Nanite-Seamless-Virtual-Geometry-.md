@@ -7,16 +7,10 @@ stars: 102
 topics: []
 starred_at: "2025-05-20T06:27:23Z"
 tags:
-  - coding
-  - engine
   - unity
-  - graphic
-  - rendering
   - rasterization
-  - culling
-  - gi
-  - shadow
-  - plugin
+  - mesh
+  - library
 ---
 
 # ZEngineStudios/Unity-Nanite-Seamless-Virtual-Geometry-

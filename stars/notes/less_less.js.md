@@ -7,11 +7,10 @@ stars: 17040
 topics: [css, language, stylesheet-language]
 starred_at: "2021-05-13T18:08:04Z"
 tags:
-  - coding
   - web
   - css
-  - parser
-  - tool
+  - language
+  - library
 ---
 
 # less/less.js

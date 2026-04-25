@@ -10,7 +10,6 @@ tags:
   - coding
   - ai
   - mcp
-  - cloud
   - tool
 ---
 

@@ -8,9 +8,9 @@ topics: [computer-algebra, hacktoberfest, math, python, science]
 starred_at: "2016-06-25T03:40:05Z"
 tags:
   - coding
-  - math
-  - library
+  - algorithm
   - python
+  - library
 ---
 
 # sympy/sympy

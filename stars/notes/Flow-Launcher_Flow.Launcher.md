@@ -7,11 +7,10 @@ stars: 14485
 topics: [alfred, application-launcher, desktop, finder, flow-launcher, hacktoberfest, keyboard-launcher, launcher, launchy, listary, plugins, portable, productivity, productivity-tools, raycast, search, spotlight, windows, wox]
 starred_at: "2025-12-20T10:42:19Z"
 tags:
-  - tools
-  - productivity
   - windows
+  - search
   - plugin
-  - csharp
+  - tool
 ---
 
 # Flow-Launcher/Flow.Launcher

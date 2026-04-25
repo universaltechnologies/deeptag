@@ -7,10 +7,9 @@ stars: 13238
 topics: []
 starred_at: "2022-12-08T18:20:58Z"
 tags:
-  - coding
   - ai
-  - llm
-  - networking
+  - automation
+  - docker
   - tool
 ---
 

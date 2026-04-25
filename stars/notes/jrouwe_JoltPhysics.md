@@ -7,9 +7,8 @@ stars: 10194
 topics: [c-plus-plus, cpp, game-development, game-engine, physics, physics-engine, physics-simulation, simulation, vr]
 starred_at: "2024-02-22T06:48:19Z"
 tags:
-  - coding
+  - graphic
   - physics
-  - simulation
   - library
   - performance
 ---

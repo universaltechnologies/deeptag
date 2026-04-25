@@ -11,7 +11,6 @@ tags:
   - engine
   - unity
   - tool
-  - plugin
 ---
 
 # Unity-Technologies/AssetBundles-Browser

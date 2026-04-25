@@ -8,11 +8,11 @@ topics: [decentralization, networking, peer-to-peer, sd-wan, sdn, virtual-networ
 starred_at: "2024-04-10T11:25:02Z"
 tags:
   - coding
-  - networking
-  - cpp
+  - network
   - p2p
   - encryption
   - cross-platform
+  - library
 ---
 
 # zerotier/ZeroTierOne

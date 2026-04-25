@@ -10,7 +10,6 @@ tags:
   - git
   - visualization
   - tutorial
-  - coding
 ---
 
 # pcottle/learnGitBranching

@@ -9,11 +9,8 @@ starred_at: "2023-03-17T21:31:24Z"
 tags:
   - coding
   - game
-  - cpp
   - c
-  - graphic
-  - rendering
-  - rasterization
+  - practice
 ---
 
 # id-Software/wolf3d

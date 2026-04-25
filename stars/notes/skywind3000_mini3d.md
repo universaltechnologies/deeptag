@@ -11,7 +11,6 @@ tags:
   - rendering
   - rasterization
   - tutorial
-  - c
 ---
 
 # skywind3000/mini3d

@@ -7,10 +7,8 @@ stars: 564
 topics: [python, vulkan]
 starred_at: "2020-06-01T18:00:41Z"
 tags:
-  - graphic
-  - platform
+  - python
   - vulkan
-  - coding
   - binding
   - library
 ---

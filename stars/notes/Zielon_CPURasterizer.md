@@ -10,9 +10,7 @@ tags:
   - graphic
   - rendering
   - rasterization
-  - simd
-  - performance
-  - cpp
+  - library
 ---
 
 # Zielon/CPURasterizer

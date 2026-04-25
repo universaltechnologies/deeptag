@@ -8,9 +8,7 @@ topics: []
 starred_at: "2024-03-14T12:32:13Z"
 tags:
   - coding
-  - cpp
   - debug
-  - memory
   - tool
 ---
 

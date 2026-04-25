@@ -9,7 +9,6 @@ starred_at: "2017-03-01T03:11:12Z"
 tags:
   - coding
   - gui
-  - cpp
   - library
 ---
 

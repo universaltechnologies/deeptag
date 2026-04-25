@@ -7,8 +7,8 @@ stars: 761
 topics: [ecosystem, gamedev, rust, zola]
 starred_at: "2023-08-03T08:23:27Z"
 tags:
+  - coding
   - game
-  - rust
   - awesome
 ---
 

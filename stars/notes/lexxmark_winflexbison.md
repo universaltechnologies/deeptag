@@ -10,7 +10,6 @@ tags:
   - coding
   - parser
   - tool
-  - windows
 ---
 
 # lexxmark/winflexbison

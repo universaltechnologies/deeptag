@@ -7,11 +7,8 @@ stars: 243
 topics: [csharp, dotnet, dotnet-obfuscator, dotnet-protector, il2cpp, mono, obfuscation, obfuscator, protect, protector, unity, unity-mono, unity-security, unity3d, unity3d-plugin]
 starred_at: "2023-01-04T08:02:48Z"
 tags:
-  - coding
-  - game
-  - engine
   - unity
-  - plugin
+  - reverse
   - tool
 ---
 

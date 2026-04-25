@@ -7,8 +7,8 @@ stars: 1561
 topics: [aiengine, embedded, embedded-systems, fpga, hls, kria, versal, vitis, xrt, zcu104]
 starred_at: "2024-12-31T06:18:22Z"
 tags:
-  - coding
   - embedded
+  - hardware
   - tutorial
 ---
 

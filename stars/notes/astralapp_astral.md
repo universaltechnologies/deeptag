@@ -7,8 +7,10 @@ stars: 3518
 topics: [github, organize, stars, tags]
 starred_at: "2021-11-18T03:24:30Z"
 tags:
-  - coding
+  - tools
+  - productivity
   - web
+  - self-hosted
   - tool
 ---
 

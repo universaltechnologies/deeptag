@@ -7,11 +7,9 @@ stars: 19191
 topics: [aperture, app, capture, communication, electron, javascript, kap, mac, macos, nextjs, open-source, oss, productivity, record, screen-capture, screen-recorder]
 starred_at: "2022-11-18T07:28:21Z"
 tags:
-  - coding
-  - media
-  - electron
+  - tools
+  - capture
   - tool
-  - cross-platform
 ---
 
 # wulkano/Kap

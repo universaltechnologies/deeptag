@@ -8,6 +8,7 @@ topics: [obsidian, obsidian-md]
 starred_at: "2022-11-15T03:59:14Z"
 tags:
   - tools
+  - tutorial
 ---
 
 # obsidianmd/obsidian-help

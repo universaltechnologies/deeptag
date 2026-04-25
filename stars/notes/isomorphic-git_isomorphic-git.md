@@ -9,8 +9,6 @@ starred_at: "2022-12-04T18:32:19Z"
 tags:
   - coding
   - git
-  - nodejs
-  - browser
   - javascript
   - library
 ---

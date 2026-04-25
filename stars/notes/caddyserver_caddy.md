@@ -7,12 +7,11 @@ stars: 71683
 topics: [acme, automatic-https, caddy, caddyfile, go, golang, http, http-server, http3, https, privacy, reverse-proxy, security, tls, web-server]
 starred_at: "2023-11-23T18:02:50Z"
 tags:
-  - coding
-  - networking
+  - network
   - http
   - server
-  - tool
   - cross-platform
+  - library
 ---
 
 # caddyserver/caddy

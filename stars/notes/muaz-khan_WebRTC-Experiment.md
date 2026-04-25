@@ -9,9 +9,8 @@ starred_at: "2022-10-10T09:00:31Z"
 tags:
   - coding
   - web
-  - media
-  - video
-  - audio
+  - api
+  - javascript
   - library
 ---
 

@@ -7,10 +7,10 @@ stars: 910
 topics: [agent, ai-sre, aigc, devops, mcp, multi-agent-systems, multi-agents-orchestration, rag, risk, rl, sre]
 starred_at: "2025-05-29T12:26:32Z"
 tags:
-  - coding
   - ai
   - agent
-  - mcp
+  - monitoring
+  - framework
 ---
 
 # derisk-ai/OpenDerisk

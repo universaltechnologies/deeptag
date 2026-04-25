@@ -10,8 +10,8 @@ tags:
   - coding
   - engine
   - unity
-  - media
-  - library
+  - animation
+  - plugin
 ---
 
 # gindemit/unity-rlottie

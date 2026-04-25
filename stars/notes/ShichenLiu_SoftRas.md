@@ -10,7 +10,6 @@ tags:
   - graphic
   - rendering
   - rasterization
-  - ai
   - library
 ---
 

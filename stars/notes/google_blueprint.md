@@ -10,7 +10,6 @@ tags:
   - coding
   - build
   - tool
-  - android
 ---
 
 # google/blueprint

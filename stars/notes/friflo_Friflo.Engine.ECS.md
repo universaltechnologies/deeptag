@@ -7,12 +7,10 @@ stars: 604
 topics: [csharp, data-oriented, data-oriented-design, dotnet, ecs, ecs-framework, entity-component-system, entity-framework, fast, game-development, game-engine, gamedev, godot, monogame, monogame-framework, raylib, unity, xna]
 starred_at: "2024-09-14T03:24:43Z"
 tags:
-  - coding
-  - engine
-  - game
   - ecs
-  - performance
+  - csharp
   - library
+  - performance
 ---
 
 # friflo/Friflo.Engine.ECS

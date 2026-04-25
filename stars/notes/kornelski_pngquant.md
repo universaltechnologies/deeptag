@@ -9,7 +9,9 @@ starred_at: "2023-11-07T17:43:16Z"
 tags:
   - coding
   - media
-  - image
+  - image-processing
+  - compression
+  - cli
   - tool
 ---
 

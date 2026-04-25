@@ -7,10 +7,10 @@ stars: 1962
 topics: [deep-learning, equation-discovery, machine-learning, physics, python, reinforcement-learning, symbolic-regression]
 starred_at: "2023-03-18T09:19:11Z"
 tags:
-  - coding
   - ai
-  - ml
   - deep-learning
+  - rl
+  - python
   - library
 ---
 

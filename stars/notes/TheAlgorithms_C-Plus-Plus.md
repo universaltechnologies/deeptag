@@ -7,10 +7,9 @@ stars: 34089
 topics: [algorithm, algorithm-competitions, algorithms-implemented, artificial-intelligence-algorithms, computer-science, cpp, data-structures, educational, instructor-materials, interview-preparation, interview-questions, machine-learning, machine-learning-algorithms, mathematics, search, sort]
 starred_at: "2022-02-23T02:55:18Z"
 tags:
-  - coding
   - algorithm
-  - ml
-  - awesome
+  - cpp
+  - tutorial
 ---
 
 # TheAlgorithms/C-Plus-Plus

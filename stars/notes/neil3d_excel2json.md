@@ -7,9 +7,8 @@ stars: 1871
 topics: [excel, excel2json, json]
 starred_at: "2020-09-29T09:47:41Z"
 tags:
-  - tools
+  - coding
   - data
-  - serialization
   - json
   - tool
 ---

@@ -11,7 +11,6 @@ tags:
   - debug
   - reverse
   - cross-platform
-  - linux
   - tool
 ---
 

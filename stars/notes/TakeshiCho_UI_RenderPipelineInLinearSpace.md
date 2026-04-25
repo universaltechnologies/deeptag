@@ -9,10 +9,8 @@ starred_at: "2023-08-29T05:29:29Z"
 tags:
   - coding
   - engine
-  - unity
-  - graphic
-  - rendering
-  - shader
+  - urp
+  - framework
 ---
 
 # TakeshiCho/UI_RenderPipelineInLinearSpace

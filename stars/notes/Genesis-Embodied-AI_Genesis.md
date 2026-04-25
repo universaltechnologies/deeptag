@@ -10,9 +10,11 @@ tags:
   - coding
   - ai
   - robotics
+  - game
   - simulation
-  - python
-  - library
+  - graphic
+  - physics
+  - framework
 ---
 
 # Genesis-Embodied-AI/Genesis

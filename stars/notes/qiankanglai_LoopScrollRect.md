@@ -10,7 +10,8 @@ tags:
   - coding
   - engine
   - unity
-  - library
+  - plugin
+  - performance
 ---
 
 # qiankanglai/LoopScrollRect

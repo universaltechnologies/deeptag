@@ -8,11 +8,10 @@ topics: [ffi, lua, lua-bindings, messaging, zeromq, zmq]
 starred_at: "2017-08-30T08:01:30Z"
 tags:
   - coding
-  - networking
-  - protocol
-  - lua
-  - ffi
   - binding
+  - lua
+  - network
+  - library
 ---
 
 # zeromq/lzmq

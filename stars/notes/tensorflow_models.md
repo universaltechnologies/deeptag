@@ -7,9 +7,11 @@ stars: 77668
 topics: []
 starred_at: "2017-10-19T09:14:31Z"
 tags:
-  - coding
   - ai
+  - deep-learning
   - ml
+  - library
+  - practice
 ---
 
 # tensorflow/models

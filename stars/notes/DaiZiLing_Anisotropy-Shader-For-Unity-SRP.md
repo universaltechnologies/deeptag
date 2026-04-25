@@ -7,13 +7,10 @@ stars: 45
 topics: []
 starred_at: "2025-08-12T18:29:39Z"
 tags:
-  - graphic
   - shader
-  - material
   - pbr
-  - coding
-  - engine
   - unity
+  - library
 ---
 
 # DaiZiLing/Anisotropy-Shader-For-Unity-SRP

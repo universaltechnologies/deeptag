@@ -7,12 +7,10 @@ stars: 138748
 topics: [android, c, ffmpeg, libav, mirroring, recording, screen, sdl2]
 starred_at: "2023-02-11T02:46:03Z"
 tags:
-  - coding
-  - systems
-  - android
-  - video
+  - network
+  - productivity
+  - cross-platform
   - tool
-  - performance
 ---
 
 # Genymobile/scrcpy

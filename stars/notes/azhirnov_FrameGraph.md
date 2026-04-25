@@ -7,11 +7,11 @@ stars: 428
 topics: [c-plus-plus-17, cplusplus, cpp17, framegraph, rendergraph, rtx, vr, vulkan-api]
 starred_at: "2020-10-29T08:19:41Z"
 tags:
-  - graphic
-  - platform
+  - coding
+  - engine
+  - api
   - vulkan
   - library
-  - performance
 ---
 
 # azhirnov/FrameGraph

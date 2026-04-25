@@ -8,8 +8,9 @@ topics: [dropover-alternative, electron, electron-app, electronjs, hacktoberfest
 starred_at: "2025-12-21T02:50:25Z"
 tags:
   - tools
-  - electron
+  - productivity
   - cross-platform
+  - tool
 ---
 
 # GameGodS3/DropPoint

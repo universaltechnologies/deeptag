@@ -7,11 +7,10 @@ stars: 348
 topics: []
 starred_at: "2017-02-17T05:44:31Z"
 tags:
-  - coding
+  - game
   - gui
+  - lua
   - library
-  - plugin
-  - cpp
 ---
 
 # slages/love-imgui

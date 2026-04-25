@@ -9,8 +9,6 @@ starred_at: "2023-04-28T19:15:19Z"
 tags:
   - graphic
   - procedural
-  - simd
-  - cpp
   - library
   - performance
 ---

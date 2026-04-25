@@ -7,11 +7,10 @@ stars: 756
 topics: []
 starred_at: "2022-12-22T08:58:13Z"
 tags:
-  - coding
-  - engine
+  - ecs
   - unity
-  - game
-  - gameplay
+  - network
+  - practice
 ---
 
 # Unity-Technologies/ECS-Network-Racing-Sample

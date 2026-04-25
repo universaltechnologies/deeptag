@@ -7,10 +7,9 @@ stars: 12980
 topics: []
 starred_at: "2026-04-03T16:15:13Z"
 tags:
-  - coding
   - ai
-  - llm
-  - agent
+  - context
+  - cli
   - tool
 ---
 

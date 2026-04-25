@@ -7,10 +7,7 @@ stars: 36800
 topics: [awesome, awesome-list, bash, cli, fish, list, shell, zsh]
 starred_at: "2017-11-13T12:57:34Z"
 tags:
-  - tools
-  - automation
-  - workflow
-  - terminal
+  - coding
   - shell
   - awesome
 ---

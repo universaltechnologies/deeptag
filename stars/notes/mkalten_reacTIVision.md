@@ -8,9 +8,9 @@ topics: [blob-tracking, camera, computer-vision, cross-platform, fiducial-marker
 starred_at: "2017-05-27T08:33:11Z"
 tags:
   - coding
+  - ai
   - cv
-  - networking
-  - protocol
+  - framework
   - cross-platform
 ---
 

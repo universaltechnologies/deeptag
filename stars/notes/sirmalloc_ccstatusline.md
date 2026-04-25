@@ -8,9 +8,8 @@ topics: [ai-tools, claude-code, cli, developer-tools, git, powerline, statusbar,
 starred_at: "2026-01-13T02:01:46Z"
 tags:
   - coding
-  - ai
+  - cli
   - tool
-  - terminal
 ---
 
 # sirmalloc/ccstatusline

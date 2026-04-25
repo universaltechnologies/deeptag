@@ -7,9 +7,9 @@ stars: 13883
 topics: [csharp, dotnet, hacktoberfest, nuget, windows-service, windows-service-wrapper]
 starred_at: "2020-04-23T03:23:33Z"
 tags:
+  - coding
   - windows
   - tool
-  - dotnet
 ---
 
 # winsw/winsw

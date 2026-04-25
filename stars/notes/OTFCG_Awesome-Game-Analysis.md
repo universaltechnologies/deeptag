@@ -8,9 +8,7 @@ topics: [anything, awesome, awesome-list, computer-graphics, effects, game, game
 starred_at: "2023-07-25T04:14:32Z"
 tags:
   - coding
-  - graphic
-  - rendering
-  - post-processing
+  - game
   - awesome
 ---
 

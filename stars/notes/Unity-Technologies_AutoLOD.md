@@ -9,9 +9,9 @@ starred_at: "2023-05-24T17:15:15Z"
 tags:
   - coding
   - engine
-  - graphic
-  - scene
-  - tool
+  - unity
+  - optimization
+  - framework
 ---
 
 # Unity-Technologies/AutoLOD

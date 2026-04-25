@@ -7,7 +7,6 @@ stars: 2631
 topics: [openai, openai-api]
 starred_at: "2022-12-04T17:25:57Z"
 tags:
-  - coding
   - ai
   - nodejs
   - tutorial

@@ -11,8 +11,9 @@ tags:
   - data
   - json
   - cpp
-  - parser
   - header-only
+  - library
+  - performance
 ---
 
 # Tencent/rapidjson

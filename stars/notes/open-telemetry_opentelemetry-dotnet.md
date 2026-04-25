@@ -7,7 +7,6 @@ stars: 3685
 topics: [asp-net, asp-net-core, distributed-tracing, ilogger, iloggerprovider, instrumentation-libraries, logging, metrics, netcore, opentelemetry, otlp, telemetry]
 starred_at: "2025-05-19T07:07:15Z"
 tags:
-  - coding
   - monitoring
   - dotnet
   - library

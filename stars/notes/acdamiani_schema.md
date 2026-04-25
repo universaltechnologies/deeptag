@@ -7,11 +7,8 @@ stars: 54
 topics: [3d, ai, schema, unity]
 starred_at: "2023-12-05T11:17:00Z"
 tags:
-  - coding
-  - engine
   - unity
-  - ai
-  - library
+  - agent
   - tool
 ---
 

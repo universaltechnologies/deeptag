@@ -8,8 +8,9 @@ topics: []
 starred_at: "2022-07-06T03:31:30Z"
 tags:
   - coding
-  - language
-  - c
+  - input
+  - cross-platform
+  - library
 ---
 
 # ThemsAllTook/libstem_gamepad

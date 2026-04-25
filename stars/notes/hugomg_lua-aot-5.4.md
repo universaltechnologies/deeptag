@@ -10,6 +10,7 @@ tags:
   - coding
   - language
   - compiler
+  - lua
   - tool
 ---
 

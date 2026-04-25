@@ -7,11 +7,9 @@ stars: 3650
 topics: [computer-graphics, cpp, graphics-programming, reference, tutorial, vulkan]
 starred_at: "2022-06-03T04:20:50Z"
 tags:
-  - graphic
-  - platform
+  - coding
   - vulkan
   - tutorial
-  - book
 ---
 
 # Overv/VulkanTutorial

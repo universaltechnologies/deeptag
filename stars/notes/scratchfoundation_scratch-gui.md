@@ -10,8 +10,6 @@ tags:
   - coding
   - web
   - frontend
-  - gui
-  - component
   - library
 ---
 

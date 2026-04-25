@@ -7,9 +7,8 @@ stars: 4
 topics: []
 starred_at: "2024-10-10T03:15:43Z"
 tags:
-  - coding
-  - language
   - lua
+  - c
   - library
 ---
 

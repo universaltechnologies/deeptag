@@ -11,8 +11,6 @@ tags:
   - engine
   - unity
   - plugin
-  - scene
-  - modeling
 ---
 
 # Unity-Technologies/com.unity.probuilder

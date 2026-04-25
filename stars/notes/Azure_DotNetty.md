@@ -8,11 +8,10 @@ topics: [networking, protocols]
 starred_at: "2023-06-15T08:41:50Z"
 tags:
   - coding
-  - networking
+  - network
   - dotnet
+  - async
   - framework
-  - cross-platform
-  - performance
 ---
 
 # Azure/DotNetty

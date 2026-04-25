@@ -7,11 +7,10 @@ stars: 58996
 topics: [docker, foss, go, markdown, memo, microblog, note-taking, notecard, own-your-data, react, self-hosted, social-network, sqlite]
 starred_at: "2026-03-10T16:01:06Z"
 tags:
-  - coding
-  - web
-  - markdown
-  - database
+  - tools
+  - productivity
   - self-hosted
+  - markdown
   - tool
 ---
 

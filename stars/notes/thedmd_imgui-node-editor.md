@@ -8,9 +8,8 @@ topics: [blueprint, blueprints, dear-imgui, game-development, gamedev, imgui, im
 starred_at: "2023-02-23T17:04:37Z"
 tags:
   - coding
-  - middleware
   - gui
-  - tool
+  - library
 ---
 
 # thedmd/imgui-node-editor

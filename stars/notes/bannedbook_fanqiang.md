@@ -8,7 +8,9 @@ topics: [brook, daze, fanqiang, goflyway, lightsocks, proxy, psiphon, shadowsock
 starred_at: "2022-11-23T15:48:10Z"
 tags:
   - tools
-  - awesome
+  - network
+  - security
+  - tutorial
 ---
 
 # bannedbook/fanqiang

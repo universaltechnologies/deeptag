@@ -8,9 +8,8 @@ topics: [admin-dashboard, airtable, app-builder, crm, crud, developer-tools, erp
 starred_at: "2025-12-21T02:01:24Z"
 tags:
   - coding
-  - web
   - framework
-  - self-hosted
+  - plugin
 ---
 
 # nocobase/nocobase

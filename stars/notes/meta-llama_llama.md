@@ -7,10 +7,10 @@ stars: 59349
 topics: []
 starred_at: "2025-06-28T09:27:43Z"
 tags:
-  - coding
   - ai
   - llm
   - inference
+  - library
 ---
 
 # meta-llama/llama

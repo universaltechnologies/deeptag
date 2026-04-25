@@ -8,8 +8,8 @@ topics: [certificates, chrome, firefox, https, ios, linux, local-development, lo
 starred_at: "2026-04-12T13:48:10Z"
 tags:
   - coding
-  - tools
-  - security
+  - encryption
+  - tool
 ---
 
 # FiloSottile/mkcert

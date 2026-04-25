@@ -10,7 +10,6 @@ tags:
   - coding
   - cli
   - tool
-  - python
 ---
 
 # ZeroSumQuant/claude-conversation-extractor

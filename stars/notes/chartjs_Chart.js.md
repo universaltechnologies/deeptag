@@ -8,7 +8,6 @@ topics: [canvas, chart, graph, html5, html5-charts, javascript]
 starred_at: "2015-12-20T04:08:36Z"
 tags:
   - coding
-  - web
   - visualization
   - library
 ---

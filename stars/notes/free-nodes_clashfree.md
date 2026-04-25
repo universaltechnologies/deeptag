@@ -9,7 +9,7 @@ starred_at: "2023-11-05T14:20:41Z"
 tags:
   - tools
   - network
-  - proxy
+  - security
 ---
 
 # free-nodes/clashfree

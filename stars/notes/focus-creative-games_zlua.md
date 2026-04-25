@@ -12,9 +12,8 @@ tags:
   - unity
   - language
   - lua
-  - performance
   - library
-  - plugin
+  - performance
 ---
 
 # focus-creative-games/zlua

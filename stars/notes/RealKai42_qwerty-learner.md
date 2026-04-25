@@ -7,9 +7,7 @@ stars: 21844
 topics: [english-learning, typing, typing-game, typing-practice, typingspeedtest]
 starred_at: "2022-05-10T12:06:21Z"
 tags:
-  - coding
-  - web
-  - frontend
+  - productivity
   - tool
 ---
 

@@ -7,12 +7,13 @@ stars: 767
 topics: []
 starred_at: "2023-10-11T12:05:18Z"
 tags:
-  - graphic
-  - platform
+  - coding
+  - engine
+  - api
   - vulkan
   - opengl
   - cross-platform
-  - framework
+  - library
 ---
 
 # powervr-graphics/Native_SDK

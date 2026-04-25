@@ -8,10 +8,10 @@ topics: [chokidar, filesystem, fsevents, nodejs, watch-files, watcher]
 starred_at: "2022-02-18T09:28:45Z"
 tags:
   - coding
-  - systems
   - filesystem
-  - library
+  - nodejs
   - cross-platform
+  - library
 ---
 
 # paulmillr/chokidar

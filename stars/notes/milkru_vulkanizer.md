@@ -7,12 +7,13 @@ stars: 643
 topics: [engine, gcc, geometry, glsl, graphics, imgui, mesh-shader, mingw, msvc, prototype, rendering, vulkan]
 starred_at: "2023-02-23T17:39:47Z"
 tags:
-  - coding
-  - engine
-  - graphic
   - rendering
-  - platform
+  - culling
+  - mesh
   - vulkan
+  - cpp
+  - engine
+  - library
 ---
 
 # milkru/vulkanizer

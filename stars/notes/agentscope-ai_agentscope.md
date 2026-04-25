@@ -9,9 +9,7 @@ starred_at: "2026-02-06T08:34:55Z"
 tags:
   - coding
   - ai
-  - llm
   - agent
-  - mcp
   - framework
 ---
 

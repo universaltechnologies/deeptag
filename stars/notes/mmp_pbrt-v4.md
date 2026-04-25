@@ -8,10 +8,10 @@ topics: []
 starred_at: "2022-05-23T23:42:37Z"
 tags:
   - graphic
-  - rendering
+  - path-tracing
   - ray-tracing
-  - pbr
   - book
+  - library
 ---
 
 # mmp/pbrt-v4

@@ -7,9 +7,8 @@ stars: 7428
 topics: [data-science, linear-algebra, machine-learning, mathematics, matrix]
 starred_at: "2022-11-18T00:02:53Z"
 tags:
-  - coding
   - ai
-  - math
+  - ml
   - book
 ---
 

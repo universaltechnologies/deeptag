@@ -7,11 +7,12 @@ stars: 560
 topics: []
 starred_at: "2017-04-16T09:58:30Z"
 tags:
-  - coding
   - concurrency
-  - library
+  - systems
+  - c
   - cpp
-  - header-only
+  - library
+  - cross-platform
 ---
 
 # preshing/turf

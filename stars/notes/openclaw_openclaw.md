@@ -9,8 +9,9 @@ starred_at: "2026-01-26T16:13:55Z"
 tags:
   - coding
   - ai
+  - agent
+  - self-hosted
   - tool
-  - cross-platform
 ---
 
 # openclaw/openclaw

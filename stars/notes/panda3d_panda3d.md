@@ -9,8 +9,6 @@ starred_at: "2017-02-07T13:19:55Z"
 tags:
   - coding
   - engine
-  - python
-  - cpp
   - cross-platform
   - framework
 ---

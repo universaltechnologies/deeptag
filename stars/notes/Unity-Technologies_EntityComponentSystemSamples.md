@@ -7,12 +7,9 @@ stars: 8095
 topics: [auto-vectorisation, auto-vectorization, burst, component, containers, csharp, documentation, ecs, entity, high, jobs, multicore, multicore-processors, multicore-programming, native, performance, simd, system, tutorials, unity3d]
 starred_at: "2022-09-28T06:27:12Z"
 tags:
-  - coding
-  - game
+  - unity
   - ecs
   - tutorial
-  - engine
-  - unity
 ---
 
 # Unity-Technologies/EntityComponentSystemSamples

@@ -10,9 +10,8 @@ tags:
   - coding
   - game
   - ecs
-  - performance
+  - csharp
   - library
-  - dotnet
 ---
 
 # genaray/Arch

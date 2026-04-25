@@ -7,10 +7,11 @@ stars: 109331
 topics: [ai, comfy, comfyui, python, pytorch, stable-diffusion]
 starred_at: "2023-03-15T09:32:52Z"
 tags:
-  - coding
   - ai
   - diffusion
-  - tool
+  - gui
+  - backend
+  - framework
 ---
 
 # Comfy-Org/ComfyUI

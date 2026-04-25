@@ -8,8 +8,9 @@ topics: []
 starred_at: "2023-10-07T04:56:00Z"
 tags:
   - graphic
+  - texture
   - shader
-  - glsl
+  - tool
 ---
 
 # galloscript/TexGraph-Public

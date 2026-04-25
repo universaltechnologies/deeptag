@@ -8,7 +8,6 @@ topics: []
 starred_at: "2025-08-06T12:01:56Z"
 tags:
   - graphic
-  - mesh
   - normal
   - library
 ---

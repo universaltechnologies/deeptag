@@ -8,11 +8,11 @@ topics: [c-sharp, linq, unity]
 starred_at: "2025-08-04T04:10:11Z"
 tags:
   - coding
-  - dotnet
-  - performance
   - library
+  - csharp
+  - optimization
   - simd
-  - unity
+  - data
 ---
 
 # Cysharp/ZLinq

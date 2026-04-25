@@ -7,12 +7,9 @@ stars: 1915
 topics: []
 starred_at: "2022-11-17T13:56:19Z"
 tags:
-  - coding
-  - media
-  - video
-  - web
+  - tools
+  - browser
   - tool
-  - plugin
 ---
 
 # Momo707577045/media-source-extract

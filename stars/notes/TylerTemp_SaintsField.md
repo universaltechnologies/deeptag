@@ -10,9 +10,7 @@ tags:
   - coding
   - engine
   - unity
-  - tool
   - library
-  - serialization
 ---
 
 # TylerTemp/SaintsField

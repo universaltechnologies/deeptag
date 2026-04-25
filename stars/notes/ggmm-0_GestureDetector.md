@@ -8,8 +8,6 @@ topics: []
 starred_at: "2017-03-15T12:23:09Z"
 tags:
   - coding
-  - input
-  - library
 ---
 
 # ggmm-0/GestureDetector

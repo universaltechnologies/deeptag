@@ -7,11 +7,9 @@ stars: 93
 topics: []
 starred_at: "2024-07-25T07:28:51Z"
 tags:
-  - coding
-  - engine
   - unity
-  - game
   - gameplay
+  - tutorial
 ---
 
 # HonorLee-cn/Crossgate-Survivors

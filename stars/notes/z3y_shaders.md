@@ -7,11 +7,9 @@ stars: 107
 topics: [shader, unity, vrchat]
 starred_at: "2024-02-07T02:52:44Z"
 tags:
-  - graphic
-  - shader
-  - hlsl
-  - engine
   - unity
+  - shader
+  - pbr
   - library
 ---
 

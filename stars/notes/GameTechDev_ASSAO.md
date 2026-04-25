@@ -10,7 +10,6 @@ tags:
   - graphic
   - lighting
   - ssao
-  - cpp
   - library
 ---
 

@@ -10,8 +10,8 @@ tags:
   - coding
   - ai
   - llm
-  - platform
   - self-hosted
+  - framework
 ---
 
 # langfuse/langfuse

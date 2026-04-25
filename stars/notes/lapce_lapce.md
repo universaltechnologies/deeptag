@@ -8,7 +8,7 @@ topics: [code-editor, developer-tools, rust, text-editor, vim]
 starred_at: "2026-03-01T14:42:44Z"
 tags:
   - coding
-  - editor
+  - ide
   - rust
   - tool
 ---

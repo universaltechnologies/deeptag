@@ -7,8 +7,6 @@ stars: 120
 topics: []
 starred_at: "2024-01-29T03:45:50Z"
 tags:
-  - coding
-  - engine
   - unity
   - gltf
   - library

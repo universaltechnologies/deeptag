@@ -8,7 +8,7 @@ topics: [cli, excitement, hacktoberfest, markdown]
 starred_at: "2025-11-09T10:59:58Z"
 tags:
   - coding
-  - tools
+  - terminal
   - markdown
   - tool
 ---

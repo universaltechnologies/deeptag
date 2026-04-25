@@ -7,8 +7,8 @@ stars: 18067
 topics: [accessible, alert, angular, confirm, confirmation-dialog, dialog, modal, notifications, popup, prompt, react, sweetalert, sweetalert2, toast, vue, wai-aria]
 starred_at: "2025-07-25T08:40:10Z"
 tags:
-  - coding
   - web
+  - ui
   - library
 ---
 

@@ -8,10 +8,11 @@ topics: [diagram, javascript, regex, regexp, regular-expression, regulex, typesc
 starred_at: "2019-11-25T15:00:56Z"
 tags:
   - coding
-  - parser
   - regex
+  - parser
   - visualization
-  - javascript
+  - library
+  - tool
 ---
 
 # CJex/regulex

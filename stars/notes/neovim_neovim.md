@@ -7,11 +7,10 @@ stars: 98872
 topics: [api, c, lua, neovim, nvim, text-editor, vim]
 starred_at: "2023-10-26T02:00:03Z"
 tags:
-  - tools
+  - coding
+  - ide
   - editor
-  - c
-  - lua
-  - cross-platform
+  - tool
 ---
 
 # neovim/neovim

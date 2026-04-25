@@ -10,9 +10,8 @@ tags:
   - coding
   - ai
   - inference
-  - library
-  - performance
   - embedded
+  - library
 ---
 
 # OAID/Tengine

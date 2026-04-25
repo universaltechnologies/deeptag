@@ -7,9 +7,6 @@ stars: 1062
 topics: []
 starred_at: "2022-06-29T07:07:52Z"
 tags:
-  - coding
-  - engine
-  - unity
   - graphic
   - shader
   - tutorial

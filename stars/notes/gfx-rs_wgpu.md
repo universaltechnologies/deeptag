@@ -7,12 +7,12 @@ stars: 16953
 topics: [d3d12, gpu, hacktoberfest, metal, opengl, rust, vulkan, webgpu]
 starred_at: "2023-02-24T18:09:31Z"
 tags:
-  - graphic
-  - platform
-  - rust
+  - coding
+  - engine
+  - api
   - webgpu
-  - library
   - cross-platform
+  - library
 ---
 
 # gfx-rs/wgpu

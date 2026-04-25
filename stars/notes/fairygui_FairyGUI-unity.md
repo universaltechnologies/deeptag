@@ -10,9 +10,8 @@ tags:
   - coding
   - engine
   - unity
-  - gui
-  - plugin
   - cross-platform
+  - framework
 ---
 
 # fairygui/FairyGUI-unity

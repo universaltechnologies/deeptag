@@ -7,11 +7,10 @@ stars: 38382
 topics: [ai-companion, ai-vtuber, airi, digital-life, grok-companion, live2d, neuro-sama, neurosama, openclaw, vrm, vtuber]
 starred_at: "2026-03-02T17:54:14Z"
 tags:
-  - coding
   - ai
   - agent
-  - llm
-  - tts
+  - voice
+  - self-hosted
   - framework
 ---
 

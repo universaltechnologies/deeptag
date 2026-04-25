@@ -10,7 +10,6 @@ tags:
   - coding
   - language
   - lua
-  - math
   - library
 ---
 

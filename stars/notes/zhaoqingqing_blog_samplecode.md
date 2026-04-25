@@ -8,11 +8,7 @@ topics: [blog, cnblogs, csharp, unity, unity3d]
 starred_at: "2019-02-21T01:35:47Z"
 tags:
   - coding
-  - engine
-  - unity
-  - csharp
-  - plugin
-  - web
+  - practice
 ---
 
 # zhaoqingqing/blog_samplecode

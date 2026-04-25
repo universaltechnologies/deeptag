@@ -7,11 +7,9 @@ stars: 76
 topics: []
 starred_at: "2025-05-23T03:50:35Z"
 tags:
-  - coding
   - benchmark
   - lua
   - tool
-  - performance
 ---
 
 # gligneul/Lua-Benchmarks

@@ -7,9 +7,9 @@ stars: 226
 topics: [dawn, testing, vulkan, vulkan-compute-shaders]
 starred_at: "2023-04-07T12:36:35Z"
 tags:
-  - graphic
-  - shader
   - vulkan
+  - webgpu
+  - test
   - framework
 ---
 

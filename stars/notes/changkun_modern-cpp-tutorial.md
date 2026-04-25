@@ -11,6 +11,7 @@ tags:
   - language
   - cpp
   - book
+  - tutorial
 ---
 
 # changkun/modern-cpp-tutorial

@@ -8,8 +8,10 @@ topics: []
 starred_at: "2022-05-27T03:59:39Z"
 tags:
   - coding
-  - cpp
   - language
+  - cpp
+  - book
+  - tutorial
 ---
 
 # MicrosoftDocs/cpp-docs

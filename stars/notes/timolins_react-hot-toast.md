@@ -7,7 +7,6 @@ stars: 10896
 topics: [notifications, react, snackbar, toast-notifications]
 starred_at: "2025-07-25T08:42:28Z"
 tags:
-  - coding
   - web
   - frontend
   - ui

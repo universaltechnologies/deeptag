@@ -7,11 +7,10 @@ stars: 4961
 topics: [cross-platform, git, git-gui, gui]
 starred_at: "2025-12-09T04:05:30Z"
 tags:
-  - tools
   - git
   - gui
   - cross-platform
-  - ai
+  - tool
 ---
 
 # sourcegit-scm/sourcegit

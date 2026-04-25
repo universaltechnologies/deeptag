@@ -8,10 +8,10 @@ topics: []
 starred_at: "2023-09-19T07:23:22Z"
 tags:
   - coding
-  - dotnet
   - profiler
-  - debug
+  - dotnet
   - book
+  - practice
 ---
 
 # Maoni0/mem-doc

@@ -8,8 +8,7 @@ topics: []
 starred_at: "2022-05-14T04:58:31Z"
 tags:
   - coding
-  - media
-  - image
+  - image-processing
   - library
 ---
 

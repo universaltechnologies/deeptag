@@ -10,7 +10,6 @@ tags:
   - graphic
   - material
   - tool
-  - glsl
 ---
 
 # wdas/brdf

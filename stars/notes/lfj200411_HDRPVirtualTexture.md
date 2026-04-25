@@ -10,9 +10,6 @@ tags:
   - graphic
   - material
   - texture
-  - coding
-  - engine
-  - unity
   - library
 ---
 

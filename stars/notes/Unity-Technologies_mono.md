@@ -9,8 +9,8 @@ starred_at: "2023-11-27T08:38:04Z"
 tags:
   - coding
   - language
-  - csharp
   - runtime
+  - compiler
   - dotnet
   - cross-platform
 ---

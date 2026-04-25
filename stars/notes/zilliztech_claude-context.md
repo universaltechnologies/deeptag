@@ -7,10 +7,9 @@ stars: 6044
 topics: [agent, agentic-rag, ai-coding, claude-code, code-generation, code-search, cursor, embedding, gemini-cli, mcp, merkle-tree, nodejs, openai, rag, semantic-search, typescript, vector-database, vibe-coding, voyage-ai, vscode-extension]
 starred_at: "2025-09-16T11:19:40Z"
 tags:
-  - coding
   - ai
   - mcp
-  - search
+  - context
   - plugin
 ---
 

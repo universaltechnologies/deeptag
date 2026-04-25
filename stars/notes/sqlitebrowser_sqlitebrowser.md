@@ -8,12 +8,9 @@ topics: [c-plus-plus, cross-platform, database, database-browser, database-gui, 
 starred_at: "2017-11-28T15:11:40Z"
 tags:
   - tools
-  - coding
-  - data
-  - database
-  - gui
-  - tool
+  - compute
   - cross-platform
+  - tool
 ---
 
 # sqlitebrowser/sqlitebrowser

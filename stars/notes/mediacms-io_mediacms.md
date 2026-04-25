@@ -7,11 +7,14 @@ stars: 4844
 topics: [audio, cms, django, media, mediacms, open-source, react, rest-api, self-hosted, sharing, video, video-sharing]
 starred_at: "2025-10-13T10:28:53Z"
 tags:
-  - coding
   - web
+  - backend
   - media
   - video
+  - audio
+  - image
   - self-hosted
+  - framework
 ---
 
 # mediacms-io/mediacms

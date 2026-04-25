@@ -8,9 +8,8 @@ topics: [packaging, pip, pipfile, python, virtualenv]
 starred_at: "2024-11-29T08:53:04Z"
 tags:
   - coding
-  - tools
   - python
-  - library
+  - package
   - tool
 ---
 

@@ -7,11 +7,10 @@ stars: 12949
 topics: [mujoco, physics, robotics]
 starred_at: "2024-11-27T09:16:20Z"
 tags:
-  - coding
-  - physics
+  - engine
   - robotics
-  - library
   - simulation
+  - library
   - performance
 ---
 

@@ -7,13 +7,15 @@ stars: 554
 topics: [cel-shading, render-pipeline, scriptable-render-pipeline, shader, shader-graph, shaders, shading, srp, stylized, toon, toon-shading, unity]
 starred_at: "2023-12-01T05:54:56Z"
 tags:
-  - graphic
-  - rendering
-  - shader
-  - lighting
   - coding
   - engine
   - unity
+  - graphic
+  - pipeline
+  - lighting
+  - shadow
+  - toon
+  - library
 ---
 
 # Delt06/toon-rp

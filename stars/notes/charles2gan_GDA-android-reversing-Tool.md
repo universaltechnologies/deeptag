@@ -8,9 +8,8 @@ topics: [decompiler, malware-analysis, mobile-security, privacy-protection, secu
 starred_at: "2021-09-10T12:20:42Z"
 tags:
   - coding
-  - reverse
   - android
-  - security
+  - reverse
   - tool
 ---
 

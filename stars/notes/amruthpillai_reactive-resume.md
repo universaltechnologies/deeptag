@@ -7,10 +7,7 @@ stars: 36352
 topics: [better-auth, hacktoberfest, react, resume, resume-builder, self-hosted, tailwindcss, tanstack-start]
 starred_at: "2022-12-30T11:06:53Z"
 tags:
-  - coding
-  - web
-  - frontend
-  - self-hosted
+  - productivity
   - tool
 ---
 

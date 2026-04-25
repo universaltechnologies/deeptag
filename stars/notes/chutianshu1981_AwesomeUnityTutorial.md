@@ -10,8 +10,9 @@ tags:
   - coding
   - engine
   - unity
-  - tutorial
+  - game
   - awesome
+  - tutorial
 ---
 
 # chutianshu1981/AwesomeUnityTutorial

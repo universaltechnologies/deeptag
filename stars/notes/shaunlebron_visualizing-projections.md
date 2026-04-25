@@ -7,9 +7,10 @@ stars: 127
 topics: []
 starred_at: "2023-02-18T06:19:38Z"
 tags:
-  - coding
-  - math
+  - graphic
   - visualization
+  - web
+  - tutorial
 ---
 
 # shaunlebron/visualizing-projections

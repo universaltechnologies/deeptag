@@ -12,7 +12,8 @@ tags:
   - rasterization
   - shader
   - compute-shader
-  - performance
+  - 3d
+  - library
 ---
 
 # m-schuetz/compute_rasterizer

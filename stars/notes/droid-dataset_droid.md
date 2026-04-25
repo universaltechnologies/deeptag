@@ -10,7 +10,6 @@ tags:
   - coding
   - robotics
   - library
-  - practice
 ---
 
 # droid-dataset/droid

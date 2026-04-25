@@ -7,10 +7,9 @@ stars: 46865
 topics: [discourse, ember, forum, javascript, postgresql, rails, ruby]
 starred_at: "2018-11-04T16:19:13Z"
 tags:
-  - coding
   - web
   - backend
-  - database
+  - self-hosted
   - framework
 ---
 

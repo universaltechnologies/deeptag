@@ -7,11 +7,8 @@ stars: 2345
 topics: [ios, leak, oom]
 starred_at: "2023-12-13T12:17:27Z"
 tags:
-  - coding
-  - profiler
-  - debug
-  - memory
   - ios
+  - debug
   - library
 ---
 

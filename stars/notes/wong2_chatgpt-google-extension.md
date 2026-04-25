@@ -7,9 +7,9 @@ stars: 13106
 topics: [browser-extension, chatgpt, chrome-extension, firefox-addon]
 starred_at: "2022-12-07T06:11:59Z"
 tags:
-  - coding
-  - web
-  - ai
+  - tools
+  - browser
+  - plugin
 ---
 
 # wong2/chatgpt-google-extension

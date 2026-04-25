@@ -7,10 +7,10 @@ stars: 1516
 topics: []
 starred_at: "2023-11-29T07:03:18Z"
 tags:
-  - coding
-  - language
   - compiler
+  - jit
   - dotnet
+  - tool
 ---
 
 # dotnet/llilc

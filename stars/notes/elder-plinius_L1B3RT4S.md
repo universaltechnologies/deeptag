@@ -7,11 +7,9 @@ stars: 18397
 topics: [1337, adversarial-attacks, ai, ai-jailbreak, ai-liberation, artificial-intelligence, cybersecurity, hack, hacking, jailbreak, liberation, llm, offsec, prompts, red-teaming, roleplay, scenario]
 starred_at: "2025-04-23T09:58:14Z"
 tags:
-  - coding
   - ai
-  - llm
   - prompt
-  - library
+  - awesome
 ---
 
 # elder-plinius/L1B3RT4S

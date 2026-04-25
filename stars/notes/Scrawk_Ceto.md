@@ -7,12 +7,9 @@ stars: 1078
 topics: [ceto, ocean, unity, water]
 starred_at: "2022-06-09T11:04:56Z"
 tags:
-  - graphic
-  - water
-  - coding
-  - engine
   - unity
-  - plugin
+  - water
+  - library
 ---
 
 # Scrawk/Ceto

@@ -7,11 +7,10 @@ stars: 520
 topics: []
 starred_at: "2024-11-15T05:55:25Z"
 tags:
-  - graphic
-  - vfx
-  - webgl
-  - tool
+  - coding
   - web
+  - frontend
+  - tool
 ---
 
 # cables-gl/cables

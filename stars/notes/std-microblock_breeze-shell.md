@@ -7,11 +7,10 @@ stars: 3136
 topics: [context-menu, explorer, onecommander, shell, windows, windows-11]
 starred_at: "2026-03-19T08:14:06Z"
 tags:
-  - coding
   - windows
-  - desktop
+  - gui
+  - shell
   - tool
-  - plugin
 ---
 
 # std-microblock/breeze-shell

@@ -7,11 +7,8 @@ stars: 18109
 topics: [gemini, gemini-api]
 starred_at: "2025-06-26T03:43:31Z"
 tags:
-  - coding
   - ai
   - agent
-  - web
-  - frontend
   - tutorial
 ---
 

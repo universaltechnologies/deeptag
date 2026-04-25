@@ -8,10 +8,8 @@ topics: [berkeley-packet-filter, bpf, bsd-packet-filter, libpcap, packet-capture
 starred_at: "2018-04-19T11:06:46Z"
 tags:
   - coding
-  - networking
+  - network
   - library
-  - c
-  - cross-platform
 ---
 
 # the-tcpdump-group/libpcap

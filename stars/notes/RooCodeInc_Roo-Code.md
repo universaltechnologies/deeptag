@@ -7,11 +7,10 @@ stars: 23215
 topics: []
 starred_at: "2025-02-16T16:43:58Z"
 tags:
-  - coding
   - ai
   - agent
+  - ide
   - plugin
-  - tool
 ---
 
 # RooCodeInc/Roo-Code

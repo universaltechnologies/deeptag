@@ -7,10 +7,8 @@ stars: 1652
 topics: [yaml, yaml-editor, yaml-parser]
 starred_at: "2023-01-03T17:15:00Z"
 tags:
-  - coding
-  - parser
-  - typescript
   - serialization
+  - javascript
   - library
 ---
 

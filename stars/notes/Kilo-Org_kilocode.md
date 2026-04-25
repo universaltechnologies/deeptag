@@ -7,11 +7,9 @@ stars: 18323
 topics: [ai, ai-age, ai-coding, ai-developer-tools, chatgpt, claude, cli, gemini, jetbrains, sonnet, vscode, vscode-extension]
 starred_at: "2026-03-09T02:56:28Z"
 tags:
-  - coding
   - ai
   - agent
   - plugin
-  - tool
 ---
 
 # Kilo-Org/kilocode

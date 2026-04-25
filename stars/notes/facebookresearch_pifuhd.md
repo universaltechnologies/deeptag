@@ -10,8 +10,7 @@ tags:
   - coding
   - ai
   - cv
-  - graphic
-  - 3d
+  - library
 ---
 
 # facebookresearch/pifuhd

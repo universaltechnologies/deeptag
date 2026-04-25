@@ -7,9 +7,11 @@ stars: 184
 topics: [fonts, opentype-fonts, opentype-svg-fonts, svg]
 starred_at: "2025-11-13T12:03:56Z"
 tags:
-  - tools
   - coding
-  - media
+  - font
+  - svg
+  - gui
+  - windows
   - tool
 ---
 

@@ -7,9 +7,8 @@ stars: 2791
 topics: [24projects, c-sharp, csharp, design-pattern, design-patterns, designpatterns, software-development]
 starred_at: "2020-09-29T10:19:25Z"
 tags:
-  - coding
-  - dotnet
   - architecture
+  - csharp
   - tutorial
 ---
 

@@ -7,11 +7,10 @@ stars: 11892
 topics: []
 starred_at: "2018-02-01T12:26:10Z"
 tags:
-  - coding
   - game
+  - distributed
   - nodejs
   - framework
-  - distributed
 ---
 
 # NetEase/pomelo

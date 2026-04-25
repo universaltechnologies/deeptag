@@ -7,13 +7,13 @@ stars: 149
 topics: [adreno, best-practices-snapdragon, gpu, opengl, opengles, qualcomm, samples]
 starred_at: "2025-04-15T05:40:22Z"
 tags:
-  - graphic
-  - platform
+  - coding
+  - engine
+  - api
   - vulkan
   - android
-  - cpp
+  - windows
   - framework
-  - cross-platform
 ---
 
 # SnapdragonGameStudios/adreno-gpu-vulkan-code-sample-framework

@@ -8,11 +8,12 @@ topics: [architectural-patterns, cpp, cpp17, cpp20, data-oriented, data-oriented
 starred_at: "2022-05-18T05:35:07Z"
 tags:
   - coding
-  - engine
   - game
   - ecs
-  - library
+  - language
+  - cpp
   - header-only
+  - library
 ---
 
 # skypjack/entt

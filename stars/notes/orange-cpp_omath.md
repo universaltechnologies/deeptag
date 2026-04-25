@@ -7,12 +7,12 @@ stars: 198
 topics: [3d, cheat, cheat-development, cpp23, cryengine, game-development, game-hacking, gamedev, iw, math, matrixes, opengl, opengl3, physics, projectile-motion-simulation, source-engine, unity, unity3d, unreal-engine]
 starred_at: "2025-04-07T04:07:27Z"
 tags:
-  - coding
   - cpp
-  - template
+  - api
   - math
-  - physics
   - cross-platform
+  - framework
+  - library
 ---
 
 # orange-cpp/omath

@@ -7,8 +7,8 @@ stars: 272
 topics: []
 starred_at: "2022-11-15T03:58:52Z"
 tags:
-  - tools
-  - tutorial
+  - productivity
+  - book
 ---
 
 # makerjackie/obsidian

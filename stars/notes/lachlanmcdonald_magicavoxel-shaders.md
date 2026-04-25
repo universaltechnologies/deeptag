@@ -9,7 +9,8 @@ starred_at: "2025-12-22T11:43:32Z"
 tags:
   - graphic
   - shader
-  - library
+  - voxel
+  - awesome
 ---
 
 # lachlanmcdonald/magicavoxel-shaders

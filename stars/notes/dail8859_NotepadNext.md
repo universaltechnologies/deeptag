@@ -7,10 +7,9 @@ stars: 13908
 topics: [desktop, editor, linux, macos, notepad, notepad-plus-plus, qt, qt6]
 starred_at: "2023-06-02T05:57:23Z"
 tags:
-  - coding
   - editor
-  - cpp
   - cross-platform
+  - tool
 ---
 
 # dail8859/NotepadNext

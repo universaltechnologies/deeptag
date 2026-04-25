@@ -7,9 +7,10 @@ stars: 133541
 topics: [go, golang, language, programming-language]
 starred_at: "2021-03-17T23:06:26Z"
 tags:
-  - coding
-  - language
   - go
+  - compiler
+  - runtime
+  - language
 ---
 
 # golang/go

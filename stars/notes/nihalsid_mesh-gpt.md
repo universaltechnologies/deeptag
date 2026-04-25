@@ -7,9 +7,8 @@ stars: 629
 topics: []
 starred_at: "2024-06-25T08:17:38Z"
 tags:
-  - coding
   - ai
-  - ml
+  - deep-learning
 ---
 
 # nihalsid/mesh-gpt

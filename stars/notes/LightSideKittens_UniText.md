@@ -10,9 +10,8 @@ tags:
   - coding
   - engine
   - unity
-  - font
-  - csharp
   - library
+  - cross-platform
 ---
 
 # LightSideKittens/UniText

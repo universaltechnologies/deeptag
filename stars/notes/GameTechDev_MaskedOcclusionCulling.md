@@ -9,9 +9,7 @@ starred_at: "2018-02-02T07:55:07Z"
 tags:
   - graphic
   - culling
-  - depth
   - library
-  - performance
 ---
 
 # GameTechDev/MaskedOcclusionCulling

@@ -8,8 +8,7 @@ topics: [auditing, berkeley-packet-filter, bpf, bsd-packet-filter, libpcap, pack
 starred_at: "2018-04-19T11:06:54Z"
 tags:
   - coding
-  - networking
-  - security
+  - network
   - tool
 ---
 

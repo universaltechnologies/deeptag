@@ -8,9 +8,9 @@ topics: [chrome, chrome-extension, firefox, firefox-extension, javascript, jquer
 starred_at: "2024-10-29T04:25:14Z"
 tags:
   - tools
-  - coding
-  - web
-  - plugin
+  - browser
+  - tool
+  - cross-platform
 ---
 
 # xifangczy/cat-catch

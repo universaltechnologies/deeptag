@@ -7,10 +7,10 @@ stars: 30472
 topics: [3d, 3d-printing, architecture, bim, cad, cam, coin, engineering, fem, freecad, linux, macos, opencascade, windows]
 starred_at: "2024-12-16T10:41:32Z"
 tags:
-  - coding
   - graphic
-  - tool
+  - modeling
   - cross-platform
+  - tool
 ---
 
 # FreeCAD/FreeCAD

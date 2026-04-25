@@ -8,10 +8,8 @@ topics: [capture, color-picker, csharp, dropbox, file-sharing, file-upload, ftp,
 starred_at: "2023-02-17T03:09:29Z"
 tags:
   - tools
-  - coding
-  - desktop
-  - media
   - capture
+  - productivity
   - tool
 ---
 

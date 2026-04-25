@@ -7,10 +7,9 @@ stars: 4130
 topics: [architecture, game, game-development, game-engine, game-server, gamedev, gameserver, mmo, mmorpg, server-architecture, unity, unity3d]
 starred_at: "2016-06-26T15:25:54Z"
 tags:
-  - coding
-  - game
+  - engine
+  - distributed
   - cpp
-  - networking
   - framework
 ---
 

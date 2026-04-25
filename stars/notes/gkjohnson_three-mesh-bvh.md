@@ -8,11 +8,8 @@ topics: [acceleration, bounds, bounds-hierarchy, bvh, distance, geometry, graphi
 starred_at: "2023-05-25T05:46:56Z"
 tags:
   - graphic
-  - ray-tracing
-  - geometry
-  - webgl
+  - mesh
   - library
-  - performance
 ---
 
 # gkjohnson/three-mesh-bvh

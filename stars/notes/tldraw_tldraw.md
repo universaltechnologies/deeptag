@@ -7,10 +7,9 @@ stars: 46431
 topics: [canvas, collaboration, design, diagram, drawing, infinite, multiplayer, react, sdk, sketch, sync, whiteboard]
 starred_at: "2023-10-20T15:38:29Z"
 tags:
-  - coding
   - web
+  - frontend
   - ui
-  - framework
   - library
 ---
 

@@ -7,7 +7,6 @@ stars: 3383
 topics: [composition-api, notifications, nuxt, toast, typescript, vue, vuejs]
 starred_at: "2025-07-25T08:45:42Z"
 tags:
-  - coding
   - web
   - ui
   - library

@@ -8,7 +8,7 @@ topics: [cpp, csharp, lua, static-code-analysis]
 starred_at: "2024-11-15T16:53:45Z"
 tags:
   - coding
-  - cpp
+  - lint
   - tool
 ---
 

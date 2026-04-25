@@ -8,11 +8,10 @@ topics: [algorithms, cpp, cpp11, cpp14, cpp17, cpp20, cub, cuda, cxx, cxx11, cxx
 starred_at: "2023-02-16T17:13:35Z"
 tags:
   - coding
-  - systems
   - cuda
-  - algorithm
   - cpp
   - library
+  - header-only
 ---
 
 # NVIDIA/cub

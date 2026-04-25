@@ -7,10 +7,9 @@ stars: 11399
 topics: [benchmark, benchmarking, c-sharp, csharp, dotnet, hacktoberfest, performance]
 starred_at: "2023-03-11T08:51:31Z"
 tags:
-  - coding
-  - performance
-  - library
+  - benchmark
   - dotnet
+  - library
 ---
 
 # dotnet/BenchmarkDotNet

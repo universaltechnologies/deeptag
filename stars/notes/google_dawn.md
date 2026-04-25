@@ -7,11 +7,12 @@ stars: 970
 topics: [dawn, emdawnwebgpu, webgpu]
 starred_at: "2025-11-12T16:39:13Z"
 tags:
-  - graphic
-  - platform
+  - coding
+  - engine
+  - api
   - webgpu
-  - library
   - cross-platform
+  - library
 ---
 
 # google/dawn

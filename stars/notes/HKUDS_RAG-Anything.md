@@ -7,7 +7,6 @@ stars: 16306
 topics: [multi-modal-rag, retrieval-augmented-generation]
 starred_at: "2026-01-12T03:58:09Z"
 tags:
-  - coding
   - ai
   - rag
   - framework

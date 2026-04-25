@@ -8,10 +8,9 @@ topics: [dotnet, dotnet-core, filesystem, filesystem-api, vfs]
 starred_at: "2022-11-11T16:09:38Z"
 tags:
   - coding
-  - systems
-  - dotnet
-  - framework
+  - filesystem
   - cross-platform
+  - framework
 ---
 
 # xoofx/zio

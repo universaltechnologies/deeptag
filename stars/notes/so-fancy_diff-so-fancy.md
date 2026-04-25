@@ -9,8 +9,8 @@ starred_at: "2022-03-13T10:09:47Z"
 tags:
   - coding
   - git
-  - tool
   - cli
+  - tool
 ---
 
 # so-fancy/diff-so-fancy

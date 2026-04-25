@@ -7,11 +7,10 @@ stars: 117
 topics: []
 starred_at: "2022-10-27T13:07:32Z"
 tags:
-  - graphic
-  - rendering
+  - coding
   - engine
   - unity
-  - plugin
+  - tool
 ---
 
 # Fewes/VertexColorBaker

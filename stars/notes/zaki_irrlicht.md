@@ -9,7 +9,7 @@ starred_at: "2017-11-10T13:08:35Z"
 tags:
   - coding
   - engine
-  - cpp
+  - library
 ---
 
 # zaki/irrlicht

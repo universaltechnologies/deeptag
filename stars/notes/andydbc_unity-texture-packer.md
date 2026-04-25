@@ -10,8 +10,7 @@ tags:
   - coding
   - engine
   - unity
-  - graphic
-  - texture
+  - image-processing
   - tool
 ---
 

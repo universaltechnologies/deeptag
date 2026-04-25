@@ -8,10 +8,9 @@ topics: [docker, helm, helm-charts, javascript, kubernetes, nodejs, npm, pnpm, p
 starred_at: "2020-06-22T01:15:40Z"
 tags:
   - coding
-  - web
   - nodejs
+  - package
   - tool
-  - cross-platform
 ---
 
 # verdaccio/verdaccio

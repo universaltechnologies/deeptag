@@ -8,11 +8,9 @@ topics: [cpp, game, game-engine, gpu, graphics]
 starred_at: "2022-05-16T10:06:39Z"
 tags:
   - coding
-  - game
   - engine
-  - platform
-  - cpp
-  - performance
+  - custom
+  - framework
 ---
 
 # SakuraEngine/SakuraEngine

@@ -7,8 +7,8 @@ stars: 2451
 topics: [compose-multiplatform, git, jetbrains-compose, jgit, kotlin, multiplatform, rust]
 starred_at: "2025-12-10T03:47:55Z"
 tags:
+  - coding
   - git
-  - gui
   - cross-platform
   - tool
 ---

@@ -7,11 +7,10 @@ stars: 10051
 topics: [bittorrent, electron, hacktoberfest, javascript, linux, macos, nodejs, p2p, streaming, webrtc, webtorrent, windows]
 starred_at: "2022-11-23T16:03:21Z"
 tags:
-  - coding
-  - networking
-  - p2p
-  - desktop
-  - electron
+  - tools
+  - network
+  - cross-platform
+  - tool
 ---
 
 # webtorrent/webtorrent-desktop

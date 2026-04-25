@@ -7,11 +7,9 @@ stars: 17671
 topics: [android, dynamic, hotfix, wechat]
 starred_at: "2023-11-28T08:17:48Z"
 tags:
-  - coding
   - android
   - hotfix
   - library
-  - tool
 ---
 
 # Tencent/tinker

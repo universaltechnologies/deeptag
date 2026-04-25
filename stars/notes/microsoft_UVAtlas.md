@@ -8,9 +8,8 @@ topics: [cpp-library, directx, directxmesh, directxtex, microsoft, texture-atlas
 starred_at: "2025-01-06T06:47:16Z"
 tags:
   - graphic
-  - texture
+  - mesh
   - library
-  - tool
 ---
 
 # microsoft/UVAtlas

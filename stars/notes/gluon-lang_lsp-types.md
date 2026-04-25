@@ -7,7 +7,6 @@ stars: 405
 topics: [language-server-protocol, rust]
 starred_at: "2023-02-23T18:09:01Z"
 tags:
-  - coding
   - language
   - library
 ---

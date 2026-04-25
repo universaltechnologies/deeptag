@@ -10,6 +10,8 @@ tags:
   - coding
   - ai
   - agent
+  - skills
+  - cli
   - tool
 ---
 

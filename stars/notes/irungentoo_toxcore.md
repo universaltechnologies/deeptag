@@ -8,9 +8,10 @@ topics: [str8c, tox]
 starred_at: "2026-01-14T10:58:38Z"
 tags:
   - coding
-  - networking
+  - network
   - p2p
-  - security
+  - encryption
+  - protocol
   - library
 ---
 

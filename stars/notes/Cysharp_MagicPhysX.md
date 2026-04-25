@@ -7,11 +7,11 @@ stars: 312
 topics: []
 starred_at: "2023-07-06T08:18:04Z"
 tags:
+  - binding
+  - csharp
   - physics
-  - dotnet
   - cross-platform
   - library
-  - binding
 ---
 
 # Cysharp/MagicPhysX

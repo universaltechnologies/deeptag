@@ -7,11 +7,9 @@ stars: 25518
 topics: [agentic-ai, agents, ai, ai-agents, context-engineering, information-retrieval, llm, rag, reasoning, retrieval, retrieval-augmented-generation, vector-database]
 starred_at: "2026-01-21T13:59:23Z"
 tags:
-  - coding
   - ai
-  - llm
   - rag
-  - tool
+  - framework
 ---
 
 # VectifyAI/PageIndex

@@ -8,9 +8,8 @@ topics: []
 starred_at: "2023-11-30T06:57:59Z"
 tags:
   - graphic
-  - lighting
-  - ssao
-  - csharp
+  - gi
+  - library
 ---
 
 # MFrankfort84/mfssgi

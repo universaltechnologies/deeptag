@@ -7,7 +7,6 @@ stars: 507
 topics: []
 starred_at: "2016-12-20T08:19:08Z"
 tags:
-  - coding
   - cpp
   - library
 ---

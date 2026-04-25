@@ -9,7 +9,7 @@ starred_at: "2023-03-16T16:26:18Z"
 tags:
   - graphic
   - rendering
-  - cpp
+  - path-tracing
   - library
 ---
 

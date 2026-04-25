@@ -8,8 +8,8 @@ topics: [react, redux, tutorial]
 starred_at: "2023-06-01T06:35:38Z"
 tags:
   - coding
-  - web
   - javascript
+  - book
   - tutorial
 ---
 

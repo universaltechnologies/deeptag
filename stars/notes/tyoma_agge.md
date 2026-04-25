@@ -10,8 +10,9 @@ tags:
   - graphic
   - rendering
   - rasterization
+  - 2d
   - cpp
-  - cross-platform
+  - library
 ---
 
 # tyoma/agge

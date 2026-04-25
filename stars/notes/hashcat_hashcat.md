@@ -8,9 +8,9 @@ topics: [c, cracking, cuda, gpgpu, hashcat, hashes, opencl, password]
 starred_at: "2021-11-24T06:28:01Z"
 tags:
   - tools
-  - performance
-  - cuda
   - security
+  - cross-platform
+  - tool
 ---
 
 # hashcat/hashcat

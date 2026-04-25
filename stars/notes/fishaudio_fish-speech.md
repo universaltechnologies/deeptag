@@ -7,7 +7,6 @@ stars: 29820
 topics: [llama, transformer, tts, valle, vits, vqgan, vqvae]
 starred_at: "2026-01-02T03:55:53Z"
 tags:
-  - coding
   - ai
   - tts
   - library

@@ -7,11 +7,11 @@ stars: 1028
 topics: []
 starred_at: "2026-03-09T02:57:59Z"
 tags:
-  - coding
   - ai
-  - llm
   - agent
+  - llm
   - benchmark
+  - tool
 ---
 
 # pinchbench/skill

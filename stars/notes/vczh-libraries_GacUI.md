@@ -9,9 +9,8 @@ starred_at: "2022-10-12T11:03:52Z"
 tags:
   - coding
   - gui
-  - mvvm
-  - library
   - cross-platform
+  - library
 ---
 
 # vczh-libraries/GacUI

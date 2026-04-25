@@ -7,9 +7,9 @@ stars: 66190
 topics: [apache, canvas, charting-library, charts, data-visualization, data-viz, echarts, svg, visualization]
 starred_at: "2019-12-16T07:39:39Z"
 tags:
-  - coding
-  - web
   - visualization
+  - web
+  - frontend
   - library
 ---
 

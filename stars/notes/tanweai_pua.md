@@ -9,8 +9,8 @@ starred_at: "2026-03-09T16:27:12Z"
 tags:
   - coding
   - ai
-  - agent
-  - tool
+  - skills
+  - prompt
 ---
 
 # tanweai/pua

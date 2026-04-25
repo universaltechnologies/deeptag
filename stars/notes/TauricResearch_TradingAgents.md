@@ -7,9 +7,7 @@ stars: 51813
 topics: [agent, finance, llm, multiagent, trading]
 starred_at: "2026-03-23T08:37:55Z"
 tags:
-  - coding
   - ai
-  - llm
   - agent
   - framework
 ---

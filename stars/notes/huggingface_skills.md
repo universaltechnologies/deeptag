@@ -9,9 +9,8 @@ starred_at: "2026-02-27T04:55:12Z"
 tags:
   - coding
   - ai
-  - agent
-  - python
-  - tool
+  - skills
+  - library
 ---
 
 # huggingface/skills

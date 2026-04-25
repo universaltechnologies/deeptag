@@ -7,11 +7,10 @@ stars: 9
 topics: []
 starred_at: "2024-02-21T06:10:07Z"
 tags:
-  - coding
-  - engine
   - unity
-  - game
-  - procedural
+  - simulation
+  - algorithm
+  - practice
 ---
 
 # manijs82/PCG-Dungeon

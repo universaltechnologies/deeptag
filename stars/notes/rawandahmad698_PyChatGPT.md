@@ -7,8 +7,9 @@ stars: 4194
 topics: [chatgpt, openai, python]
 starred_at: "2022-12-08T05:22:10Z"
 tags:
-  - coding
   - ai
+  - llm
+  - python
   - library
 ---
 

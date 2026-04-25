@@ -7,10 +7,7 @@ stars: 1507
 topics: [c-plus-plus, cross-platform, openfx, vfx]
 starred_at: "2017-03-01T03:08:26Z"
 tags:
-  - coding
-  - media
-  - vfx
-  - plugin
+  - video
   - cross-platform
   - tool
 ---

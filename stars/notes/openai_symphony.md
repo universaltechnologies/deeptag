@@ -7,11 +7,11 @@ stars: 15277
 topics: []
 starred_at: "2026-03-14T12:05:59Z"
 tags:
-  - coding
   - ai
   - agent
-  - workflow
-  - tool
+  - harness
+  - automation
+  - framework
 ---
 
 # openai/symphony

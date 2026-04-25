@@ -7,8 +7,8 @@ stars: 2415
 topics: [c-sharp, cache, cachemanager, caching, dotnet, dotnet-core, memcached, redis]
 starred_at: "2020-05-18T15:00:44Z"
 tags:
-  - coding
   - dotnet
+  - storage
   - library
 ---
 

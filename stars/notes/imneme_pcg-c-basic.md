@@ -8,8 +8,9 @@ topics: []
 starred_at: "2025-12-29T09:54:59Z"
 tags:
   - coding
-  - algorithm
   - c
+  - algorithm
+  - header-only
   - library
 ---
 

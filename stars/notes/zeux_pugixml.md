@@ -7,12 +7,10 @@ stars: 4548
 topics: [dom, xml, xml-parser, xpath]
 starred_at: "2016-05-09T06:49:39Z"
 tags:
-  - coding
-  - parser
   - xml
   - cpp
+  - parser
   - library
-  - header-only
 ---
 
 # zeux/pugixml

@@ -8,10 +8,9 @@ topics: [benchmark, benchmarking, brotli, compress, compression, compressor, csh
 starred_at: "2024-10-28T02:34:14Z"
 tags:
   - coding
+  - compression
   - dotnet
   - library
-  - performance
-  - compression
 ---
 
 # mjebrahimi/EasyCompressor

@@ -7,11 +7,9 @@ stars: 4689
 topics: [ai-agent, automation, autonomous-agent, browser-automation, claude, computer-control, desktop-automation, gemini, lightweight, llm-agent, memory-system, python, self-evolving, skill-tree, task-automation]
 starred_at: "2026-04-17T20:23:33Z"
 tags:
-  - coding
   - ai
-  - llm
   - agent
-  - automation
+  - skills
   - framework
 ---
 

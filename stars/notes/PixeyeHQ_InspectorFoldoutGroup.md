@@ -10,7 +10,7 @@ tags:
   - coding
   - engine
   - unity
-  - library
+  - tool
 ---
 
 # PixeyeHQ/InspectorFoldoutGroup

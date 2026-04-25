@@ -7,11 +7,11 @@ stars: 31697
 topics: [codex-editor, editor, javascript, json, redactor, typescript, ui, wysiwyg]
 starred_at: "2020-10-27T09:23:45Z"
 tags:
-  - coding
   - web
-  - ui
-  - framework
-  - tool
+  - frontend
+  - editor
+  - json
+  - library
 ---
 
 # codex-team/editor.js

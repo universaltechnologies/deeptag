@@ -8,10 +8,9 @@ topics: [capture, cross-platform, free-software, gnu-linux, gui, hacktoberfest, 
 starred_at: "2022-11-01T11:26:20Z"
 tags:
   - tools
-  - coding
-  - desktop
+  - capture
   - cross-platform
-  - gui
+  - tool
 ---
 
 # flameshot-org/flameshot

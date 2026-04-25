@@ -7,12 +7,11 @@ stars: 3974
 topics: []
 starred_at: "2022-07-05T07:05:23Z"
 tags:
-  - graphic
-  - platform
-  - opengl
-  - vulkan
-  - directx
-  - metal
+  - coding
+  - engine
+  - api
+  - cross-platform
+  - library
 ---
 
 # google/angle

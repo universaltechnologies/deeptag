@@ -7,12 +7,12 @@ stars: 1753
 topics: [android, best-practices, cpp17, cppcoreguidelines, linux, macos, scenegraph, vulkan, windows]
 starred_at: "2023-02-15T04:14:04Z"
 tags:
-  - coding
-  - platform
-  - vulkan
+  - graphic
   - scene
-  - library
+  - vulkan
+  - cpp
   - cross-platform
+  - library
 ---
 
 # vsg-dev/VulkanSceneGraph

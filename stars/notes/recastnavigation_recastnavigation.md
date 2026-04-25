@@ -8,10 +8,9 @@ topics: [ai, crowd-simulation, game, game-ai, game-dev, game-development, game-t
 starred_at: "2017-02-07T03:54:24Z"
 tags:
   - coding
-  - ai
-  - library
-  - cpp
   - game
+  - simulation
+  - library
 ---
 
 # recastnavigation/recastnavigation

@@ -7,8 +7,6 @@ stars: 1596
 topics: [cargo, rust, script]
 starred_at: "2023-02-24T10:55:19Z"
 tags:
-  - coding
-  - language
   - rust
   - tool
 ---

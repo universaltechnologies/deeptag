@@ -8,10 +8,7 @@ topics: [shaderlab, unity, unity3d]
 starred_at: "2023-03-30T07:41:27Z"
 tags:
   - coding
-  - engine
-  - unity
-  - shader
-  - tool
+  - ide
   - plugin
 ---
 

@@ -11,7 +11,6 @@ tags:
   - engine
   - unity
   - gameplay
-  - animation
   - procedural
   - library
 ---

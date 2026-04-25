@@ -10,8 +10,7 @@ tags:
   - graphic
   - shader
   - glsl
-  - post-processing
-  - lighting
+  - book
   - tutorial
 ---
 

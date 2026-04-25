@@ -7,7 +7,9 @@ stars: 28
 topics: []
 starred_at: "2025-06-05T06:52:06Z"
 tags:
-  - coding
+  - graphic
+  - physics
+  - library
 ---
 
 # gdbooks/3DCollisions

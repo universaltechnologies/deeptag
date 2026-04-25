@@ -10,10 +10,8 @@ tags:
   - coding
   - engine
   - unity
-  - graphic
-  - shader
-  - vfx
-  - library
+  - ai
+  - tool
 ---
 
 # DaiZiLing/FluxInUnity

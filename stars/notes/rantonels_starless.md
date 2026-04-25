@@ -7,11 +7,11 @@ stars: 712
 topics: []
 starred_at: "2022-06-03T12:30:12Z"
 tags:
-  - coding
-  - python
   - graphic
   - ray-tracing
-  - physics
+  - post-processing
+  - python
+  - library
 ---
 
 # rantonels/starless

@@ -10,8 +10,7 @@ tags:
   - coding
   - engine
   - unity
-  - gui
-  - plugin
+  - library
 ---
 
 # Xerios/ScreenManager

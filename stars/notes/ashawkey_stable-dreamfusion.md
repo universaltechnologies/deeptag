@@ -7,11 +7,9 @@ stars: 8824
 topics: [dreamfusion, gui, image-to-3d, nerf, stable-diffusion, text-to-3d]
 starred_at: "2023-03-30T11:57:16Z"
 tags:
-  - coding
   - ai
   - diffusion
-  - graphic
-  - 3d
+  - library
 ---
 
 # ashawkey/stable-dreamfusion

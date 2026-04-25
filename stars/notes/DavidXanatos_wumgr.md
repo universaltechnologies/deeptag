@@ -7,9 +7,8 @@ stars: 1571
 topics: []
 starred_at: "2023-10-24T02:31:31Z"
 tags:
-  - coding
-  - windows
   - tools
+  - compute
   - tool
 ---
 

@@ -9,10 +9,8 @@ starred_at: "2025-11-09T09:30:11Z"
 tags:
   - coding
   - ai
-  - llm
-  - distributed
-  - tool
-  - api
+  - inference
+  - framework
 ---
 
 # mudler/LocalAI

@@ -8,9 +8,8 @@ topics: [cli, command-line, filesystem, hacktoberfest, regex, rust, search, term
 starred_at: "2022-02-18T12:33:53Z"
 tags:
   - coding
-  - tools
+  - search
   - cli
-  - filesystem
   - tool
 ---
 

@@ -7,10 +7,10 @@ stars: 1629
 topics: []
 starred_at: "2026-04-11T01:50:26Z"
 tags:
-  - tool
+  - tools
   - browser
+  - cross-platform
   - plugin
-  - ui
 ---
 
 # homerchen19/github-file-icons

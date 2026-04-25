@@ -7,11 +7,11 @@ stars: 22243
 topics: [ai, generative-ai, html-css-javascript, tailwindcss]
 starred_at: "2025-06-11T03:53:13Z"
 tags:
-  - coding
+  - web
+  - frontend
+  - ui
   - ai
   - llm
-  - web
-  - ui
   - tool
 ---
 

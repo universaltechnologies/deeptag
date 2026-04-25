@@ -7,12 +7,10 @@ stars: 160484
 topics: []
 starred_at: "2025-12-25T16:52:38Z"
 tags:
-  - coding
   - ai
   - agent
-  - mcp
   - skills
-  - tool
+  - framework
 ---
 
 # obra/superpowers

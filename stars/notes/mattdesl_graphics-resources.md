@@ -8,10 +8,6 @@ topics: []
 starred_at: "2015-09-09T15:58:32Z"
 tags:
   - graphic
-  - rendering
-  - pbr
-  - lighting
-  - post-processing
   - awesome
 ---
 

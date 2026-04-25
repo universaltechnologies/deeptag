@@ -7,10 +7,11 @@ stars: 1760
 topics: [aop, aspect, aspect-oriented-programming, aspectcore-framework, netcore]
 starred_at: "2025-10-10T07:26:49Z"
 tags:
+  - coding
   - dotnet
-  - framework
+  - architecture
   - cross-platform
-  - library
+  - framework
 ---
 
 # dotnetcore/AspectCore-Framework

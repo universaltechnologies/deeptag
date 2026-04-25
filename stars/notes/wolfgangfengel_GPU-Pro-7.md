@@ -9,8 +9,6 @@ starred_at: "2017-04-15T06:42:42Z"
 tags:
   - graphic
   - rendering
-  - shader
-  - cpp
   - book
 ---
 

@@ -7,9 +7,8 @@ stars: 23809
 topics: [apache-doris, business-intelligence, data-analysis, data-visualization, echarts, kettle, superset, tableau]
 starred_at: "2024-07-09T11:29:32Z"
 tags:
-  - coding
-  - data
-  - visualization
+  - tools
+  - office
   - tool
 ---
 

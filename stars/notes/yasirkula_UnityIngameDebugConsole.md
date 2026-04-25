@@ -11,7 +11,7 @@ tags:
   - engine
   - unity
   - debug
-  - plugin
+  - library
 ---
 
 # yasirkula/UnityIngameDebugConsole

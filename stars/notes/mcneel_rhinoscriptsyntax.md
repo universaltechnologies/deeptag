@@ -8,9 +8,8 @@ topics: []
 starred_at: "2017-07-21T08:39:45Z"
 tags:
   - coding
-  - tools
-  - library
   - python
+  - library
 ---
 
 # mcneel/rhinoscriptsyntax

@@ -9,8 +9,10 @@ starred_at: "2022-09-22T06:31:53Z"
 tags:
   - graphic
   - shader
-  - tool
+  - glsl
+  - hlsl
   - library
+  - tool
 ---
 
 # KhronosGroup/SPIRV-Cross

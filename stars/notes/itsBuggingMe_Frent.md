@@ -7,9 +7,9 @@ stars: 164
 topics: [csharp, data-oriented-design, dotnet8, dotnet9, ecs, entity-component-framework, entity-component-system, game-architecture, gamedev, godot, high-performance, monogame, netstandard21, unity, xna]
 starred_at: "2025-05-12T05:08:45Z"
 tags:
-  - coding
   - game
   - ecs
+  - csharp
   - library
   - performance
 ---

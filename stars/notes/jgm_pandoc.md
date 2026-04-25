@@ -8,10 +8,11 @@ topics: [commonmark, converter, document, haskell, markdown, markup, pandoc, pre
 starred_at: "2023-01-10T14:00:02Z"
 tags:
   - coding
+  - parser
   - markdown
-  - tool
+  - serialization
   - library
-  - cross-platform
+  - tool
 ---
 
 # jgm/pandoc

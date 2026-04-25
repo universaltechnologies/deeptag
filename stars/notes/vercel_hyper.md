@@ -8,10 +8,9 @@ topics: [css, html, hyper, javascript, linux, macos, react, terminal, terminal-e
 starred_at: "2022-03-11T07:15:15Z"
 tags:
   - coding
-  - web
   - terminal
-  - tool
   - cross-platform
+  - tool
 ---
 
 # vercel/hyper

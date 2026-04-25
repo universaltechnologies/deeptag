@@ -9,7 +9,7 @@ starred_at: "2024-04-03T02:27:40Z"
 tags:
   - tools
   - browser
-  - plugin
+  - tool
 ---
 
 # Tampermonkey/tampermonkey

@@ -8,10 +8,9 @@ topics: []
 starred_at: "2024-11-18T14:49:52Z"
 tags:
   - graphic
-  - platform
-  - library
+  - rendering
   - cross-platform
-  - performance
+  - library
 ---
 
 # facebook/igl

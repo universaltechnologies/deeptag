@@ -7,8 +7,8 @@ stars: 21301
 topics: []
 starred_at: "2024-03-04T03:21:51Z"
 tags:
-  - graphic
-  - math
+  - algorithm
+  - visualization
   - book
 ---
 

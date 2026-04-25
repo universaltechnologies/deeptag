@@ -8,8 +8,7 @@ topics: [arithmetics, dotnet, dotnet-core, fixed-point, floating-point, posit, u
 starred_at: "2023-01-09T10:30:32Z"
 tags:
   - coding
-  - dotnet
-  - math
+  - hardware
   - library
 ---
 

@@ -8,7 +8,7 @@ topics: [handlebars, liquid, mustache, templating, templating-engine, templating
 starred_at: "2024-07-08T09:31:13Z"
 tags:
   - coding
-  - dotnet
+  - language
   - parser
   - library
 ---

@@ -7,11 +7,9 @@ stars: 1215
 topics: []
 starred_at: "2018-11-13T07:01:48Z"
 tags:
-  - coding
-  - game
   - lua
+  - game
   - library
-  - math
 ---
 
 # rxi/lume

@@ -8,9 +8,8 @@ topics: []
 starred_at: "2026-02-27T04:14:42Z"
 tags:
   - coding
-  - windows
   - terminal
-  - lua
+  - windows
   - tool
 ---
 

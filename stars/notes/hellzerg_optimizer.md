@@ -8,9 +8,8 @@ topics: [cleanup, hosts-file, optimize, privacy, registry-hacks, registry-tweaks
 starred_at: "2023-10-17T07:41:44Z"
 tags:
   - tools
-  - csharp
+  - productivity
   - windows
-  - security
   - tool
 ---
 

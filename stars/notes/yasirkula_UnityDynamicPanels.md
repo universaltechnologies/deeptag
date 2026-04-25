@@ -11,7 +11,7 @@ tags:
   - engine
   - unity
   - ui
-  - plugin
+  - library
 ---
 
 # yasirkula/UnityDynamicPanels

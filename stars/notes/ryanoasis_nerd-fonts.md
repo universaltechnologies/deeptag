@@ -11,7 +11,6 @@ tags:
   - media
   - font
   - tool
-  - awesome
 ---
 
 # ryanoasis/nerd-fonts

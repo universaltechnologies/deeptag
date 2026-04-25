@@ -9,9 +9,8 @@ starred_at: "2020-09-30T13:35:06Z"
 tags:
   - coding
   - game
-  - ai
+  - gameplay
   - framework
-  - cross-platform
 ---
 
 # Tencent/behaviac

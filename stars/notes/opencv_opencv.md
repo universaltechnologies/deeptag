@@ -10,8 +10,6 @@ tags:
   - coding
   - ai
   - cv
-  - media
-  - image-processing
   - library
 ---
 

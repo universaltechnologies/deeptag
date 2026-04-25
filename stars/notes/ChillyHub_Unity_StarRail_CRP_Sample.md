@@ -7,12 +7,10 @@ stars: 145
 topics: [honkai-star-rail, march7th, npr, star-rail, starrail, unity, urp]
 starred_at: "2024-02-27T11:54:05Z"
 tags:
-  - graphic
-  - rendering
-  - shader
-  - coding
   - engine
-  - unity
+  - custom
+  - urp
+  - library
 ---
 
 # ChillyHub/Unity_StarRail_CRP_Sample

@@ -7,12 +7,11 @@ stars: 20002
 topics: [3d-graphics, android, gltf, gltf-viewer, graphics, metal, opengl, opengl-es, pbr, real-time, vulkan, wasm, webgl]
 starred_at: "2019-10-09T14:22:09Z"
 tags:
-  - graphic
-  - rendering
-  - pbr
-  - gltf
-  - cross-platform
   - engine
+  - pbr
+  - rendering
+  - cross-platform
+  - library
 ---
 
 # google/filament

@@ -9,7 +9,7 @@ starred_at: "2017-02-06T06:18:32Z"
 tags:
   - graphic
   - rendering
-  - pbr
+  - path-tracing
   - book
 ---
 

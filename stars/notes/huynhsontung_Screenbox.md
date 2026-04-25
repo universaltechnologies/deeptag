@@ -7,10 +7,10 @@ stars: 3374
 topics: [csharp, dotnet, media-player, multimedia, player, uwp, vlc]
 starred_at: "2023-11-17T15:43:50Z"
 tags:
-  - coding
+  - tools
   - media
-  - windows
-  - dotnet
+  - video
+  - tool
 ---
 
 # huynhsontung/Screenbox

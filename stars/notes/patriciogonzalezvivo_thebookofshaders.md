@@ -9,7 +9,6 @@ starred_at: "2018-01-04T07:25:05Z"
 tags:
   - graphic
   - shader
-  - glsl
   - book
   - tutorial
 ---

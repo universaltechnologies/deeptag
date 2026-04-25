@@ -8,8 +8,8 @@ topics: [animation, cut, editing, editorial, film, film-editing, interchange, in
 starred_at: "2023-03-07T17:57:13Z"
 tags:
   - coding
-  - vfx
-  - media
+  - serialization
+  - api
   - library
   - framework
 ---

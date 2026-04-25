@@ -9,7 +9,8 @@ starred_at: "2021-11-18T07:35:05Z"
 tags:
   - coding
   - git
-  - plugin
+  - self-hosted
+  - tool
 ---
 
 # scm-manager/scm-manager

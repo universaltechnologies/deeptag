@@ -9,8 +9,7 @@ starred_at: "2025-08-18T06:03:37Z"
 tags:
   - graphic
   - rendering
-  - coding
-  - ml
+  - library
 ---
 
 # ingra14m/Specular-Gaussians

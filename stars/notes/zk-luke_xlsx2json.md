@@ -11,8 +11,8 @@ tags:
   - data
   - json
   - nodejs
+  - cli
   - tool
-  - cross-platform
 ---
 
 # zk-luke/xlsx2json

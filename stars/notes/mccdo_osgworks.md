@@ -7,11 +7,10 @@ stars: 71
 topics: []
 starred_at: "2016-01-25T09:40:59Z"
 tags:
-  - graphic
-  - scene
-  - library
+  - coding
+  - engine
+  - custom
   - tool
-  - cpp
 ---
 
 # mccdo/osgworks

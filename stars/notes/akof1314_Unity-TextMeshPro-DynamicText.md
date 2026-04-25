@@ -10,8 +10,7 @@ tags:
   - coding
   - engine
   - unity
-  - tool
-  - plugin
+  - library
 ---
 
 # akof1314/Unity-TextMeshPro-DynamicText

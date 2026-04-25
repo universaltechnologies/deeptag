@@ -9,7 +9,7 @@ starred_at: "2023-03-30T10:07:53Z"
 tags:
   - coding
   - ai
-  - cv
+  - ml
   - framework
   - cross-platform
 ---

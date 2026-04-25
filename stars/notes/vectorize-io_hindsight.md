@@ -7,11 +7,10 @@ stars: 9781
 topics: [agentic-ai, agents, autogen-extension, memory]
 starred_at: "2026-03-25T07:39:21Z"
 tags:
-  - coding
   - ai
   - agent
   - memory
-  - library
+  - framework
 ---
 
 # vectorize-io/hindsight

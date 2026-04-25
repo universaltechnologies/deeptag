@@ -7,12 +7,9 @@ stars: 202
 topics: [csharp, eventbus, eventbus-library, injection, injection-framework, logging, logging-library, rest-client, unity, unity3d]
 starred_at: "2024-09-10T07:21:04Z"
 tags:
-  - coding
-  - engine
+  - csharp
   - unity
-  - dotnet
   - library
-  - tool
 ---
 
 # cs-util-com/cscore

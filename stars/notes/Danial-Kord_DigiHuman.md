@@ -7,13 +7,10 @@ stars: 567
 topics: [3d-landmarks, animation, blazeface, blazepose, blendshapes, character-animation, deep-neural-networks, digital-human, facemesh, facial-animation, facial-expression-recognition, gan, mediapipe, mediapipe-hands, metahumans, pose-estimation, rendering-3d-graphics, unity3d]
 starred_at: "2022-11-15T09:09:32Z"
 tags:
-  - coding
-  - ai
-  - cv
-  - engine
   - unity
-  - graphic
+  - cv
   - animation
+  - library
 ---
 
 # Danial-Kord/DigiHuman

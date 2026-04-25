@@ -9,9 +9,6 @@ starred_at: "2017-02-07T03:52:41Z"
 tags:
   - coding
   - engine
-  - game
-  - graphic
-  - cpp
   - framework
 ---
 

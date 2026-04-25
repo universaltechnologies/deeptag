@@ -8,10 +8,9 @@ topics: []
 starred_at: "2025-02-18T08:39:07Z"
 tags:
   - coding
-  - engine
+  - ide
   - unity
   - plugin
-  - ide
 ---
 
 # boxqkrtm/com.unity.ide.cursor

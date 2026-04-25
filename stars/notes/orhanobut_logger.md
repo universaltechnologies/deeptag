@@ -9,9 +9,7 @@ starred_at: "2022-10-13T10:44:30Z"
 tags:
   - android
   - logging
-  - debug
   - library
-  - tool
 ---
 
 # orhanobut/logger

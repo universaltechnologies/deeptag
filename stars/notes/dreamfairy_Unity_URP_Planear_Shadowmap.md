@@ -7,13 +7,10 @@ stars: 72
 topics: []
 starred_at: "2024-03-14T03:00:04Z"
 tags:
-  - coding
   - graphic
   - shadowmap
-  - engine
-  - unity
   - urp
-  - practice
+  - library
 ---
 
 # dreamfairy/Unity_URP_Planear_Shadowmap

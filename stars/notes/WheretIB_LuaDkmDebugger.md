@@ -7,10 +7,10 @@ stars: 100
 topics: [debugger, lua, visual-studio-extension]
 starred_at: "2020-10-14T11:26:04Z"
 tags:
-  - coding
   - debug
-  - plugin
+  - ide
   - lua
+  - plugin
 ---
 
 # WheretIB/LuaDkmDebugger

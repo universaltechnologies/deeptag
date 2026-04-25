@@ -8,9 +8,10 @@ topics: [crash-reporting, crash-reports, minidump, rust]
 starred_at: "2023-01-05T04:58:31Z"
 tags:
   - coding
-  - parser
   - debug
+  - rust
   - library
+  - tool
 ---
 
 # rust-minidump/rust-minidump

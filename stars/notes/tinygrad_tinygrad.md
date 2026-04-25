@@ -7,12 +7,9 @@ stars: 32502
 topics: []
 starred_at: "2023-02-01T03:54:04Z"
 tags:
-  - coding
   - ai
   - deep-learning
-  - library
-  - compiler
-  - runtime
+  - framework
 ---
 
 # tinygrad/tinygrad

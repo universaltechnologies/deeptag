@@ -10,10 +10,8 @@ tags:
   - coding
   - engine
   - unity
-  - graphic
-  - scene
   - procedural
-  - tool
+  - library
 ---
 
 # HolmanDev/LOD-Planets-in-Unity

@@ -7,9 +7,9 @@ stars: 8794
 topics: []
 starred_at: "2026-02-01T12:55:13Z"
 tags:
-  - coding
-  - web
   - visualization
+  - cli
+  - frontend
   - library
 ---
 

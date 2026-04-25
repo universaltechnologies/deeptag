@@ -7,7 +7,6 @@ stars: 7918
 topics: []
 starred_at: "2026-01-29T02:33:35Z"
 tags:
-  - coding
   - ai
   - agent
   - cli

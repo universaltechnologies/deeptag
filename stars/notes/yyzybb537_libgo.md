@@ -7,11 +7,10 @@ stars: 3309
 topics: [c-plus-plus, coroutine, libgo]
 starred_at: "2018-02-04T10:57:53Z"
 tags:
-  - coding
-  - concurrency
-  - library
   - cpp
-  - cross-platform
+  - concurrency
+  - hook
+  - library
 ---
 
 # yyzybb537/libgo

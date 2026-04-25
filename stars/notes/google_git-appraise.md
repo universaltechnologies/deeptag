@@ -11,7 +11,6 @@ tags:
   - git
   - cli
   - tool
-  - distributed
 ---
 
 # google/git-appraise

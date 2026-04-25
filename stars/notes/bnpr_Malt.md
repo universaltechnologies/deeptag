@@ -7,11 +7,10 @@ stars: 1101
 topics: [addon, blender, npr, rendering-engine]
 starred_at: "2023-03-17T21:58:14Z"
 tags:
-  - graphic
   - rendering
-  - shader
+  - pipeline
+  - glsl
   - framework
-  - plugin
 ---
 
 # bnpr/Malt

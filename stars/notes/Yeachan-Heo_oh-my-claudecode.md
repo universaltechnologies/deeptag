@@ -7,9 +7,10 @@ stars: 30119
 topics: [agentic-coding, ai-agents, automation, claude, claude-code, multi-agent-systems, oh-my-opencode, opencode, parallel-execution, vibe-coding]
 starred_at: "2026-03-26T12:48:05Z"
 tags:
-  - coding
   - ai
   - agent
+  - llm
+  - cli
   - tool
 ---
 

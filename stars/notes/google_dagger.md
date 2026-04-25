@@ -7,11 +7,9 @@ stars: 17705
 topics: []
 starred_at: "2021-04-17T18:03:12Z"
 tags:
-  - coding
-  - language
+  - android
   - java
   - framework
-  - library
 ---
 
 # google/dagger

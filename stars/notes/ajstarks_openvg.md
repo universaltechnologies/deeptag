@@ -7,10 +7,7 @@ stars: 418
 topics: [drawing, font, graphics, graphics-programming, openvg, raspberry-pi, raspberry-pi-library]
 starred_at: "2026-01-13T02:14:08Z"
 tags:
-  - graphic
-  - rendering
-  - 2d
-  - font
+  - api
   - library
 ---
 

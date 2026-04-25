@@ -10,8 +10,8 @@ tags:
   - coding
   - ai
   - agent
-  - workflow
   - automation
+  - tool
 ---
 
 # Sugar-Coffee/stokowski

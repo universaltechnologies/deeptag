@@ -7,12 +7,11 @@ stars: 5449
 topics: [lua, programming-language, scripting-language]
 starred_at: "2024-01-18T02:41:56Z"
 tags:
-  - coding
   - language
-  - lua
   - compiler
   - runtime
   - library
+  - tool
 ---
 
 # luau-lang/luau

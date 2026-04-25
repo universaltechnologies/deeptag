@@ -7,9 +7,7 @@ stars: 4789
 topics: [cursor, cursor-pro]
 starred_at: "2026-01-08T11:22:07Z"
 tags:
-  - tools
-  - ide
-  - automation
+  - tool
 ---
 
 # kingparks/cursor-vip

@@ -7,13 +7,10 @@ stars: 168
 topics: [radiance-cascades, shaders, unity]
 starred_at: "2024-12-09T02:41:07Z"
 tags:
-  - graphic
-  - rendering
-  - lighting
-  - gi
-  - coding
-  - engine
   - unity
+  - urp
+  - gi
+  - library
 ---
 
 # alexmalyutindev/unity-urp-radiance-cascades

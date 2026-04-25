@@ -8,8 +8,6 @@ topics: [brightness, ddc-ci, display, luminance, monitor]
 starred_at: "2023-11-18T04:27:47Z"
 tags:
   - tools
-  - coding
-  - desktop
   - windows
   - tool
 ---

@@ -8,6 +8,7 @@ topics: [compiler, essl, glsl, glslang, glslangvalidator, hlsl, shader, spir-v, 
 starred_at: "2022-07-13T10:12:57Z"
 tags:
   - coding
+  - language
   - compiler
   - graphic
   - shader

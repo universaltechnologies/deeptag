@@ -7,10 +7,8 @@ stars: 116823
 topics: [javascript, js, linux, macos, mit, node, nodejs, runtime, windows]
 starred_at: "2022-04-13T05:53:11Z"
 tags:
-  - coding
-  - language
-  - runtime
   - javascript
+  - runtime
   - cross-platform
 ---
 

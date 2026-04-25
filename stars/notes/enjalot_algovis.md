@@ -11,7 +11,6 @@ tags:
   - algorithm
   - visualization
   - awesome
-  - practice
 ---
 
 # enjalot/algovis

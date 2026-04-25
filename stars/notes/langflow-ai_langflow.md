@@ -7,11 +7,11 @@ stars: 147138
 topics: [agents, chatgpt, generative-ai, large-language-models, multiagent, react-flow]
 starred_at: "2026-02-06T08:41:07Z"
 tags:
-  - coding
   - ai
-  - llm
   - agent
   - workflow
+  - mcp
+  - framework
   - tool
 ---
 

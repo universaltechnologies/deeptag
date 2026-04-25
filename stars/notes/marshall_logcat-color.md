@@ -7,10 +7,8 @@ stars: 560
 topics: []
 starred_at: "2022-10-13T10:56:26Z"
 tags:
-  - tools
-  - terminal
   - android
-  - cli
+  - terminal
   - tool
 ---
 

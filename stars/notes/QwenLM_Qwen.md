@@ -7,10 +7,8 @@ stars: 21031
 topics: [chinese, flash-attention, large-language-models, llm, natural-language-processing, pretrained-models]
 starred_at: "2025-08-11T10:16:42Z"
 tags:
-  - coding
   - ai
   - llm
-  - inference
   - library
 ---
 

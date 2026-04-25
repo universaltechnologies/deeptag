@@ -7,8 +7,7 @@ stars: 1
 topics: []
 starred_at: "2017-02-08T00:58:25Z"
 tags:
-  - coding
-  - algorithm
+  - architecture
   - book
 ---
 

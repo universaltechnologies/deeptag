@@ -7,11 +7,10 @@ stars: 83708
 topics: []
 starred_at: "2026-03-10T06:12:00Z"
 tags:
-  - coding
   - ai
   - agent
-  - tool
   - prompt
+  - awesome
 ---
 
 # msitarzewski/agency-agents

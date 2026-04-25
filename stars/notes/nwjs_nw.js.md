@@ -7,12 +7,11 @@ stars: 41314
 topics: [desktop, javascript, node-webkit, nodejs, nwjs, web-application-framework]
 starred_at: "2016-05-10T11:34:19Z"
 tags:
-  - coding
-  - web
   - desktop
   - nodejs
-  - framework
+  - web
   - cross-platform
+  - framework
 ---
 
 # nwjs/nw.js

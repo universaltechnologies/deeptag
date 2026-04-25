@@ -7,10 +7,10 @@ stars: 44283
 topics: [data-analysis, data-science, data-visualization, deep-learning, developer-tools, machine-learning, python, streamlit]
 starred_at: "2023-01-10T03:49:39Z"
 tags:
-  - coding
   - web
-  - ui
-  - visualization
+  - frontend
+  - python
+  - data
   - framework
 ---
 

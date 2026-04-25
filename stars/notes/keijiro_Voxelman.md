@@ -8,10 +8,8 @@ topics: [ecs, unity, unity3d]
 starred_at: "2020-09-27T10:30:02Z"
 tags:
   - coding
-  - game
   - ecs
-  - simulation
-  - library
+  - unity
 ---
 
 # keijiro/Voxelman

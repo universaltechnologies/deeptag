@@ -7,12 +7,12 @@ stars: 318
 topics: []
 starred_at: "2023-03-22T09:12:34Z"
 tags:
-  - graphic
-  - rendering
-  - rasterization
-  - ray-tracing
+  - unity
   - mobile
-  - performance
+  - rendering
+  - lighting
+  - pipeline
+  - tool
 ---
 
 # WeakKnight/GDC23_PracticalMobileRendering

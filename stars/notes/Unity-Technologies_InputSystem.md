@@ -7,10 +7,10 @@ stars: 1512
 topics: [devices, events, gamepad, input, keyboard, mouse, touch, unity, vr, xr]
 starred_at: "2019-09-06T06:07:29Z"
 tags:
-  - coding
   - engine
   - unity
-  - tool
+  - input
+  - library
 ---
 
 # Unity-Technologies/InputSystem

@@ -7,10 +7,10 @@ stars: 6649
 topics: [c-sharp, lz4, messagepack, msgpack, serialization, serializer, unity, xamarin]
 starred_at: "2021-03-29T09:34:54Z"
 tags:
-  - coding
   - serialization
-  - performance
+  - csharp
   - library
+  - performance
 ---
 
 # MessagePack-CSharp/MessagePack-CSharp

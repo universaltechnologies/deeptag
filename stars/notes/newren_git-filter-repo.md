@@ -10,7 +10,6 @@ tags:
   - coding
   - git
   - tool
-  - performance
   - library
 ---
 

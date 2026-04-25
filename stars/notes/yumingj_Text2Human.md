@@ -7,9 +7,9 @@ stars: 850
 topics: [siggraph2022]
 starred_at: "2023-03-30T10:05:25Z"
 tags:
-  - coding
   - ai
   - cv
+  - deep-learning
   - library
 ---
 

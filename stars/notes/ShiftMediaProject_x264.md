@@ -8,9 +8,7 @@ topics: [msvc, visual-studio, visualstudio, x264]
 starred_at: "2026-01-29T02:36:22Z"
 tags:
   - coding
-  - media
   - video
-  - c
   - library
   - tool
 ---

@@ -7,10 +7,9 @@ stars: 9460
 topics: [c-sharp, dotnet, dotnet-core, http, json, xamarin, xml]
 starred_at: "2021-04-25T09:15:06Z"
 tags:
-  - coding
-  - networking
+  - network
   - http
-  - dotnet
+  - csharp
   - library
 ---
 

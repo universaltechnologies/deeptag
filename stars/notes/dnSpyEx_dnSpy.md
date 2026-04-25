@@ -8,11 +8,9 @@ topics: [baml, csharp, debug, debugger, decompile, decompiler, dotnet, dotnetcor
 starred_at: "2026-03-25T08:52:49Z"
 tags:
   - coding
-  - dotnet
   - debug
-  - tool
-  - unity
   - reverse
+  - tool
 ---
 
 # dnSpyEx/dnSpy

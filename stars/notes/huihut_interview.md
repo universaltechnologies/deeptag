@@ -8,10 +8,9 @@ topics: [algorithm, c, cpp, data-structures, database, interview, interview-prac
 starred_at: "2023-02-09T02:53:55Z"
 tags:
   - coding
+  - language
   - cpp
-  - algorithm
-  - networking
-  - awesome
+  - book
 ---
 
 # huihut/interview

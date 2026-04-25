@@ -7,11 +7,9 @@ stars: 40225
 topics: []
 starred_at: "2023-12-12T03:11:20Z"
 tags:
-  - coding
-  - networking
+  - benchmark
   - http
   - tool
-  - performance
 ---
 
 # wg/wrk

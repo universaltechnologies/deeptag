@@ -9,11 +9,9 @@ starred_at: "2025-05-27T16:11:31Z"
 tags:
   - coding
   - engine
-  - unity
-  - graphic
-  - rendering
-  - performance
-  - practice
+  - urp
+  - optimization
+  - tutorial
 ---
 
 # sienaiwun/Unity_AAResolveOnCommand

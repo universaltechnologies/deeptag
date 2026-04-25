@@ -7,7 +7,6 @@ stars: 16743
 topics: [agent, ai-societies, artificial-intelligence, communicative-ai, cooperative-ai, deep-learning, large-language-models, multi-agent-systems, natural-language-processing]
 starred_at: "2026-01-22T03:52:40Z"
 tags:
-  - coding
   - ai
   - agent
   - llm

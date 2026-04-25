@@ -7,11 +7,12 @@ stars: 3183
 topics: [borderless, compatiblity, d3d9, ddraw, directdraw, directx, integer-scaling, opengl, upscaling, windowed, wrapper]
 starred_at: "2024-06-27T08:10:15Z"
 tags:
-  - graphic
-  - platform
-  - opengl
+  - api
   - directx
+  - opengl
+  - game
   - windows
+  - cross-platform
   - tool
 ---
 

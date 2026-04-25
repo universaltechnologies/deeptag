@@ -7,10 +7,8 @@ stars: 12272
 topics: []
 starred_at: "2026-01-20T15:20:20Z"
 tags:
-  - graphic
-  - image-processing
-  - media
-  - gui
+  - tools
+  - office
   - tool
 ---
 

@@ -7,10 +7,9 @@ stars: 8068
 topics: [animeganv2, basicvsrplusplus, cyclegan, edvr, first-order-motion-model, gan, gpen, image-editing, image-generation, motion-transfer, photo2cartoon, pix2pix, psgan, realsr, resolution, stylegan2, super-resolution, wav2lip]
 starred_at: "2022-01-17T13:45:32Z"
 tags:
-  - coding
   - ai
-  - deep-learning
   - cv
+  - deep-learning
   - library
 ---
 

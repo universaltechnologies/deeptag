@@ -10,9 +10,7 @@ tags:
   - coding
   - ai
   - agent
-  - tools
   - tool
-  - cross-platform
 ---
 
 # Factory-AI/factory

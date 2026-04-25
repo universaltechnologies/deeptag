@@ -9,9 +9,8 @@ starred_at: "2022-02-21T08:20:21Z"
 tags:
   - coding
   - compression
-  - performance
   - library
-  - cpp
+  - performance
 ---
 
 # google/snappy

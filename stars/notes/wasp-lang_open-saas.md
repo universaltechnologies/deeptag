@@ -7,10 +7,11 @@ stars: 14173
 topics: [ai, authentication, aws-s3, boilerplate, chatgpt, full-stack, google-auth, hacktoberfest, nodejs, open-source, openai-api, postgresql, prisma, react, saas, saas-boilerplate, saas-starter, saas-template, typesafe, typescript]
 starred_at: "2026-01-15T16:20:41Z"
 tags:
-  - coding
   - web
+  - backend
+  - frontend
   - framework
-  - tool
+  - plugin
 ---
 
 # wasp-lang/open-saas

@@ -7,10 +7,8 @@ stars: 172
 topics: [dear-imgui, markdown, md4c]
 starred_at: "2023-02-23T17:34:21Z"
 tags:
-  - coding
-  - media
-  - parser
-  - cpp
+  - gui
+  - markdown
   - library
 ---
 

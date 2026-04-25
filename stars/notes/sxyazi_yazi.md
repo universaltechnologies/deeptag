@@ -7,12 +7,11 @@ stars: 36770
 topics: [android, asyncio, cli, command-line, concurrency, cross-platform, developer-tools, file-explorer, file-manager, filesystem, linux, macos, neovim, productivity, rust, terminal, tui, vim, windows]
 starred_at: "2026-03-14T13:14:10Z"
 tags:
-  - coding
-  - systems
-  - filesystem
-  - concurrency
+  - terminal
+  - async
+  - rust
+  - plugin
   - tool
-  - cross-platform
 ---
 
 # sxyazi/yazi

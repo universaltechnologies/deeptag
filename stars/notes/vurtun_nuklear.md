@@ -10,8 +10,8 @@ tags:
   - coding
   - gui
   - c
-  - library
   - header-only
+  - library
 ---
 
 # vurtun/nuklear

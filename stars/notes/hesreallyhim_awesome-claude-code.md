@@ -9,8 +9,8 @@ starred_at: "2026-03-24T15:20:19Z"
 tags:
   - coding
   - ai
-  - llm
   - agent
+  - skills
   - awesome
 ---
 

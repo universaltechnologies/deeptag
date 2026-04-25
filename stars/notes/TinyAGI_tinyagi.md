@@ -10,7 +10,7 @@ tags:
   - coding
   - ai
   - agent
-  - library
+  - framework
 ---
 
 # TinyAGI/tinyagi

@@ -10,9 +10,7 @@ tags:
   - coding
   - data
   - json
-  - dotnet
-  - library
-  - performance
+  - framework
 ---
 
 # JamesNK/Newtonsoft.Json

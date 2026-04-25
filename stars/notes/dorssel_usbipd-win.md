@@ -7,9 +7,10 @@ stars: 5598
 topics: [hyper-v, usb, usbip, usbip-win, usbipd, windows, wsl, wsl2]
 starred_at: "2022-09-21T08:50:41Z"
 tags:
-  - tool
   - windows
-  - cli
+  - hardware
+  - network
+  - tool
 ---
 
 # dorssel/usbipd-win

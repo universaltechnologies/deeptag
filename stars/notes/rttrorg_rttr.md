@@ -9,7 +9,6 @@ starred_at: "2017-04-14T02:35:49Z"
 tags:
   - coding
   - reflection
-  - cpp
   - library
 ---
 

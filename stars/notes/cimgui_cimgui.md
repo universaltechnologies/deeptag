@@ -8,10 +8,9 @@ topics: [binding, c, cimgui, gamedev, gui, imgui]
 starred_at: "2023-02-23T17:17:35Z"
 tags:
   - coding
-  - binding
   - gui
+  - binding
   - library
-  - automation
 ---
 
 # cimgui/cimgui

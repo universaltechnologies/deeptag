@@ -7,10 +7,10 @@ stars: 27546
 topics: [ai-agents, ai-assistant, claude-code, claude-skills, openclaw]
 starred_at: "2026-03-06T08:43:39Z"
 tags:
-  - coding
   - ai
   - agent
-  - library
+  - docker
+  - framework
 ---
 
 # qwibitai/nanoclaw

@@ -7,12 +7,11 @@ stars: 47708
 topics: [agentic-ai, densepose, esp32, firmware, mcu, mincut, monitoring, pose-estimation, rf, self, self-learning, wifi, wifi-hacking, wifi-security]
 starred_at: "2026-03-02T17:44:36Z"
 tags:
-  - coding
-  - ai
-  - cv
+  - hardware
   - embedded
-  - tools
+  - ai
   - library
+  - tool
 ---
 
 # ruvnet/RuView

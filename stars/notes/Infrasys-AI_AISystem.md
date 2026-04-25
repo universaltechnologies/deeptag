@@ -7,10 +7,11 @@ stars: 16645
 topics: [ai, aiinfra, aisys, dlsys, mlsys]
 starred_at: "2023-06-06T03:46:53Z"
 tags:
-  - coding
   - ai
-  - tutorial
+  - compiler
+  - inference
   - book
+  - tutorial
 ---
 
 # Infrasys-AI/AISystem

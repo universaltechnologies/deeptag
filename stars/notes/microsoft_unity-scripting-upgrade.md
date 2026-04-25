@@ -10,7 +10,7 @@ tags:
   - coding
   - engine
   - unity
-  - dotnet
+  - tutorial
 ---
 
 # microsoft/unity-scripting-upgrade

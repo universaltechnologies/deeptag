@@ -10,9 +10,7 @@ tags:
   - coding
   - engine
   - unity
-  - csharp
-  - library
-  - tool
+  - plugin
 ---
 
 # joshcamas/unity-domain-reload-helper

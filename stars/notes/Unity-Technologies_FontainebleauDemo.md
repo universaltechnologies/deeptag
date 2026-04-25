@@ -7,13 +7,10 @@ stars: 1168
 topics: [demo, game-development, lighting, photogrammetry, rendering, unity, unity3d]
 starred_at: "2020-02-29T13:32:43Z"
 tags:
-  - graphic
-  - rendering
-  - shader
-  - lighting
   - coding
   - engine
   - unity
+  - practice
 ---
 
 # Unity-Technologies/FontainebleauDemo

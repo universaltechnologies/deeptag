@@ -7,15 +7,11 @@ stars: 37
 topics: [graphics-programming, rendering, rendering-3d-graphics, shader-programming, shaders, unity, unity-3d, unity3d, unity3d-plugin, volumetric-lighting, voxel, voxels]
 starred_at: "2024-01-08T06:05:59Z"
 tags:
-  - graphic
-  - rendering
-  - lighting
-  - shader
-  - voxel
-  - coding
-  - engine
+  - ray-tracing
+  - volume
   - unity
-  - library
+  - compute-shader
+  - tool
 ---
 
 # frostbone25/Unity-Voxel-Tracer

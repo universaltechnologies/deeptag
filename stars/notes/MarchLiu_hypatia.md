@@ -7,12 +7,14 @@ stars: 199
 topics: []
 starred_at: "2026-04-11T10:23:51Z"
 tags:
-  - coding
   - ai
+  - memory
   - graph
   - vector
-  - sql
+  - embeddings
   - cli
+  - library
+  - cross-platform
 ---
 
 # MarchLiu/hypatia

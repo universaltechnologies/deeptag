@@ -7,11 +7,10 @@ stars: 709
 topics: [after-effects, animations, bodymovin, csharp, lottie, lottie-windows, uwp, windows, windows-10, windows-11, windows-toolkit, windows-ui-composition, winui, winui3]
 starred_at: "2023-07-07T06:17:45Z"
 tags:
-  - coding
-  - media
+  - windows
   - animation
   - library
-  - windows
+  - tool
 ---
 
 # CommunityToolkit/Lottie-Windows

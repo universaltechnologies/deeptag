@@ -10,7 +10,6 @@ tags:
   - coding
   - data
   - database
-  - csharp
   - library
 ---
 

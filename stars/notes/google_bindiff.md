@@ -10,7 +10,6 @@ tags:
   - coding
   - reverse
   - tool
-  - plugin
 ---
 
 # google/bindiff

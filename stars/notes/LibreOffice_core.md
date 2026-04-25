@@ -9,8 +9,7 @@ starred_at: "2023-05-11T17:19:35Z"
 tags:
   - tools
   - office
-  - cpp
-  - cross-platform
+  - tool
 ---
 
 # LibreOffice/core

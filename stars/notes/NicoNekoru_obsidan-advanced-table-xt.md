@@ -7,10 +7,9 @@ stars: 167
 topics: [markdown-table, markdown-tables, obsidian, obsidian-md, obsidian-plugin]
 starred_at: "2024-12-06T06:16:59Z"
 tags:
-  - plugin
+  - editor
   - markdown
-  - css
-  - tool
+  - plugin
 ---
 
 # NicoNekoru/obsidan-advanced-table-xt

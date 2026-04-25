@@ -9,10 +9,8 @@ starred_at: "2017-06-22T13:30:42Z"
 tags:
   - graphic
   - math
-  - library
   - header-only
-  - simd
-  - cpp
+  - library
 ---
 
 # g-truc/glm

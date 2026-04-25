@@ -8,10 +8,8 @@ topics: []
 starred_at: "2023-10-31T02:12:56Z"
 tags:
   - coding
-  - systems
-  - distributed
+  - architecture
   - book
-  - concurrency
 ---
 
 # johnlui/PPHC

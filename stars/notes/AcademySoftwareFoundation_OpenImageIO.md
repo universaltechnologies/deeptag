@@ -7,11 +7,8 @@ stars: 2282
 topics: [c-plus-plus, c-plus-plus-11, image-processing, images, texture, vfx]
 starred_at: "2024-01-29T06:24:05Z"
 tags:
-  - coding
-  - media
-  - image-processing
   - graphic
-  - vfx
+  - image-processing
   - library
 ---
 

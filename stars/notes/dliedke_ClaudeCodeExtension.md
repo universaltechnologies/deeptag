@@ -8,9 +8,9 @@ topics: [ai, claude-code, code-assistant, codeagent, codex, cursor, opencode, qw
 starred_at: "2026-01-07T04:15:37Z"
 tags:
   - coding
-  - ai
-  - tool
   - ide
+  - ai
+  - plugin
 ---
 
 # dliedke/ClaudeCodeExtension

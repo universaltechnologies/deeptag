@@ -7,11 +7,9 @@ stars: 23080
 topics: [quicklook]
 starred_at: "2023-11-17T16:08:02Z"
 tags:
-  - tools
-  - csharp
   - windows
   - desktop
-  - plugin
+  - tool
 ---
 
 # QL-Win/QuickLook

@@ -7,12 +7,10 @@ stars: 1421
 topics: []
 starred_at: "2018-11-01T12:38:02Z"
 tags:
-  - coding
-  - engine
   - unity
   - lua
-  - performance
-  - library
+  - binding
+  - plugin
 ---
 
 # pangweiwei/slua

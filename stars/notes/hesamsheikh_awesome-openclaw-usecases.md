@@ -7,10 +7,9 @@ stars: 29970
 topics: [awesome-list, clawdbot, moltbot, openclaw, openclaw-plugin, openclaw-setup, openclaw-skills, usecase]
 starred_at: "2026-03-06T08:47:30Z"
 tags:
-  - coding
   - ai
+  - agent
   - awesome
-  - tool
 ---
 
 # hesamsheikh/awesome-openclaw-usecases

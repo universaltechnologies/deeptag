@@ -7,11 +7,10 @@ stars: 37831
 topics: [cli, command-line, flexbox, interactive, javascript, react]
 starred_at: "2025-06-28T14:49:28Z"
 tags:
-  - coding
-  - web
-  - frontend
   - cli
-  - library
+  - terminal
+  - nodejs
+  - framework
 ---
 
 # vadimdemedes/ink

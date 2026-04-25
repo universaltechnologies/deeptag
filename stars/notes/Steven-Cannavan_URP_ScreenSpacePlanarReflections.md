@@ -7,11 +7,9 @@ stars: 301
 topics: []
 starred_at: "2023-03-17T21:43:05Z"
 tags:
-  - graphic
   - rendering
   - urp
-  - reflection
-  - unity
+  - tutorial
 ---
 
 # Steven-Cannavan/URP_ScreenSpacePlanarReflections

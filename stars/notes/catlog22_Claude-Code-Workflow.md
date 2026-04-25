@@ -7,12 +7,11 @@ stars: 1839
 topics: [claude, claude-code, cli-tools, codex, context-management, gemini-cli, json-driven, qwen-code, task-orchestration, workflow-automation]
 starred_at: "2026-01-21T03:56:41Z"
 tags:
-  - coding
   - ai
   - agent
   - workflow
+  - cli
   - framework
-  - automation
 ---
 
 # catlog22/Claude-Code-Workflow

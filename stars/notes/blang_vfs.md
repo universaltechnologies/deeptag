@@ -8,8 +8,8 @@ topics: [golang, mocking, vfs, virtual-file-system]
 starred_at: "2021-12-02T12:54:50Z"
 tags:
   - coding
-  - systems
   - filesystem
+  - go
   - library
 ---
 

@@ -7,10 +7,9 @@ stars: 21566
 topics: [python-script, python-spider, python3]
 starred_at: "2022-12-05T15:38:39Z"
 tags:
-  - coding
-  - web
+  - python
+  - http
   - tutorial
-  - practice
 ---
 
 # wistbean/learn_python3_spider

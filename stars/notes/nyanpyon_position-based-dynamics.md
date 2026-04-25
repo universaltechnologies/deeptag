@@ -9,8 +9,8 @@ starred_at: "2023-04-12T13:55:43Z"
 tags:
   - graphic
   - physics
-  - coding
   - simulation
+  - library
 ---
 
 # nyanpyon/position-based-dynamics

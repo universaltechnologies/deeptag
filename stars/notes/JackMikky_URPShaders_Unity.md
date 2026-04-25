@@ -7,12 +7,10 @@ stars: 21
 topics: []
 starred_at: "2025-08-10T17:49:01Z"
 tags:
-  - coding
-  - engine
-  - unity
-  - urp
   - graphic
   - shader
+  - urp
+  - library
 ---
 
 # JackMikky/URPShaders_Unity

@@ -7,11 +7,8 @@ stars: 1086
 topics: [actions, activate, build, ci, deploy, github, hacktoberfest, test, unity, unity-actions, unity-ci]
 starred_at: "2025-09-18T06:27:01Z"
 tags:
-  - coding
-  - engine
-  - unity
-  - git
   - ci
+  - unity
   - tool
 ---
 

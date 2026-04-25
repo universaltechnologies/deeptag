@@ -9,10 +9,8 @@ starred_at: "2023-03-17T21:59:29Z"
 tags:
   - graphic
   - post-processing
-  - shader
-  - engine
   - unity
-  - tool
+  - plugin
 ---
 
 # keijiro/KinoContour

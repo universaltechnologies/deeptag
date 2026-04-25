@@ -9,11 +9,8 @@ starred_at: "2020-05-12T03:28:50Z"
 tags:
   - graphic
   - rendering
-  - ray-tracing
   - path-tracing
   - framework
-  - gpu
-  - tutorial
 ---
 
 # gallickgunner/Yune

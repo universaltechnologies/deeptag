@@ -8,11 +8,8 @@ topics: [canvas, weapp, weixin, wxapp]
 starred_at: "2024-04-04T04:04:54Z"
 tags:
   - coding
-  - media
-  - image
-  - web
-  - ui
-  - plugin
+  - frontend
+  - library
 ---
 
 # jasondu/wxa-plugin-canvas

@@ -11,7 +11,7 @@ tags:
   - ai
   - agent
   - rust
-  - library
+  - framework
 ---
 
 # RightNow-AI/openfang

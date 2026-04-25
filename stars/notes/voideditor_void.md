@@ -8,10 +8,9 @@ topics: [chatgpt, claude, copilot, cursor, developer-tools, editor, llm, open-so
 starred_at: "2025-05-19T02:44:26Z"
 tags:
   - coding
+  - ide
   - ai
-  - llm
-  - tool
-  - editor
+  - agent
 ---
 
 # voideditor/void

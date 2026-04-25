@@ -9,10 +9,10 @@ starred_at: "2023-07-13T03:55:55Z"
 tags:
   - coding
   - engine
-  - game
-  - graphic
-  - platform
+  - custom
   - csharp
+  - cross-platform
+  - framework
 ---
 
 # stride3d/stride

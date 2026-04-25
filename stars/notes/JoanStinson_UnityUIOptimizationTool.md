@@ -10,9 +10,9 @@ tags:
   - coding
   - engine
   - unity
+  - optimization
   - ui
-  - plugin
-  - performance
+  - tool
 ---
 
 # JoanStinson/UnityUIOptimizationTool

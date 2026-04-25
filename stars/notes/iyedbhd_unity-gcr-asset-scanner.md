@@ -7,10 +7,9 @@ stars: 12
 topics: []
 starred_at: "2026-03-11T07:40:39Z"
 tags:
-  - tool
   - web
-  - unity
-  - javascript
+  - frontend
+  - tool
 ---
 
 # iyedbhd/unity-gcr-asset-scanner

@@ -7,11 +7,11 @@ stars: 1430
 topics: [apps, embedded, gamedev, scripting, virtual-machine, wasm, web]
 starred_at: "2024-01-12T02:15:19Z"
 tags:
-  - coding
   - language
+  - compiler
   - runtime
+  - library
   - tool
-  - cross-platform
 ---
 
 # fubark/cyber

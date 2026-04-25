@@ -7,14 +7,11 @@ stars: 1363
 topics: [editor, gui, hlsl, shader, shaderlab, tool, unity]
 starred_at: "2022-08-29T03:11:28Z"
 tags:
-  - graphic
-  - shader
-  - hlsl
   - coding
   - engine
   - unity
-  - tool
-  - plugin
+  - gui
+  - library
 ---
 
 # JasonMa0012/LWGUI

@@ -7,11 +7,9 @@ stars: 8230
 topics: [chatgpt, gpt-3, gpt3, openai]
 starred_at: "2022-12-08T13:10:43Z"
 tags:
-  - coding
   - ai
   - llm
   - awesome
-  - tool
 ---
 
 # humanloop/awesome-chatgpt

@@ -10,7 +10,6 @@ tags:
   - coding
   - engine
   - godot
-  - game
   - cross-platform
   - framework
 ---

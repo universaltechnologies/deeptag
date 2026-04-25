@@ -10,8 +10,8 @@ tags:
   - coding
   - game
   - ecs
-  - performance
-  - practice
+  - cpp
+  - library
 ---
 
 # SergeyMakeev/ecs

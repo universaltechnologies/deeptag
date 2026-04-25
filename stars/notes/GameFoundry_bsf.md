@@ -7,11 +7,11 @@ stars: 1763
 topics: [c-plus-plus, directx, game-engine-framework, gamedev, graphics, opengl, vulkan]
 starred_at: "2022-01-21T09:27:28Z"
 tags:
-  - graphic
-  - rendering
-  - vulkan
-  - directx
-  - opengl
+  - coding
+  - engine
+  - custom
+  - framework
+  - cross-platform
   - library
 ---
 

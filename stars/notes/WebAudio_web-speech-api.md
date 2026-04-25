@@ -9,8 +9,6 @@ starred_at: "2026-03-19T02:31:37Z"
 tags:
   - coding
   - web
-  - api
-  - voice
   - spec
 ---
 

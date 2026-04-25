@@ -7,9 +7,9 @@ stars: 4822
 topics: [pywebio]
 starred_at: "2024-07-05T03:54:20Z"
 tags:
-  - coding
   - web
-  - ui
+  - python
+  - gui
   - library
 ---
 

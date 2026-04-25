@@ -7,11 +7,10 @@ stars: 33671
 topics: [carbon-lang, compiler, cpp, experimental, experimental-language, language, programming-language]
 starred_at: "2023-02-23T18:19:20Z"
 tags:
-  - coding
   - language
   - compiler
-  - cpp
   - tool
+  - library
 ---
 
 # carbon-language/carbon-lang

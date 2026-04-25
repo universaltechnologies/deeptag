@@ -7,9 +7,8 @@ stars: 8
 topics: []
 starred_at: "2025-07-14T02:53:59Z"
 tags:
-  - coding
   - algorithm
-  - data
+  - c
   - tutorial
 ---
 

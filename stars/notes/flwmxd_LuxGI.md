@@ -7,12 +7,10 @@ stars: 336
 topics: [ddgi, denoising, game-engine, global-illumination, hybrid-renderer, opengl, ray-tracing, raytracing, realtime-raytracing, realtime-renderer, sdf, sdfddgi, sdfgi, svgf, vulkan]
 starred_at: "2023-01-06T05:20:15Z"
 tags:
-  - graphic
-  - rendering
-  - ray-tracing
-  - lighting
   - gi
-  - vulkan
+  - ray-tracing
+  - rhi
+  - library
 ---
 
 # flwmxd/LuxGI

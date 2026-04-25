@@ -11,7 +11,6 @@ tags:
   - engine
   - unity
   - framework
-  - gui
 ---
 
 # alelievr/NodeGraphProcessor

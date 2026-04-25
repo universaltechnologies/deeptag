@@ -8,11 +8,10 @@ topics: [embedded, google, hacktoberfest, ieee-802154, internet-of-things, iot, 
 starred_at: "2016-06-28T13:48:00Z"
 tags:
   - coding
-  - networking
+  - network
   - protocol
   - embedded
   - library
-  - cross-platform
 ---
 
 # openthread/openthread

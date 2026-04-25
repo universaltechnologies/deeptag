@@ -7,9 +7,11 @@ stars: 1232
 topics: [atlas, phaser, pixi, sprites, spritesheet, texture-packer, texturepacker]
 starred_at: "2025-10-16T09:36:18Z"
 tags:
+  - coding
+  - electron
+  - image-processing
+  - cross-platform
   - tool
-  - graphic
-  - texture
 ---
 
 # odrick/free-tex-packer

@@ -7,10 +7,10 @@ stars: 1523
 topics: [cython, dear-imgui, gamedev, opengl, python, python-bindings]
 starred_at: "2023-02-23T17:17:43Z"
 tags:
-  - coding
   - gui
-  - library
   - binding
+  - python
+  - library
 ---
 
 # pyimgui/pyimgui

@@ -11,8 +11,9 @@ tags:
   - engine
   - unity
   - mobile
+  - logging
+  - debug
   - plugin
-  - tool
 ---
 
 # SpaceMadness/lunar-unity-console

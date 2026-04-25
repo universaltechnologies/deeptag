@@ -7,9 +7,10 @@ stars: 10514
 topics: [http-proxy, rust, security, shadowsocks, socks4, socks5, transparent-proxy]
 starred_at: "2026-04-05T21:20:15Z"
 tags:
-  - coding
-  - networking
-  - proxy
+  - tools
+  - network
+  - security
+  - tool
 ---
 
 # shadowsocks/shadowsocks-rust

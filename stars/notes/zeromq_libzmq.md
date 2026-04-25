@@ -7,12 +7,8 @@ stars: 10850
 topics: [concurrency, libzmq, messaging, network, networking, pubsub, pushpull, stream, zeromq, zmq, zmtp]
 starred_at: "2020-06-11T12:12:24Z"
 tags:
-  - coding
-  - networking
-  - protocol
-  - concurrency
+  - network
   - library
-  - cross-platform
 ---
 
 # zeromq/libzmq

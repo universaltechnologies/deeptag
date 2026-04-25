@@ -7,9 +7,8 @@ stars: 59944
 topics: []
 starred_at: "2023-10-30T06:03:56Z"
 tags:
-  - coding
   - android
-  - tools
+  - framework
 ---
 
 # topjohnwu/Magisk

@@ -9,9 +9,8 @@ starred_at: "2024-12-12T16:55:22Z"
 tags:
   - coding
   - systems
-  - gpu
   - cuda
-  - algorithm
+  - library
 ---
 
 # johnarobinson77/KdTreeGPU

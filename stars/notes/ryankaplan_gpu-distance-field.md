@@ -7,8 +7,10 @@ stars: 121
 topics: []
 starred_at: "2026-03-17T11:53:26Z"
 tags:
-  - graphic
+  - 2d
+  - rendering
   - webgl
+  - typescript
   - library
 ---
 

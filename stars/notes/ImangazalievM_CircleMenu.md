@@ -7,7 +7,6 @@ stars: 1198
 topics: [android, circlemenu, floatingmenu, menu]
 starred_at: "2023-02-17T05:22:02Z"
 tags:
-  - coding
   - android
   - gui
   - library

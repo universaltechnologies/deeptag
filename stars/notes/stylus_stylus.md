@@ -8,9 +8,9 @@ topics: [css, preprocessor, styl, stylus]
 starred_at: "2021-05-13T18:08:58Z"
 tags:
   - coding
-  - web
   - css
-  - library
+  - language
+  - tool
 ---
 
 # stylus/stylus

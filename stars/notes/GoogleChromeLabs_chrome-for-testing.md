@@ -7,11 +7,9 @@ stars: 1187
 topics: []
 starred_at: "2026-03-23T05:54:47Z"
 tags:
-  - tools
-  - web
-  - json
-  - api
-  - automation
+  - browser
+  - test
+  - tool
 ---
 
 # GoogleChromeLabs/chrome-for-testing

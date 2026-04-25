@@ -8,7 +8,9 @@ topics: [kms, office, slmgr, vlmcsd, windows]
 starred_at: "2025-09-23T14:45:21Z"
 tags:
   - tools
+  - office
   - windows
+  - tool
 ---
 
 # netnr/kms

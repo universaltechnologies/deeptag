@@ -8,9 +8,8 @@ topics: [binary, c-sharp, protocol, serialization, serializer]
 starred_at: "2024-03-04T08:13:23Z"
 tags:
   - coding
-  - dotnet
   - serialization
-  - library
+  - dotnet
   - framework
 ---
 

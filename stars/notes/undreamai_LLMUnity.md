@@ -7,12 +7,10 @@ stars: 1583
 topics: [ai, character, chat, chatbot, conversational-ai, dialogue, game-development, gamedev, generative-ai, llama, llama-cpp, llm, npc, rag, unity, unity2d, unity3d]
 starred_at: "2024-03-08T15:22:11Z"
 tags:
-  - coding
-  - engine
-  - unity
   - ai
   - llm
-  - library
+  - unity
+  - plugin
 ---
 
 # undreamai/LLMUnity

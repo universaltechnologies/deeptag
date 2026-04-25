@@ -7,10 +7,9 @@ stars: 505
 topics: [3d, deep-learning, octree, python, torch]
 starred_at: "2019-06-14T07:59:06Z"
 tags:
-  - coding
   - ai
-  - deep-learning
   - cv
+  - deep-learning
   - library
 ---
 

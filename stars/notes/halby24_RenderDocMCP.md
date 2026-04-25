@@ -10,8 +10,6 @@ tags:
   - coding
   - ai
   - mcp
-  - graphic
-  - debug
   - tool
 ---
 

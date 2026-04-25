@@ -7,11 +7,10 @@ stars: 8683
 topics: []
 starred_at: "2015-11-17T03:35:44Z"
 tags:
-  - coding
   - algorithm
-  - game
-  - library
+  - gameplay
   - javascript
+  - library
 ---
 
 # qiao/PathFinding.js

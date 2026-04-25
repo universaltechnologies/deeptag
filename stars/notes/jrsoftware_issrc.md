@@ -8,6 +8,7 @@ topics: [inno-setup, installer]
 starred_at: "2018-11-27T05:35:07Z"
 tags:
   - coding
+  - build
   - windows
   - tool
 ---

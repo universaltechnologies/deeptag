@@ -7,10 +7,9 @@ stars: 25318
 topics: [coding-font, font, ligatures, monospace, monospace-font, opentype, programming-font, programming-ligatures, typeface, typography, variable-font]
 starred_at: "2025-03-19T03:39:10Z"
 tags:
-  - coding
-  - media
+  - graphic
   - font
-  - tool
+  - awesome
 ---
 
 # subframe7536/maple-font

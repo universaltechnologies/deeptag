@@ -9,10 +9,10 @@ starred_at: "2017-03-07T06:25:10Z"
 tags:
   - coding
   - ai
+  - deep-learning
   - ml
-  - data
-  - tutorial
   - awesome
+  - tutorial
 ---
 
 # donnemartin/data-science-ipython-notebooks

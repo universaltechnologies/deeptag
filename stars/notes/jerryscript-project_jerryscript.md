@@ -7,8 +7,7 @@ stars: 7388
 topics: [internet-of-things, iot, javascript, javascript-engine, jerryscript, runtime]
 starred_at: "2017-03-27T13:15:07Z"
 tags:
-  - coding
-  - language
+  - javascript
   - runtime
   - embedded
   - library

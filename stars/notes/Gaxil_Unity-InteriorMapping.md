@@ -10,8 +10,8 @@ tags:
   - coding
   - engine
   - unity
-  - graphic
   - shader
+  - tutorial
 ---
 
 # Gaxil/Unity-InteriorMapping

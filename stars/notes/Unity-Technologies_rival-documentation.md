@@ -10,7 +10,6 @@ tags:
   - coding
   - engine
   - unity
-  - game
 ---
 
 # Unity-Technologies/rival-documentation

@@ -7,9 +7,7 @@ stars: 14253
 topics: [awesome, cloud-computing, cloud-native, microservices, microservices-architecture]
 starred_at: "2022-03-09T16:33:02Z"
 tags:
-  - coding
   - architecture
-  - distributed
   - awesome
 ---
 

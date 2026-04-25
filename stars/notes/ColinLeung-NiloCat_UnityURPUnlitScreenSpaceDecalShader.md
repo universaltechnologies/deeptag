@@ -9,11 +9,9 @@ starred_at: "2023-03-17T21:25:48Z"
 tags:
   - graphic
   - shader
-  - coding
-  - engine
   - unity
   - urp
-  - plugin
+  - library
 ---
 
 # ColinLeung-NiloCat/UnityURPUnlitScreenSpaceDecalShader

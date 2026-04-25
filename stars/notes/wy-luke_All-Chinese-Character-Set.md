@@ -8,11 +8,8 @@ topics: [character-set, chinese, chinese-character, chinese-characters, chinese-
 starred_at: "2025-10-21T02:54:22Z"
 tags:
   - coding
-  - media
-  - font
-  - engine
-  - unity
-  - tool
+  - data
+  - awesome
 ---
 
 # wy-luke/All-Chinese-Character-Set

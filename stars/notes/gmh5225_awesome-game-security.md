@@ -8,11 +8,9 @@ topics: [android, anti, anticheat, antidebug, awesome, blockchain, cheat, debug,
 starred_at: "2023-03-30T03:33:40Z"
 tags:
   - coding
-  - game
+  - reverse
   - security
   - awesome
-  - android
-  - windows
 ---
 
 # gmh5225/awesome-game-security

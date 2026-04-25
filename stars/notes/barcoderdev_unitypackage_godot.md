@@ -10,9 +10,7 @@ tags:
   - coding
   - engine
   - godot
-  - tool
   - plugin
-  - gltf
 ---
 
 # barcoderdev/unitypackage_godot

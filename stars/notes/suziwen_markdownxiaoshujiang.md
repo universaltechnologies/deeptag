@@ -7,10 +7,9 @@ stars: 1715
 topics: [drawio, dropbox, editor, evernote, knowledge-management, markdown, mindmap, notes, notes-app, notes-taking-app, pkms, wiz]
 starred_at: "2017-05-03T14:32:43Z"
 tags:
-  - coding
-  - editor
-  - markdown
-  - tool
+  - tools
+  - office
+  - cross-platform
 ---
 
 # suziwen/markdownxiaoshujiang

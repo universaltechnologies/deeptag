@@ -7,11 +7,12 @@ stars: 4354
 topics: [angular, bacnet, dashboard, hmi, iot, modbus, mqtt, nodejs, opc-ua, opcua, plc, s7, scada, siemens, svg-editor, web-editor, web-hmi, web-scada]
 starred_at: "2025-10-11T12:31:43Z"
 tags:
-  - tools
-  - coding
   - web
-  - database
+  - frontend
+  - backend
+  - server
   - cross-platform
+  - framework
 ---
 
 # frangoteam/FUXA

@@ -7,9 +7,7 @@ stars: 15747
 topics: [ai, gemini, github, ollama, open-source, openai, openrouter, self-hosted, wiki]
 starred_at: "2025-05-06T02:56:35Z"
 tags:
-  - coding
   - ai
-  - llm
   - web
   - tool
 ---

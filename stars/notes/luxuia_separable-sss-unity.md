@@ -9,8 +9,9 @@ starred_at: "2025-12-05T11:08:46Z"
 tags:
   - graphic
   - post-processing
-  - engine
+  - shader
   - unity
+  - library
 ---
 
 # luxuia/separable-sss-unity

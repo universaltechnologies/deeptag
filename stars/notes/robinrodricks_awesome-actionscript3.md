@@ -8,6 +8,7 @@ topics: [actionscript, actionscript3, adobe-air, adobe-flash, adobe-flash-player
 starred_at: "2024-11-14T03:35:48Z"
 tags:
   - coding
+  - language
   - awesome
 ---
 

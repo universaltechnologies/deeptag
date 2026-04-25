@@ -10,9 +10,9 @@ tags:
   - coding
   - engine
   - unity
-  - plugin
-  - mobile
   - android
+  - ios
+  - plugin
 ---
 
 # Agasper/unity-android-notifications

@@ -9,8 +9,6 @@ starred_at: "2023-12-20T10:37:14Z"
 tags:
   - coding
   - dotnet
-  - data
-  - sql
   - library
 ---
 

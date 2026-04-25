@@ -10,8 +10,6 @@ tags:
   - coding
   - engine
   - tool
-  - cpp
-  - gui
 ---
 
 # andr3wmac/Torque6Editor

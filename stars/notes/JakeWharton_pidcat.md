@@ -7,11 +7,9 @@ stars: 4938
 topics: []
 starred_at: "2022-10-13T10:45:03Z"
 tags:
-  - coding
   - android
-  - cli
+  - debug
   - tool
-  - python
 ---
 
 # JakeWharton/pidcat

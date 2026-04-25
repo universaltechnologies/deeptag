@@ -7,12 +7,9 @@ stars: 154
 topics: []
 starred_at: "2026-03-02T17:59:48Z"
 tags:
-  - coding
   - ai
   - diffusion
-  - media
-  - image
-  - font
+  - library
 ---
 
 # kaonashi-tyc/zi2zi-JiT

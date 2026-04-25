@@ -13,6 +13,7 @@ tags:
   - cpp
   - header-only
   - library
+  - performance
 ---
 
 # Gronis/OpenEcs

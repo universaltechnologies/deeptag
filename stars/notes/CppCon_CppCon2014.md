@@ -7,8 +7,9 @@ stars: 2301
 topics: []
 starred_at: "2017-04-15T06:41:07Z"
 tags:
+  - coding
   - cpp
-  - awesome
+  - practice
 ---
 
 # CppCon/CppCon2014

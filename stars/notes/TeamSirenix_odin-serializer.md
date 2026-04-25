@@ -7,11 +7,9 @@ stars: 1869
 topics: []
 starred_at: "2023-10-04T07:56:37Z"
 tags:
-  - coding
   - serialization
   - unity
   - library
-  - performance
 ---
 
 # TeamSirenix/odin-serializer

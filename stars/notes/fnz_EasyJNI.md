@@ -8,10 +8,8 @@ topics: []
 starred_at: "2016-03-11T04:14:53Z"
 tags:
   - coding
-  - cpp
-  - java
-  - library
   - ffi
+  - library
 ---
 
 # fnz/EasyJNI

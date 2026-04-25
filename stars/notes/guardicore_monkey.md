@@ -8,10 +8,9 @@ topics: [adversary-emulation, infection-monkey, penetration-testing, security-au
 starred_at: "2018-06-14T09:19:42Z"
 tags:
   - tools
+  - network
   - security
-  - networking
   - tool
-  - cross-platform
 ---
 
 # guardicore/monkey

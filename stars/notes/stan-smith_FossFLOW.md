@@ -7,9 +7,8 @@ stars: 19647
 topics: [devops, infra, infrastructure]
 starred_at: "2025-11-04T23:41:03Z"
 tags:
-  - coding
-  - web
   - tools
+  - productivity
   - tool
 ---
 

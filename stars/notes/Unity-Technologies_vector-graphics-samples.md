@@ -11,6 +11,7 @@ tags:
   - engine
   - unity
   - svg
+  - tutorial
 ---
 
 # Unity-Technologies/vector-graphics-samples

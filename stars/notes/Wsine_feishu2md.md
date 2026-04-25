@@ -7,9 +7,8 @@ stars: 2113
 topics: [feishu, lark, markdown]
 starred_at: "2025-10-27T06:12:22Z"
 tags:
-  - coding
-  - web
-  - api
+  - cli
+  - markdown
   - tool
 ---
 

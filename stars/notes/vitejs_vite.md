@@ -7,8 +7,9 @@ stars: 80008
 topics: [build-tool, dev-server, frontend, hmr, vite]
 starred_at: "2026-04-07T16:38:37Z"
 tags:
-  - coding
   - web
+  - frontend
+  - build
   - tool
 ---
 

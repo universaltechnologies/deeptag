@@ -7,10 +7,9 @@ stars: 7637
 topics: [ai, analytics, claude, claude-code, claude-usage, limits, monitoring, terminal, usage-tracking]
 starred_at: "2026-03-11T11:24:22Z"
 tags:
-  - tools
   - coding
-  - monitoring
   - ai
+  - tokens
   - tool
 ---
 

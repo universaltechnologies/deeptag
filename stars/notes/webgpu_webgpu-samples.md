@@ -8,7 +8,6 @@ topics: []
 starred_at: "2023-04-07T12:24:10Z"
 tags:
   - graphic
-  - platform
   - webgpu
   - tutorial
 ---

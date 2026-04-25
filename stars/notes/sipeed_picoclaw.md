@@ -7,12 +7,9 @@ stars: 28343
 topics: []
 starred_at: "2026-03-17T20:10:31Z"
 tags:
-  - coding
   - ai
-  - llm
-  - inference
-  - embedded
-  - library
+  - agent
+  - tool
 ---
 
 # sipeed/picoclaw

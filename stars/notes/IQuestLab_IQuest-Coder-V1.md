@@ -7,7 +7,6 @@ stars: 1379
 topics: []
 starred_at: "2026-01-02T03:59:04Z"
 tags:
-  - coding
   - ai
   - llm
   - agent

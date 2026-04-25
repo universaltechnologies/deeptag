@@ -9,7 +9,6 @@ starred_at: "2018-05-28T07:33:51Z"
 tags:
   - coding
   - ide
-  - csharp
   - plugin
 ---
 

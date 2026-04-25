@@ -7,11 +7,12 @@ stars: 60755
 topics: [awesome-list, design-md, design-system, design-tokens, figma, google-stitch, landing-page, vibe-coding, vibe-design]
 starred_at: "2026-04-12T04:24:39Z"
 tags:
-  - coding
   - ai
-  - awesome
+  - prompt
+  - web
+  - frontend
   - ui
-  - markdown
+  - awesome
 ---
 
 # VoltAgent/awesome-design-md

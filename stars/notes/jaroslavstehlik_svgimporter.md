@@ -10,8 +10,9 @@ tags:
   - coding
   - engine
   - unity
+  - svg
+  - mesh
   - plugin
-  - graphic
 ---
 
 # jaroslavstehlik/svgimporter

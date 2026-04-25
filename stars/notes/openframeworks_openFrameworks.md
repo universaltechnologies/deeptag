@@ -7,10 +7,10 @@ stars: 10362
 topics: [android, audio, computer-vision, creative-coding, emscripten, graphics, ios, linux, opencv, openframeworks, opengl, osx, raspberry-pi, video, windows]
 starred_at: "2016-06-02T16:26:22Z"
 tags:
-  - coding
-  - graphic
-  - media
+  - framework
+  - cpp
   - cross-platform
+  - library
 ---
 
 # openframeworks/openFrameworks

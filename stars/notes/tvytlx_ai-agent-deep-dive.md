@@ -7,10 +7,10 @@ stars: 5570
 topics: []
 starred_at: "2026-04-03T08:07:49Z"
 tags:
-  - coding
   - ai
   - agent
   - python
+  - book
   - tutorial
 ---
 

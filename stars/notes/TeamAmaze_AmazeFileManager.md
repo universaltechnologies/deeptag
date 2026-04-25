@@ -7,10 +7,8 @@ stars: 6117
 topics: [android, fdroid, filemanager, frontend, java, kotlin, material-design, mobile, mvvm, playstore, rxjava]
 starred_at: "2023-12-30T07:48:02Z"
 tags:
-  - coding
+  - tools
   - android
-  - kotlin
-  - gui
   - tool
 ---
 

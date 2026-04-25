@@ -7,11 +7,9 @@ stars: 4397
 topics: []
 starred_at: "2023-03-30T03:53:52Z"
 tags:
-  - coding
-  - engine
   - unity
+  - package
   - tool
-  - plugin
 ---
 
 # GlitchEnzo/NuGetForUnity

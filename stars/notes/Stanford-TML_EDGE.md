@@ -7,10 +7,9 @@ stars: 557
 topics: [animation, dance-generation, diffusion-models, pytorch]
 starred_at: "2023-05-04T03:35:31Z"
 tags:
-  - coding
   - ai
   - diffusion
-  - animation
+  - library
 ---
 
 # Stanford-TML/EDGE

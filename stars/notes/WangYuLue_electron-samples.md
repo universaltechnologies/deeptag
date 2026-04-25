@@ -8,8 +8,10 @@ topics: []
 starred_at: "2021-05-16T03:17:15Z"
 tags:
   - coding
-  - tutorial
   - electron
+  - cross-platform
+  - desktop
+  - tutorial
 ---
 
 # WangYuLue/electron-samples

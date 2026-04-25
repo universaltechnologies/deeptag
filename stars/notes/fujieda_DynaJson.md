@@ -10,9 +10,9 @@ tags:
   - coding
   - data
   - json
+  - language
+  - csharp
   - library
-  - performance
-  - dotnet
 ---
 
 # fujieda/DynaJson

@@ -9,9 +9,8 @@ starred_at: "2024-04-15T14:07:14Z"
 tags:
   - coding
   - benchmark
-  - algorithm
-  - unity
   - csharp
+  - library
 ---
 
 # XJDHDR/BurstBenchmarks

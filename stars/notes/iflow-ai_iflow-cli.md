@@ -7,11 +7,10 @@ stars: 5136
 topics: []
 starred_at: "2025-12-04T09:15:55Z"
 tags:
-  - coding
   - ai
+  - agent
   - cli
   - tool
-  - automation
 ---
 
 # iflow-ai/iflow-cli

@@ -7,12 +7,11 @@ stars: 12557
 topics: []
 starred_at: "2026-01-22T15:49:46Z"
 tags:
-  - coding
   - ai
   - inference
-  - performance
-  - library
   - cuda
+  - library
+  - performance
 ---
 
 # deepseek-ai/FlashMLA

@@ -7,10 +7,11 @@ stars: 685
 topics: [android, arm, graphics, hwcpipe, mobile, moltenvk, performance, vulkan]
 starred_at: "2022-10-11T11:32:18Z"
 tags:
-  - graphic
-  - platform
+  - coding
+  - engine
+  - api
+  - vulkan
   - mobile
-  - tutorial
   - practice
 ---
 

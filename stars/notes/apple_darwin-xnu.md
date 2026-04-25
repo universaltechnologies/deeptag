@@ -10,6 +10,8 @@ tags:
   - coding
   - systems
   - kernel
+  - c
+  - cpp
 ---
 
 # apple/darwin-xnu

@@ -8,10 +8,8 @@ topics: [c, cmake, cmake-examples, cmake-recipes, cpp11, fortran]
 starred_at: "2022-05-12T19:10:27Z"
 tags:
   - coding
-  - cpp
   - build
   - book
-  - practice
 ---
 
 # dev-cafe/cmake-cookbook

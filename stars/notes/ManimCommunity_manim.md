@@ -7,10 +7,9 @@ stars: 37860
 topics: [animations, hacktoberfest, manim, math, python]
 starred_at: "2021-11-10T05:09:53Z"
 tags:
-  - coding
-  - media
+  - graphic
   - animation
-  - math
+  - python
   - framework
 ---
 

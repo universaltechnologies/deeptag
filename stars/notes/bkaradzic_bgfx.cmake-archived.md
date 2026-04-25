@@ -8,8 +8,8 @@ topics: [bgfx, cmake]
 starred_at: "2021-11-14T15:47:17Z"
 tags:
   - coding
-  - graphic
   - build
+  - cross-platform
 ---
 
 # bkaradzic/bgfx.cmake-archived

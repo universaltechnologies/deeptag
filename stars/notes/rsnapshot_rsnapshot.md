@@ -7,8 +7,7 @@ stars: 3613
 topics: [backup, perl, rsnapshot, rsync]
 starred_at: "2022-03-13T17:19:11Z"
 tags:
-  - coding
-  - systems
+  - filesystem
   - tool
 ---
 

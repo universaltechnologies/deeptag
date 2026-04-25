@@ -7,8 +7,8 @@ stars: 4080
 topics: [google-material, javascript, material-design, material-ui, notifications, reactjs, redux, snackbar, stack, toast, toast-notifications]
 starred_at: "2025-07-25T08:44:05Z"
 tags:
-  - coding
   - web
+  - frontend
   - ui
   - library
 ---

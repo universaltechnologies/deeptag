@@ -7,10 +7,10 @@ stars: 25741
 topics: []
 starred_at: "2023-05-17T02:25:19Z"
 tags:
-  - coding
   - ai
-  - llm
   - cv
+  - llm
+  - library
 ---
 
 # Vision-CAIR/MiniGPT-4

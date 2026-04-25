@@ -7,11 +7,9 @@ stars: 103277
 topics: [ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, clawdbot, codex, hermes, hermes-agent, llm, moltbot, nous-research, openai, openclaw]
 starred_at: "2026-03-10T06:10:42Z"
 tags:
-  - coding
   - ai
-  - llm
   - agent
-  - library
+  - framework
 ---
 
 # NousResearch/hermes-agent

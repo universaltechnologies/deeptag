@@ -9,8 +9,6 @@ starred_at: "2017-02-03T09:52:43Z"
 tags:
   - coding
   - engine
-  - graphic
-  - platform
   - cross-platform
   - framework
 ---

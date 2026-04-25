@@ -7,10 +7,9 @@ stars: 23470
 topics: [browser, chromium]
 starred_at: "2023-11-09T01:54:39Z"
 tags:
-  - coding
-  - cpp
+  - tools
   - browser
-  - cross-platform
+  - tool
 ---
 
 # chromium/chromium

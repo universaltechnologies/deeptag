@@ -8,8 +8,10 @@ topics: [diagram-editor, electron-app, graphics, javascript-applications]
 starred_at: "2025-10-31T07:43:26Z"
 tags:
   - tools
-  - coding
+  - office
   - electron
+  - cross-platform
+  - tool
 ---
 
 # jgraph/drawio-desktop

@@ -7,15 +7,11 @@ stars: 256
 topics: []
 starred_at: "2023-05-05T03:16:51Z"
 tags:
-  - coding
-  - engine
-  - unity
-  - urp
   - graphic
   - shader
-  - hlsl
   - vfx
-  - tool
+  - urp
+  - library
 ---
 
 # peeweek/Unity-URP-SmokeLighting

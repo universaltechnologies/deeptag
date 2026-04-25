@@ -7,11 +7,11 @@ stars: 19719
 topics: [command-line, developer-tools, linux, macos, productivity, terminal, terminal-emulators, windows]
 starred_at: "2025-12-20T11:33:16Z"
 tags:
-  - tools
-  - coding
-  - ai
   - terminal
+  - ai
+  - llm
   - cross-platform
+  - tool
 ---
 
 # wavetermdev/waveterm

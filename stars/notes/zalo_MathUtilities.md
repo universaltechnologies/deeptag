@@ -7,11 +7,9 @@ stars: 4724
 topics: [camera, kalman-filter, math, motion, neat, physics, unity, unity3d, utilities]
 starred_at: "2020-09-27T10:32:15Z"
 tags:
-  - coding
-  - engine
+  - mesh
+  - raymarching
   - unity
-  - math
-  - physics
   - library
 ---
 

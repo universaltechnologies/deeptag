@@ -7,12 +7,9 @@ stars: 10906
 topics: [cublas, cuda, cudnn, cupy, curand, cusolver, cusparse, cusparselt, cutensor, gpu, nccl, numpy, nvrtc, nvtx, python, rocm, scipy, tensor]
 starred_at: "2023-03-15T02:54:41Z"
 tags:
-  - coding
-  - systems
-  - gpu
   - cuda
+  - python
   - library
-  - performance
 ---
 
 # cupy/cupy

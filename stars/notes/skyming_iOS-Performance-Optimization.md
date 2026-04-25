@@ -7,11 +7,9 @@ stars: 4864
 topics: []
 starred_at: "2023-03-20T08:09:33Z"
 tags:
-  - coding
-  - optimization
   - ios
-  - mobile
-  - profiler
+  - optimization
+  - book
   - practice
 ---
 

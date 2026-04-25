@@ -8,8 +8,6 @@ topics: []
 starred_at: "2021-04-19T11:57:02Z"
 tags:
   - coding
-  - tools
-  - compression
   - android
   - python
   - tool

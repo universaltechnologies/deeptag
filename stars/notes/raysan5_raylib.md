@@ -8,10 +8,9 @@ topics: [android, c, embedded, game-development, game-engine, gamedev, graphics,
 starred_at: "2017-02-07T05:53:23Z"
 tags:
   - coding
-  - engine
+  - game
   - library
   - cross-platform
-  - graphic
 ---
 
 # raysan5/raylib

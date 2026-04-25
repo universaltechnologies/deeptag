@@ -9,10 +9,9 @@ starred_at: "2017-07-20T01:52:15Z"
 tags:
   - graphic
   - rendering
-  - vfx
+  - path-tracing
+  - gi
   - library
-  - cpp
-  - cross-platform
 ---
 
 # appleseedhq/appleseed

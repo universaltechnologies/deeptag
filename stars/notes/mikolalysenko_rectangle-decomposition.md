@@ -9,7 +9,6 @@ starred_at: "2017-03-10T01:56:37Z"
 tags:
   - coding
   - algorithm
-  - geometry
   - library
 ---
 

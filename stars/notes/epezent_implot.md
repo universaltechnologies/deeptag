@@ -9,9 +9,7 @@ starred_at: "2023-02-23T17:11:41Z"
 tags:
   - coding
   - visualization
-  - gui
   - library
-  - cpp
 ---
 
 # epezent/implot

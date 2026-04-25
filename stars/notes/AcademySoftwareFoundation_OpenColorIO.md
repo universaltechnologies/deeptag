@@ -9,9 +9,6 @@ starred_at: "2024-01-29T06:25:00Z"
 tags:
   - graphic
   - color
-  - cpp
-  - library
-  - cross-platform
   - framework
 ---
 

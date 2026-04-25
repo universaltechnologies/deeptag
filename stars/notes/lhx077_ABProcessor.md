@@ -11,8 +11,6 @@ tags:
   - engine
   - unity
   - library
-  - dotnet
-  - cross-platform
 ---
 
 # lhx077/ABProcessor

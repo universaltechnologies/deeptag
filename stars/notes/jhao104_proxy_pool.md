@@ -7,10 +7,10 @@ stars: 23299
 topics: [crawler, http, proxy, redis, spider]
 starred_at: "2017-06-09T05:59:50Z"
 tags:
-  - coding
-  - networking
-  - web
-  - library
+  - network
+  - proxy
+  - python
+  - tool
 ---
 
 # jhao104/proxy_pool

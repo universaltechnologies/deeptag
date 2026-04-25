@@ -7,9 +7,9 @@ stars: 12245
 topics: [3d, javascript, maps, priority, webgl]
 starred_at: "2023-03-29T03:11:46Z"
 tags:
-  - graphic
-  - webgl
   - web
+  - frontend
+  - webgl
   - library
 ---
 

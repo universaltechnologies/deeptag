@@ -9,8 +9,8 @@ starred_at: "2026-03-19T18:20:06Z"
 tags:
   - coding
   - reverse
-  - tools
   - cross-platform
+  - tool
 ---
 
 # horsicq/Detect-It-Easy

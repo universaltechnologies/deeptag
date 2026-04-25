@@ -11,7 +11,6 @@ tags:
   - engine
   - unity
   - library
-  - plugin
 ---
 
 # dbrizov/NaughtyAttributes

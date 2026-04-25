@@ -10,10 +10,8 @@ tags:
   - coding
   - engine
   - unity
-  - graphic
-  - geometry
-  - tool
   - plugin
+  - tool
 ---
 
 # SinlessDevil/ColliderMeshTool

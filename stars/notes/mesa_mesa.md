@@ -7,10 +7,10 @@ stars: 3601
 topics: [agent-based-modeling, agent-based-simulation, complex-systems, complexity-analysis, gis, mesa, modeling-agents, simulation, simulation-environment, simulation-framework, spatial-models]
 starred_at: "2022-11-07T13:06:38Z"
 tags:
-  - coding
   - ai
   - agent
-  - library
+  - simulation
+  - python
   - framework
 ---
 

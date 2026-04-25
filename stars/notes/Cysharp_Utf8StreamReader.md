@@ -7,10 +7,9 @@ stars: 243
 topics: []
 starred_at: "2024-03-27T12:04:44Z"
 tags:
-  - coding
-  - performance
-  - library
   - dotnet
+  - library
+  - performance
 ---
 
 # Cysharp/Utf8StreamReader

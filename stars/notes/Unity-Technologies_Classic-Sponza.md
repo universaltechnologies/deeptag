@@ -9,10 +9,9 @@ starred_at: "2022-12-09T14:36:17Z"
 tags:
   - graphic
   - scene
-  - lighting
-  - gi
+  - 3d
+  - pbr
   - unity
-  - practice
 ---
 
 # Unity-Technologies/Classic-Sponza

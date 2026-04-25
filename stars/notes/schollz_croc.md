@@ -8,11 +8,9 @@ topics: [data-transfer, file-sharing, golang, pake, peer-to-peer, tcp, transfer]
 starred_at: "2025-12-17T08:46:05Z"
 tags:
   - tools
-  - coding
-  - networking
-  - encryption
-  - tool
+  - network
   - cross-platform
+  - tool
 ---
 
 # schollz/croc

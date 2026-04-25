@@ -7,10 +7,10 @@ stars: 27517
 topics: [ai, diagrams, productivity]
 starred_at: "2025-12-25T13:32:31Z"
 tags:
-  - coding
   - web
+  - frontend
   - ai
-  - mcp
+  - llm
   - tool
 ---
 

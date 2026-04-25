@@ -7,11 +7,9 @@ stars: 3750
 topics: [ai-agents, automation, openclaw, orchestration]
 starred_at: "2026-03-06T08:49:25Z"
 tags:
-  - coding
   - ai
   - agent
-  - web
-  - tool
+  - framework
 ---
 
 # abhi1693/openclaw-mission-control

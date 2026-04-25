@@ -8,7 +8,6 @@ topics: [blog, china, rss]
 starred_at: "2025-06-03T15:45:46Z"
 tags:
   - awesome
-  - web
 ---
 
 # timqian/chinese-independent-blogs

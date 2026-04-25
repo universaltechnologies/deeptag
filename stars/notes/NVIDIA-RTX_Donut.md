@@ -7,12 +7,10 @@ stars: 441
 topics: []
 starred_at: "2022-10-14T17:55:44Z"
 tags:
-  - graphic
-  - rendering
-  - pipeline
-  - rhi
+  - coding
+  - engine
+  - custom
   - framework
-  - cpp
 ---
 
 # NVIDIA-RTX/Donut

@@ -10,8 +10,9 @@ tags:
   - coding
   - engine
   - unity
+  - network
   - game
-  - networking
+  - tutorial
 ---
 
 # Unity-Technologies/com.unity.multiplayer.samples.coop

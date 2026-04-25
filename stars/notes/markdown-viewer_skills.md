@@ -7,11 +7,12 @@ stars: 1895
 topics: []
 starred_at: "2026-04-19T19:35:34Z"
 tags:
-  - coding
   - ai
-  - agent
-  - tool
+  - prompt
+  - skills
+  - markdown
   - visualization
+  - library
 ---
 
 # markdown-viewer/skills

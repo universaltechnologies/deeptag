@@ -10,7 +10,6 @@ tags:
   - graphic
   - 2d
   - library
-  - cross-platform
 ---
 
 # google/skia

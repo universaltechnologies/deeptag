@@ -7,9 +7,9 @@ stars: 17910
 topics: [codebook, codeformer, face-enhancement, face-restoration, pytorch, restoration, super-resolution, vqgan]
 starred_at: "2023-11-21T03:49:33Z"
 tags:
-  - coding
   - ai
   - cv
+  - deep-learning
   - library
 ---
 

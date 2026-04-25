@@ -8,8 +8,9 @@ topics: []
 starred_at: "2016-12-20T08:10:20Z"
 tags:
   - coding
-  - benchmark
   - cpp
+  - benchmark
+  - library
 ---
 
 # NoAvailableAlias/signal-slot-benchmarks

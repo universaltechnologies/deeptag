@@ -7,9 +7,8 @@ stars: 7393
 topics: [comfyui, stable-diffusion]
 starred_at: "2024-03-18T02:58:59Z"
 tags:
-  - coding
   - ai
-  - diffusion
+  - workflow
   - awesome
 ---
 

@@ -8,9 +8,7 @@ topics: []
 starred_at: "2019-04-02T02:35:22Z"
 tags:
   - graphic
-  - scene
   - mesh
-  - geometry
   - tool
 ---
 

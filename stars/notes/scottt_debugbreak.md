@@ -11,7 +11,6 @@ tags:
   - debug
   - header-only
   - library
-  - cross-platform
 ---
 
 # scottt/debugbreak

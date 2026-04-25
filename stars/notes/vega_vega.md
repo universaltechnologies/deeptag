@@ -8,9 +8,7 @@ topics: [canvas, d3, svg, vega, visualization, visualization-grammar]
 starred_at: "2025-06-05T07:11:48Z"
 tags:
   - coding
-  - web
   - visualization
-  - svg
   - library
 ---
 

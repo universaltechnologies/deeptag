@@ -8,11 +8,10 @@ topics: [chain, cli, fe-workflow, lerna, loader, mocks, rollup, rollup-box, star
 starred_at: "2024-11-29T08:33:28Z"
 tags:
   - coding
-  - web
-  - frontend
-  - automation
-  - tool
+  - cli
+  - workflow
   - framework
+  - tool
 ---
 
 # luoxue-victor/workflow

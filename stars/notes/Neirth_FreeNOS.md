@@ -7,11 +7,9 @@ stars: 2040
 topics: []
 starred_at: "2023-09-26T17:59:34Z"
 tags:
-  - coding
-  - systems
   - kernel
   - cpp
-  - embedded
+  - tutorial
 ---
 
 # Neirth/FreeNOS

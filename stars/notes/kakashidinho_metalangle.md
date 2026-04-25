@@ -7,11 +7,10 @@ stars: 498
 topics: [angle, mac-catalyst, metal, opengl, opengl-es, opengles, translation]
 starred_at: "2024-12-03T10:08:18Z"
 tags:
-  - graphic
-  - platform
+  - rendering
+  - metal
   - opengl
   - library
-  - cross-platform
 ---
 
 # kakashidinho/metalangle

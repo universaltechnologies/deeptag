@@ -7,12 +7,9 @@ stars: 12738
 topics: [analytics, big-data, data-science, database, databases, datalake, delta-lake, distributed-database, distributed-systems, hadoop, hive, iceberg, java, jdbc, presto, prestodb, query-engine, sql, trino]
 starred_at: "2023-09-18T07:24:20Z"
 tags:
-  - coding
-  - data
-  - database
-  - sql
   - distributed
-  - java
+  - sql
+  - library
 ---
 
 # trinodb/trino

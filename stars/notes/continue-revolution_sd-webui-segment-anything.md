@@ -7,9 +7,9 @@ stars: 3519
 topics: [segment-anything, stable-diffusion, stable-diffusion-webui, stable-diffusion-webui-plugin]
 starred_at: "2023-06-28T10:07:22Z"
 tags:
-  - coding
   - ai
   - cv
+  - diffusion
   - plugin
 ---
 

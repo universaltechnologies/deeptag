@@ -7,11 +7,9 @@ stars: 356
 topics: [unity, unity3d]
 starred_at: "2020-09-27T10:26:34Z"
 tags:
-  - coding
-  - game
-  - simulation
+  - graphic
   - physics
-  - procedural
+  - simulation
   - unity
 ---
 

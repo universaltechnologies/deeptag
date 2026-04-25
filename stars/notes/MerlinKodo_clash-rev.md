@@ -7,10 +7,10 @@ stars: 1830
 topics: [cfw, clash, clash-core, vpn]
 starred_at: "2026-04-07T15:30:29Z"
 tags:
-  - coding
-  - networking
-  - go
+  - network
   - proxy
+  - security
+  - tool
 ---
 
 # MerlinKodo/clash-rev

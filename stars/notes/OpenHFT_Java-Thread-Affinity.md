@@ -8,8 +8,7 @@ topics: [affintiy, bind, core, java, low-latency]
 starred_at: "2024-11-21T14:08:03Z"
 tags:
   - coding
-  - java
-  - performance
+  - concurrency
   - library
 ---
 

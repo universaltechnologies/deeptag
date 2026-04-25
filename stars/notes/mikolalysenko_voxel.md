@@ -8,10 +8,7 @@ topics: []
 starred_at: "2017-03-10T01:26:24Z"
 tags:
   - graphic
-  - scene
   - voxel
-  - mesh
-  - coding
   - javascript
   - library
 ---

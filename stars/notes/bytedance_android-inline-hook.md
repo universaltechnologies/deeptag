@@ -9,10 +9,8 @@ starred_at: "2024-04-27T14:33:24Z"
 tags:
   - coding
   - android
-  - security
   - hook
   - library
-  - performance
 ---
 
 # bytedance/android-inline-hook

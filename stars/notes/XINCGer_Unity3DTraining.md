@@ -10,8 +10,7 @@ tags:
   - coding
   - engine
   - unity
-  - csharp
-  - game
+  - practice
   - tutorial
 ---
 

@@ -7,10 +7,7 @@ stars: 1379
 topics: []
 starred_at: "2022-05-10T17:27:01Z"
 tags:
-  - coding
-  - c
-  - cpp
-  - go
+  - practice
   - tutorial
 ---
 

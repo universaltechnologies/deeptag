@@ -9,6 +9,7 @@ starred_at: "2022-05-16T14:50:18Z"
 tags:
   - coding
   - language
+  - library
 ---
 
 # codecat/angelscript-mirror

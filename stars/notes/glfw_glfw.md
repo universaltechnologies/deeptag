@@ -7,12 +7,11 @@ stars: 14919
 topics: [c, linux, macos, opengl, opengl-es, unix, vulkan, windows]
 starred_at: "2015-10-31T13:16:13Z"
 tags:
-  - graphic
-  - platform
-  - opengl
-  - vulkan
-  - library
+  - coding
+  - engine
+  - api
   - cross-platform
+  - library
 ---
 
 # glfw/glfw

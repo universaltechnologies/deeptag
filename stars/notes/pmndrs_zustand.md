@@ -8,7 +8,7 @@ topics: [hacktoberfest, hooks, react, react-context, reactjs, redux, state-manag
 starred_at: "2025-12-27T11:32:48Z"
 tags:
   - coding
-  - web
+  - frontend
   - library
 ---
 

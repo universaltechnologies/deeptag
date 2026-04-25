@@ -9,10 +9,9 @@ starred_at: "2022-11-25T07:15:11Z"
 tags:
   - coding
   - ai
+  - deep-learning
   - rl
-  - cpp
-  - cuda
-  - game
+  - tool
 ---
 
 # lightvector/KataGo

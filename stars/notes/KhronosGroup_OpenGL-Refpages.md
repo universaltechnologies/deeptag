@@ -7,10 +7,9 @@ stars: 484
 topics: []
 starred_at: "2017-04-21T01:58:07Z"
 tags:
-  - graphic
-  - platform
   - opengl
-  - tool
+  - api
+  - book
 ---
 
 # KhronosGroup/OpenGL-Refpages

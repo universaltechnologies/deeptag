@@ -10,6 +10,7 @@ tags:
   - coding
   - algorithm
   - book
+  - tutorial
 ---
 
 # krahets/hello-algo

@@ -7,11 +7,9 @@ stars: 42767
 topics: [acp, ai, ai-agents, mcp]
 starred_at: "2026-01-22T15:49:35Z"
 tags:
-  - coding
   - ai
   - agent
-  - llm
-  - mcp
+  - cross-platform
   - tool
 ---
 

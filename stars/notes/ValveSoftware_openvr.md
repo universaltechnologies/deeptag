@@ -8,8 +8,8 @@ topics: [hardware, openvr-sdk, sdk, steamvr, steamvr-plugin, vr]
 starred_at: "2016-10-10T03:58:07Z"
 tags:
   - coding
-  - library
   - vr
+  - library
 ---
 
 # ValveSoftware/openvr

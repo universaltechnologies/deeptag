@@ -9,10 +9,8 @@ starred_at: "2025-12-03T08:02:41Z"
 tags:
   - coding
   - engine
-  - graphic
   - voxel
-  - opengl
-  - game
+  - cpp
   - framework
 ---
 

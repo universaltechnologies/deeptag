@@ -7,12 +7,10 @@ stars: 1867
 topics: []
 starred_at: "2023-04-10T15:17:35Z"
 tags:
-  - graphic
-  - geometry
-  - mesh
-  - library
-  - cross-platform
+  - coding
   - csharp
+  - geometry
+  - library
 ---
 
 # gradientspace/geometry3Sharp

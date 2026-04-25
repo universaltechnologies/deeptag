@@ -7,10 +7,10 @@ stars: 12073
 topics: [data-visualization, graph, graph-analytics, graph-drawing, graph-visualization, hacktoberfest, network, tree, visual-analytics, visualization]
 starred_at: "2025-06-29T12:37:36Z"
 tags:
-  - coding
   - visualization
-  - framework
   - graph
+  - typescript
+  - framework
 ---
 
 # antvis/G6

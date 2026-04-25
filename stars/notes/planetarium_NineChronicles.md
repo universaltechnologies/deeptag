@@ -7,11 +7,9 @@ stars: 402
 topics: [2d-game, blockchain, decentralized, hacktoberfest, hacktoberfest2024, mmorpg, unity, web3]
 starred_at: "2022-12-02T14:52:23Z"
 tags:
-  - coding
-  - engine
   - unity
-  - game
   - gameplay
+  - p2p
 ---
 
 # planetarium/NineChronicles

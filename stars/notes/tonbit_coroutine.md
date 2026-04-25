@@ -7,11 +7,10 @@ stars: 428
 topics: []
 starred_at: "2018-03-06T03:06:43Z"
 tags:
-  - coding
+  - concurrency
   - cpp
   - header-only
   - library
-  - cross-platform
 ---
 
 # tonbit/coroutine

@@ -7,9 +7,8 @@ stars: 43930
 topics: [cli, git, github-api-v4, golang]
 starred_at: "2026-02-27T06:06:10Z"
 tags:
-  - coding
-  - git
   - cli
+  - git
   - tool
 ---
 

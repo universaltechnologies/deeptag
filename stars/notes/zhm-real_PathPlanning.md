@@ -7,11 +7,10 @@ stars: 9253
 topics: [anytime-dstar, anytime-repairing-astar, astar, batch-informed-trees, dstar, dstar-lite, dynamic-rrt, extended-rrt, fast-marching-trees, informed-rrt-star, learning-realtime-astar, lifelong-planning-astar, path-planning, realtime-adaptive-astar, rrt, rrt-connect, rrt-star, rrt-star-smart]
 starred_at: "2021-07-22T04:10:44Z"
 tags:
-  - coding
-  - algorithm
   - robotics
+  - algorithm
   - visualization
-  - practice
+  - tutorial
 ---
 
 # zhm-real/PathPlanning

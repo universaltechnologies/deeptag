@@ -7,12 +7,9 @@ stars: 5299
 topics: []
 starred_at: "2024-08-19T08:59:19Z"
 tags:
-  - coding
+  - graphic
   - physics
-  - rust
   - library
-  - performance
-  - robotics
 ---
 
 # dimforge/rapier

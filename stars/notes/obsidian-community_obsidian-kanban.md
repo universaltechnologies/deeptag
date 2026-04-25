@@ -8,8 +8,8 @@ topics: [obsidian, obsidian-md, obsidian-plugin]
 starred_at: "2024-02-23T06:46:10Z"
 tags:
   - coding
+  - editor
   - plugin
-  - tool
 ---
 
 # obsidian-community/obsidian-kanban

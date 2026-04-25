@@ -8,10 +8,9 @@ topics: [cocos-creator, cocos2d, cocos2dx, cpp-gui, cross-platform-gui, infinite
 starred_at: "2022-01-05T14:54:56Z"
 tags:
   - coding
-  - gui
-  - library
-  - plugin
-  - cross-platform
+  - game
+  - ui
+  - framework
 ---
 
 # fairygui/FairyGUI-cocos2dx

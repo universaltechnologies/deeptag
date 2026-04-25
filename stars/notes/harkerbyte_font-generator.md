@@ -7,9 +7,8 @@ stars: 4
 topics: [facebook, font-awesome, fontgen, fonts, hack, kali, kali-linux, termux, typeface, ubuntu]
 starred_at: "2025-11-13T12:47:30Z"
 tags:
-  - coding
-  - media
-  - font
+  - tools
+  - productivity
   - tool
 ---
 

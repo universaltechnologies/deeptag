@@ -8,9 +8,6 @@ topics: [data-science, deep-learning, jax, machine-learning, neural-networks, py
 starred_at: "2017-03-07T06:24:45Z"
 tags:
   - coding
-  - ai
-  - deep-learning
-  - framework
 ---
 
 # keras-team/keras

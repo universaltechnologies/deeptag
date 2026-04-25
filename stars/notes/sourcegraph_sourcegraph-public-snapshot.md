@@ -7,11 +7,8 @@ stars: 10271
 topics: [code-intelligence, code-search, cody, repo-type-main, sourcegraph]
 starred_at: "2024-06-21T02:59:50Z"
 tags:
-  - coding
   - ai
-  - tools
-  - self-hosted
-  - platform
+  - search
 ---
 
 # sourcegraph/sourcegraph-public-snapshot

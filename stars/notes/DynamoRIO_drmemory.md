@@ -9,9 +9,8 @@ starred_at: "2021-12-09T07:34:39Z"
 tags:
   - coding
   - debug
-  - tool
   - cross-platform
-  - performance
+  - tool
 ---
 
 # DynamoRIO/drmemory

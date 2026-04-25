@@ -7,12 +7,10 @@ stars: 991
 topics: [computer-vision, deep-learning, detection, domain-randomization, machine-learning, object-detection, perception, pose-estimation, segmentation, synthetic-dataset-generation]
 starred_at: "2024-01-18T14:08:35Z"
 tags:
-  - coding
   - ai
   - cv
-  - engine
   - unity
-  - library
+  - tool
 ---
 
 # Unity-Technologies/com.unity.perception

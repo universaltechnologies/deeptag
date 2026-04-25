@@ -10,7 +10,8 @@ tags:
   - coding
   - engine
   - unity
-  - plugin
+  - library
+  - tutorial
 ---
 
 # DavidArayan/ezyslice-example-scenes

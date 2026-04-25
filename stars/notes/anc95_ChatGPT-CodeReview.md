@@ -7,9 +7,8 @@ stars: 4435
 topics: [chatgpt, codereview, probot]
 starred_at: "2025-12-04T12:37:52Z"
 tags:
-  - coding
   - ai
-  - git
+  - ci
   - tool
 ---
 

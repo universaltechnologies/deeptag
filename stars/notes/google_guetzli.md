@@ -9,8 +9,8 @@ starred_at: "2017-03-22T05:57:08Z"
 tags:
   - coding
   - media
-  - image
-  - library
+  - image-processing
+  - tool
 ---
 
 # google/guetzli

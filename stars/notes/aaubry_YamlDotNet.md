@@ -7,10 +7,8 @@ stars: 2813
 topics: [dotnet, parser, serialization, yaml]
 starred_at: "2023-09-26T04:03:05Z"
 tags:
-  - coding
-  - dotnet
-  - parser
   - serialization
+  - csharp
   - library
 ---
 

@@ -10,7 +10,6 @@ tags:
   - coding
   - webassembly
   - tool
-  - cli
 ---
 
 # WebAssembly/wabt

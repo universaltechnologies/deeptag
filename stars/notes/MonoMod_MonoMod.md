@@ -8,8 +8,9 @@ topics: [c-sharp, cecil, cil, cross-platform, detours, modding, monkey-patching,
 starred_at: "2025-12-20T13:38:47Z"
 tags:
   - coding
-  - csharp
   - hook
+  - reverse
+  - csharp
   - library
 ---
 

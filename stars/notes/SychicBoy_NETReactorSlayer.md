@@ -7,8 +7,9 @@ stars: 1228
 topics: [deobfuscator, dnlib, dotnet, dotnet-reactor, reverse-engineering, unpacker]
 starred_at: "2026-03-25T08:53:41Z"
 tags:
-  - dotnet
+  - coding
   - reverse
+  - dotnet
   - tool
 ---
 

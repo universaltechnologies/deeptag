@@ -10,8 +10,8 @@ tags:
   - graphic
   - rendering
   - path-tracing
-  - performance
-  - practice
+  - cross-platform
+  - tutorial
 ---
 
 # aras-p/ToyPathTracer

@@ -7,9 +7,7 @@ stars: 291
 topics: []
 starred_at: "2024-10-25T02:56:10Z"
 tags:
-  - coding
   - systems
-  - c
   - library
 ---
 

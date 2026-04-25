@@ -7,9 +7,10 @@ stars: 19808
 topics: [docker, docker-gen, nginx, reverse-proxy]
 starred_at: "2023-05-31T15:36:58Z"
 tags:
-  - coding
-  - systems
-  - server
+  - network
+  - proxy
+  - docker
+  - automation
   - tool
 ---
 

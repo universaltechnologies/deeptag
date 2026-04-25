@@ -7,12 +7,10 @@ stars: 5198
 topics: [filesearch, lua, neovim, neovim-plugin, rust]
 starred_at: "2026-04-02T06:01:25Z"
 tags:
-  - coding
   - ai
   - mcp
-  - rust
-  - plugin
-  - performance
+  - search
+  - tool
 ---
 
 # dmtrKovalenko/fff.nvim

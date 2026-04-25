@@ -7,11 +7,11 @@ stars: 1760
 topics: []
 starred_at: "2024-11-14T03:26:27Z"
 tags:
-  - coding
   - cpp
   - lua
   - binding
   - header-only
+  - library
 ---
 
 # vinniefalco/LuaBridge

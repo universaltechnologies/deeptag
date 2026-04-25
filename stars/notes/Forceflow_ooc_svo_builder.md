@@ -8,10 +8,7 @@ topics: []
 starred_at: "2017-02-21T06:11:45Z"
 tags:
   - graphic
-  - scene
   - voxel
-  - coding
-  - cpp
   - tool
 ---
 

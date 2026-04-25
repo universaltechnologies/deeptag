@@ -7,10 +7,7 @@ stars: 272
 topics: []
 starred_at: "2023-03-29T07:52:14Z"
 tags:
-  - graphic
-  - scene
-  - mesh
-  - tools
+  - coding
   - plugin
   - python
 ---

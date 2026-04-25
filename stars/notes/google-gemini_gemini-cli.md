@@ -7,11 +7,9 @@ stars: 101845
 topics: [ai, ai-agents, cli, gemini, gemini-api, mcp-client, mcp-server]
 starred_at: "2025-06-26T03:42:39Z"
 tags:
-  - coding
   - ai
   - agent
-  - mcp
-  - terminal
+  - cli
   - tool
 ---
 

@@ -7,11 +7,12 @@ stars: 33420
 topics: []
 starred_at: "2016-04-09T08:08:42Z"
 tags:
-  - coding
   - media
-  - image
+  - image-processing
   - audio
   - font
+  - c
+  - cpp
   - library
   - header-only
 ---

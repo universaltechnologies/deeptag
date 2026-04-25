@@ -7,11 +7,10 @@ stars: 102803
 topics: [cmd, command-line, console, contributions-welcome, good-first-issue, hacktoberfest, terminal, windows, windows-console, windows-terminal, wsl]
 starred_at: "2022-03-11T07:12:33Z"
 tags:
-  - tools
-  - windows
   - terminal
-  - cpp
-  - gui
+  - windows
+  - cross-platform
+  - tool
 ---
 
 # microsoft/terminal

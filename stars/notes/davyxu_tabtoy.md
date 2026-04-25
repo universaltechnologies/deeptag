@@ -7,12 +7,10 @@ stars: 1850
 topics: [csharp, csv, excel, exportor, fast, game, golang, json, lua, tool, xlsx]
 starred_at: "2020-09-29T08:45:12Z"
 tags:
-  - tools
-  - game
-  - coding
   - data
+  - cli
+  - cross-platform
   - tool
-  - performance
 ---
 
 # davyxu/tabtoy

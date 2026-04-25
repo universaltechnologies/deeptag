@@ -7,10 +7,10 @@ stars: 186444
 topics: []
 starred_at: "2026-04-01T02:40:07Z"
 tags:
-  - coding
   - ai
   - agent
-  - library
+  - cli
+  - rust
   - tool
 ---
 

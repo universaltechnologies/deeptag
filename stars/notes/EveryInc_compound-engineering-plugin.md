@@ -7,8 +7,11 @@ stars: 14838
 topics: [compound, engineering]
 starred_at: "2026-01-12T08:40:48Z"
 tags:
-  - coding
   - ai
+  - agent
+  - skills
+  - prompt
+  - workflow
   - plugin
 ---
 

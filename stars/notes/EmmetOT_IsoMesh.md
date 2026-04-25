@@ -7,14 +7,11 @@ stars: 329
 topics: [isosurface-extraction, meshes, sdf, signed-distance-fields, surface-nets, unity, unity3d]
 starred_at: "2023-04-10T14:38:16Z"
 tags:
-  - coding
-  - engine
-  - unity
-  - graphic
-  - shader
+  - voxel
+  - raymarching
   - compute-shader
-  - scene
-  - geometry
+  - unity
+  - tool
 ---
 
 # EmmetOT/IsoMesh

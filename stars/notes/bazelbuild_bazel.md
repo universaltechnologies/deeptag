@@ -8,11 +8,10 @@ topics: [bazel, build, build-system, correct, fast, multi-language, scalable, te
 starred_at: "2025-05-21T23:24:11Z"
 tags:
   - coding
-  - ci
   - build
-  - java
-  - tool
+  - ci
   - cross-platform
+  - tool
 ---
 
 # bazelbuild/bazel

@@ -9,7 +9,7 @@ starred_at: "2015-07-09T12:45:39Z"
 tags:
   - coding
   - media
-  - image-processing
+  - image
   - library
 ---
 

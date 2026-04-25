@@ -10,6 +10,7 @@ tags:
   - coding
   - encryption
   - c
+  - library
 ---
 
 # Ginurx/chacha20-c

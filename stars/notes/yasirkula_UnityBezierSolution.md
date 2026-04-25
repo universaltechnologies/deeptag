@@ -10,8 +10,7 @@ tags:
   - coding
   - engine
   - unity
-  - math
-  - tool
+  - library
 ---
 
 # yasirkula/UnityBezierSolution

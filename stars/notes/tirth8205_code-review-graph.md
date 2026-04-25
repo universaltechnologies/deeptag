@@ -7,11 +7,11 @@ stars: 11580
 topics: [ai-coding, claude, claude-code, code-review, graphrag, incremental, knowledge-graph, llm, mcp, python, static-analysis, tree-sitter]
 starred_at: "2026-03-20T09:55:15Z"
 tags:
-  - coding
   - ai
-  - llm
   - mcp
-  - library
+  - context
+  - tokens
+  - tool
 ---
 
 # tirth8205/code-review-graph

@@ -7,10 +7,8 @@ stars: 22889
 topics: [blogger, couchdb, dropbox, editor, gist, github, gitlab, google-drive, javascript, markdown, offline, stackedit, wordpress, zendesk]
 starred_at: "2017-12-06T09:06:56Z"
 tags:
-  - coding
-  - web
-  - editor
-  - markdown
+  - browser
+  - office
   - tool
 ---
 

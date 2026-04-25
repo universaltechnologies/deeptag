@@ -11,8 +11,8 @@ tags:
   - engine
   - unity
   - vfx
+  - procedural
   - tool
-  - plugin
 ---
 
 # GD-Github/Procedurally-Propagating-Paths

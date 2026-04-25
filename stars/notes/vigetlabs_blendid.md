@@ -8,8 +8,7 @@ topics: [asset-pipeline, browsersync, gulp, gulp-starter, svg-sprites, webpack]
 starred_at: "2017-04-09T07:32:52Z"
 tags:
   - coding
-  - web
-  - frontend
+  - build
   - tool
 ---
 

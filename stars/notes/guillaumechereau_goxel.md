@@ -8,10 +8,9 @@ topics: [voxel-editors, voxels]
 starred_at: "2017-02-07T05:50:15Z"
 tags:
   - graphic
-  - scene
   - voxel
-  - tool
   - cross-platform
+  - tool
 ---
 
 # guillaumechereau/goxel

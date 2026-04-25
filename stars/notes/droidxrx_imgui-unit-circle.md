@@ -7,9 +7,10 @@ stars: 1
 topics: []
 starred_at: "2023-02-17T05:20:28Z"
 tags:
-  - graphic
-  - ui
-  - library
+  - coding
+  - gui
+  - visualization
+  - tool
 ---
 
 # droidxrx/imgui-unit-circle

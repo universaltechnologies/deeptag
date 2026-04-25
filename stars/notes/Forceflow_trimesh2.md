@@ -8,8 +8,7 @@ topics: [3d, geometry, graphics, manipulation, model-manipulation, transformatio
 starred_at: "2017-03-04T09:38:34Z"
 tags:
   - graphic
-  - scene
-  - geometry
+  - mesh
   - library
 ---
 

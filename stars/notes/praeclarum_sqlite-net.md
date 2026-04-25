@@ -9,8 +9,7 @@ starred_at: "2019-12-06T08:49:20Z"
 tags:
   - coding
   - data
-  - database
-  - dotnet
+  - sql
   - library
   - cross-platform
 ---

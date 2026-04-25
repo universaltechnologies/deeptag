@@ -10,7 +10,6 @@ tags:
   - graphic
   - lighting
   - gi
-  - rendering
   - book
 ---
 

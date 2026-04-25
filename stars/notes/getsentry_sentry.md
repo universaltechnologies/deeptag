@@ -9,10 +9,7 @@ starred_at: "2023-05-30T10:31:32Z"
 tags:
   - coding
   - monitoring
-  - debug
-  - logging
   - tool
-  - performance
 ---
 
 # getsentry/sentry

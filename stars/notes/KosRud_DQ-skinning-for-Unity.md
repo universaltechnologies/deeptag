@@ -10,9 +10,6 @@ tags:
   - coding
   - engine
   - unity
-  - graphic
-  - animation
-  - shader
   - compute-shader
   - plugin
 ---

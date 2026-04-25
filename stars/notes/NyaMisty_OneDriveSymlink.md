@@ -7,7 +7,6 @@ stars: 11
 topics: []
 starred_at: "2025-12-08T12:05:36Z"
 tags:
-  - coding
   - windows
   - hook
   - tool

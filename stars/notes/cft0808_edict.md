@@ -9,9 +9,8 @@ starred_at: "2026-03-05T08:27:38Z"
 tags:
   - coding
   - ai
-  - llm
   - agent
-  - library
+  - framework
 ---
 
 # cft0808/edict

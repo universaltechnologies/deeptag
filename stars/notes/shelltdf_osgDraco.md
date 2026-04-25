@@ -7,11 +7,9 @@ stars: 10
 topics: []
 starred_at: "2017-02-06T12:27:09Z"
 tags:
-  - graphic
-  - scene
-  - coding
-  - cpp
-  - library
+  - plugin
+  - compression
+  - 3d
 ---
 
 # shelltdf/osgDraco

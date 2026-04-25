@@ -7,11 +7,8 @@ stars: 10704
 topics: [developer-tools, devtools, hacktoberfest, json, json-viewer, react, tools, typescript, viewer]
 starred_at: "2023-01-06T04:07:44Z"
 tags:
-  - coding
-  - web
-  - data
   - json
-  - tools
+  - frontend
   - tool
 ---
 

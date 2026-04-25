@@ -7,11 +7,10 @@ stars: 446
 topics: [c, cross-platform, library, portable]
 starred_at: "2025-05-17T04:00:43Z"
 tags:
-  - coding
-  - c
   - concurrency
+  - c
+  - cpp
   - library
-  - cross-platform
 ---
 
 # bdwgc/libatomic_ops

@@ -9,9 +9,6 @@ starred_at: "2021-11-18T05:27:55Z"
 tags:
   - coding
   - git
-  - c
-  - tool
-  - cli
 ---
 
 # git/git

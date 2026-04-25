@@ -7,9 +7,8 @@ stars: 6864
 topics: [metrics, monitoring, observability, open-telemetry, opentelemetry, telemetry]
 starred_at: "2023-04-24T12:23:26Z"
 tags:
-  - coding
   - monitoring
-  - tool
+  - framework
 ---
 
 # open-telemetry/opentelemetry-collector

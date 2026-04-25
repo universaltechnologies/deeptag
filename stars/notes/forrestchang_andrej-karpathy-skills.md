@@ -9,7 +9,6 @@ starred_at: "2026-04-12T04:55:30Z"
 tags:
   - coding
   - ai
-  - llm
   - prompt
   - practice
 ---

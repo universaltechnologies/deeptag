@@ -8,8 +8,8 @@ topics: [gitbook, rust]
 starred_at: "2023-09-28T15:41:21Z"
 tags:
   - coding
-  - book
   - rust
+  - book
 ---
 
 # KaiserY/rust-book-chinese

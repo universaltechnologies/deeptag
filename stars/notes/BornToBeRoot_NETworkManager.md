@@ -7,10 +7,8 @@ stars: 8246
 topics: [aws-ssm, dns, dns-lookup, icmp, ip-scanner, lldp, net10, ping-monitor, port-scanner, powershell, putty, rdp, remote-desktop, ssh, subnet-calculator, traceroute, vnc, wifi, windows, wpf]
 starred_at: "2025-05-28T17:47:11Z"
 tags:
-  - coding
-  - networking
-  - dotnet
-  - windows
+  - tools
+  - network
   - tool
 ---
 

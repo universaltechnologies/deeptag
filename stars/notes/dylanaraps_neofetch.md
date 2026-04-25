@@ -7,9 +7,8 @@ stars: 23627
 topics: [bash, command-line, commandline, distro, neofetch, screenshot, script]
 starred_at: "2026-03-30T02:35:22Z"
 tags:
-  - tools
-  - coding
-  - terminal
+  - shell
+  - cli
   - tool
 ---
 

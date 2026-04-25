@@ -7,10 +7,11 @@ stars: 507
 topics: [anthropic, autodebug, automation, claude, context, debug, debugging, debugging-tool, llm, mcp, model, model-context-protocol, protocol, vibe, vibe-coding, vibe-debugging, vscode, vscode-extension]
 starred_at: "2025-02-18T02:48:26Z"
 tags:
-  - coding
   - ai
+  - agent
   - mcp
-  - tool
+  - debug
+  - editor
   - plugin
 ---
 

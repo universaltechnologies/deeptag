@@ -8,10 +8,8 @@ topics: [framerate-fixer, gaming, hdr, latency-analysis, modding-games, reverse-
 starred_at: "2025-06-13T11:43:27Z"
 tags:
   - coding
-  - cpp
-  - profiler
-  - debug
-  - reverse
+  - hook
+  - windows
   - tool
 ---
 

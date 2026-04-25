@@ -10,7 +10,6 @@ tags:
   - graphic
   - animation
   - vfx
-  - platform
   - tool
 ---
 

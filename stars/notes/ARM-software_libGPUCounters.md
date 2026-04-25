@@ -9,9 +9,7 @@ starred_at: "2022-09-22T09:20:33Z"
 tags:
   - coding
   - profiler
-  - gpu
   - library
-  - performance
 ---
 
 # ARM-software/libGPUCounters

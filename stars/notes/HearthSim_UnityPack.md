@@ -7,8 +7,6 @@ stars: 747
 topics: [disunity, python, unity, unity3d, unity3d-format]
 starred_at: "2023-08-23T09:20:03Z"
 tags:
-  - coding
-  - engine
   - unity
   - python
   - serialization

@@ -10,8 +10,8 @@ tags:
   - coding
   - engine
   - unity
+  - build
   - tool
-  - plugin
 ---
 
 # CyberAgentGameEntertainment/BuildMagic

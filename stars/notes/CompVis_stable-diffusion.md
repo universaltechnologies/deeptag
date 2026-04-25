@@ -7,10 +7,10 @@ stars: 72912
 topics: []
 starred_at: "2023-02-16T10:08:31Z"
 tags:
-  - coding
   - ai
   - diffusion
   - cv
+  - deep-learning
   - library
 ---
 

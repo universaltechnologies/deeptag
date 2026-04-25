@@ -8,11 +8,9 @@ topics: []
 starred_at: "2017-03-06T02:01:24Z"
 tags:
   - graphic
-  - scene
-  - mesh
-  - geometry
   - voxel
-  - header-only
+  - mesh
+  - library
 ---
 
 # r03ert0/surface-nets

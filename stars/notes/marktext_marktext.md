@@ -7,11 +7,10 @@ stars: 55353
 topics: [dark-mode, editor, electron, element-ui, emoji, focus-mode, latex, linux, mac, macos, markdown, marktext, next-generation, source-code, typewriter-mode, vue, windows]
 starred_at: "2023-06-16T08:31:24Z"
 tags:
-  - tools
-  - cross-platform
-  - electron
+  - desktop
   - markdown
-  - editor
+  - cross-platform
+  - tool
 ---
 
 # marktext/marktext

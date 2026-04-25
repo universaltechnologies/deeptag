@@ -7,10 +7,8 @@ stars: 7585
 topics: [analysis, android, apk, apk-parser, classyshark, dex, jar, java, kotlin, multidex]
 starred_at: "2024-10-24T07:47:00Z"
 tags:
-  - coding
-  - reverse
   - android
-  - java
+  - reverse
   - tool
 ---
 

@@ -11,7 +11,6 @@ tags:
   - ai
   - voice
   - library
-  - cross-platform
 ---
 
 # alphacep/vosk-api

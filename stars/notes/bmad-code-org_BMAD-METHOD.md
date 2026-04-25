@@ -7,12 +7,10 @@ stars: 45158
 topics: []
 starred_at: "2026-02-05T00:16:09Z"
 tags:
-  - coding
   - ai
   - agent
   - workflow
   - framework
-  - automation
 ---
 
 # bmad-code-org/BMAD-METHOD

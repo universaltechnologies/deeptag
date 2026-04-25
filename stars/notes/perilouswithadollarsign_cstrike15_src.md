@@ -7,9 +7,9 @@ stars: 1614
 topics: [cplusplus, csgo, leak, source]
 starred_at: "2023-02-02T04:44:46Z"
 tags:
-  - coding
-  - cpp
   - game
+  - reverse
+  - practice
 ---
 
 # perilouswithadollarsign/cstrike15_src

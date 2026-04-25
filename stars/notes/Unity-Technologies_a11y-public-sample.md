@@ -8,10 +8,8 @@ topics: [billing-5056, owner-accessibility]
 starred_at: "2024-01-22T06:08:10Z"
 tags:
   - coding
-  - engine
-  - unity
   - mobile
-  - ui
+  - practice
 ---
 
 # Unity-Technologies/a11y-public-sample

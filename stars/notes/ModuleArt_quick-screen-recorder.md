@@ -7,12 +7,10 @@ stars: 267
 topics: [app, application, audio-recorder, avi, csharp, desktop, desktop-app, desktop-application, dotnet, dotnet-framework, encoder-decoder, lightweight, mpeg, multimonitor, recorder, screen-recorder, video-recorder, win32, windows, winforms]
 starred_at: "2022-11-18T07:33:26Z"
 tags:
-  - coding
-  - media
+  - tools
+  - capture
   - windows
-  - desktop
   - tool
-  - dotnet
 ---
 
 # ModuleArt/quick-screen-recorder

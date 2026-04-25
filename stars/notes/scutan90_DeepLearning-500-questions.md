@@ -10,7 +10,6 @@ tags:
   - coding
   - ai
   - deep-learning
-  - cv
   - book
 ---
 

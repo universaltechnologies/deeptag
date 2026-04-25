@@ -7,11 +7,9 @@ stars: 2875
 topics: [c-sharp, pcg, procedural, procedural-generation, unity, unity3d]
 starred_at: "2024-02-02T11:20:38Z"
 tags:
-  - coding
-  - engine
   - unity
+  - simulation
   - library
-  - cross-platform
 ---
 
 # Syomus/ProceduralToolkit

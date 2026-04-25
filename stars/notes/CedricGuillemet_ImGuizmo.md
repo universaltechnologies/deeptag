@@ -7,10 +7,8 @@ stars: 3859
 topics: []
 starred_at: "2017-03-01T12:39:46Z"
 tags:
-  - graphic
+  - coding
   - gui
-  - 3d
-  - math
   - library
 ---
 

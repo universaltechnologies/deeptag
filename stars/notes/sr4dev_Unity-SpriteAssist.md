@@ -8,11 +8,7 @@ topics: [mesh, sprite, triangulation, unity]
 starred_at: "2025-01-06T06:49:22Z"
 tags:
   - coding
-  - engine
   - unity
-  - graphic
-  - scene
-  - mesh
   - plugin
 ---
 

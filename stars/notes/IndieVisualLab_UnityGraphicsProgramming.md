@@ -7,9 +7,6 @@ stars: 446
 topics: [3d, 3dcg, cg, shader, unity, unity3d]
 starred_at: "2022-11-01T07:02:30Z"
 tags:
-  - graphic
-  - shader
-  - scene
   - coding
   - engine
   - unity

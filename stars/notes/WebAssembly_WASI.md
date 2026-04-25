@@ -7,10 +7,8 @@ stars: 5599
 topics: [http, os, wasi, webassembly]
 starred_at: "2023-08-01T13:20:25Z"
 tags:
-  - coding
   - webassembly
   - systems
-  - cross-platform
   - spec
 ---
 

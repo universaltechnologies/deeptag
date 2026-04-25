@@ -7,10 +7,9 @@ stars: 43867
 topics: [agency-agents, ai-agent, claude-code, codex, open-cli, openclaw, opencode, skills, superpowers, vibe-coding]
 starred_at: "2026-01-27T17:55:56Z"
 tags:
-  - coding
   - ai
   - llm
-  - agent
+  - cross-platform
   - tool
 ---
 

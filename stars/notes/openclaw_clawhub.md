@@ -7,10 +7,10 @@ stars: 8138
 topics: [directory, skill]
 starred_at: "2026-03-06T08:51:54Z"
 tags:
-  - coding
   - ai
   - agent
-  - web
+  - skills
+  - tool
 ---
 
 # openclaw/clawhub

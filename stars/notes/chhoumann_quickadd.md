@@ -7,8 +7,8 @@ stars: 2170
 topics: [obsidian, obsidian-md, obsidian-plugin]
 starred_at: "2024-04-09T12:26:55Z"
 tags:
-  - coding
   - plugin
+  - productivity
 ---
 
 # chhoumann/quickadd

@@ -8,10 +8,9 @@ topics: []
 starred_at: "2025-12-05T10:48:38Z"
 tags:
   - graphic
-  - lighting
-  - shader
-  - directx
-  - performance
+  - material
+  - header-only
+  - library
 ---
 
 # iryoku/separable-sss

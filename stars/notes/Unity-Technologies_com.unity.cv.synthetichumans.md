@@ -12,7 +12,7 @@ tags:
   - cv
   - engine
   - unity
-  - plugin
+  - tool
 ---
 
 # Unity-Technologies/com.unity.cv.synthetichumans

@@ -8,8 +8,9 @@ topics: [newton-physics, nvidia-warp, physics-simulation, robotics]
 starred_at: "2025-06-06T09:59:42Z"
 tags:
   - coding
-  - physics
   - robotics
+  - simulation
+  - physics
   - gpu
   - library
 ---

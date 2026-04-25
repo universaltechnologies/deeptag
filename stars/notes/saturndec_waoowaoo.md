@@ -7,9 +7,8 @@ stars: 11518
 topics: [ai-agent, ai-agents, automation, film-production, generative-ai, short-drama, storyboard, video-generation]
 starred_at: "2026-03-03T13:55:58Z"
 tags:
-  - coding
   - ai
-  - media
+  - agent
   - video
   - tool
 ---

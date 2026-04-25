@@ -7,11 +7,8 @@ stars: 782
 topics: [cutscene, decoder, decryption, genshin, genshin-impact, usm, yuanshen]
 starred_at: "2023-06-05T05:28:25Z"
 tags:
-  - coding
-  - media
-  - video
-  - tool
   - cli
+  - tool
 ---
 
 # ToaHartor/GI-cutscenes

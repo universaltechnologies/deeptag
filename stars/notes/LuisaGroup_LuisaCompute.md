@@ -7,12 +7,10 @@ stars: 1000
 topics: [cpu, cross-platform, cuda, directx, dsl, dxr, gpu, graphics, high-performance, ispc, llvm, metal, optix, raytracing, rendering, rtx, siggraph-asia-2022]
 starred_at: "2022-10-31T07:56:26Z"
 tags:
-  - graphic
-  - rendering
-  - framework
+  - coding
+  - compute
   - cross-platform
-  - performance
-  - cpp
+  - framework
 ---
 
 # LuisaGroup/LuisaCompute

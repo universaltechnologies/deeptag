@@ -9,9 +9,10 @@ starred_at: "2022-11-11T16:18:38Z"
 tags:
   - coding
   - gui
+  - language
   - go
-  - library
   - cross-platform
+  - framework
 ---
 
 # gioui/gio

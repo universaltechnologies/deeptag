@@ -7,11 +7,10 @@ stars: 901
 topics: [c-sharp, code-quality, roslyn, sonarqube, static-analysis, static-analyzer, static-code-analysis, visual-basic]
 starred_at: "2019-04-20T09:07:39Z"
 tags:
-  - coding
+  - lint
   - csharp
   - dotnet
-  - tool
-  - cross-platform
+  - plugin
 ---
 
 # SonarSource/sonar-dotnet

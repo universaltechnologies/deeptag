@@ -8,11 +8,11 @@ topics: [computer-graphics, differentiable-programming, gpu, gpu-programming, sp
 starred_at: "2021-05-13T16:12:52Z"
 tags:
   - coding
-  - ai
-  - physics
-  - performance
+  - language
+  - compiler
+  - gpu
+  - simulation
   - library
-  - cross-platform
 ---
 
 # taichi-dev/taichi

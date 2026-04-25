@@ -7,13 +7,7 @@ stars: 10975
 topics: []
 starred_at: "2020-09-27T08:49:04Z"
 tags:
-  - coding
-  - language
-  - cpp
-  - python
-  - javascript
-  - typescript
-  - java
+  - practice
   - book
 ---
 

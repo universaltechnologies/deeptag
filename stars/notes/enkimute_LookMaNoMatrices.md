@@ -9,9 +9,9 @@ starred_at: "2024-03-04T04:18:28Z"
 tags:
   - graphic
   - rendering
-  - math
-  - shader
   - pbr
+  - gltf
+  - tutorial
 ---
 
 # enkimute/LookMaNoMatrices

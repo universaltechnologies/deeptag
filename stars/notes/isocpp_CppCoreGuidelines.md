@@ -10,6 +10,7 @@ tags:
   - coding
   - language
   - cpp
+  - book
   - practice
 ---
 

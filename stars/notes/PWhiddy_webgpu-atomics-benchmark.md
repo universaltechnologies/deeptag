@@ -7,11 +7,9 @@ stars: 7
 topics: []
 starred_at: "2024-11-01T08:28:02Z"
 tags:
-  - graphic
-  - platform
-  - webgpu
   - coding
-  - performance
+  - benchmark
+  - webgpu
   - tool
 ---
 

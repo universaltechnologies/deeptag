@@ -7,11 +7,12 @@ stars: 176043
 topics: [android, app-framework, cross-platform, dart, dart-platform, desktop, flutter, flutter-package, fuchsia, ios, linux-desktop, macos, material-design, mobile, mobile-development, skia, web, web-framework, windows]
 starred_at: "2022-12-13T02:19:04Z"
 tags:
-  - coding
-  - ui
+  - gui
   - mobile
-  - framework
+  - frontend
+  - desktop
   - cross-platform
+  - framework
 ---
 
 # flutter/flutter

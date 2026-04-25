@@ -8,11 +8,8 @@ topics: []
 starred_at: "2024-03-11T05:03:45Z"
 tags:
   - coding
-  - engine
-  - unity
   - debug
   - tool
-  - android
 ---
 
 # brunomikoski/UnitySmartSymbolicate

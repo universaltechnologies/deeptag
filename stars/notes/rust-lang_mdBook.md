@@ -7,9 +7,10 @@ stars: 21519
 topics: []
 starred_at: "2023-11-17T07:17:58Z"
 tags:
-  - tools
   - coding
   - markdown
+  - rust
+  - cli
   - tool
 ---
 

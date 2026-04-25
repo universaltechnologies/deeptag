@@ -8,10 +8,8 @@ topics: []
 starred_at: "2022-03-09T16:05:09Z"
 tags:
   - coding
-  - systems
-  - backend
-  - awesome
   - architecture
+  - awesome
 ---
 
 # xingshaocheng/architect-awesome

@@ -7,11 +7,9 @@ stars: 9
 topics: []
 starred_at: "2026-04-15T06:50:26Z"
 tags:
-  - coding
   - ai
-  - mcp
+  - memory
   - tool
-  - performance
 ---
 
 # winterfx/lossless-memory

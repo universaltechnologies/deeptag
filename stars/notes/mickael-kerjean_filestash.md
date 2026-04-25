@@ -7,12 +7,12 @@ stars: 14087
 topics: [archiving, azure, dms, dropbox, edrms, ftp, ged, git, ipfs, mft, nfs, s3, sae, seda, sftp, sharepoint, smb, vfs, webdav]
 starred_at: "2026-02-27T06:50:58Z"
 tags:
-  - coding
-  - web
-  - frontend
-  - tool
+  - tools
+  - office
+  - backend
+  - storage
+  - cross-platform
   - plugin
-  - framework
 ---
 
 # mickael-kerjean/filestash

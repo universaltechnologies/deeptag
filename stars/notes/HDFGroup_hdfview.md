@@ -7,11 +7,10 @@ stars: 136
 topics: []
 starred_at: "2025-10-21T07:14:50Z"
 tags:
-  - tools
   - coding
-  - data
+  - desktop
+  - visualization
   - tool
-  - cross-platform
 ---
 
 # HDFGroup/hdfview

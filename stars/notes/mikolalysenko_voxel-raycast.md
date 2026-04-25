@@ -8,8 +8,7 @@ topics: []
 starred_at: "2017-03-10T01:26:35Z"
 tags:
   - graphic
-  - rendering
-  - ray-tracing
+  - voxel
   - library
 ---
 

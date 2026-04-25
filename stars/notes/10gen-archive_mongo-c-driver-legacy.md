@@ -9,7 +9,6 @@ starred_at: "2016-12-17T12:52:50Z"
 tags:
   - coding
   - database
-  - c
   - library
 ---
 

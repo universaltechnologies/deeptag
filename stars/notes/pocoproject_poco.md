@@ -7,12 +7,10 @@ stars: 9400
 topics: [c-plus-plus, configuration, cross-platform, database-access, http-client, http-server, json, logging, mongodb-client, networking, poco, redis-client, sql, xml]
 starred_at: "2023-08-02T07:04:47Z"
 tags:
-  - coding
-  - networking
-  - database
-  - library
-  - cross-platform
+  - network
   - cpp
+  - cross-platform
+  - library
 ---
 
 # pocoproject/poco

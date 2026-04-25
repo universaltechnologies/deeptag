@@ -10,8 +10,6 @@ tags:
   - graphic
   - shader
   - hlsl
-  - coding
-  - engine
   - unity
   - library
 ---

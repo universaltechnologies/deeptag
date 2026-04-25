@@ -9,8 +9,7 @@ starred_at: "2025-05-15T09:30:54Z"
 tags:
   - coding
   - ide
-  - rust
-  - editor
+  - cross-platform
   - tool
 ---
 

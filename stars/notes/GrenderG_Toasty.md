@@ -7,8 +7,8 @@ stars: 6598
 topics: [android, toast, ui-widget]
 starred_at: "2025-07-25T08:42:57Z"
 tags:
-  - coding
   - android
+  - gui
   - library
 ---
 

@@ -7,8 +7,8 @@ stars: 22040
 topics: [clash, cross-platform, react, rust, tauri]
 starred_at: "2023-11-06T04:22:38Z"
 tags:
-  - coding
-  - networking
+  - network
+  - security
   - cross-platform
   - tool
 ---

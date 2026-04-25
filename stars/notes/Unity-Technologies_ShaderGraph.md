@@ -7,13 +7,9 @@ stars: 1244
 topics: [graphs, rendering, shaders, unity]
 starred_at: "2022-06-22T02:36:09Z"
 tags:
-  - coding
-  - engine
-  - unity
   - graphic
-  - rendering
   - shader
-  - framework
+  - plugin
 ---
 
 # Unity-Technologies/ShaderGraph

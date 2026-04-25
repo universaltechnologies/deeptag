@@ -8,8 +8,8 @@ topics: []
 starred_at: "2017-02-06T12:29:55Z"
 tags:
   - graphic
-  - post-processing
-  - cpp
+  - vfx
+  - library
 ---
 
 # shelltdf/osgEffect

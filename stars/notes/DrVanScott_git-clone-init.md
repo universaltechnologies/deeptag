@@ -7,8 +7,8 @@ stars: 178
 topics: [automation, clone, configuration, default, email, git, git-clone, git-hooks, name, user-identity]
 starred_at: "2021-11-18T04:12:33Z"
 tags:
+  - coding
   - git
-  - automation
   - tool
 ---
 

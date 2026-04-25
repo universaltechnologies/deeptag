@@ -7,12 +7,12 @@ stars: 11801
 topics: [audio, c-plus-plus, cross-platform, games, graphics, hacktoberfest, multimedia, opengl, sdk, sfml]
 starred_at: "2022-09-22T05:50:28Z"
 tags:
-  - coding
-  - media
-  - graphic
-  - networking
-  - library
+  - desktop
+  - audio
+  - image
+  - network
   - cross-platform
+  - library
 ---
 
 # SFML/SFML

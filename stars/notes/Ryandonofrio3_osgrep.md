@@ -7,9 +7,10 @@ stars: 1131
 topics: [colbert, embeddings, grep, grep-search]
 starred_at: "2025-11-25T05:39:20Z"
 tags:
-  - coding
   - ai
+  - agent
   - embeddings
+  - search
   - tool
 ---
 

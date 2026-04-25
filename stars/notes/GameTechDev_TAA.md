@@ -10,8 +10,9 @@ tags:
   - graphic
   - post-processing
   - taa
-  - platform
+  - compute-shader
   - directx
+  - library
 ---
 
 # GameTechDev/TAA

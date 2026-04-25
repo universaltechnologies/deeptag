@@ -7,8 +7,7 @@ stars: 22688
 topics: [bot, chatbot, conversational-ai, framework, qq, robotics, wechat, wechaty, whatsapp]
 starred_at: "2022-12-08T18:13:10Z"
 tags:
-  - coding
-  - ai
+  - automation
   - library
 ---
 

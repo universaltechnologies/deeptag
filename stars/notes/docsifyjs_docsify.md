@@ -7,10 +7,10 @@ stars: 31146
 topics: [doc, docs, docsify, documentation, documentation-tool, github-pages, markdown, vue]
 starred_at: "2026-01-24T10:00:54Z"
 tags:
-  - coding
-  - web
   - markdown
-  - tool
+  - web
+  - frontend
+  - framework
 ---
 
 # docsifyjs/docsify

@@ -10,8 +10,8 @@ tags:
   - coding
   - automation
   - lua
-  - tool
   - desktop
+  - tool
 ---
 
 # Hammerspoon/hammerspoon

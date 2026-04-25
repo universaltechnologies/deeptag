@@ -7,8 +7,8 @@ stars: 7332
 topics: [git, git-hooks, pre-commit]
 starred_at: "2026-02-06T08:10:50Z"
 tags:
-  - coding
   - git
+  - hook
   - tool
 ---
 

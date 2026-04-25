@@ -9,8 +9,8 @@ starred_at: "2022-03-18T08:13:56Z"
 tags:
   - coding
   - compression
-  - performance
   - library
+  - performance
 ---
 
 # lz4/lz4

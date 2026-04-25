@@ -7,9 +7,8 @@ stars: 2027
 topics: [linter, lua]
 starred_at: "2018-11-13T06:52:19Z"
 tags:
-  - coding
-  - language
   - lua
+  - lint
   - tool
 ---
 

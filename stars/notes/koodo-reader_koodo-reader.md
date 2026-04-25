@@ -8,9 +8,9 @@ topics: [book, cb7, cbr, cbt, cbz, comic, docx, ebook, epub, fb2, html, markdown
 starred_at: "2025-01-07T08:13:06Z"
 tags:
   - tools
+  - office
   - cross-platform
-  - web
-  - desktop
+  - tool
 ---
 
 # koodo-reader/koodo-reader

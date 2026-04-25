@@ -8,9 +8,8 @@ topics: []
 starred_at: "2024-10-30T12:42:39Z"
 tags:
   - android
-  - performance
-  - tool
-  - profiler
+  - optimization
+  - practice
 ---
 
 # MicroKibaco/BatteryCanary

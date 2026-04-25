@@ -7,12 +7,11 @@ stars: 28750
 topics: [audio, c, c-plus-plus, dash, hevc, hls, live, live-streaming, low-latency, media-server, multimedia, prometheus-exporter, rtmp, server-side, srt, streaming, video, video-conferencing, video-streaming, webrtc]
 starred_at: "2025-06-10T07:06:47Z"
 tags:
-  - coding
+  - server
   - media
   - video
-  - server
-  - cpp
-  - performance
+  - network
+  - tool
 ---
 
 # ossrs/srs

@@ -7,11 +7,9 @@ stars: 134124
 topics: [agents, ai, ai-agents, anthropic, chatgpt, deepagents, enterprise, framework, gemini, generative-ai, langchain, langgraph, llm, multiagent, open-source, openai, pydantic, python, rag]
 starred_at: "2025-10-28T01:39:33Z"
 tags:
-  - coding
   - ai
-  - llm
   - agent
-  - rag
+  - llm
   - framework
 ---
 

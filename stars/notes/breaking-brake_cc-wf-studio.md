@@ -7,11 +7,11 @@ stars: 4862
 topics: [agent-skills, claude-code, mcp-tools, slash-commands, sub-agents, vscode-extension, workflow-automation]
 starred_at: "2026-01-10T09:39:28Z"
 tags:
-  - coding
   - ai
   - agent
-  - mcp
-  - tool
+  - prompt
+  - editor
+  - plugin
 ---
 
 # breaking-brake/cc-wf-studio

@@ -8,9 +8,9 @@ topics: []
 starred_at: "2026-03-18T15:39:21Z"
 tags:
   - coding
-  - ai
+  - game
+  - gameplay
   - library
-  - tool
 ---
 
 # chengkehan/FuzzyLogic

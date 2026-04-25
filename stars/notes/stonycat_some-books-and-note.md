@@ -7,11 +7,9 @@ stars: 400
 topics: [books, reading-note]
 starred_at: "2023-01-09T10:31:19Z"
 tags:
-  - coding
-  - algorithm
   - ai
-  - awesome
   - book
+  - awesome
 ---
 
 # stonycat/some-books-and-note

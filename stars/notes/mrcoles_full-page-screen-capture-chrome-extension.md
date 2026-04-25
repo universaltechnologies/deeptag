@@ -8,9 +8,8 @@ topics: []
 starred_at: "2023-04-21T04:50:09Z"
 tags:
   - tools
-  - coding
-  - web
-  - plugin
+  - browser
+  - tool
 ---
 
 # mrcoles/full-page-screen-capture-chrome-extension

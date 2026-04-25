@@ -7,10 +7,10 @@ stars: 14
 topics: []
 starred_at: "2025-03-27T09:10:44Z"
 tags:
-  - coding
-  - game
+  - godot
+  - gameplay
+  - network
   - plugin
-  - networking
 ---
 
 # Glitshy/Godot-Lag-Compensation

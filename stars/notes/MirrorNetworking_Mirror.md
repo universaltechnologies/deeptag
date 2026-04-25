@@ -7,11 +7,8 @@ stars: 6144
 topics: [games, hlapi, kcp, libuv, mirror, mmo, mmorpg, mmos, networking, tcp, telepathy, udp, ummorpg, unet, unity]
 starred_at: "2020-12-29T04:07:44Z"
 tags:
-  - coding
-  - engine
+  - network
   - unity
-  - game
-  - networking
   - library
 ---
 

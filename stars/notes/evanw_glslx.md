@@ -8,11 +8,10 @@ topics: []
 starred_at: "2018-10-12T17:10:38Z"
 tags:
   - coding
-  - tool
-  - graphic
   - shader
   - glsl
   - webgl
+  - tool
 ---
 
 # evanw/glslx

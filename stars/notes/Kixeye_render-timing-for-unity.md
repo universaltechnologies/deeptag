@@ -10,9 +10,8 @@ tags:
   - coding
   - engine
   - unity
-  - plugin
   - profiler
-  - performance
+  - plugin
 ---
 
 # Kixeye/render-timing-for-unity

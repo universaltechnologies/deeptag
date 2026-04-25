@@ -7,13 +7,11 @@ stars: 457
 topics: []
 starred_at: "2022-10-31T07:53:40Z"
 tags:
-  - coding
-  - engine
   - unity
-  - graphic
+  - rendering
+  - volume
   - water
-  - shader
-  - practice
+  - tutorial
 ---
 
 # AsehesL/UnityWaveEquation

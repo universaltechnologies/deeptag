@@ -8,10 +8,9 @@ topics: [3d, blender, blender3d, genshin, genshin-impact, genshinimpact, npr, sh
 starred_at: "2023-03-17T21:38:42Z"
 tags:
   - graphic
-  - shader
   - material
   - toon
-  - tool
+  - shader
 ---
 
 # festivities/Blender-miHoYo-Shaders

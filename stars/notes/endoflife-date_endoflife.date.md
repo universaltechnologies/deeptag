@@ -8,8 +8,8 @@ topics: [alpine, alpinelinux, django, end-of-life, eol, hacktoberfest, iphone, j
 starred_at: "2023-04-13T12:07:51Z"
 tags:
   - tools
-  - web
-  - awesome
+  - productivity
+  - tool
 ---
 
 # endoflife-date/endoflife.date

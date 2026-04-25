@@ -10,8 +10,7 @@ tags:
   - coding
   - engine
   - unity
-  - scene
-  - plugin
+  - tool
 ---
 
 # Unity-Technologies/com.unity.formats.fbx

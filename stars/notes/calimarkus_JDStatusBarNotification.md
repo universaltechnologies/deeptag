@@ -7,10 +7,9 @@ stars: 4332
 topics: [activity, alert, banner, bubble, ios, notification, pill, progress, progress-bar, toast, toast-notifications, tooltip]
 starred_at: "2025-07-25T08:43:57Z"
 tags:
-  - coding
-  - ios
-  - library
+  - mobile
   - ui
+  - library
 ---
 
 # calimarkus/JDStatusBarNotification

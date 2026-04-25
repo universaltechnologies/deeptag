@@ -9,8 +9,8 @@ starred_at: "2024-08-20T03:24:55Z"
 tags:
   - coding
   - engine
-  - graphic
-  - platform
+  - custom
+  - webgl
   - webgpu
   - framework
 ---

@@ -11,8 +11,9 @@ tags:
   - rendering
   - rasterization
   - cpp
-  - performance
+  - simd
   - concurrency
+  - practice
 ---
 
 # vblanco20-1/Rasterizer

@@ -11,7 +11,6 @@ tags:
   - engine
   - unity
   - library
-  - parser
 ---
 
 # Unity-Technologies/com.unity.goql

@@ -11,7 +11,7 @@ tags:
   - engine
   - unity
   - plugin
-  - tool
+  - visualization
 ---
 
 # innogames/asset-relations-viewer

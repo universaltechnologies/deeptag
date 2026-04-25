@@ -8,7 +8,7 @@ topics: [github, github-api, github-wrapped, profile-readme, readme-stats]
 starred_at: "2026-02-27T06:18:53Z"
 tags:
   - coding
-  - web
+  - visualization
   - tool
 ---
 

@@ -7,7 +7,9 @@ stars: 15754
 topics: [echarts, python]
 starred_at: "2019-12-16T07:38:27Z"
 tags:
-  - coding
+  - python
+  - json
+  - frontend
   - visualization
   - library
 ---

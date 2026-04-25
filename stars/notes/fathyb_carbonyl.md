@@ -9,7 +9,6 @@ starred_at: "2023-02-01T03:56:23Z"
 tags:
   - tools
   - browser
-  - terminal
   - tool
 ---
 

@@ -8,11 +8,9 @@ topics: []
 starred_at: "2023-04-10T15:11:58Z"
 tags:
   - graphic
-  - scene
   - mesh
-  - engine
   - unity
-  - tool
+  - library
 ---
 
 # KaimaChen/MeshBoolean

@@ -8,9 +8,8 @@ topics: []
 starred_at: "2019-09-11T03:00:40Z"
 tags:
   - graphic
-  - material
+  - image-processing
   - texture
-  - csharp
   - tool
 ---
 

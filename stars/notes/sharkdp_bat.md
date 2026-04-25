@@ -8,6 +8,7 @@ topics: [cli, command-line, git, hacktoberfest, rust, syntax-highlighting, termi
 starred_at: "2022-03-11T07:17:56Z"
 tags:
   - coding
+  - terminal
   - cli
   - tool
 ---

@@ -7,8 +7,8 @@ stars: 11696
 topics: [directwrite, font, font-rendering, mactype]
 starred_at: "2026-04-11T01:19:36Z"
 tags:
-  - coding
-  - media
+  - graphic
+  - font
   - windows
   - tool
 ---

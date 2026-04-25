@@ -9,12 +9,11 @@ starred_at: "2023-06-27T09:32:45Z"
 tags:
   - graphic
   - rendering
-  - shader
+  - material
+  - pbr
   - toon
-  - coding
-  - engine
-  - unity
-  - framework
+  - shader
+  - post-processing
 ---
 
 # FernRP/FernRPExample

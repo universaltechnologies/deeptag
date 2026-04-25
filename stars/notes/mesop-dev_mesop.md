@@ -7,11 +7,10 @@ stars: 6527
 topics: []
 starred_at: "2024-08-15T03:50:40Z"
 tags:
-  - coding
   - web
-  - ai
+  - frontend
+  - python
   - framework
-  - tool
 ---
 
 # mesop-dev/mesop

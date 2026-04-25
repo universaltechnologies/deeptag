@@ -7,9 +7,7 @@ stars: 344
 topics: [android, java]
 starred_at: "2023-11-07T02:55:43Z"
 tags:
-  - coding
   - android
-  - ui
   - library
 ---
 

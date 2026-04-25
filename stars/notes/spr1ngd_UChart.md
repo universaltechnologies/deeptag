@@ -10,9 +10,8 @@ tags:
   - coding
   - engine
   - unity
-  - graphic
-  - tool
-  - shader
+  - visualization
+  - library
 ---
 
 # spr1ngd/UChart

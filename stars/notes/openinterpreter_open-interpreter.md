@@ -9,9 +9,8 @@ starred_at: "2023-11-12T03:16:57Z"
 tags:
   - coding
   - ai
-  - llm
+  - agent
   - tool
-  - cli
 ---
 
 # openinterpreter/open-interpreter

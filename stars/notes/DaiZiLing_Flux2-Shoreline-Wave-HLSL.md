@@ -8,9 +8,9 @@ topics: []
 starred_at: "2025-08-20T13:43:37Z"
 tags:
   - graphic
-  - shader
   - water
   - hlsl
+  - tutorial
 ---
 
 # DaiZiLing/Flux2-Shoreline-Wave-HLSL

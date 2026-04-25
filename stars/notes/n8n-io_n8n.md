@@ -7,12 +7,11 @@ stars: 184774
 topics: [ai, apis, automation, cli, data-flow, development, integration-framework, integrations, ipaas, low-code, low-code-platform, mcp, mcp-client, mcp-server, n8n, no-code, self-hosted, typescript, workflow, workflow-automation]
 starred_at: "2024-11-29T08:36:06Z"
 tags:
-  - coding
-  - ai
   - automation
   - workflow
-  - tool
+  - ai
   - self-hosted
+  - framework
 ---
 
 # n8n-io/n8n

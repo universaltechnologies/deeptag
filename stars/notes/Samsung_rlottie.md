@@ -7,11 +7,10 @@ stars: 1389
 topics: []
 starred_at: "2023-07-07T03:02:29Z"
 tags:
-  - coding
-  - media
   - animation
+  - rendering
+  - cpp
   - library
-  - cross-platform
 ---
 
 # Samsung/rlottie

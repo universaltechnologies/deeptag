@@ -7,10 +7,11 @@ stars: 4450
 topics: [android, c-plus-plus, geojson, ios, java, macos, map, mapbox, mapbox-gl, maps, monorepo, nodejs, objective-c, objective-c-plus-plus, opengl, opengl-es, openstreetmap, qt, swift, vector-tiles]
 starred_at: "2023-11-10T12:03:53Z"
 tags:
-  - graphic
-  - platform
-  - library
+  - coding
+  - engine
+  - custom
   - cross-platform
+  - library
 ---
 
 # mapbox/mapbox-gl-native

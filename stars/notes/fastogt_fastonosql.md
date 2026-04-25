@@ -7,10 +7,10 @@ stars: 1218
 topics: [crossplatform-redis, database-gui, dynomite, forestdb, indexeddb, leveldb, lmdb, memcached, nosql-databases, pika, redis, redis-cluster, redis-gui, redis-sentinel, redis-ssl, rocksdb, ssdb, unqlite]
 starred_at: "2025-10-21T07:23:16Z"
 tags:
-  - tools
   - database
   - gui
   - cross-platform
+  - tool
 ---
 
 # fastogt/fastonosql

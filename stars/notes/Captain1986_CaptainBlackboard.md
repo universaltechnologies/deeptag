@@ -7,10 +7,10 @@ stars: 1262
 topics: [computer-vision, convolutional-neural-networks, deep-learning, optimization-algorithms, summary]
 starred_at: "2023-10-09T02:50:32Z"
 tags:
-  - coding
   - ai
   - cv
-  - deep-learning
+  - ml
+  - practice
   - tutorial
 ---
 

@@ -11,7 +11,6 @@ tags:
   - engine
   - unity
   - plugin
-  - ios
 ---
 
 # apple/unityplugins

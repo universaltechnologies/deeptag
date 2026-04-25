@@ -7,10 +7,8 @@ stars: 27734
 topics: [claude-code, guide, tutorial]
 starred_at: "2026-03-30T02:34:42Z"
 tags:
-  - coding
   - ai
-  - llm
-  - mcp
+  - agent
   - tutorial
 ---
 

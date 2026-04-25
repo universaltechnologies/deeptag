@@ -8,11 +8,8 @@ topics: [c, createfile, device-driver, dll, dokan, dokan-library, driver, driver
 starred_at: "2017-03-16T12:03:23Z"
 tags:
   - coding
-  - systems
   - filesystem
-  - windows
   - library
-  - driver
 ---
 
 # dokan-dev/dokany

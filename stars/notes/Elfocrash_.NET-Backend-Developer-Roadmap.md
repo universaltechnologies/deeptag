@@ -7,9 +7,9 @@ stars: 6834
 topics: [aspnet-core, aspnetcore, dotnet, dotnet-core, kubernetes, microservices, roadmap]
 starred_at: "2023-03-10T06:45:29Z"
 tags:
-  - coding
+  - backend
   - dotnet
-  - tutorial
+  - book
 ---
 
 # Elfocrash/.NET-Backend-Developer-Roadmap

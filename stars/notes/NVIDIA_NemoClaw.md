@@ -7,11 +7,10 @@ stars: 19506
 topics: []
 starred_at: "2026-03-17T20:14:16Z"
 tags:
-  - coding
   - ai
   - agent
-  - security
-  - tool
+  - inference
+  - framework
 ---
 
 # NVIDIA/NemoClaw

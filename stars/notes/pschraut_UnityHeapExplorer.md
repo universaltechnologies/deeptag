@@ -8,12 +8,9 @@ topics: [analyzer, debugger, gamedev, memory, profiler, unity, unity3d, unity3d-
 starred_at: "2021-11-22T02:37:52Z"
 tags:
   - coding
-  - engine
   - unity
   - profiler
-  - memory
-  - debug
-  - plugin
+  - tool
 ---
 
 # pschraut/UnityHeapExplorer

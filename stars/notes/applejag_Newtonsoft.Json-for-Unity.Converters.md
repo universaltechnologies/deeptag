@@ -7,11 +7,9 @@ stars: 402
 topics: [hacktoberfest, newtonsoft-json, unity-package-manager, unity3d, unity3d-plugin, upm]
 starred_at: "2024-03-25T05:30:24Z"
 tags:
-  - coding
-  - engine
   - unity
-  - data
   - serialization
+  - json
   - library
 ---
 

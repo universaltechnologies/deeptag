@@ -8,10 +8,10 @@ topics: [android, decompiler, dex, java]
 starred_at: "2023-12-14T10:10:49Z"
 tags:
   - coding
-  - language
-  - java
-  - android
   - reverse
+  - android
+  - java
+  - gui
   - tool
 ---
 

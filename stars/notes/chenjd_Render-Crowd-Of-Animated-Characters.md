@@ -11,8 +11,9 @@ tags:
   - engine
   - unity
   - graphic
-  - shader
-  - performance
+  - animation
+  - rendering
+  - library
 ---
 
 # chenjd/Render-Crowd-Of-Animated-Characters

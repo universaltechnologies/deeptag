@@ -7,10 +7,8 @@ stars: 23
 topics: [csharp, no-dependencies, quasi-random-generator, random, unity, unity3d]
 starred_at: "2024-04-02T03:32:02Z"
 tags:
-  - coding
-  - math
+  - csharp
   - library
-  - unity
 ---
 
 # DCFApixels/Quasi_Random

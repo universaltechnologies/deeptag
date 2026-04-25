@@ -7,10 +7,8 @@ stars: 2154
 topics: [linux, linux-distributions-timeline, linux-timeline, svg, timeline]
 starred_at: "2025-06-07T09:05:06Z"
 tags:
-  - coding
-  - linux
   - svg
-  - tool
+  - visualization
 ---
 
 # FabioLolix/LinuxTimeline

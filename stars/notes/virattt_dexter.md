@@ -7,10 +7,9 @@ stars: 21388
 topics: []
 starred_at: "2026-03-26T12:48:34Z"
 tags:
-  - coding
   - ai
   - agent
-  - library
+  - tool
 ---
 
 # virattt/dexter

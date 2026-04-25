@@ -7,11 +7,10 @@ stars: 31705
 topics: [asynchronous, networking, rust]
 starred_at: "2023-02-24T03:26:26Z"
 tags:
-  - coding
   - rust
   - runtime
   - async
-  - library
+  - framework
 ---
 
 # tokio-rs/tokio

@@ -9,8 +9,8 @@ starred_at: "2025-06-04T12:40:20Z"
 tags:
   - graphic
   - shader
-  - shadow
   - unity
+  - library
 ---
 
 # wonkee-kim/unity-fake-character-shadows

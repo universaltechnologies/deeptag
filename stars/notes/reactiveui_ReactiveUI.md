@@ -7,10 +7,8 @@ stars: 8472
 topics: [android, csharp, dotnet, first-timers, fody, framework, functional-reactive-programming, hacktoberfest, ios, mvvm, reactive-extensions, reactive-programming, reactiveui, reactivex, tizen, uwp, winforms, wpf, xamarin, xamarin-forms]
 starred_at: "2021-04-25T09:13:17Z"
 tags:
-  - coding
-  - dotnet
   - mvvm
-  - gui
+  - dotnet
   - cross-platform
   - framework
 ---

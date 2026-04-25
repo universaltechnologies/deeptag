@@ -8,10 +8,9 @@ topics: [addon, blender, glsl, gltf, gltf2-export, gltf2-loader, threejs, webgl]
 starred_at: "2025-08-18T06:06:45Z"
 tags:
   - graphic
-  - shader
-  - material
-  - glsl
   - gltf
+  - texture
+  - glsl
   - plugin
 ---
 

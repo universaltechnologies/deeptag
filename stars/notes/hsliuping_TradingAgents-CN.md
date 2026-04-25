@@ -9,7 +9,6 @@ starred_at: "2026-03-24T15:20:48Z"
 tags:
   - coding
   - ai
-  - llm
   - agent
   - framework
 ---

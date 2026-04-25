@@ -10,8 +10,6 @@ tags:
   - graphic
   - shader
   - glsl
-  - webgl
-  - rasterization
   - tutorial
 ---
 

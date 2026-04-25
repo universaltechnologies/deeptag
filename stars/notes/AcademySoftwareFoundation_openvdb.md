@@ -8,10 +8,10 @@ topics: [c-plus-plus, dreamworks, fx, openvdb, openvdb-development, vfx, volume-
 starred_at: "2018-03-06T04:28:15Z"
 tags:
   - graphic
+  - scene
   - volume
-  - voxel
   - library
-  - vfx
+  - cpp
 ---
 
 # AcademySoftwareFoundation/openvdb

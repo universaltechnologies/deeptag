@@ -7,13 +7,9 @@ stars: 1312
 topics: [ajax, async-requests, http, http-client, http-requests, httpclient, json, promises, request-promise, requests, rest, rest-api, rest-client, unity, unity-asset, unity-scripts, unity3d, unity3d-plugin, web-request, web-services]
 starred_at: "2023-04-13T07:45:51Z"
 tags:
-  - coding
-  - engine
   - unity
-  - networking
   - http
   - library
-  - plugin
 ---
 
 # proyecto26/RestClient

@@ -7,10 +7,7 @@ stars: 1629
 topics: [game-development, gamedev, image-processing, pixel-art]
 starred_at: "2026-02-09T07:15:42Z"
 tags:
-  - coding
-  - media
   - image-processing
-  - webassembly
   - tool
 ---
 

@@ -9,8 +9,9 @@ starred_at: "2025-02-11T10:57:01Z"
 tags:
   - coding
   - debug
+  - ide
+  - lua
   - plugin
-  - tool
 ---
 
 # Tencent/LuaPanda

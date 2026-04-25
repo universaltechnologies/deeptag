@@ -7,12 +7,10 @@ stars: 1203
 topics: []
 starred_at: "2026-04-03T08:10:55Z"
 tags:
-  - coding
   - ai
-  - mcp
+  - agent
   - prompt
   - book
-  - agent
 ---
 
 # ZhangHanDong/harness-engineering-from-cc-to-ai-coding

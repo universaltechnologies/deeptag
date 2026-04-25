@@ -7,10 +7,11 @@ stars: 12110
 topics: []
 starred_at: "2025-07-25T08:41:03Z"
 tags:
-  - coding
   - web
-  - library
+  - frontend
   - ui
+  - javascript
+  - library
 ---
 
 # CodeSeven/toastr

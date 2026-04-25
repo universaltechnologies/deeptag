@@ -7,8 +7,8 @@ stars: 354
 topics: []
 starred_at: "2023-08-14T07:14:02Z"
 tags:
-  - graphic
-  - shader
+  - reverse
+  - directx
   - hlsl
   - tool
 ---

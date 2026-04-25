@@ -9,9 +9,9 @@ starred_at: "2026-03-23T01:41:38Z"
 tags:
   - coding
   - ai
-  - agent
-  - workflow
-  - tool
+  - skills
+  - prompt
+  - library
 ---
 
 # MiniMax-AI/skills

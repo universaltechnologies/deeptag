@@ -7,9 +7,8 @@ stars: 36
 topics: []
 starred_at: "2024-06-14T07:04:59Z"
 tags:
-  - coding
-  - web
-  - media
+  - ai
+  - voice
 ---
 
 # BytedanceSpeech/bytedancespeech.github.io

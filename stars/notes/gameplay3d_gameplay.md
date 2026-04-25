@@ -9,8 +9,6 @@ starred_at: "2017-02-07T03:52:26Z"
 tags:
   - coding
   - engine
-  - game
-  - vulkan
   - cross-platform
   - framework
 ---

@@ -10,9 +10,7 @@ tags:
   - coding
   - engine
   - unity
-  - graphic
-  - rendering
-  - vfx
+  - library
 ---
 
 # keijiro/SplatVFX

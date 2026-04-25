@@ -10,8 +10,8 @@ tags:
   - graphic
   - rendering
   - ray-tracing
-  - pbr
   - cross-platform
+  - plugin
 ---
 
 # JiayinCao/SORT

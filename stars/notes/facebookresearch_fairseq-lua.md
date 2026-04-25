@@ -7,10 +7,10 @@ stars: 3727
 topics: []
 starred_at: "2024-11-15T16:22:30Z"
 tags:
-  - coding
   - ai
   - nlp
-  - library
+  - lua
+  - framework
 ---
 
 # facebookresearch/fairseq-lua

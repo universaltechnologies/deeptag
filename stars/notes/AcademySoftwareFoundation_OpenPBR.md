@@ -8,8 +8,9 @@ topics: [3d-graphics, computer-graphics, materialx, physically-based-rendering, 
 starred_at: "2023-11-06T02:27:26Z"
 tags:
   - graphic
-  - shader
+  - material
   - pbr
+  - spec
 ---
 
 # AcademySoftwareFoundation/OpenPBR

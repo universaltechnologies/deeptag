@@ -10,8 +10,7 @@ tags:
   - coding
   - ai
   - agent
-  - llm
-  - benchmark
+  - framework
 ---
 
 # feelingai-team/CodeBrain

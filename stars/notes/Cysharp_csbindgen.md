@@ -7,10 +7,10 @@ stars: 905
 topics: []
 starred_at: "2024-08-19T08:56:01Z"
 tags:
-  - coding
   - ffi
+  - rust
+  - csharp
   - tool
-  - dotnet
 ---
 
 # Cysharp/csbindgen

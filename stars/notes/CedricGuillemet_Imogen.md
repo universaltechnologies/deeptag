@@ -11,8 +11,6 @@ tags:
   - material
   - texture
   - tool
-  - opengl
-  - glsl
 ---
 
 # CedricGuillemet/Imogen

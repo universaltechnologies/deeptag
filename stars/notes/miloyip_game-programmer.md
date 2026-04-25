@@ -7,10 +7,9 @@ stars: 18584
 topics: []
 starred_at: "2017-04-15T06:40:20Z"
 tags:
-  - coding
   - game
-  - awesome
   - book
+  - tutorial
 ---
 
 # miloyip/game-programmer

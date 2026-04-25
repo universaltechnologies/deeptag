@@ -10,8 +10,6 @@ tags:
   - coding
   - language
   - compiler
-  - dotnet
-  - cross-platform
   - tool
 ---
 

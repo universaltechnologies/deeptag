@@ -7,11 +7,9 @@ stars: 186343
 topics: [cli, cli-app, oh-my-zsh, oh-my-zsh-plugin, oh-my-zsh-theme, ohmyzsh, plugin-framework, plugins, productivity, shell, terminal, theme, themes, zsh, zsh-configuration]
 starred_at: "2022-03-11T07:13:04Z"
 tags:
-  - coding
-  - tools
+  - terminal
   - shell
   - framework
-  - productivity
 ---
 
 # ohmyzsh/ohmyzsh

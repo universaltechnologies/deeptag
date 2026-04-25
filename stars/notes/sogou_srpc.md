@@ -8,11 +8,10 @@ topics: [brpc, opentelemetry, protobuf, rpc, thrift, trpc, workflow]
 starred_at: "2022-05-16T01:24:22Z"
 tags:
   - coding
-  - networking
+  - network
   - rpc
   - cpp
   - framework
-  - performance
 ---
 
 # sogou/srpc

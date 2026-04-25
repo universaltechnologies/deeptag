@@ -8,13 +8,9 @@ topics: []
 starred_at: "2025-06-04T11:06:43Z"
 tags:
   - graphic
-  - lighting
-  - shadow
   - shadowmap
-  - coding
-  - engine
   - unity
-  - practice
+  - library
 ---
 
 # dreamfairy/Unity_Stable_CascadedShadowMapping_CSM

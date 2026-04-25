@@ -10,7 +10,6 @@ tags:
   - coding
   - engine
   - awesome
-  - tool
 ---
 
 # bevyengine/bevy-assets

@@ -7,9 +7,9 @@ stars: 6188
 topics: []
 starred_at: "2019-12-23T07:40:30Z"
 tags:
-  - coding
   - tools
   - windows
+  - tool
 ---
 
 # canton7/SyncTrayzor

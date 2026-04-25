@@ -7,12 +7,9 @@ stars: 2692
 topics: [csharpgame, framework, game, gameframe, hotfix, hotupdate, u3d, unity, unity-framework, unity2d, unity3d, unity3d-framework, unity3d-game-workflow, unity3d-games, unity3d-hotfix]
 starred_at: "2020-10-29T08:22:54Z"
 tags:
-  - coding
-  - engine
   - unity
-  - game
+  - workflow
   - framework
-  - hotfix
 ---
 
 # yimengfan/BDFramework.Core

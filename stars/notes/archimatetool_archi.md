@@ -8,7 +8,9 @@ topics: [archimate, archimatetool]
 starred_at: "2023-02-18T02:49:04Z"
 tags:
   - tools
+  - productivity
   - cross-platform
+  - tool
 ---
 
 # archimatetool/archi

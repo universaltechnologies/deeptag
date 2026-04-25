@@ -7,11 +7,7 @@ stars: 464
 topics: [graphics, shader, unity, unity3d]
 starred_at: "2023-01-03T10:55:09Z"
 tags:
-  - graphic
-  - shader
-  - engine
-  - unity
-  - depth
+  - coding
 ---
 
 # keijiro/DepthInverseProjection

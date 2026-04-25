@@ -7,11 +7,10 @@ stars: 149
 topics: []
 starred_at: "2022-06-04T12:56:33Z"
 tags:
-  - coding
   - engine
   - unity
-  - library
-  - tool
+  - editor
+  - plugin
 ---
 
 # bansheeGz/BGCurve

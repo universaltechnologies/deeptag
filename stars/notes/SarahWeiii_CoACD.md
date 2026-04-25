@@ -8,8 +8,8 @@ topics: [collision, convex, convex-decomposition]
 starred_at: "2023-11-10T03:07:39Z"
 tags:
   - graphic
-  - scene
-  - physics
+  - 3d
+  - mesh
   - library
 ---
 

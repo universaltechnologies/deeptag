@@ -7,12 +7,9 @@ stars: 38025
 topics: [deep-learning, javascript, ocr, tesseract, webassembly]
 starred_at: "2023-11-23T18:00:38Z"
 tags:
-  - coding
-  - cv
-  - webassembly
-  - library
-  - web
   - javascript
+  - image-processing
+  - library
 ---
 
 # naptha/tesseract.js

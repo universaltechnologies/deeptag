@@ -8,9 +8,8 @@ topics: []
 starred_at: "2023-02-23T17:28:32Z"
 tags:
   - coding
-  - cpp
   - gui
-  - geometry
+  - library
 ---
 
 # colormotor/gfx_ui

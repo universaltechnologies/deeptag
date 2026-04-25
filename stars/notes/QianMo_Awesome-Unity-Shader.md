@@ -7,13 +7,10 @@ stars: 4296
 topics: [awesome, graphics-programming, posteffect, shader, shaderlab, unity, unity-shader, unity3d-shader]
 starred_at: "2018-11-18T14:11:46Z"
 tags:
-  - graphic
-  - shader
-  - post-processing
-  - coding
-  - engine
   - unity
+  - shader
   - awesome
+  - tutorial
 ---
 
 # QianMo/Awesome-Unity-Shader

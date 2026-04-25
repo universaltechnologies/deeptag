@@ -7,10 +7,10 @@ stars: 2283
 topics: [engineering, mathematics, mesh, meshing, pypi, python, vtk]
 starred_at: "2023-04-10T15:12:04Z"
 tags:
-  - coding
-  - data
+  - graphic
+  - mesh
+  - python
   - library
-  - tool
 ---
 
 # nschloe/meshio

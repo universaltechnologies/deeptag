@@ -8,7 +8,8 @@ topics: [ai, artificial-intelligence, autonomous-driving, autonomous-vehicles, c
 starred_at: "2019-11-07T01:55:27Z"
 tags:
   - coding
-  - ai
+  - game
+  - simulation
   - tool
 ---
 

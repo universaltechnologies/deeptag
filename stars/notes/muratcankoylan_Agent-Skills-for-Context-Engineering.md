@@ -7,12 +7,11 @@ stars: 15191
 topics: []
 starred_at: "2026-02-27T04:55:30Z"
 tags:
-  - coding
   - ai
   - agent
-  - mcp
-  - skills
+  - context
   - awesome
+  - practice
 ---
 
 # muratcankoylan/Agent-Skills-for-Context-Engineering

@@ -7,10 +7,10 @@ stars: 390
 topics: []
 starred_at: "2025-04-18T03:38:58Z"
 tags:
-  - coding
   - android
-  - plugin
   - hook
+  - debug
+  - tool
 ---
 
 # Palatis/XAppDebug

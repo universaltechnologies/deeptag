@@ -9,7 +9,8 @@ starred_at: "2026-01-08T02:49:08Z"
 tags:
   - coding
   - ai
-  - agent
+  - skills
+  - markdown
   - plugin
 ---
 

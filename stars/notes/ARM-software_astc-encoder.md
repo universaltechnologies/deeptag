@@ -8,7 +8,7 @@ topics: [astc, astcenc, compression, image-compression]
 starred_at: "2022-07-18T07:04:37Z"
 tags:
   - graphic
-  - material
+  - texture
   - compression
   - tool
 ---

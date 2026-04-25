@@ -8,6 +8,8 @@ topics: [closedxml, excel, hacktoberfest, hacktoberfest2020, openxml, xlsm, xlsx
 starred_at: "2025-06-27T09:31:31Z"
 tags:
   - coding
+  - data
+  - xml
   - dotnet
   - library
 ---

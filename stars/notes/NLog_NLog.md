@@ -8,10 +8,9 @@ topics: [aot, aot-compatible, c-sharp, cross-platform, csharp, dotnet, json, log
 starred_at: "2024-12-23T11:26:05Z"
 tags:
   - coding
-  - dotnet
   - logging
+  - dotnet
   - library
-  - cross-platform
 ---
 
 # NLog/NLog

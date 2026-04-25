@@ -7,10 +7,8 @@ stars: 120691
 topics: [agent-skills]
 starred_at: "2026-01-07T17:35:36Z"
 tags:
-  - coding
   - ai
-  - agent
-  - mcp
+  - skills
   - library
 ---
 

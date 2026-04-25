@@ -7,10 +7,11 @@ stars: 45663
 topics: [bevy, game-development, game-engine, gamedev, open-source, rust]
 starred_at: "2023-02-24T03:26:10Z"
 tags:
-  - coding
   - engine
+  - custom
   - game
   - ecs
+  - rust
   - framework
 ---
 

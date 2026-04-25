@@ -7,11 +7,10 @@ stars: 3470
 topics: [ant-design-vue, bilibili-download, electron, electron-builder, ffmpeg-installer, node-js, typescript, vuejs]
 starred_at: "2022-12-06T06:48:55Z"
 tags:
-  - coding
-  - web
-  - desktop
-  - tool
+  - tools
+  - video
   - cross-platform
+  - tool
 ---
 
 # BilibiliVideoDownload/BilibiliVideoDownload

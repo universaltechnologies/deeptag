@@ -8,10 +8,7 @@ topics: [npr, shader, toon, toonrendering, toonshading, unity]
 starred_at: "2025-08-05T13:30:50Z"
 tags:
   - coding
-  - engine
   - unity
-  - graphic
-  - shader
   - plugin
 ---
 

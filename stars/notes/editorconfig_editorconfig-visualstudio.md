@@ -7,10 +7,9 @@ stars: 365
 topics: []
 starred_at: "2020-12-29T04:02:37Z"
 tags:
-  - tools
-  - plugin
-  - editor
+  - coding
   - ide
+  - plugin
 ---
 
 # editorconfig/editorconfig-visualstudio

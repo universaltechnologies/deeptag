@@ -7,10 +7,8 @@ stars: 15041
 topics: []
 starred_at: "2026-03-17T13:52:00Z"
 tags:
-  - coding
-  - ai
+  - markdown
   - book
-  - practice
 ---
 
 # easychen/opc-methodology

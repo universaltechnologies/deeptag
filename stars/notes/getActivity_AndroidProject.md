@@ -7,10 +7,8 @@ stars: 6866
 topics: [android, baseactivity, compose, dialog, flutter, glide, jetpack, kotlin, mvi, mvp, mvvm, okhttp, popupwindow, recyclerview, retrofit, rxjava, titlebar, toast]
 starred_at: "2025-07-25T08:42:52Z"
 tags:
-  - coding
   - android
-  - java
-  - kotlin
+  - architecture
   - framework
 ---
 

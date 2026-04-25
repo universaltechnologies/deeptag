@@ -7,11 +7,10 @@ stars: 22240
 topics: [acp, ai, ai-agent, chat, chatbot, claude-code, clawd, clawdbot, codex, cowork, gemini, gemini-cli, llm, nano-banana, office, openclaw, opencode, skills, webui]
 starred_at: "2026-01-17T12:58:04Z"
 tags:
-  - coding
   - ai
   - agent
-  - web
-  - ui
+  - desktop
+  - cross-platform
   - tool
 ---
 

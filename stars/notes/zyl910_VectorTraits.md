@@ -8,11 +8,9 @@ topics: [arm, csharp, dotnet, simd, x86]
 starred_at: "2024-01-11T07:38:24Z"
 tags:
   - coding
-  - optimization
   - simd
-  - dotnet
-  - library
   - cross-platform
+  - library
 ---
 
 # zyl910/VectorTraits

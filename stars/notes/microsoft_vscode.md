@@ -8,9 +8,9 @@ topics: [editor, electron, microsoft, typescript, visual-studio-code]
 starred_at: "2017-03-05T06:56:38Z"
 tags:
   - coding
-  - editor
-  - electron
-  - typescript
+  - ide
+  - cross-platform
+  - tool
 ---
 
 # microsoft/vscode

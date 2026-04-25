@@ -9,9 +9,8 @@ starred_at: "2024-09-04T04:18:21Z"
 tags:
   - graphic
   - rendering
-  - platform
+  - rasterization
   - library
-  - cross-platform
 ---
 
 # servo/webrender

@@ -7,11 +7,9 @@ stars: 489
 topics: []
 starred_at: "2022-02-21T08:17:54Z"
 tags:
-  - coding
-  - data
   - compression
+  - python
   - library
-  - tool
 ---
 
 # intake/python-snappy

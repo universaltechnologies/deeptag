@@ -9,9 +9,7 @@ starred_at: "2018-11-27T05:29:39Z"
 tags:
   - coding
   - editor
-  - frontend
-  - javascript
-  - tool
+  - library
 ---
 
 # ajaxorg/ace

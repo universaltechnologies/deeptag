@@ -7,10 +7,7 @@ stars: 15475
 topics: []
 starred_at: "2022-10-07T15:37:37Z"
 tags:
-  - math
-  - coding
   - tutorial
-  - awesome
 ---
 
 # Experience-Monks/math-as-code

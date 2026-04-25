@@ -9,10 +9,9 @@ starred_at: "2023-09-19T07:55:32Z"
 tags:
   - coding
   - engine
-  - game
-  - platform
-  - opengl
+  - custom
   - cross-platform
+  - framework
 ---
 
 # scottcgi/Mojoc

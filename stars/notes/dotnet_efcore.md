@@ -7,11 +7,9 @@ stars: 14626
 topics: [aspnet-product, c-sharp, database, dotnet-core, dotnet-framework, dotnet-standard, entity-framework, hacktoberfest, orm]
 starred_at: "2024-06-13T01:55:24Z"
 tags:
-  - coding
+  - database
   - dotnet
-  - data
-  - sql
-  - library
+  - framework
 ---
 
 # dotnet/efcore

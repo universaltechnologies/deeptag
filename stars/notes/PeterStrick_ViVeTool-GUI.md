@@ -7,8 +7,7 @@ stars: 1880
 topics: [feature-control, gui, mach2, vb-net, vbnet, vive, vivetool, windows, windows-10, windows-11, windows-features, windows10, windows11]
 starred_at: "2024-11-02T08:24:08Z"
 tags:
-  - coding
-  - dotnet
+  - tools
   - windows
   - gui
   - tool

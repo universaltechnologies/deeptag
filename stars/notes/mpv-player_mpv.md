@@ -7,10 +7,9 @@ stars: 34878
 topics: [audio, c, ffmpeg, mplayer, mpv, multimedia, video]
 starred_at: "2025-10-13T09:07:05Z"
 tags:
-  - coding
+  - tools
   - media
-  - video
-  - audio
+  - cross-platform
   - tool
 ---
 

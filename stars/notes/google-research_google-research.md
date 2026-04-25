@@ -10,7 +10,7 @@ tags:
   - coding
   - ai
   - ml
-  - awesome
+  - library
 ---
 
 # google-research/google-research

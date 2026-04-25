@@ -10,8 +10,6 @@ tags:
   - coding
   - ai
   - agent
-  - rag
-  - mcp
   - framework
 ---
 

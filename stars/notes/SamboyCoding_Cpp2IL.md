@@ -7,9 +7,7 @@ stars: 2348
 topics: [analysis, decompiler, il2cpp, il2cpp-metadata, reverse-engineering, static-analysis, unity]
 starred_at: "2023-05-24T17:28:30Z"
 tags:
-  - coding
   - reverse
-  - engine
   - unity
   - tool
 ---

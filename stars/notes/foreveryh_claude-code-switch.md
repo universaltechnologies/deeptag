@@ -8,8 +8,6 @@ topics: []
 starred_at: "2026-04-06T13:08:03Z"
 tags:
   - coding
-  - ai
-  - llm
   - cli
   - tool
 ---

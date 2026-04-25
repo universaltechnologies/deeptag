@@ -8,7 +8,6 @@ topics: []
 starred_at: "2021-08-16T04:14:41Z"
 tags:
   - graphic
-  - rendering
   - ray-tracing
   - book
 ---

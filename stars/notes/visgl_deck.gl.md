@@ -7,9 +7,11 @@ stars: 14099
 topics: [data-visualization, geospatial-analysis, javascript, maps, python, visualization, webgl]
 starred_at: "2017-04-17T03:36:42Z"
 tags:
-  - graphic
+  - web
+  - frontend
   - visualization
   - webgl
+  - webgpu
   - framework
 ---
 

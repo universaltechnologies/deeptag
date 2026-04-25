@@ -8,11 +8,10 @@ topics: [android-god-eye, android-performance, apm, blockcanary, debugging-tool,
 starred_at: "2025-06-03T15:46:36Z"
 tags:
   - android
-  - profiler
-  - performance
-  - tool
-  - debug
   - monitoring
+  - profiler
+  - library
+  - tool
 ---
 
 # Kyson/AndroidGodEye

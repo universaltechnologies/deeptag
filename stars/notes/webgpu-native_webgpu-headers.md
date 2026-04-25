@@ -7,11 +7,11 @@ stars: 555
 topics: []
 starred_at: "2022-12-30T19:09:25Z"
 tags:
-  - graphic
-  - platform
+  - coding
+  - engine
+  - api
   - webgpu
   - header-only
-  - spec
 ---
 
 # webgpu-native/webgpu-headers

@@ -7,9 +7,8 @@ stars: 8473
 topics: [cpp, csharp, game, game-development, game-networking, game-programming, gamedev, godot, godot-engine, godotengine, multiplayer, netcode, network, network-programming, networking, unity, unity3d, unreal-engine, unreal-engine-4, unreal-engine-5]
 starred_at: "2023-04-04T05:03:01Z"
 tags:
-  - coding
-  - networking
   - game
+  - network
   - awesome
 ---
 

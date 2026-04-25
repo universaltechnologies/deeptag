@@ -11,8 +11,6 @@ tags:
   - algorithm
   - header-only
   - library
-  - math
-  - performance
 ---
 
 # Forceflow/libmorton

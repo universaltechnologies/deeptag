@@ -9,8 +9,8 @@ starred_at: "2021-09-22T07:47:17Z"
 tags:
   - coding
   - android
+  - cli
   - tool
-  - java
 ---
 
 # google/bundletool

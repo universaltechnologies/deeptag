@@ -7,9 +7,7 @@ stars: 11279
 topics: [ai-image-generation, ai-prompts, awesome, awesome-list, gemini, gemini-ai, google-gemini, image-generation, multilingual, nano-banana, nano-banana-2, nano-banana-pro, nanobanana, nanobanana-pro, prompt-engineering, prompts]
 starred_at: "2025-12-21T02:56:10Z"
 tags:
-  - coding
   - ai
-  - llm
   - prompt
   - awesome
 ---

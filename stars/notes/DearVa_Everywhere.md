@@ -7,12 +7,12 @@ stars: 5833
 topics: [agent, ai, avalonia, chat, claude, cowork, deepseek, gemini, llm, mcp, ollama, openai, rag, ui-automation]
 starred_at: "2026-01-08T07:20:57Z"
 tags:
-  - coding
   - ai
-  - llm
   - agent
   - mcp
   - desktop
+  - cross-platform
+  - tool
 ---
 
 # DearVa/Everywhere

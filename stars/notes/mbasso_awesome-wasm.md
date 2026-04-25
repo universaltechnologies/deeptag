@@ -8,7 +8,6 @@ topics: [awesome, awesome-list, awesome-wasm, awesome-webassembly, list, lists, 
 starred_at: "2024-08-02T08:52:22Z"
 tags:
   - coding
-  - web
   - webassembly
   - awesome
 ---

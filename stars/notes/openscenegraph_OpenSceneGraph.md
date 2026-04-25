@@ -7,9 +7,9 @@ stars: 3566
 topics: [c-plus-plus, cmake, opengl, opengl-es, openscenegraph, osg, scenegraph]
 starred_at: "2016-03-10T04:07:10Z"
 tags:
-  - graphic
-  - scene
-  - opengl
+  - coding
+  - engine
+  - custom
   - library
   - cross-platform
 ---

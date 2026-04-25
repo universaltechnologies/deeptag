@@ -7,10 +7,8 @@ stars: 37832
 topics: [cross-platform, distributed-systems, encryption, file-manager, open-source, rust, storage, typescript]
 starred_at: "2023-03-06T18:01:57Z"
 tags:
-  - coding
-  - systems
+  - tools
   - storage
-  - networking
   - cross-platform
   - tool
 ---

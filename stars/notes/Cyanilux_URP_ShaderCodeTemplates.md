@@ -7,12 +7,13 @@ stars: 318
 topics: [hlsl, shaders, unity, urp]
 starred_at: "2023-03-17T22:01:27Z"
 tags:
-  - graphic
-  - shader
-  - hlsl
   - coding
   - engine
   - unity
+  - urp
+  - shader
+  - hlsl
+  - tutorial
 ---
 
 # Cyanilux/URP_ShaderCodeTemplates

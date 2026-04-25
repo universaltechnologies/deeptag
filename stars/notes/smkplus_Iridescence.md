@@ -9,12 +9,7 @@ starred_at: "2025-09-08T18:36:44Z"
 tags:
   - graphic
   - shader
-  - material
-  - coding
-  - engine
-  - unity
   - tutorial
-  - practice
 ---
 
 # smkplus/Iridescence

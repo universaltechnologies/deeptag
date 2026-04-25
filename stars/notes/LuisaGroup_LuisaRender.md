@@ -9,10 +9,9 @@ starred_at: "2022-10-31T07:55:58Z"
 tags:
   - graphic
   - rendering
-  - path-tracing
   - ray-tracing
-  - framework
   - cross-platform
+  - framework
 ---
 
 # LuisaGroup/LuisaRender

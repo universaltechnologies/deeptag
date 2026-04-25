@@ -7,11 +7,11 @@ stars: 420
 topics: [batch-job, codepoint, cross-platform, dear-imgui, embedded, font, font-awesome, font-icons, font-merge, free-software, imgui, linux, macos, osx, software, subset-font, theme, tool, windows]
 starred_at: "2023-02-23T17:40:08Z"
 tags:
-  - tools
   - coding
+  - gui
   - font
-  - cross-platform
   - tool
+  - cross-platform
 ---
 
 # aiekick/ImGuiFontStudio

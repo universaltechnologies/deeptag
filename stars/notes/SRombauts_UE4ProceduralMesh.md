@@ -7,14 +7,9 @@ stars: 173
 topics: [procedural-generation, procedural-meshes, unreal-engine-4]
 starred_at: "2018-04-09T00:59:56Z"
 tags:
-  - coding
-  - engine
-  - unity
   - unreal
-  - plugin
-  - scene
-  - mesh
   - procedural
+  - plugin
 ---
 
 # SRombauts/UE4ProceduralMesh

@@ -8,11 +8,14 @@ topics: []
 starred_at: "2022-10-26T06:37:43Z"
 tags:
   - coding
-  - graphic
+  - engine
+  - unity
+  - game
+  - simulation
   - shader
   - compute-shader
-  - algorithm
-  - simulation
+  - performance
+  - tutorial
 ---
 
 # jtsorlinis/BoidsUnity

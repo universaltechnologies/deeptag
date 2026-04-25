@@ -7,10 +7,8 @@ stars: 5597
 topics: [cartography, dungeons-and-dragons, fantasy-maps, generator, javascript, map-generation, mapmaker, procedural-generation]
 starred_at: "2024-12-26T12:21:38Z"
 tags:
-  - procedural
-  - web
+  - browser
   - tool
-  - visualization
 ---
 
 # Azgaar/Fantasy-Map-Generator

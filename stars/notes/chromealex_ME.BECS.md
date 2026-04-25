@@ -7,11 +7,9 @@ stars: 248
 topics: []
 starred_at: "2023-09-27T08:02:40Z"
 tags:
-  - coding
-  - game
+  - unity
   - ecs
-  - library
-  - performance
+  - framework
 ---
 
 # chromealex/ME.BECS

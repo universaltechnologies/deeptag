@@ -7,11 +7,10 @@ stars: 22022
 topics: [compiler, hacktoberfest, interpreter, jit, language, python-language, python3, rust, wasm]
 starred_at: "2021-07-16T07:39:54Z"
 tags:
-  - coding
   - language
-  - compiler
-  - runtime
-  - jit
+  - python
+  - rust
+  - library
 ---
 
 # RustPython/RustPython

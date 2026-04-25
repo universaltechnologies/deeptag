@@ -8,6 +8,8 @@ topics: [date, no-std, rust, time]
 starred_at: "2023-02-24T18:30:40Z"
 tags:
   - coding
+  - language
+  - rust
   - library
 ---
 

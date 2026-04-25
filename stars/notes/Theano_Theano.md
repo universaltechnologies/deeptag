@@ -9,7 +9,7 @@ starred_at: "2017-03-07T06:22:32Z"
 tags:
   - coding
   - ai
-  - math
+  - deep-learning
   - library
 ---
 

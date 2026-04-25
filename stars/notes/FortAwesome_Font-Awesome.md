@@ -8,11 +8,12 @@ topics: [css, font, fontawesome, icons, svg-icons, svg-sprites, webfont]
 starred_at: "2017-06-06T11:53:46Z"
 tags:
   - coding
-  - media
-  - font
   - web
   - css
-  - framework
+  - media
+  - font
+  - svg
+  - library
 ---
 
 # FortAwesome/Font-Awesome

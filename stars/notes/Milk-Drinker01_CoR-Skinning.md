@@ -10,8 +10,7 @@ tags:
   - coding
   - engine
   - unity
-  - graphic
-  - animation
+  - library
 ---
 
 # Milk-Drinker01/CoR-Skinning

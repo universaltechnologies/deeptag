@@ -7,9 +7,9 @@ stars: 2085
 topics: []
 starred_at: "2024-10-31T11:39:38Z"
 tags:
-  - coding
-  - c
+  - systems
   - embedded
+  - linux
   - tool
 ---
 

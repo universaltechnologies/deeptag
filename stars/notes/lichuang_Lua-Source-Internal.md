@@ -11,7 +11,6 @@ tags:
   - language
   - lua
   - book
-  - runtime
 ---
 
 # lichuang/Lua-Source-Internal

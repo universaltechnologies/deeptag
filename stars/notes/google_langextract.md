@@ -7,11 +7,12 @@ stars: 35681
 topics: [gemini, gemini-ai, gemini-api, gemini-flash, gemini-pro, information-extration, large-language-models, llm, nlp, python, structured-data]
 starred_at: "2026-01-16T15:40:24Z"
 tags:
-  - coding
   - ai
-  - llm
   - nlp
+  - llm
+  - visualization
   - library
+  - python
 ---
 
 # google/langextract

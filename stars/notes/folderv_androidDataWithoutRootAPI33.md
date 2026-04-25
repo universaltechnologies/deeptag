@@ -9,9 +9,7 @@ starred_at: "2025-01-08T13:21:48Z"
 tags:
   - coding
   - android
-  - tool
-  - filesystem
-  - kotlin
+  - library
 ---
 
 # folderv/androidDataWithoutRootAPI33

@@ -7,8 +7,8 @@ stars: 7310
 topics: [c-plus-plus, cpp, hacktoberfest, http, libcurl, library, requests]
 starred_at: "2022-05-26T12:36:18Z"
 tags:
-  - coding
-  - networking
+  - network
+  - http
   - cpp
   - library
 ---

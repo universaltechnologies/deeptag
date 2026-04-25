@@ -10,9 +10,8 @@ tags:
   - coding
   - engine
   - unity
-  - library
+  - debug
   - tool
-  - csharp
 ---
 
 # handzlikchris/Unity.MissingUnityEvents

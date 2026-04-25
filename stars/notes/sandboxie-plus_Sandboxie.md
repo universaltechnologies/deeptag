@@ -10,7 +10,7 @@ tags:
   - tools
   - security
   - windows
-  - c
+  - tool
 ---
 
 # sandboxie-plus/Sandboxie

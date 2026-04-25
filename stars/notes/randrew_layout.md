@@ -9,8 +9,10 @@ starred_at: "2023-02-23T17:20:24Z"
 tags:
   - coding
   - gui
-  - library
+  - c
+  - cpp
   - header-only
+  - library
 ---
 
 # randrew/layout

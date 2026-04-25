@@ -8,10 +8,9 @@ topics: []
 starred_at: "2024-02-02T12:28:57Z"
 tags:
   - graphic
+  - vfx
   - particles
-  - mesh
-  - geometry
-  - optimization
+  - tool
 ---
 
 # Moonflow-Studio/Moonflow-QuadParticleMeshOptimizer

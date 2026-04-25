@@ -8,10 +8,8 @@ topics: []
 starred_at: "2025-05-18T00:59:24Z"
 tags:
   - coding
-  - web
-  - frontend
+  - hook
   - library
-  - tool
 ---
 
 # jpillora/xhook

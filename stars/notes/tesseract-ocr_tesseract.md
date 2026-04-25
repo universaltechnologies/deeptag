@@ -8,9 +8,10 @@ topics: [hacktoberfest, lstm, machine-learning, ocr, ocr-engine, tesseract, tess
 starred_at: "2022-12-30T11:06:59Z"
 tags:
   - coding
+  - ai
   - cv
-  - cpp
   - library
+  - tool
 ---
 
 # tesseract-ocr/tesseract

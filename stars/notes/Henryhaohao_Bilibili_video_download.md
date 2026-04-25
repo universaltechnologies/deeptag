@@ -7,9 +7,8 @@ stars: 3492
 topics: [bilibili, python, videodownload]
 starred_at: "2022-12-06T06:48:14Z"
 tags:
-  - coding
-  - web
-  - media
+  - tools
+  - compute
   - tool
 ---
 

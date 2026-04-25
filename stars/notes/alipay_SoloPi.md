@@ -7,10 +7,10 @@ stars: 6158
 topics: [adb, android, arkts, automated-testing, automation, harmony, mobile-testing, test-automation, ui-testing]
 starred_at: "2024-08-19T06:46:32Z"
 tags:
-  - tools
-  - automation
   - android
-  - mobile
+  - test
+  - automation
+  - tool
 ---
 
 # alipay/SoloPi

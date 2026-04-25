@@ -7,10 +7,10 @@ stars: 98
 topics: [apk, apkdiffpatch, archive-patcher, bsdiff, diff, hdiffpatch, patch, sfpatcher, xdelta3, zip]
 starred_at: "2023-12-29T03:43:34Z"
 tags:
-  - coding
   - android
   - compression
   - algorithm
+  - cross-platform
   - tool
 ---
 

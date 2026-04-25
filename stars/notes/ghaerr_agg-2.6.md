@@ -8,10 +8,8 @@ topics: [agg, anti-grain, antialiasing, antigrain, compositor, graphics, library
 starred_at: "2023-06-15T06:34:35Z"
 tags:
   - graphic
-  - rendering
-  - rasterization
+  - 2d
   - library
-  - cross-platform
 ---
 
 # ghaerr/agg-2.6

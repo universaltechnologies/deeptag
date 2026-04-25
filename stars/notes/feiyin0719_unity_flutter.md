@@ -10,8 +10,7 @@ tags:
   - coding
   - engine
   - unity
-  - plugin
-  - cross-platform
+  - library
 ---
 
 # feiyin0719/unity_flutter

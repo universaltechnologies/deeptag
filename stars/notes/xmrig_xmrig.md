@@ -7,12 +7,10 @@ stars: 9895
 topics: [argon2, cpuminer, cryptocurrency, cryptonight, miner, monero, randomx, xmr, xmrig]
 starred_at: "2023-12-12T03:14:44Z"
 tags:
-  - coding
-  - c
-  - cuda
-  - tool
-  - performance
+  - tools
+  - compute
   - cross-platform
+  - tool
 ---
 
 # xmrig/xmrig

@@ -8,7 +8,6 @@ topics: []
 starred_at: "2017-03-10T01:26:27Z"
 tags:
   - coding
-  - data
   - compression
   - library
 ---

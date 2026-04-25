@@ -7,10 +7,10 @@ stars: 1231
 topics: [android-performance, battery, cpu, fps, ios-performance, jank, memory, network, performance-testing]
 starred_at: "2024-08-19T07:33:25Z"
 tags:
-  - tools
-  - performance
-  - android
-  - ios
+  - coding
+  - mobile
+  - profiler
+  - cross-platform
   - tool
 ---
 

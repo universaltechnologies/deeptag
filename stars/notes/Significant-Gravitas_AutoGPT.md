@@ -10,8 +10,7 @@ tags:
   - coding
   - ai
   - agent
-  - llm
-  - tool
+  - framework
 ---
 
 # Significant-Gravitas/AutoGPT

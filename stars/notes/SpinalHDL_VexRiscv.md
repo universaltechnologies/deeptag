@@ -7,9 +7,7 @@ stars: 3118
 topics: [cpu, fpga, riscv, soc, softcore, spinalhdl, verilog, vhdl]
 starred_at: "2024-11-15T09:02:23Z"
 tags:
-  - coding
   - hardware
-  - embedded
   - library
 ---
 

@@ -7,10 +7,7 @@ stars: 593
 topics: []
 starred_at: "2023-02-28T06:11:48Z"
 tags:
-  - coding
-  - engine
   - unity
-  - game
   - ecs
   - tutorial
 ---

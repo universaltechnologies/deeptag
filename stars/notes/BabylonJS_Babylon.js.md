@@ -7,11 +7,11 @@ stars: 25398
 topics: [3d, babylon, game-development, game-engine, game-engine-3d, typescript, webaudio, webgl, webgl2, webgpu, webvr, webxr]
 starred_at: "2017-08-30T12:07:13Z"
 tags:
-  - graphic
-  - rendering
+  - engine
   - webgl
   - webgpu
-  - coding
+  - game
+  - webassembly
   - framework
 ---
 

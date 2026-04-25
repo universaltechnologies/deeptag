@@ -8,11 +8,9 @@ topics: [cuda, graphics, models]
 starred_at: "2018-02-02T07:55:56Z"
 tags:
   - graphic
-  - scene
   - voxel
-  - coding
-  - systems
   - cuda
+  - cli
   - tool
 ---
 

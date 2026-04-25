@@ -10,8 +10,7 @@ tags:
   - coding
   - compression
   - library
-  - performance
-  - cross-platform
+  - tool
 ---
 
 # google/brotli

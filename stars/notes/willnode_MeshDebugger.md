@@ -10,9 +10,8 @@ tags:
   - coding
   - engine
   - unity
-  - graphic
-  - mesh
-  - plugin
+  - debug
+  - tool
 ---
 
 # willnode/MeshDebugger

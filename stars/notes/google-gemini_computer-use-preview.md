@@ -10,7 +10,8 @@ tags:
   - coding
   - ai
   - agent
-  - automation
+  - python
+  - tool
 ---
 
 # google-gemini/computer-use-preview

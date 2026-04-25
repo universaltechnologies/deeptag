@@ -7,11 +7,12 @@ stars: 2006
 topics: [android, binary, bsdiff, delta, delta-compression, diff, differential, dir, directories, folder, hdiffpatch, open-vcdiff, patch, patcher, update, vcdiff, xdelta]
 starred_at: "2023-02-22T07:47:42Z"
 tags:
-  - coding
-  - algorithm
-  - cross-platform
+  - build
+  - embedded
+  - android
   - library
-  - compression
+  - tool
+  - cross-platform
 ---
 
 # sisong/HDiffPatch

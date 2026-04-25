@@ -7,11 +7,9 @@ stars: 6493
 topics: [color-grading, editing, image-processing, masks, raw, react, rust, tauri]
 starred_at: "2026-01-20T15:18:42Z"
 tags:
-  - graphic
-  - post-processing
-  - coding
-  - media
+  - desktop
   - image-processing
+  - cross-platform
   - tool
 ---
 

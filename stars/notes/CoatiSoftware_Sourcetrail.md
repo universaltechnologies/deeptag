@@ -9,9 +9,8 @@ starred_at: "2023-11-07T02:16:32Z"
 tags:
   - coding
   - ide
-  - cpp
-  - tools
   - cross-platform
+  - tool
 ---
 
 # CoatiSoftware/Sourcetrail

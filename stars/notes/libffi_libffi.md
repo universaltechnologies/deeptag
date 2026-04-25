@@ -9,7 +9,6 @@ starred_at: "2023-03-28T18:01:58Z"
 tags:
   - coding
   - ffi
-  - cross-platform
   - library
 ---
 

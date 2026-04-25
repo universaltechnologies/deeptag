@@ -7,8 +7,8 @@ stars: 3315
 topics: []
 starred_at: "2025-12-21T01:58:55Z"
 tags:
-  - coding
   - ai
+  - prompt
   - awesome
 ---
 

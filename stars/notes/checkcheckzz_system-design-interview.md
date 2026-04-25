@@ -10,7 +10,7 @@ tags:
   - coding
   - architecture
   - awesome
-  - tutorial
+  - book
 ---
 
 # checkcheckzz/system-design-interview

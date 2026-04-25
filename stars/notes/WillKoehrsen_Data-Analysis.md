@@ -7,10 +7,9 @@ stars: 5513
 topics: []
 starred_at: "2019-04-17T01:24:05Z"
 tags:
-  - coding
   - data
-  - tutorial
   - practice
+  - tutorial
 ---
 
 # WillKoehrsen/Data-Analysis

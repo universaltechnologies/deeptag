@@ -7,10 +7,9 @@ stars: 8676
 topics: [ai, ai-integration, anthropic, claude, copilot, cursor, game-development, gamedev, gemini, llm, mcp, model-context-protocol, openai, unity, unity3d, videogames]
 starred_at: "2025-03-24T02:29:23Z"
 tags:
-  - coding
   - ai
   - mcp
-  - engine
+  - unity
   - tool
 ---
 

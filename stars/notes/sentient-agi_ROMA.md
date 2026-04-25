@@ -7,7 +7,6 @@ stars: 5025
 topics: []
 starred_at: "2026-01-21T03:57:14Z"
 tags:
-  - coding
   - ai
   - agent
   - framework

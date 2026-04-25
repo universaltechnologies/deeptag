@@ -7,8 +7,8 @@ stars: 18986
 topics: [ai, automation, bun, claude, cli, coding-assistant, developer-tools, typescript, workflow-engine, yaml]
 starred_at: "2026-04-18T03:34:00Z"
 tags:
-  - coding
   - ai
+  - agent
   - harness
   - workflow
   - tool

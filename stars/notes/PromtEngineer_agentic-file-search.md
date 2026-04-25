@@ -7,7 +7,6 @@ stars: 699
 topics: []
 starred_at: "2026-03-03T13:42:31Z"
 tags:
-  - coding
   - ai
   - agent
   - tool

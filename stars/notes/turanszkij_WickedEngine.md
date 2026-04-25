@@ -7,11 +7,8 @@ stars: 6986
 topics: [audio, directx12, entity-component-system, fbx, game-engine, global-illumination, gltf, input, jolt-physics, lua, pbr, raytracing, vrm, vulkan]
 starred_at: "2023-03-17T22:06:43Z"
 tags:
-  - graphic
+  - coding
   - engine
-  - rendering
-  - ray-tracing
-  - pbr
   - framework
 ---
 

@@ -7,11 +7,9 @@ stars: 79
 topics: [benchmark, benchmarking, benchmarks, big-o, big-o-notation, big-o-notation-algorithm, big-o-performance, collection, collections, csharp, data-structure, data-structures, data-structures-algorithms, data-structures-and-algorithms, datastructure, datastructures, datastructures-algorithms, dotnet, performance]
 starred_at: "2024-08-02T02:31:34Z"
 tags:
+  - benchmark
   - dotnet
   - performance
-  - benchmark
-  - algorithm
-  - practice
 ---
 
 # mjebrahimi/DotNet-Collections-Benchmark

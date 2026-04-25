@@ -7,10 +7,9 @@ stars: 3232
 topics: [awesome-list, diagram, uml]
 starred_at: "2023-09-29T09:19:31Z"
 tags:
-  - awesome
-  - tools
   - coding
-  - architecture
+  - visualization
+  - awesome
 ---
 
 # shubhamgrg04/awesome-diagramming

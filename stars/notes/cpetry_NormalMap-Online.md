@@ -8,10 +8,9 @@ topics: []
 starred_at: "2023-03-07T16:36:46Z"
 tags:
   - graphic
-  - material
   - normal
-  - tool
   - web
+  - tool
 ---
 
 # cpetry/NormalMap-Online

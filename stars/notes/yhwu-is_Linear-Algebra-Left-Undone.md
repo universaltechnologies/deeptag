@@ -8,7 +8,7 @@ topics: []
 starred_at: "2024-03-04T03:20:34Z"
 tags:
   - book
-  - math
+  - tutorial
 ---
 
 # yhwu-is/Linear-Algebra-Left-Undone

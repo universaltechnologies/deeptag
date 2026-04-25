@@ -7,13 +7,11 @@ stars: 1102
 topics: [built-in, graphics, open-source, shadergraph, shaders, unity-shader, unity-shaders, unity3d]
 starred_at: "2023-03-17T21:35:02Z"
 tags:
-  - coding
-  - engine
-  - unity
   - graphic
   - shader
   - hlsl
-  - library
+  - unity
+  - tutorial
 ---
 
 # adrian-miasik/unity-shaders

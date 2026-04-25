@@ -9,8 +9,7 @@ starred_at: "2025-05-19T14:41:06Z"
 tags:
   - coding
   - benchmark
-  - practice
-  - algorithm
+  - language
 ---
 
 # cgay/shootout

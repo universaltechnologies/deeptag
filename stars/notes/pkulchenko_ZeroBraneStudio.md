@@ -7,10 +7,8 @@ stars: 2753
 topics: [debugger, editor, ide, lua, lua-engines, syntax-highlighting, wxwidgets-applications, zerobrane, zerobrane-studio]
 starred_at: "2021-04-20T08:12:34Z"
 tags:
-  - coding
   - ide
   - lua
-  - debug
   - cross-platform
   - tool
 ---

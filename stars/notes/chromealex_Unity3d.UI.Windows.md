@@ -10,7 +10,7 @@ tags:
   - coding
   - engine
   - unity
-  - library
+  - plugin
 ---
 
 # chromealex/Unity3d.UI.Windows

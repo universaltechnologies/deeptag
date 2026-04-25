@@ -7,11 +7,10 @@ stars: 679
 topics: []
 starred_at: "2025-04-23T06:18:26Z"
 tags:
-  - graphic
-  - rendering
-  - platform
-  - directx
-  - performance
+  - coding
+  - systems
+  - gpu
+  - benchmark
   - tool
 ---
 

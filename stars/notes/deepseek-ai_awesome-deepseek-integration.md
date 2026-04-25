@@ -9,7 +9,6 @@ starred_at: "2025-10-15T03:17:34Z"
 tags:
   - coding
   - ai
-  - llm
   - awesome
 ---
 

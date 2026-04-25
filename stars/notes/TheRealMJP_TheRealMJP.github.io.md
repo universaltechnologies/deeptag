@@ -7,10 +7,7 @@ stars: 16
 topics: []
 starred_at: "2022-05-23T14:01:06Z"
 tags:
-  - tools
-  - browser
-  - productivity
-  - practice
+  - web
 ---
 
 # TheRealMJP/TheRealMJP.github.io

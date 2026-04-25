@@ -7,11 +7,9 @@ stars: 17901
 topics: [aot, cranelift, jit, lightweight, portable, runtime, rust, sandbox, standalone, wasi, wasm, wasmtime, webassembly]
 starred_at: "2023-03-28T18:02:48Z"
 tags:
-  - coding
-  - runtime
   - webassembly
-  - jit
-  - rust
+  - runtime
+  - tool
 ---
 
 # bytecodealliance/wasmtime

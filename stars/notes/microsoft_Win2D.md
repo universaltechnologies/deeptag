@@ -7,10 +7,11 @@ stars: 1893
 topics: []
 starred_at: "2017-03-05T06:54:51Z"
 tags:
-  - graphic
-  - rendering
+  - coding
+  - engine
+  - api
+  - directx
   - library
-  - windows
 ---
 
 # microsoft/Win2D

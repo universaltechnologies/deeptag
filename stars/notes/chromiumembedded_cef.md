@@ -8,8 +8,8 @@ topics: [browser, cef, chromium, framework]
 starred_at: "2024-11-16T01:31:10Z"
 tags:
   - coding
+  - web
   - framework
-  - browser
 ---
 
 # chromiumembedded/cef

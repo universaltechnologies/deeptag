@@ -7,8 +7,8 @@ stars: 13137
 topics: [art, go, graphics, primitives]
 starred_at: "2023-01-11T18:22:24Z"
 tags:
-  - graphic
-  - geometry
+  - coding
+  - image-processing
   - tool
 ---
 

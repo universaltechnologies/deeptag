@@ -10,9 +10,8 @@ tags:
   - coding
   - engine
   - unity
-  - graphic
-  - mesh
-  - tool
+  - algorithm
+  - library
 ---
 
 # hugoscurti/mesh-cutter

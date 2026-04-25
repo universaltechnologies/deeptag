@@ -7,10 +7,7 @@ stars: 443
 topics: []
 starred_at: "2017-05-19T01:47:38Z"
 tags:
-  - graphic
-  - platform
   - vulkan
-  - cross-platform
   - tutorial
 ---
 

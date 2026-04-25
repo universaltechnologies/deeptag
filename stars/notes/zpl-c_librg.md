@@ -8,8 +8,7 @@ topics: [c, chunk, cpp, enet, game, game-networking, gamedev, header-only, libra
 starred_at: "2023-01-31T09:24:36Z"
 tags:
   - coding
-  - networking
-  - game
+  - middleware
   - library
   - header-only
   - cross-platform

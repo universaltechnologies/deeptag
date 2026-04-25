@@ -8,7 +8,6 @@ topics: [3d, 3d-graphics, c-plus-plus, computer-graphics, cpp, engine, fun, grap
 starred_at: "2023-02-14T17:58:44Z"
 tags:
   - graphic
-  - rendering
   - rasterization
   - tutorial
 ---

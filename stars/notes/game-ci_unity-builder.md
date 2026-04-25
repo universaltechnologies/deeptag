@@ -7,11 +7,8 @@ stars: 1052
 topics: [actions, build, ci, game-ci, github, hacktoberfest, unity, unity-actions, unity-builder]
 starred_at: "2025-09-18T06:27:40Z"
 tags:
-  - coding
-  - engine
-  - unity
   - ci
-  - build
+  - unity
   - tool
 ---
 

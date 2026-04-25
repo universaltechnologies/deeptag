@@ -9,11 +9,8 @@ starred_at: "2017-02-03T07:23:28Z"
 tags:
   - coding
   - engine
-  - graphic
-  - rendering
-  - pbr
-  - platform
   - cross-platform
+  - framework
 ---
 
 # gameknife/gkEngine

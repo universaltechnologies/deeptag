@@ -8,10 +8,11 @@ topics: []
 starred_at: "2026-03-23T09:00:00Z"
 tags:
   - coding
-  - ai
-  - mcp
-  - search
+  - data
   - graph
+  - ai
+  - embeddings
+  - mcp
   - tool
 ---
 

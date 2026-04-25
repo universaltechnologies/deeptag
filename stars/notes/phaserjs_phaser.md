@@ -7,10 +7,9 @@ stars: 39426
 topics: [canvas, discord-activities, facebook-instant-games, game-development, game-frameworks, gamedev, html5-game-development, javascript, phaser, phaser-development, phaserjs, webgl, youtube-playables]
 starred_at: "2015-12-20T05:09:44Z"
 tags:
-  - coding
   - web
+  - frontend
   - game
-  - graphic
   - webgl
   - framework
 ---

@@ -8,8 +8,8 @@ topics: [bvh, crates, intersection-tests, pathtracing, rays, raytracing]
 starred_at: "2023-05-25T05:45:56Z"
 tags:
   - graphic
-  - rendering
-  - ray-tracing
+  - geometry
+  - rust
   - library
 ---
 

@@ -8,10 +8,9 @@ topics: []
 starred_at: "2018-11-27T05:49:56Z"
 tags:
   - coding
-  - web
   - game
-  - graphic
-  - 3d
+  - webgl
+  - cross-platform
 ---
 
 # BKcore/HexGL

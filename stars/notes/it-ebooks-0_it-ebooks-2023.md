@@ -7,8 +7,6 @@ stars: 227
 topics: []
 starred_at: "2024-01-29T04:03:14Z"
 tags:
-  - tools
-  - office
   - book
 ---
 

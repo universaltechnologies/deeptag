@@ -8,8 +8,6 @@ topics: []
 starred_at: "2025-04-16T12:51:03Z"
 tags:
   - coding
-  - web
-  - frontend
 ---
 
 # gdc-search/gdc-search.github.io

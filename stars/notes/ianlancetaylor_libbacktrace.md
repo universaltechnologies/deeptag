@@ -10,8 +10,6 @@ tags:
   - coding
   - debug
   - library
-  - c
-  - performance
 ---
 
 # ianlancetaylor/libbacktrace

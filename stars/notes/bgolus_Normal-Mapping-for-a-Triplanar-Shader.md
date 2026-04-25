@@ -10,8 +10,6 @@ tags:
   - graphic
   - shader
   - normal
-  - engine
-  - unity
   - tutorial
 ---
 

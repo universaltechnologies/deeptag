@@ -10,9 +10,8 @@ tags:
   - coding
   - engine
   - unity
-  - plugin
   - cross-platform
-  - ui
+  - plugin
 ---
 
 # UIWidgets/com.unity.uiwidgets

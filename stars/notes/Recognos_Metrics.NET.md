@@ -7,10 +7,9 @@ stars: 639
 topics: []
 starred_at: "2023-12-01T09:23:10Z"
 tags:
-  - coding
   - monitoring
-  - library
   - dotnet
+  - library
 ---
 
 # Recognos/Metrics.NET

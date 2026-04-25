@@ -8,8 +8,6 @@ topics: []
 starred_at: "2017-03-01T05:36:42Z"
 tags:
   - coding
-  - graphic
-  - scene
   - library
 ---
 

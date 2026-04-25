@@ -7,12 +7,10 @@ stars: 4982
 topics: [ai, data, figure, llm, nanobanana, open-source, python, pythonprogramming]
 starred_at: "2026-03-09T10:07:24Z"
 tags:
-  - coding
   - ai
   - llm
-  - data
+  - cv
   - framework
-  - tool
 ---
 
 # BIT-DataLab/Edit-Banana

@@ -7,7 +7,6 @@ stars: 72259
 topics: []
 starred_at: "2022-03-09T16:23:07Z"
 tags:
-  - coding
   - ai
   - ml
   - awesome

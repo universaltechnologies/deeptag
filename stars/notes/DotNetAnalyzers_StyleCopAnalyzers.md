@@ -7,10 +7,8 @@ stars: 2839
 topics: []
 starred_at: "2019-04-03T10:01:37Z"
 tags:
-  - coding
+  - lint
   - dotnet
-  - csharp
-  - library
   - tool
 ---
 

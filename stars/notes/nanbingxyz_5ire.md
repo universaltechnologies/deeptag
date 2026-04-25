@@ -7,12 +7,11 @@ stars: 5168
 topics: [knowledge-base, llms, mcp, mcp-client, model-context-protocol]
 starred_at: "2025-02-15T12:42:33Z"
 tags:
-  - coding
   - ai
   - mcp
   - desktop
-  - tool
   - cross-platform
+  - tool
 ---
 
 # nanbingxyz/5ire

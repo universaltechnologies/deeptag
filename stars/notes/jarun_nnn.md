@@ -7,11 +7,11 @@ stars: 21496
 topics: [android, batch-rename, c, cli, command-line, developer-tools, disk-usage, file-manager, file-preview, file-search, filesystem, launcher, multi-platform, ncurses, productivity, raspberry-pi, terminal, tui, vim, wsl]
 starred_at: "2022-02-18T12:32:36Z"
 tags:
-  - tools
+  - coding
   - terminal
   - filesystem
   - tool
-  - performance
+  - plugin
 ---
 
 # jarun/nnn

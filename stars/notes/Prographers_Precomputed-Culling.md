@@ -7,11 +7,13 @@ stars: 19
 topics: [asset-store, culling, game-development, occlusion-culling, precomputed, terrain, unity, unity3d, visibility]
 starred_at: "2026-01-21T03:13:31Z"
 tags:
+  - graphic
+  - culling
   - coding
   - engine
   - unity
-  - culling
-  - tool
+  - plugin
+  - performance
 ---
 
 # Prographers/Precomputed-Culling

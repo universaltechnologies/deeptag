@@ -7,9 +7,9 @@ stars: 5949
 topics: []
 starred_at: "2026-03-25T17:23:53Z"
 tags:
-  - tools
+  - coding
   - security
-  - automation
+  - tool
 ---
 
 # cuckoosandbox/cuckoo

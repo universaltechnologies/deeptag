@@ -7,8 +7,6 @@ stars: 1
 topics: []
 starred_at: "2016-12-19T09:34:12Z"
 tags:
-  - graphic
-  - platform
   - opengl
   - tutorial
 ---

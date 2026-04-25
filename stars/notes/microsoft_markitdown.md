@@ -7,8 +7,9 @@ stars: 112933
 topics: [autogen, autogen-extension, langchain, markdown, microsoft-office, openai, pdf]
 starred_at: "2025-12-21T00:57:47Z"
 tags:
-  - coding
-  - ai
+  - markdown
+  - llm
+  - python
   - tool
 ---
 

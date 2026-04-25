@@ -9,9 +9,8 @@ starred_at: "2017-02-07T03:53:13Z"
 tags:
   - coding
   - engine
-  - game
-  - webgl
   - cross-platform
+  - framework
 ---
 
 # AtomicGameEngine/AtomicGameEngine

@@ -7,9 +7,9 @@ stars: 102695
 topics: []
 starred_at: "2025-01-27T05:43:47Z"
 tags:
-  - coding
   - ai
   - llm
+  - library
 ---
 
 # deepseek-ai/DeepSeek-V3

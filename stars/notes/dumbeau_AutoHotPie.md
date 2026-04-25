@@ -7,10 +7,8 @@ stars: 471
 topics: [autohotkey, radial-menus]
 starred_at: "2024-06-11T08:31:26Z"
 tags:
-  - tools
-  - windows
-  - ui
-  - automation
+  - desktop
+  - gui
   - tool
 ---
 

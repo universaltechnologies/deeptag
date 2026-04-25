@@ -8,9 +8,9 @@ topics: [chart, commonmark, documentation, editor, frontend, gfm, html, jquery, 
 starred_at: "2025-07-25T08:48:33Z"
 tags:
   - coding
-  - web
+  - editor
   - markdown
-  - tool
+  - library
 ---
 
 # nhn/tui.editor

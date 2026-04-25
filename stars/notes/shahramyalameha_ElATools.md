@@ -7,8 +7,8 @@ stars: 55
 topics: [2d-heat-map, 2d-materials, 2direlast, 3d-materials, 3d-representation, 3d-systems, analysis, anisotropic-elastic-properties, bulk-modulus, christoffel-equations, elastic, elastic-properties, gnuplot, irelast, poisson-ratio, pugh-ratio, pwave-modulus, vasp, wien2k, xmgrace]
 starred_at: "2025-08-18T06:02:01Z"
 tags:
-  - tools
-  - physics
+  - coding
+  - visualization
   - tool
 ---
 

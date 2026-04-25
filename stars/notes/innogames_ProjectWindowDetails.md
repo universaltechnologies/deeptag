@@ -8,10 +8,9 @@ topics: []
 starred_at: "2025-04-07T06:21:45Z"
 tags:
   - coding
-  - engine
+  - editor
   - unity
   - plugin
-  - tool
 ---
 
 # innogames/ProjectWindowDetails

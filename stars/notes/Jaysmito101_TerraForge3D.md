@@ -9,10 +9,8 @@ starred_at: "2023-02-23T17:20:40Z"
 tags:
   - graphic
   - procedural
-  - tools
-  - opengl
-  - tool
   - cross-platform
+  - tool
 ---
 
 # Jaysmito101/TerraForge3D

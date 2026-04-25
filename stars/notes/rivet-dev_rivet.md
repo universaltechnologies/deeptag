@@ -7,11 +7,10 @@ stars: 5465
 topics: [actor, actors, cloudflare, cloudflare-durable-objects, durable-objects, foundationdb, multiplayer, realtime, rust, serverless]
 starred_at: "2023-08-28T06:54:18Z"
 tags:
-  - coding
-  - systems
-  - rust
-  - concurrency
-  - library
+  - ai
+  - agent
+  - distributed
+  - framework
 ---
 
 # rivet-dev/rivet

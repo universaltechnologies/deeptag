@@ -10,6 +10,7 @@ tags:
   - tools
   - productivity
   - cross-platform
+  - tool
 ---
 
 # ActivityWatch/activitywatch

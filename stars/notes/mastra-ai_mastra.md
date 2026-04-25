@@ -7,9 +7,9 @@ stars: 23162
 topics: [agents, ai, chatbots, evals, javascript, llm, mcp, nextjs, nodejs, reactjs, tts, typescript, workflows]
 starred_at: "2026-01-22T15:50:02Z"
 tags:
-  - coding
   - ai
   - agent
+  - llm
   - framework
 ---
 

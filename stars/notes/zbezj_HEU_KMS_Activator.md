@@ -9,6 +9,8 @@ starred_at: "2025-09-23T14:46:52Z"
 tags:
   - tools
   - office
+  - security
+  - tool
 ---
 
 # zbezj/HEU_KMS_Activator

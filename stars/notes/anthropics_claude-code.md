@@ -10,8 +10,8 @@ tags:
   - coding
   - ai
   - agent
-  - tool
   - cli
+  - tool
 ---
 
 # anthropics/claude-code

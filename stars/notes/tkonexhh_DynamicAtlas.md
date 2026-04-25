@@ -10,8 +10,7 @@ tags:
   - coding
   - engine
   - unity
-  - texture
-  - practice
+  - library
 ---
 
 # tkonexhh/DynamicAtlas

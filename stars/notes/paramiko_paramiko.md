@@ -8,10 +8,10 @@ topics: []
 starred_at: "2020-06-18T02:56:13Z"
 tags:
   - coding
-  - networking
+  - network
   - protocol
-  - library
   - python
+  - library
 ---
 
 # paramiko/paramiko

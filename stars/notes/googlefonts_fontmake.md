@@ -10,8 +10,8 @@ tags:
   - coding
   - media
   - font
+  - cli
   - tool
-  - compiler
 ---
 
 # googlefonts/fontmake

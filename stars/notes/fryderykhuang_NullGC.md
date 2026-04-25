@@ -8,9 +8,11 @@ topics: []
 starred_at: "2024-01-31T03:26:17Z"
 tags:
   - coding
-  - performance
+  - language
+  - gc
+  - csharp
   - library
-  - dotnet
+  - performance
 ---
 
 # fryderykhuang/NullGC

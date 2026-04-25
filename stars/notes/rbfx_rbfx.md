@@ -9,10 +9,9 @@ starred_at: "2023-02-23T17:38:28Z"
 tags:
   - coding
   - engine
-  - graphic
-  - platform
-  - framework
   - cross-platform
+  - framework
+  - library
 ---
 
 # rbfx/rbfx

@@ -9,7 +9,6 @@ starred_at: "2023-02-19T15:57:35Z"
 tags:
   - graphic
   - rendering
-  - math
   - awesome
 ---
 

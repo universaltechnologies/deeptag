@@ -9,8 +9,7 @@ starred_at: "2016-03-20T06:21:15Z"
 tags:
   - coding
   - gui
-  - component
-  - tool
+  - library
 ---
 
 # shelllee/QtPropertyBrowserQt4

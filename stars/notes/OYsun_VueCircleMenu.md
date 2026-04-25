@@ -7,10 +7,10 @@ stars: 1214
 topics: [component, menu, ui-design, vue, vuejs]
 starred_at: "2023-02-17T05:21:47Z"
 tags:
-  - coding
   - web
   - frontend
-  - component
+  - ui
+  - library
 ---
 
 # OYsun/VueCircleMenu

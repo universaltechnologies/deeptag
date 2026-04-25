@@ -7,9 +7,8 @@ stars: 25178
 topics: [2d-graphics, animation, art, creative-coding, design, graphic-design, graphics, graphics-editor, image-manipulation, image-processing, motion-design, motion-graphics, node-graph, photo-editor, procedural, procedural-drawing, procedural-generation, svg-editor, vector-graphics]
 starred_at: "2025-07-01T05:58:35Z"
 tags:
-  - graphic
   - 2d
-  - vector
+  - editor
   - tool
 ---
 

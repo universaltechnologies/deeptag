@@ -7,12 +7,9 @@ stars: 2905
 topics: []
 starred_at: "2024-08-27T03:22:45Z"
 tags:
-  - coding
   - ai
   - rag
-  - library
-  - pipeline
-  - distributed
+  - framework
 ---
 
 # NVIDIA/NeMo-Retriever

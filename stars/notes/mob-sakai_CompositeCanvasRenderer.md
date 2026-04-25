@@ -7,14 +7,10 @@ stars: 198
 topics: [bake, bloom, blur, effects, glow, mirror, outline, shaders, shadow, ui, unity3d, upm-package]
 starred_at: "2024-01-19T06:32:05Z"
 tags:
-  - graphic
-  - shader
-  - post-processing
   - coding
   - engine
   - unity
-  - plugin
-  - tool
+  - library
 ---
 
 # mob-sakai/CompositeCanvasRenderer

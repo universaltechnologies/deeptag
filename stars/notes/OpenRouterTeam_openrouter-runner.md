@@ -9,8 +9,8 @@ starred_at: "2025-06-20T15:40:59Z"
 tags:
   - coding
   - ai
-  - llm
   - inference
+  - library
 ---
 
 # OpenRouterTeam/openrouter-runner

@@ -7,12 +7,10 @@ stars: 31422
 topics: [electron, open-source, pixijs, screen-capture, screen-recorder]
 starred_at: "2026-04-03T15:13:45Z"
 tags:
-  - coding
-  - media
+  - tools
+  - capture
   - video
-  - electron
   - tool
-  - cross-platform
 ---
 
 # siddharthvaddem/openscreen

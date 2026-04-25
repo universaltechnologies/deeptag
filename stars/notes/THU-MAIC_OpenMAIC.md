@@ -7,11 +7,10 @@ stars: 16024
 topics: []
 starred_at: "2026-03-19T02:57:25Z"
 tags:
-  - coding
   - ai
   - agent
-  - web
-  - library
+  - llm
+  - framework
 ---
 
 # THU-MAIC/OpenMAIC

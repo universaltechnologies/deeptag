@@ -7,11 +7,10 @@ stars: 54
 topics: []
 starred_at: "2016-08-30T00:44:40Z"
 tags:
-  - coding
   - media
-  - capture
-  - cpp
-  - plugin
+  - video
+  - windows
+  - tool
 ---
 
 # Alalf/SCFF-DirectShow-Filter

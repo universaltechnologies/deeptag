@@ -7,8 +7,9 @@ stars: 63658
 topics: [alerting, graphing, hacktoberfest, metrics, monitoring, prometheus, time-series]
 starred_at: "2021-03-02T03:15:29Z"
 tags:
-  - coding
   - monitoring
+  - database
+  - tool
 ---
 
 # prometheus/prometheus

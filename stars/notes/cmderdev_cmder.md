@@ -7,8 +7,6 @@ stars: 26871
 topics: [c-plus-plus, cmder, color-scheme, command-line, conemu, mintty, portable, powershell, shell, ssh-agent, windows]
 starred_at: "2019-07-11T08:53:33Z"
 tags:
-  - tools
-  - coding
   - terminal
   - windows
   - tool

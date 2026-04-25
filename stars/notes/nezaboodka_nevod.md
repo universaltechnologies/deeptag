@@ -9,8 +9,11 @@ starred_at: "2024-07-08T09:32:26Z"
 tags:
   - coding
   - parser
-  - nlp
+  - search
+  - language
+  - cli
   - library
+  - tool
   - cross-platform
 ---
 

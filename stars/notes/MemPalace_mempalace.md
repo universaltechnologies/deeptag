@@ -7,10 +7,9 @@ stars: 48227
 topics: [ai, chromadb, llm, mcp, memory, python]
 starred_at: "2026-04-08T05:19:41Z"
 tags:
-  - coding
   - ai
-  - llm
-  - tool
+  - memory
+  - library
 ---
 
 # MemPalace/mempalace

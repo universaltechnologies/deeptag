@@ -11,7 +11,6 @@ tags:
   - ai
   - mcp
   - awesome
-  - ai
 ---
 
 # punkpeye/awesome-mcp-servers

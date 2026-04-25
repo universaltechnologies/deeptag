@@ -8,10 +8,10 @@ topics: [android, ffmpeg, ijkplayer, ios, player, video]
 starred_at: "2018-02-02T14:16:34Z"
 tags:
   - coding
-  - media
-  - video
   - android
   - ios
+  - video
+  - cross-platform
   - library
 ---
 

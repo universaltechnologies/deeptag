@@ -9,8 +9,8 @@ starred_at: "2022-07-28T03:59:08Z"
 tags:
   - coding
   - algorithm
+  - book
   - tutorial
-  - awesome
 ---
 
 # OI-wiki/OI-wiki

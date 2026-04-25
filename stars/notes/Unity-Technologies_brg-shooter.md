@@ -10,8 +10,9 @@ tags:
   - coding
   - engine
   - unity
-  - rendering
+  - mobile
   - performance
+  - tutorial
 ---
 
 # Unity-Technologies/brg-shooter

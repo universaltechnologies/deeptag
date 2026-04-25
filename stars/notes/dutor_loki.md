@@ -9,9 +9,9 @@ starred_at: "2018-11-25T08:18:48Z"
 tags:
   - coding
   - language
-  - cpp
-  - library
   - template
+  - library
+  - book
 ---
 
 # dutor/loki

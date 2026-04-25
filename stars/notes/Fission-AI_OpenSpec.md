@@ -7,11 +7,10 @@ stars: 41333
 topics: [ai, context-engineering, engineering, planning, prd, sdd, sdlc, spec, spec-driven-development, specification]
 starred_at: "2025-12-04T10:08:05Z"
 tags:
-  - coding
   - ai
-  - library
-  - tool
-  - workflow
+  - spec
+  - prompt
+  - framework
 ---
 
 # Fission-AI/OpenSpec

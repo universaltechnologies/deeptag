@@ -7,11 +7,9 @@ stars: 1259
 topics: [hacktoberfest, newtonsoft-json, unity-package-manager, unity3d, unity3d-plugin, upm]
 starred_at: "2023-11-23T12:37:25Z"
 tags:
-  - coding
-  - engine
-  - data
+  - json
+  - unity
   - library
-  - csharp
 ---
 
 # applejag/Newtonsoft.Json-for-Unity

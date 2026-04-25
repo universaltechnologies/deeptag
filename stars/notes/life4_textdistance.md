@@ -7,8 +7,8 @@ stars: 3526
 topics: [algorithm, algorithms, damerau-levenshtein, damerau-levenshtein-distance, diff, distance, distance-calculation, hamming-distance, jellyfish, levenshtein, levenshtein-distance, python, textdistance]
 starred_at: "2022-03-13T10:15:14Z"
 tags:
-  - coding
   - algorithm
+  - python
   - library
 ---
 

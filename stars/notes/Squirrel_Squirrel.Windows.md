@@ -7,9 +7,8 @@ stars: 7931
 topics: [c-sharp, installer, squirrel, windows]
 starred_at: "2025-09-03T10:18:13Z"
 tags:
-  - coding
   - windows
-  - dotnet
+  - package
   - framework
 ---
 

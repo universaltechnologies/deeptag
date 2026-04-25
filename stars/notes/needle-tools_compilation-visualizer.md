@@ -8,11 +8,10 @@ topics: [assembly, compact, compilation-visualizer, unity]
 starred_at: "2023-02-02T16:49:05Z"
 tags:
   - coding
-  - engine
   - unity
-  - tool
-  - debug
+  - profiler
   - visualization
+  - tool
 ---
 
 # needle-tools/compilation-visualizer

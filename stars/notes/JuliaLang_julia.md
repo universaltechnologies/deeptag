@@ -7,10 +7,9 @@ stars: 48604
 topics: [hacktoberfest, hpc, julia, julia-language, julialang, machine-learning, numerical, programming-language, science, scientific]
 starred_at: "2023-03-06T17:36:10Z"
 tags:
-  - coding
   - language
-  - runtime
   - compiler
+  - cross-platform
 ---
 
 # JuliaLang/julia

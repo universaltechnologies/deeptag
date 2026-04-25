@@ -8,10 +8,8 @@ topics: [2d, animations, game-dev, gamedev, runtimes, skeletal, spine]
 starred_at: "2022-11-13T13:48:44Z"
 tags:
   - graphic
-  - animation
-  - 2d
+  - skeletal
   - library
-  - cross-platform
 ---
 
 # EsotericSoftware/spine-runtimes

@@ -12,7 +12,6 @@ tags:
   - unity
   - mobile
   - framework
-  - library
 ---
 
 # foxlabglobal/foundation

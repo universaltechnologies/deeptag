@@ -7,10 +7,7 @@ stars: 3599
 topics: []
 starred_at: "2024-03-06T13:00:06Z"
 tags:
-  - coding
-  - engine
   - godot
-  - graphic
   - voxel
   - library
 ---

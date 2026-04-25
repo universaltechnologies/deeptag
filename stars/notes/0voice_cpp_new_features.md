@@ -11,8 +11,8 @@ tags:
   - language
   - cpp
   - awesome
-  - tutorial
   - book
+  - tutorial
 ---
 
 # 0voice/cpp_new_features

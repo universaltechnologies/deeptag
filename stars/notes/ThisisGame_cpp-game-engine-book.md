@@ -8,12 +8,9 @@ topics: [3d-engine, blender-python, book, cpp, fbx-sdk, fmod, freetype, game-dev
 starred_at: "2022-11-09T06:51:03Z"
 tags:
   - coding
-  - graphic
-  - rendering
-  - shader
-  - opengl
-  - book
   - engine
+  - book
+  - tutorial
 ---
 
 # ThisisGame/cpp-game-engine-book

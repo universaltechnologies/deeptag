@@ -8,8 +8,8 @@ topics: [books, education, hacktoberfest, list, resource]
 starred_at: "2020-09-27T08:46:23Z"
 tags:
   - coding
-  - book
   - awesome
+  - book
 ---
 
 # EbookFoundation/free-programming-books

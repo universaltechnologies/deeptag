@@ -7,12 +7,10 @@ stars: 860
 topics: [elastic-kvcache, gpu-mutiplexing, gpu-sharing, inference-engine, kvcache, kvcache-optimization, kvcached, llm, llm-framework, llm-inference, llm-serving, ollama, online-offline-coserve, serverless, sglang, vllm]
 starred_at: "2025-11-05T02:49:55Z"
 tags:
-  - coding
   - ai
   - llm
-  - inference
+  - gpu
   - library
-  - performance
 ---
 
 # ovg-project/kvcached

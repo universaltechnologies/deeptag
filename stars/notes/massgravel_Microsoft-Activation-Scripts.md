@@ -8,7 +8,9 @@ topics: [activator, hwid, kms, kms38, massgrave, massgravel, microsoft, microsof
 starred_at: "2023-11-12T17:11:39Z"
 tags:
   - tools
-  - windows
+  - office
+  - security
+  - tool
 ---
 
 # massgravel/Microsoft-Activation-Scripts

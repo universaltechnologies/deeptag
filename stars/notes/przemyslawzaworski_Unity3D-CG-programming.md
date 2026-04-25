@@ -10,9 +10,7 @@ tags:
   - graphic
   - shader
   - hlsl
-  - coding
-  - engine
-  - unity
+  - glsl
   - tutorial
 ---
 

@@ -7,12 +7,11 @@ stars: 3680
 topics: [cheat, counter-strike, counter-strike-2, cpp, cpp20, cs2, dll, dll-injection, game-hacking, internal, linux, osiris, reverse-engineering, source-engine, source2, source2-engine, windows]
 starred_at: "2023-02-23T17:12:32Z"
 tags:
-  - coding
+  - game
+  - hook
   - reverse
-  - windows
-  - linux
   - cpp
-  - practice
+  - cross-platform
 ---
 
 # danielkrupinski/Osiris

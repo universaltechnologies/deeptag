@@ -8,10 +8,10 @@ topics: [ai, assistant, clawdbot, edge-ai-agents, memory, openclaw]
 starred_at: "2026-03-06T08:48:22Z"
 tags:
   - coding
+  - embedded
   - ai
   - agent
-  - embedded
-  - networking
+  - tool
 ---
 
 # memovai/mimiclaw

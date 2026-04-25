@@ -11,8 +11,6 @@ tags:
   - data
   - database
   - library
-  - cpp
-  - performance
 ---
 
 # google/leveldb

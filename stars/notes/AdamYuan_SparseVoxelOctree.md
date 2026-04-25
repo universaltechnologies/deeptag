@@ -9,10 +9,11 @@ starred_at: "2022-11-11T15:57:11Z"
 tags:
   - graphic
   - rendering
-  - ray-tracing
-  - rasterization
-  - platform
+  - path-tracing
+  - scene
+  - voxel
   - vulkan
+  - cross-platform
 ---
 
 # AdamYuan/SparseVoxelOctree

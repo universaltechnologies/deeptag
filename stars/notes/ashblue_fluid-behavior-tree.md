@@ -7,11 +7,10 @@ stars: 1154
 topics: [ai, behavior-tree, builder-pattern, unity-package-manager, unity3d, unity3d-plugin]
 starred_at: "2020-07-03T07:26:31Z"
 tags:
-  - coding
   - ai
-  - engine
+  - agent
   - unity
-  - plugin
+  - library
 ---
 
 # ashblue/fluid-behavior-tree

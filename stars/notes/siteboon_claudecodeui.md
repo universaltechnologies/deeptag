@@ -7,10 +7,9 @@ stars: 10017
 topics: [anthropic, anthropic-ai, anthropic-claude, claude, claude-api, claude-code, claude-code-ui, claudecode, gui, mobile-first, react, ui]
 starred_at: "2026-04-04T05:32:25Z"
 tags:
-  - coding
-  - web
-  - ui
   - ai
+  - agent
+  - frontend
   - tool
 ---
 

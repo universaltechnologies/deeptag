@@ -10,6 +10,7 @@ tags:
   - coding
   - ai
   - mcp
+  - python
   - library
 ---
 

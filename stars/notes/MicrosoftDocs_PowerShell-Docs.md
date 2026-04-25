@@ -8,7 +8,8 @@ topics: [hacktoberfest, powershell, powershell-documentation]
 starred_at: "2023-05-11T18:18:17Z"
 tags:
   - coding
-  - tools
+  - shell
+  - book
 ---
 
 # MicrosoftDocs/PowerShell-Docs

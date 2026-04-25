@@ -8,8 +8,8 @@ topics: []
 starred_at: "2024-02-04T04:18:35Z"
 tags:
   - tools
-  - web
-  - plugin
+  - browser
+  - tool
 ---
 
 # KinoLien/gitzip

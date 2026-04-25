@@ -11,7 +11,6 @@ tags:
   - engine
   - unity
   - tool
-  - plugin
 ---
 
 # akof1314/AssetBundleReporter

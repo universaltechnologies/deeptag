@@ -7,10 +7,10 @@ stars: 866
 topics: [assembly, await, boost, c-plus-plus, coroutine, cpp, cross-platform, ha, high-performance, linux, lock-free, macos, performance, pool, stack, then, thread-safety, timer, window]
 starred_at: "2022-05-12T19:24:39Z"
 tags:
-  - coding
-  - library
+  - cpp
+  - concurrency
   - cross-platform
-  - performance
+  - library
 ---
 
 # owent/libcopp

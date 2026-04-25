@@ -8,8 +8,6 @@ topics: []
 starred_at: "2022-07-13T10:09:25Z"
 tags:
   - coding
-  - web
-  - graphic
   - shader
   - tool
 ---

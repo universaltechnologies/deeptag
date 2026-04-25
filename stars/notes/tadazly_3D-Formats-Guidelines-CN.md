@@ -8,9 +8,9 @@ topics: [ktx, ktx2]
 starred_at: "2024-11-05T16:35:28Z"
 tags:
   - graphic
-  - material
+  - gltf
   - texture
-  - tutorial
+  - book
 ---
 
 # tadazly/3D-Formats-Guidelines-CN

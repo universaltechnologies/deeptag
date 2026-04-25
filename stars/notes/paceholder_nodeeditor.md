@@ -7,11 +7,9 @@ stars: 3626
 topics: [cpp, dataflow-programming, graph, model-view, qt5, qt6]
 starred_at: "2017-03-01T03:09:00Z"
 tags:
-  - coding
   - gui
-  - data
+  - graph
   - library
-  - cpp
 ---
 
 # paceholder/nodeeditor

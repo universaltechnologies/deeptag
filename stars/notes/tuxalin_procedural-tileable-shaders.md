@@ -9,8 +9,6 @@ starred_at: "2023-02-01T02:54:55Z"
 tags:
   - graphic
   - shader
-  - glsl
-  - procedural
   - library
 ---
 

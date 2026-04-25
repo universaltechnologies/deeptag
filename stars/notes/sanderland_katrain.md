@@ -7,11 +7,8 @@ stars: 2211
 topics: [ai, baduk, go, katago, kivy, lizzie, sgf, weiqi]
 starred_at: "2022-11-28T13:39:50Z"
 tags:
-  - coding
-  - ai
+  - desktop
   - tool
-  - python
-  - game
 ---
 
 # sanderland/katrain

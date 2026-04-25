@@ -7,13 +7,11 @@ stars: 60
 topics: [bvh, glsl, gpu, lbvh, vulkan]
 starred_at: "2024-06-03T03:36:41Z"
 tags:
-  - graphic
-  - rendering
-  - rasterization
-  - shader
+  - geometry
+  - compute-shader
   - glsl
-  - platform
   - vulkan
+  - library
 ---
 
 # MircoWerner/VkLBVH

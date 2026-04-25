@@ -10,7 +10,8 @@ tags:
   - coding
   - engine
   - unity
-  - plugin
+  - editor
+  - library
 ---
 
 # cfoulston/Unity-Reorderable-List

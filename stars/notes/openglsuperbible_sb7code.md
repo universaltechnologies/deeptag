@@ -7,10 +7,10 @@ stars: 759
 topics: []
 starred_at: "2023-05-22T16:18:06Z"
 tags:
-  - coding
   - graphic
   - opengl
   - book
+  - tutorial
 ---
 
 # openglsuperbible/sb7code

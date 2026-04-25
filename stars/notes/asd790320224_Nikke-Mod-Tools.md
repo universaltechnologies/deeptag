@@ -7,9 +7,9 @@ stars: 70
 topics: [nikke]
 starred_at: "2025-11-02T09:24:22Z"
 tags:
-  - tools
+  - coding
   - game
-  - plugin
+  - tool
 ---
 
 # asd790320224/Nikke-Mod-Tools

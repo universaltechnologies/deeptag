@@ -7,10 +7,10 @@ stars: 2585
 topics: [2d, algorithm, computational-geometry, delaunay, fast, javascript, triangulation]
 starred_at: "2023-11-10T12:02:28Z"
 tags:
-  - coding
-  - algorithm
+  - graphic
+  - geometry
+  - javascript
   - library
-  - performance
 ---
 
 # mapbox/delaunator

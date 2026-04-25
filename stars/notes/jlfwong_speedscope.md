@@ -7,12 +7,10 @@ stars: 6574
 topics: [flamegraph, flamegraphs, performance-profiling, performance-tools, performance-visualization, profile, speedscope, webgl]
 starred_at: "2023-03-08T13:54:25Z"
 tags:
-  - coding
   - profiler
+  - visualization
   - web
-  - webgl
   - tool
-  - performance
 ---
 
 # jlfwong/speedscope

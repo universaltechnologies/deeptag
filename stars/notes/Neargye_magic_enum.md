@@ -7,12 +7,10 @@ stars: 6028
 topics: [c-plus-plus, c-plus-plus-17, cplusplus, cplusplus-17, cpp, cpp17, enum, enum-to-string, header-only, metaprogramming, no-dependencies, reflection, serialization, single-file, string-to-enum]
 starred_at: "2022-09-22T04:00:23Z"
 tags:
-  - coding
-  - language
   - cpp
   - reflection
-  - library
   - header-only
+  - library
 ---
 
 # Neargye/magic_enum

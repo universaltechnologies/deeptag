@@ -8,7 +8,6 @@ topics: []
 starred_at: "2023-05-25T05:49:15Z"
 tags:
   - graphic
-  - scene
   - geometry
   - tutorial
 ---

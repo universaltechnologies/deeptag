@@ -8,10 +8,9 @@ topics: []
 starred_at: "2026-03-22T04:17:27Z"
 tags:
   - coding
-  - networking
   - server
-  - java
-  - security
+  - backend
+  - encryption
 ---
 
 # signalapp/Signal-Server

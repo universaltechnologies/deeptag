@@ -7,12 +7,11 @@ stars: 30014
 topics: [content-cache, http, http2, http3, https, load-balancer, mail-proxy-server, nginx, quic, reverse-proxy, security, tcp-proxy-server, tls, udp-proxy-server, web-server]
 starred_at: "2023-05-31T15:34:35Z"
 tags:
-  - coding
-  - networking
   - systems
   - server
-  - http
-  - tool
+  - network
+  - proxy
+  - performance
 ---
 
 # nginx/nginx

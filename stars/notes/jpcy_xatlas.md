@@ -8,7 +8,6 @@ topics: [lightmap, mesh, parameterization, texture-atlas, uv]
 starred_at: "2022-03-23T10:22:51Z"
 tags:
   - graphic
-  - scene
   - mesh
   - library
 ---

@@ -9,7 +9,7 @@ starred_at: "2025-12-25T10:21:06Z"
 tags:
   - tools
   - browser
-  - productivity
+  - tool
 ---
 
 # zen-browser/desktop

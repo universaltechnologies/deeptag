@@ -7,11 +7,8 @@ stars: 2642
 topics: []
 starred_at: "2022-12-19T07:17:41Z"
 tags:
-  - graphic
   - rendering
-  - rasterization
-  - 2d
-  - performance
+  - webgpu
   - library
 ---
 

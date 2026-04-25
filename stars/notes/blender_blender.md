@@ -7,12 +7,12 @@ stars: 18159
 topics: [3d, animation, b3d, computer-graphics, modeling, rendering]
 starred_at: "2023-09-28T19:12:00Z"
 tags:
-  - coding
-  - engine
   - graphic
   - rendering
-  - animation
   - modeling
+  - animation
+  - vfx
+  - tool
 ---
 
 # blender/blender

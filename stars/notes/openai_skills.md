@@ -7,11 +7,10 @@ stars: 17120
 topics: []
 starred_at: "2026-02-06T08:09:11Z"
 tags:
-  - coding
   - ai
   - agent
+  - skills
   - awesome
-  - tool
 ---
 
 # openai/skills

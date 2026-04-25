@@ -7,10 +7,8 @@ stars: 51520
 topics: []
 starred_at: "2026-01-21T13:57:42Z"
 tags:
-  - coding
   - ai
   - llm
-  - library
 ---
 
 # xai-org/grok-1

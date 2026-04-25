@@ -9,10 +9,8 @@ starred_at: "2026-01-16T17:11:42Z"
 tags:
   - coding
   - architecture
-  - systems
-  - distributed
   - awesome
-  - tool
+  - book
 ---
 
 # binhnguyennus/awesome-scalability

@@ -7,11 +7,9 @@ stars: 8009
 topics: []
 starred_at: "2020-12-03T10:16:58Z"
 tags:
-  - coding
   - ai
   - cv
   - deep-learning
-  - library
 ---
 
 # alex-damian/pulse

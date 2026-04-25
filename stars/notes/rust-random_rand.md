@@ -8,8 +8,8 @@ topics: []
 starred_at: "2024-11-06T06:29:58Z"
 tags:
   - coding
-  - library
   - rust
+  - library
 ---
 
 # rust-random/rand

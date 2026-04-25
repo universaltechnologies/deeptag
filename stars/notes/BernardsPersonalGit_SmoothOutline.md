@@ -10,9 +10,6 @@ tags:
   - coding
   - engine
   - unity
-  - urp
-  - graphic
-  - geometry
   - tool
 ---
 

@@ -8,11 +8,9 @@ topics: []
 starred_at: "2023-10-12T05:22:26Z"
 tags:
   - coding
-  - language
-  - lua
   - ide
+  - lua
   - plugin
-  - debug
 ---
 
 # BabeStudio/BabeLua

@@ -7,10 +7,9 @@ stars: 175
 topics: [custom, phase, post-processing, rendering, scattering, screen-space, skin, subsurface, subsurface-scattering, unity]
 starred_at: "2023-05-06T06:01:58Z"
 tags:
-  - graphic
   - post-processing
   - unity
-  - library
+  - plugin
 ---
 
 # CustomPhase/CP_SSSSS

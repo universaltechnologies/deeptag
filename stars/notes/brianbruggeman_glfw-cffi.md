@@ -7,11 +7,10 @@ stars: 5
 topics: [cffi, glfw, glfw-cffi, opengl, python]
 starred_at: "2020-08-27T14:37:08Z"
 tags:
-  - coding
-  - python
-  - opengl
-  - library
   - binding
+  - python
+  - ffi
+  - library
 ---
 
 # brianbruggeman/glfw-cffi

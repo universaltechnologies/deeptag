@@ -10,7 +10,7 @@ tags:
   - coding
   - ai
   - agent
-  - tool
+  - framework
 ---
 
 # gsd-build/gsd-2

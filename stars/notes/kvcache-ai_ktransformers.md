@@ -7,8 +7,8 @@ stars: 17010
 topics: []
 starred_at: "2025-04-02T06:54:46Z"
 tags:
-  - coding
   - ai
+  - llm
   - inference
   - framework
 ---

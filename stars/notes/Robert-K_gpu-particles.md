@@ -7,14 +7,9 @@ stars: 738
 topics: [compute-shaders, gpgpu, particles, shader, unity, vfx]
 starred_at: "2023-10-13T10:37:29Z"
 tags:
-  - graphic
-  - vfx
-  - shader
-  - compute-shader
-  - coding
-  - engine
   - unity
-  - plugin
+  - particles
+  - library
 ---
 
 # Robert-K/gpu-particles

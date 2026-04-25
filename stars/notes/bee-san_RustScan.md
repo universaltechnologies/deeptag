@@ -7,10 +7,9 @@ stars: 19637
 topics: [docker, hacking, hacktoberfest, networking, nmap, pentesting, port, rust, scanning, security, security-tools]
 starred_at: "2021-07-23T02:13:54Z"
 tags:
-  - coding
-  - networking
-  - tool
+  - network
   - security
+  - tool
 ---
 
 # bee-san/RustScan

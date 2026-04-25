@@ -7,9 +7,8 @@ stars: 8633
 topics: []
 starred_at: "2023-07-05T02:44:16Z"
 tags:
-  - coding
-  - build
   - android
+  - build
   - tool
 ---
 

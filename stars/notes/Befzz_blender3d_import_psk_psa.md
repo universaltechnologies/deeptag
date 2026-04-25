@@ -8,13 +8,7 @@ topics: [blender-3d, blender3d, psk, psk-psa, pskx]
 starred_at: "2019-02-10T06:49:15Z"
 tags:
   - coding
-  - tool
   - plugin
-  - graphic
-  - scene
-  - mesh
-  - animation
-  - skeletal
 ---
 
 # Befzz/blender3d_import_psk_psa

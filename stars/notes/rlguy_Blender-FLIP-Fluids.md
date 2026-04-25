@@ -9,9 +9,9 @@ starred_at: "2022-08-22T07:11:15Z"
 tags:
   - graphic
   - vfx
-  - simulation
+  - physics
+  - custom
   - plugin
-  - tool
 ---
 
 # rlguy/Blender-FLIP-Fluids

@@ -8,9 +8,8 @@ topics: []
 starred_at: "2025-07-02T17:38:14Z"
 tags:
   - graphic
-  - lighting
+  - material
   - normal
-  - practice
 ---
 
 # TheRealMJP/SpecularAA

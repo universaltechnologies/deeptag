@@ -10,6 +10,8 @@ tags:
   - coding
   - language
   - rust
+  - lua
+  - compiler
   - book
 ---
 

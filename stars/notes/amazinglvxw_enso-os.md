@@ -11,7 +11,6 @@ tags:
   - ai
   - agent
   - plugin
-  - shell
 ---
 
 # amazinglvxw/enso-os

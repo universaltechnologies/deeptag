@@ -7,11 +7,11 @@ stars: 732
 topics: []
 starred_at: "2020-02-18T05:47:02Z"
 tags:
-  - coding
-  - dotnet
   - debug
-  - tool
+  - dotnet
+  - runtime
   - library
+  - tool
 ---
 
 # SergeyTeplyakov/ObjectLayoutInspector

@@ -8,7 +8,7 @@ topics: [ide, terminal-based, text-editor]
 starred_at: "2026-01-18T07:35:55Z"
 tags:
   - coding
-  - editor
+  - ide
   - terminal
   - tool
 ---

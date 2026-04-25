@@ -7,11 +7,9 @@ stars: 127
 topics: [activate, license-management, npm-package, unity, unity3d]
 starred_at: "2025-12-25T10:16:07Z"
 tags:
-  - coding
-  - engine
+  - cli
   - unity
   - tool
-  - automation
 ---
 
 # mob-sakai/unity-activate

@@ -10,7 +10,7 @@ tags:
   - coding
   - ai
   - tts
-  - inference
+  - desktop
   - tool
 ---
 

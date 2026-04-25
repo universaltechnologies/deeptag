@@ -8,8 +8,6 @@ topics: [diagrams, diagrams-as-code, documentation, flowchart, javascript, mindm
 starred_at: "2021-01-25T12:49:41Z"
 tags:
   - coding
-  - web
-  - frontend
   - visualization
   - library
 ---

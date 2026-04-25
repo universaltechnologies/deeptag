@@ -7,9 +7,10 @@ stars: 608
 topics: []
 starred_at: "2018-11-13T06:56:52Z"
 tags:
-  - coding
-  - library
   - lua
+  - python
+  - library
+  - tool
 ---
 
 # facebookarchive/fblualib

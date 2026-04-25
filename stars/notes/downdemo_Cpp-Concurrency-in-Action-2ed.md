@@ -7,11 +7,10 @@ stars: 2198
 topics: [multithreading, operating-systems]
 starred_at: "2022-05-29T15:44:22Z"
 tags:
-  - coding
-  - language
   - cpp
   - concurrency
   - book
+  - tutorial
 ---
 
 # downdemo/Cpp-Concurrency-in-Action-2ed

@@ -10,7 +10,7 @@ tags:
   - coding
   - algorithm
   - library
-  - c
+  - cross-platform
 ---
 
 # jtsiomb/kdtree

@@ -9,7 +9,6 @@ starred_at: "2017-04-30T09:10:54Z"
 tags:
   - coding
   - game
-  - practice
   - book
 ---
 

@@ -7,11 +7,9 @@ stars: 102698
 topics: [proxy, shadowsocks, socks5, trojan, v2fly, v2ray, vless, vmess, windows, xray, xtls]
 starred_at: "2023-11-13T07:57:10Z"
 tags:
-  - coding
-  - networking
-  - proxy
-  - windows
-  - linux
+  - network
+  - security
+  - cross-platform
   - tool
 ---
 

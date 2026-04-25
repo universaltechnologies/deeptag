@@ -8,8 +8,8 @@ topics: [c, codepoints, cpp, csharp, font-icons, fontawesome, gamedev, golang, g
 starred_at: "2023-02-23T17:18:59Z"
 tags:
   - coding
-  - ui
-  - header-only
+  - font
+  - library
 ---
 
 # juliettef/IconFontCppHeaders

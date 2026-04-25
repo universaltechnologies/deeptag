@@ -7,10 +7,10 @@ stars: 1833
 topics: [active-directory, bonobo, c-sharp, git, git-server, iis, windows]
 starred_at: "2018-01-03T09:58:22Z"
 tags:
-  - coding
-  - dotnet
-  - windows
   - git
+  - backend
+  - windows
+  - self-hosted
   - tool
 ---
 

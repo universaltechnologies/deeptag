@@ -10,10 +10,10 @@ tags:
   - coding
   - engine
   - unity
-  - graphic
-  - scene
   - procedural
-  - plugin
+  - mesh
+  - shader
+  - tool
 ---
 
 # radiatoryang/hedera

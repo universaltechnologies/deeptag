@@ -7,11 +7,10 @@ stars: 750
 topics: [csharp, dotnet, mono, unrealengine]
 starred_at: "2024-03-04T12:30:21Z"
 tags:
-  - coding
-  - engine
   - unreal
-  - dotnet
+  - csharp
   - plugin
+  - cross-platform
 ---
 
 # crazytuzi/UnrealCSharp

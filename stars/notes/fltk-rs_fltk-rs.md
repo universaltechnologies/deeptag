@@ -7,10 +7,11 @@ stars: 1814
 topics: [bindings, fltk, graphics, gui, widgets]
 starred_at: "2023-02-24T17:20:49Z"
 tags:
-  - coding
+  - binding
   - gui
-  - library
+  - rust
   - cross-platform
+  - library
 ---
 
 # fltk-rs/fltk-rs

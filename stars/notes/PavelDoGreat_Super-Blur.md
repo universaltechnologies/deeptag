@@ -10,7 +10,7 @@ tags:
   - graphic
   - post-processing
   - unity
-  - tool
+  - plugin
 ---
 
 # PavelDoGreat/Super-Blur

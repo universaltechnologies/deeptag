@@ -9,9 +9,8 @@ starred_at: "2023-04-24T09:05:29Z"
 tags:
   - coding
   - game
-  - gameplay
   - ecs
-  - tutorial
+  - awesome
 ---
 
 # SanderMertens/ecs-faq

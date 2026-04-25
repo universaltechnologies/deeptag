@@ -8,10 +8,9 @@ topics: []
 starred_at: "2024-05-29T04:06:07Z"
 tags:
   - coding
-  - data
-  - performance
-  - practice
   - benchmark
+  - python
+  - practice
 ---
 
 # darioradecic/python-1-billion-row-challenge

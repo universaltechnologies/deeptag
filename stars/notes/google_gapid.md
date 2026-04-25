@@ -8,11 +8,8 @@ topics: [android, debugger, gles, gles2, golang, gpu, graphics-api, linux, macos
 starred_at: "2025-06-05T06:40:23Z"
 tags:
   - graphic
-  - platform
   - debug
   - tool
-  - android
-  - vulkan
 ---
 
 # google/gapid

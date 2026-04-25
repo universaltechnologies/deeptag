@@ -8,8 +8,8 @@ topics: []
 starred_at: "2022-05-12T03:49:04Z"
 tags:
   - coding
-  - tutorial
   - book
+  - awesome
 ---
 
 # PKUFlyingPig/cs-self-learning

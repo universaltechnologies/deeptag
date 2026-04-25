@@ -7,10 +7,10 @@ stars: 2555
 topics: [backintime, backup, backups, good-first-issue, good-first-issues, hardlinking, hardlinks, linux, python, qt, rsync, translathon]
 starred_at: "2022-03-13T17:17:21Z"
 tags:
-  - tools
+  - filesystem
   - linux
-  - cli
   - gui
+  - tool
 ---
 
 # bit-team/backintime

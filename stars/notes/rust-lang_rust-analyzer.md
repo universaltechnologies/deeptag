@@ -8,8 +8,10 @@ topics: [hacktoberfest, lsp-server, rust]
 starred_at: "2023-02-06T10:26:13Z"
 tags:
   - coding
+  - language
+  - compiler
+  - rust
   - ide
-  - library
   - tool
 ---
 

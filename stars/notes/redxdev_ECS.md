@@ -11,8 +11,8 @@ tags:
   - game
   - ecs
   - cpp
-  - library
   - header-only
+  - library
 ---
 
 # redxdev/ECS

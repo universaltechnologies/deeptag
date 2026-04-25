@@ -7,7 +7,7 @@ stars: 131
 topics: [datavisualization, flowmap]
 starred_at: "2024-11-15T05:44:27Z"
 tags:
-  - graphic
+  - coding
   - visualization
   - webgl
   - library

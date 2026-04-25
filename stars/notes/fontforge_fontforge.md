@@ -7,12 +7,11 @@ stars: 7662
 topics: []
 starred_at: "2025-11-13T12:43:39Z"
 tags:
-  - tools
   - coding
   - media
   - font
-  - editor
   - cross-platform
+  - tool
 ---
 
 # fontforge/fontforge

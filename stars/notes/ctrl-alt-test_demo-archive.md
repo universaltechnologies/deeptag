@@ -7,10 +7,12 @@ stars: 155
 topics: [ctrl-alt-test, demoscene]
 starred_at: "2018-10-12T16:58:35Z"
 tags:
-  - coding
   - graphic
-  - rendering
+  - scene
+  - procedural
   - compression
+  - audio
+  - library
 ---
 
 # ctrl-alt-test/demo-archive

@@ -9,15 +9,7 @@ starred_at: "2023-10-11T08:17:36Z"
 tags:
   - graphic
   - rendering
-  - ssao
-  - shadow
-  - raymarching
-  - coding
-  - engine
-  - unity
-  - urp
-  - unreal
-  - performance
+  - book
 ---
 
 # HHHHHHHHHHHHHHHHHHHHHCS/MyStudyNote

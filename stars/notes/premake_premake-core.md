@@ -9,9 +9,7 @@ starred_at: "2015-12-19T02:17:43Z"
 tags:
   - coding
   - build
-  - lua
   - tool
-  - cross-platform
 ---
 
 # premake/premake-core

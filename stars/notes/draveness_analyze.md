@@ -7,10 +7,9 @@ stars: 8103
 topics: [analyze, article, ios, objective-c, sourcecode, swift]
 starred_at: "2025-07-29T08:48:01Z"
 tags:
-  - coding
+  - mobile
   - architecture
-  - ios
-  - tutorial
+  - book
 ---
 
 # draveness/analyze

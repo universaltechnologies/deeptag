@@ -10,6 +10,7 @@ tags:
   - coding
   - ai
   - agent
+  - harness
   - tool
 ---
 

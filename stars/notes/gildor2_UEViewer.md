@@ -7,11 +7,9 @@ stars: 2821
 topics: [3d, actorx, cross-platform, exporter, fortnite, gltf, gltf2, model-viewer, opengl, skeletal-animation, ue-viewer, ue4, umodel, unreal, unreal-engine, unreal-engine-4, viewer]
 starred_at: "2019-02-09T03:01:21Z"
 tags:
+  - unreal
+  - desktop
   - tool
-  - graphic
-  - scene
-  - platform
-  - cross-platform
 ---
 
 # gildor2/UEViewer

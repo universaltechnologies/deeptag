@@ -7,9 +7,8 @@ stars: 4490
 topics: []
 starred_at: "2024-11-15T16:23:51Z"
 tags:
-  - awesome
-  - coding
   - lua
+  - awesome
 ---
 
 # LewisJEllis/awesome-lua

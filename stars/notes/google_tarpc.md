@@ -7,12 +7,9 @@ stars: 3685
 topics: [asynchronous-programming, futures, rpc-framework, rust, tokio]
 starred_at: "2022-03-09T16:40:13Z"
 tags:
-  - coding
-  - networking
   - rpc
   - rust
   - framework
-  - library
 ---
 
 # google/tarpc

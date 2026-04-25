@@ -7,11 +7,10 @@ stars: 13504
 topics: [3d, 3d-perception, arm, computer-graphics, cpp, cuda, gpu, gui, machine-learning, mesh-processing, odometry, opengl, pointcloud, python, pytorch, reconstruction, registration, rendering, tensorflow, visualization]
 starred_at: "2023-02-18T06:21:02Z"
 tags:
-  - coding
-  - ai
+  - data
+  - graph
+  - visualization
   - cv
-  - graphic
-  - 3d
   - library
   - cross-platform
 ---

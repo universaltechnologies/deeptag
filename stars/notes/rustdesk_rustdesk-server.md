@@ -7,10 +7,8 @@ stars: 9689
 topics: [remote-access, remote-control, remote-desktop, tauri]
 starred_at: "2022-09-23T14:37:17Z"
 tags:
-  - coding
-  - networking
   - server
-  - rust
+  - self-hosted
   - tool
 ---
 

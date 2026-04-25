@@ -7,11 +7,9 @@ stars: 2172
 topics: [ai, claude, cli, codebase-analysis, file-analysis, gemini, mcp, model-context-protocol, npm, typescript]
 starred_at: "2025-07-30T14:55:59Z"
 tags:
-  - coding
   - ai
   - mcp
-  - cli
-  - nodejs
+  - agent
   - tool
 ---
 

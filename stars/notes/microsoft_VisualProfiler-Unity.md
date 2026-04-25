@@ -7,12 +7,10 @@ stars: 239
 topics: [mixed-reality, profiler, profiling, unity]
 starred_at: "2023-02-13T07:39:24Z"
 tags:
-  - coding
-  - engine
   - unity
   - profiler
-  - debug
-  - plugin
+  - vr
+  - tool
 ---
 
 # microsoft/VisualProfiler-Unity

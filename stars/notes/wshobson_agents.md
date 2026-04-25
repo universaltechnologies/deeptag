@@ -7,10 +7,9 @@ stars: 33922
 topics: [agents, anthropic, anthropic-claude, automation, claude, claude-code, claude-code-cli, claude-code-commands, claude-code-plugin, claude-code-plugins, claude-code-skills, claude-code-subagents, claude-skills, claudecode, claudecode-config, claudecode-subagents, orchestration, sub-agents, subagents, workflows]
 starred_at: "2025-12-21T01:51:55Z"
 tags:
-  - coding
   - ai
   - agent
-  - tool
+  - skills
   - plugin
 ---
 

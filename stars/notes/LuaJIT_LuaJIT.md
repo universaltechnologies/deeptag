@@ -9,10 +9,8 @@ starred_at: "2024-10-09T12:14:09Z"
 tags:
   - coding
   - language
-  - runtime
   - jit
-  - compiler
-  - library
+  - performance
 ---
 
 # LuaJIT/LuaJIT

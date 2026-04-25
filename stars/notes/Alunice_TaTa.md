@@ -9,7 +9,7 @@ starred_at: "2022-07-15T12:29:50Z"
 tags:
   - graphic
   - shader
-  - csharp
+  - tutorial
 ---
 
 # Alunice/TaTa

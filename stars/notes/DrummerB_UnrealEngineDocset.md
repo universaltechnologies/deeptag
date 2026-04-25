@@ -7,8 +7,6 @@ stars: 64
 topics: []
 starred_at: "2018-03-25T06:11:16Z"
 tags:
-  - coding
-  - engine
   - unreal
   - python
   - tool

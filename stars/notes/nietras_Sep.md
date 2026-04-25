@@ -10,9 +10,10 @@ tags:
   - coding
   - data
   - parser
-  - dotnet
-  - performance
+  - csharp
   - library
+  - cross-platform
+  - performance
 ---
 
 # nietras/Sep

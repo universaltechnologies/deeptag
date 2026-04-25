@@ -7,8 +7,6 @@ stars: 2612
 topics: [redux, tutorial]
 starred_at: "2020-10-29T08:36:24Z"
 tags:
-  - coding
-  - web
   - frontend
   - tutorial
 ---

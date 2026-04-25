@@ -7,7 +7,7 @@ stars: 70528
 topics: [serial, ssh-client, telnet-client, terminal, terminal-emulators]
 starred_at: "2022-03-11T07:15:41Z"
 tags:
-  - tools
+  - coding
   - terminal
   - cross-platform
   - tool

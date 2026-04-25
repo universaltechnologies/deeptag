@@ -8,7 +8,7 @@ topics: [cursor, error]
 starred_at: "2026-01-07T16:20:50Z"
 tags:
   - coding
-  - automation
+  - hotfix
   - tool
 ---
 

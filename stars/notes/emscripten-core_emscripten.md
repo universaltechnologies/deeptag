@@ -7,11 +7,9 @@ stars: 27325
 topics: [emscripten, hacktoberfest, wasm, webassembly]
 starred_at: "2015-11-05T05:27:29Z"
 tags:
-  - coding
   - compiler
   - webassembly
   - tool
-  - cross-platform
 ---
 
 # emscripten-core/emscripten

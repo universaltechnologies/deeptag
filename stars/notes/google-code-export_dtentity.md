@@ -8,8 +8,8 @@ topics: []
 starred_at: "2017-03-29T03:05:44Z"
 tags:
   - coding
-  - language
-  - cpp
+  - ecs
+  - framework
 ---
 
 # google-code-export/dtentity

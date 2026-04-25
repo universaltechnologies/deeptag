@@ -8,10 +8,11 @@ topics: [fips, oryol]
 starred_at: "2017-02-07T03:52:14Z"
 tags:
   - coding
-  - graphic
-  - 3d
-  - framework
+  - engine
+  - custom
+  - cpp
   - cross-platform
+  - framework
 ---
 
 # floooh/oryol

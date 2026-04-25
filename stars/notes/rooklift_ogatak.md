@@ -8,7 +8,7 @@ topics: [baduk, go, gui, katago, sgf, weiqi]
 starred_at: "2025-07-16T06:12:39Z"
 tags:
   - coding
-  - gui
+  - desktop
   - tool
 ---
 

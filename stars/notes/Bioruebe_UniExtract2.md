@@ -8,7 +8,7 @@ topics: [decompression, extractor, file-analysis, unpacker]
 starred_at: "2024-11-16T01:22:02Z"
 tags:
   - tools
-  - coding
+  - compute
   - tool
 ---
 

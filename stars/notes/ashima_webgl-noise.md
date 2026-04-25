@@ -10,6 +10,7 @@ tags:
   - graphic
   - shader
   - glsl
+  - procedural
   - library
 ---
 

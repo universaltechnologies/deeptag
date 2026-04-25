@@ -7,11 +7,9 @@ stars: 774
 topics: [ai-agents, anthropic, anthropic-claude, claude-code, claude-code-system-prompts, system-prompts, system-prompts-leak]
 starred_at: "2026-03-11T10:12:53Z"
 tags:
-  - coding
   - ai
-  - llm
-  - tools
-  - awesome
+  - prompt
+  - tool
 ---
 
 # marckrenn/claude-code-changelog

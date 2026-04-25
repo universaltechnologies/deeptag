@@ -7,10 +7,8 @@ stars: 131
 topics: []
 starred_at: "2016-06-10T02:30:18Z"
 tags:
-  - coding
-  - language
   - cpp
-  - architecture
+  - mvvm
   - framework
 ---
 

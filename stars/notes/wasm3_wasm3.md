@@ -7,11 +7,10 @@ stars: 7899
 topics: [containers, cosmopolitan, devops, edge-computing, embedded, iot, sandbox, scripting, serverless, smart-contracts, virtual-machine, wasm, webassembly]
 starred_at: "2024-08-02T08:52:39Z"
 tags:
-  - coding
-  - runtime
   - webassembly
-  - embedded
-  - performance
+  - runtime
+  - cross-platform
+  - library
 ---
 
 # wasm3/wasm3

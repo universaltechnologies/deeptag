@@ -8,9 +8,8 @@ topics: []
 starred_at: "2018-01-25T11:49:11Z"
 tags:
   - coding
-  - algorithm
-  - cpp
   - benchmark
+  - cpp
   - performance
 ---
 

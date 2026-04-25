@@ -9,9 +9,8 @@ starred_at: "2025-07-12T18:51:20Z"
 tags:
   - coding
   - ai
+  - agent
   - tool
-  - cli
-  - typescript
 ---
 
 # musistudio/claude-code-router

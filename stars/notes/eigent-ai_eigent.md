@@ -7,12 +7,10 @@ stars: 13662
 topics: [agent-framework, agent-skills, agentic-ai, agentic-workflow, claude-cowork, claude-cowork-alternative, claude-cowork-free, desktop-agent, multi-agent-systems]
 starred_at: "2026-01-18T07:52:25Z"
 tags:
-  - coding
   - ai
   - agent
-  - mcp
   - desktop
-  - framework
+  - tool
 ---
 
 # eigent-ai/eigent

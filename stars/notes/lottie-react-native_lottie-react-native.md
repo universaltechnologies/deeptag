@@ -7,12 +7,10 @@ stars: 17138
 topics: [after-effects, animations, bodymovin, react, react-native]
 starred_at: "2023-07-07T06:16:00Z"
 tags:
-  - coding
-  - graphic
-  - animation
-  - library
-  - cross-platform
   - mobile
+  - animation
+  - cross-platform
+  - library
 ---
 
 # lottie-react-native/lottie-react-native

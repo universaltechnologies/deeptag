@@ -8,8 +8,6 @@ topics: []
 starred_at: "2022-02-10T13:23:19Z"
 tags:
   - graphic
-  - lighting
-  - shadow
   - shadowmap
   - tutorial
 ---

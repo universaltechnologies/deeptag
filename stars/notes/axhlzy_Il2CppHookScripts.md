@@ -8,9 +8,8 @@ topics: [frida, hook, il2cpp, unity]
 starred_at: "2023-10-09T07:04:12Z"
 tags:
   - coding
-  - game
-  - engine
-  - unity
+  - reverse
+  - hook
   - tool
 ---
 

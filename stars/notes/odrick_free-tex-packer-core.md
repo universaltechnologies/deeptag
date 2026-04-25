@@ -8,9 +8,7 @@ topics: []
 starred_at: "2025-10-16T09:40:29Z"
 tags:
   - coding
-  - media
-  - image
-  - nodejs
+  - image-processing
   - library
 ---
 

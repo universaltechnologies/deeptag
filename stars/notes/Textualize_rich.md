@@ -9,6 +9,7 @@ starred_at: "2022-03-11T07:21:37Z"
 tags:
   - coding
   - terminal
+  - python
   - library
 ---
 

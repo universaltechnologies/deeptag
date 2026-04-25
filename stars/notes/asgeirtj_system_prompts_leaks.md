@@ -7,9 +7,7 @@ stars: 38621
 topics: [ai, ai-transparency, anthropic, chatgpt, claude, claude-code, gemini, generative-ai, gpt-5, grok, large-language-models, llm, openai, perplexity, prompt-engineering, system-prompt, system-prompts, xai]
 starred_at: "2026-01-29T02:33:50Z"
 tags:
-  - coding
   - ai
-  - llm
   - prompt
   - awesome
 ---

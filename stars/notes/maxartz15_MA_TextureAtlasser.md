@@ -10,10 +10,7 @@ tags:
   - coding
   - engine
   - unity
-  - graphic
-  - texture
   - tool
-  - plugin
 ---
 
 # maxartz15/MA_TextureAtlasser

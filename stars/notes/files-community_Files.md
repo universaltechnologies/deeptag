@@ -7,10 +7,10 @@ stars: 43061
 topics: [alternatives, csharp, customization, developer-tools, dotnet, file-manager, files, fluent, fluent-design, git, good-first-issue, power-user, productivity, utilities, winappsdk, windows, windows-10, windows-11, winui, xaml]
 starred_at: "2023-12-30T07:46:43Z"
 tags:
-  - coding
-  - dotnet
-  - desktop
+  - windows
   - gui
+  - mvvm
+  - tool
 ---
 
 # files-community/Files

@@ -7,11 +7,12 @@ stars: 108
 topics: [adreno, best-practices-snapdragon, gpu, opengl, opengles, qualcomm, samples]
 starred_at: "2023-01-07T10:44:16Z"
 tags:
-  - graphic
-  - platform
+  - coding
+  - android
+  - engine
+  - api
   - opengl
   - framework
-  - android
 ---
 
 # SnapdragonGameStudios/adreno-gpu-opengl-es-code-sample-framework

@@ -7,11 +7,11 @@ stars: 97
 topics: []
 starred_at: "2026-03-11T08:12:30Z"
 tags:
-  - coding
   - ai
   - agent
-  - awesome
-  - tool
+  - prompt
+  - skills
+  - library
 ---
 
 # OneWave-AI/claude-skills

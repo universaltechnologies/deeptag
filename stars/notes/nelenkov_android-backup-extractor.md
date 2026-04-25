@@ -7,10 +7,7 @@ stars: 2533
 topics: []
 starred_at: "2025-08-07T11:52:56Z"
 tags:
-  - tools
-  - java
   - android
-  - cli
   - tool
 ---
 

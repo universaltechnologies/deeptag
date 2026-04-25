@@ -7,9 +7,8 @@ stars: 1330
 topics: [articles, assets, awesome, awesome-list, computer-graphics, game-design, game-development, game-engine-development, game-engine-programming, game-engines, game-frameworks, graphics-libraries, libraries, list, resources, shaders, tools]
 starred_at: "2024-09-20T05:32:52Z"
 tags:
-  - coding
   - engine
-  - graphic
+  - game
   - awesome
 ---
 

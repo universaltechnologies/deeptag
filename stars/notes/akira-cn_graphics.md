@@ -7,8 +7,9 @@ stars: 545
 topics: []
 starred_at: "2023-11-06T18:11:10Z"
 tags:
-  - graphic
+  - 3d
   - animation
+  - glsl
   - webgl
   - tutorial
 ---

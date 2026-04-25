@@ -8,11 +8,9 @@ topics: [lua, profiler, unity, xlua]
 starred_at: "2021-11-15T11:35:53Z"
 tags:
   - coding
-  - engine
   - profiler
   - unity
-  - plugin
-  - debug
+  - tool
 ---
 
 # leinlin/Miku-LuaProfiler

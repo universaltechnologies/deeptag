@@ -8,10 +8,10 @@ topics: [directx-sdk]
 starred_at: "2016-08-29T11:48:07Z"
 tags:
   - coding
-  - cpp
-  - graphic
   - directx
+  - cpp
   - windows
+  - tutorial
 ---
 
 # walbourn/directx-sdk-samples-reworked

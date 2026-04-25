@@ -10,7 +10,7 @@ tags:
   - coding
   - game
   - simulation
-  - practice
+  - tool
 ---
 
 # SebLague/Boids

@@ -9,10 +9,8 @@ starred_at: "2023-03-27T17:59:16Z"
 tags:
   - coding
   - gui
-  - library
   - cross-platform
-  - opengl
-  - cpp
+  - library
 ---
 
 # wjakob/nanogui

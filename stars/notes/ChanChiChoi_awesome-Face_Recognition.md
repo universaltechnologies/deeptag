@@ -7,7 +7,6 @@ stars: 4737
 topics: [face-alignment, face-detection, face-generation, face-recognition, face-reconstruction, face-retrieval, face-superresolution, face-tracking, face-transfer]
 starred_at: "2019-01-29T06:59:43Z"
 tags:
-  - coding
   - ai
   - cv
   - awesome

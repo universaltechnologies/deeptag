@@ -10,8 +10,8 @@ tags:
   - coding
   - robotics
   - simulation
-  - unity
   - tutorial
+  - awesome
 ---
 
 # Unity-Technologies/Unity-Robotics-Hub

@@ -8,9 +8,8 @@ topics: [cln, closed-loop, foc, stepper]
 starred_at: "2023-11-03T15:04:04Z"
 tags:
   - coding
-  - robotics
   - hardware
-  - tool
+  - robotics
 ---
 
 # creapunk/CLN-ClosedLoopNemaDriver

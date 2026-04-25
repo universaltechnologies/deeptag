@@ -8,9 +8,8 @@ topics: []
 starred_at: "2023-02-14T17:46:07Z"
 tags:
   - graphic
-  - rendering
-  - rasterization
   - culling
+  - library
   - performance
 ---
 

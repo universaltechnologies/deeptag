@@ -7,11 +7,12 @@ stars: 15133
 topics: [3d, 3d-globe, 3d-tiles, cesium, czml, geospatial, gis, gltf, webgl]
 starred_at: "2015-10-29T07:04:39Z"
 tags:
-  - coding
-  - graphic
   - rendering
+  - 3d
   - webgl
+  - javascript
   - library
+  - cross-platform
 ---
 
 # CesiumGS/cesium

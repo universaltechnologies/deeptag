@@ -7,11 +7,9 @@ stars: 358
 topics: []
 starred_at: "2025-09-08T07:43:59Z"
 tags:
-  - coding
-  - algorithm
-  - library
+  - cpp
   - header-only
-  - cross-platform
+  - library
 ---
 
 # SRombauts/SimplexNoise

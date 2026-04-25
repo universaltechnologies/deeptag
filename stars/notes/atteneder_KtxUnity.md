@@ -10,9 +10,8 @@ tags:
   - coding
   - engine
   - unity
-  - graphic
-  - texture
   - library
+  - cross-platform
 ---
 
 # atteneder/KtxUnity

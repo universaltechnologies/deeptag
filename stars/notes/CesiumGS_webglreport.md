@@ -7,8 +7,6 @@ stars: 423
 topics: [webgl]
 starred_at: "2022-09-20T08:39:51Z"
 tags:
-  - graphic
-  - platform
   - webgl
   - tool
 ---

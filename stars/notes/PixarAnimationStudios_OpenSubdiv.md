@@ -8,9 +8,8 @@ topics: []
 starred_at: "2022-09-06T07:32:19Z"
 tags:
   - graphic
-  - scene
+  - geometry
   - library
-  - performance
 ---
 
 # PixarAnimationStudios/OpenSubdiv

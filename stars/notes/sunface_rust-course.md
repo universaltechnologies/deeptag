@@ -11,6 +11,7 @@ tags:
   - language
   - rust
   - book
+  - tutorial
 ---
 
 # sunface/rust-course

@@ -7,10 +7,9 @@ stars: 2726
 topics: [compiler, lua, teal, type-checking]
 starred_at: "2023-10-26T03:37:51Z"
 tags:
-  - coding
-  - language
   - compiler
-  - library
+  - lua
+  - tool
 ---
 
 # teal-language/tl

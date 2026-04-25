@@ -7,10 +7,9 @@ stars: 5958
 topics: []
 starred_at: "2026-01-24T10:15:08Z"
 tags:
-  - coding
   - ai
   - diffusion
-  - cv
+  - image-processing
 ---
 
 # Doubiiu/ToonCrafter

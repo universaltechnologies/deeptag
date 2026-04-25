@@ -9,9 +9,6 @@ starred_at: "2022-10-27T06:24:39Z"
 tags:
   - coding
   - game
-  - ai
-  - llm
-  - graphic
   - awesome
 ---
 

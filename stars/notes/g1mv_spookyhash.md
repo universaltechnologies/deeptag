@@ -9,9 +9,7 @@ starred_at: "2024-11-27T03:24:37Z"
 tags:
   - coding
   - algorithm
-  - performance
   - library
-  - c
 ---
 
 # g1mv/spookyhash

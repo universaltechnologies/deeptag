@@ -7,12 +7,12 @@ stars: 19903
 topics: [ai-framework, deep-learning, hardware-acceleration, machine-learning, neural-networks, onnx, pytorch, scikit-learn, tensorflow]
 starred_at: "2024-11-18T14:51:18Z"
 tags:
-  - coding
   - ai
   - inference
+  - ml
   - cross-platform
-  - performance
   - library
+  - performance
 ---
 
 # microsoft/onnxruntime

@@ -7,11 +7,10 @@ stars: 109
 topics: []
 starred_at: "2017-03-02T15:05:13Z"
 tags:
-  - graphic
-  - scene
+  - web
+  - frontend
   - voxel
   - mesh
-  - webgl
   - library
 ---
 

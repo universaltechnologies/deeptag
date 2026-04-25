@@ -7,10 +7,9 @@ stars: 1331
 topics: []
 starred_at: "2026-04-14T08:09:55Z"
 tags:
-  - coding
   - ai
-  - agent
-  - mcp
+  - skills
+  - automation
   - tool
 ---
 

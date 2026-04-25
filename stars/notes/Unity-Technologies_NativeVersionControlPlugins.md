@@ -11,7 +11,6 @@ tags:
   - engine
   - unity
   - plugin
-  - cpp
 ---
 
 # Unity-Technologies/NativeVersionControlPlugins

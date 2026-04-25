@@ -7,10 +7,9 @@ stars: 20159
 topics: [audit, bastion, certificate, cluster, database-access, firewall, firewalls, go, golang, jumpserver, kubernetes, kubernetes-access, pam, postgres, rbac, rdp, security, ssh, teleport, teleport-binaries]
 starred_at: "2023-07-14T07:41:53Z"
 tags:
-  - coding
+  - server
+  - proxy
   - security
-  - networking
-  - tools
   - tool
 ---
 

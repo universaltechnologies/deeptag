@@ -7,10 +7,11 @@ stars: 18
 topics: [deep-learning, machine-learning, machine-learning-tutorials, neural-network, neural-networks, neural-networks-from-scratch, python, python3]
 starred_at: "2021-11-10T05:26:29Z"
 tags:
-  - coding
   - ai
-  - ml
+  - deep-learning
+  - python
   - book
+  - tutorial
 ---
 
 # mathspp/nnfwp

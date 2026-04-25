@@ -7,8 +7,9 @@ stars: 30919
 topics: [ai, ai-roadmap, artificial-intelligence, data-analysis, data-science, deep-learning, machine-learning, neural-network, roadmap, study-plan]
 starred_at: "2022-04-15T02:32:15Z"
 tags:
-  - coding
   - ai
+  - awesome
+  - tutorial
 ---
 
 # AMAI-GmbH/AI-Expert-Roadmap

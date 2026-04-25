@@ -7,10 +7,8 @@ stars: 548
 topics: [agent, agentic-ai, ai-coding-models, large-language-models, llm]
 starred_at: "2026-01-12T09:00:38Z"
 tags:
-  - coding
   - ai
   - llm
-  - agent
 ---
 
 # MiniMax-AI/MiniMax-M2.1

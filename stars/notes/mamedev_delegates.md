@@ -8,10 +8,9 @@ topics: []
 starred_at: "2018-11-27T05:55:14Z"
 tags:
   - coding
+  - language
   - cpp
   - library
-  - header-only
-  - cross-platform
   - performance
 ---
 

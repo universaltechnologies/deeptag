@@ -7,10 +7,8 @@ stars: 1657
 topics: []
 starred_at: "2026-04-11T09:53:32Z"
 tags:
-  - tools
   - plugin
   - markdown
-  - parser
 ---
 
 # callumalpass/tasknotes

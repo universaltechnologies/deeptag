@@ -8,9 +8,8 @@ topics: []
 starred_at: "2023-03-17T22:05:04Z"
 tags:
   - graphic
-  - lighting
-  - shadow
-  - shader
+  - shadowmap
+  - tutorial
 ---
 
 # dongch007/TransparentShadow

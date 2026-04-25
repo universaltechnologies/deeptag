@@ -7,10 +7,9 @@ stars: 1494
 topics: [adversarial, beginners, book, caffe, classification, computer-vision, deep-learning, detection, example, gan, generative, model-fusion, mxnet, pytorch, regression, segmentation, siamese, u-net, unet]
 starred_at: "2017-12-31T04:14:04Z"
 tags:
-  - coding
   - ai
-  - deep-learning
   - cv
+  - deep-learning
   - book
 ---
 

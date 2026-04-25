@@ -7,10 +7,9 @@ stars: 4321
 topics: []
 starred_at: "2025-12-04T09:29:10Z"
 tags:
-  - coding
+  - ci
   - ai
-  - llm
-  - automation
+  - security
   - tool
 ---
 

@@ -9,7 +9,9 @@ starred_at: "2026-01-11T12:17:53Z"
 tags:
   - coding
   - ai
-  - agent
+  - skills
+  - markdown
+  - plugin
 ---
 
 # kepano/obsidian-skills

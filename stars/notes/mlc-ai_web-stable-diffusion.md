@@ -7,11 +7,10 @@ stars: 3720
 topics: [deep-learning, stable-diffusion, tvm, web-assembly, webgpu, webml]
 starred_at: "2023-04-07T12:52:51Z"
 tags:
-  - coding
   - ai
   - diffusion
-  - web
   - webassembly
+  - webgpu
   - library
 ---
 

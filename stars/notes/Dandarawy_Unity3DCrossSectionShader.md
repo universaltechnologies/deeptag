@@ -12,7 +12,7 @@ tags:
   - coding
   - engine
   - unity
-  - plugin
+  - library
 ---
 
 # Dandarawy/Unity3DCrossSectionShader

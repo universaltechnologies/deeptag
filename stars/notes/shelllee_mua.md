@@ -10,7 +10,7 @@ tags:
   - coding
   - language
   - lua
-  - embedded
+  - library
 ---
 
 # shelllee/mua

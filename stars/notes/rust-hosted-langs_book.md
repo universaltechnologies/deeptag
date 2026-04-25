@@ -7,11 +7,10 @@ stars: 516
 topics: [allocator, book, garbage-collection, interpreted-programming-language, rust]
 starred_at: "2023-11-17T07:35:20Z"
 tags:
-  - coding
   - language
+  - compiler
   - runtime
   - book
-  - gc
 ---
 
 # rust-hosted-langs/book

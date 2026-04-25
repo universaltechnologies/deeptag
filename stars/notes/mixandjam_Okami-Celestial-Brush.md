@@ -10,8 +10,8 @@ tags:
   - coding
   - engine
   - unity
-  - game
-  - tutorial
+  - gameplay
+  - library
 ---
 
 # mixandjam/Okami-Celestial-Brush

@@ -9,7 +9,7 @@ starred_at: "2024-10-09T09:28:54Z"
 tags:
   - coding
   - language
-  - c
+  - lua
 ---
 
 # lua/lua

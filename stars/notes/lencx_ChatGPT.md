@@ -8,10 +8,9 @@ topics: [ai, app, application, chatgpt, desktop-app, gpt, gpt-3, linux, macos, n
 starred_at: "2023-04-11T09:13:14Z"
 tags:
   - coding
-  - ai
   - desktop
-  - tool
   - cross-platform
+  - tool
 ---
 
 # lencx/ChatGPT

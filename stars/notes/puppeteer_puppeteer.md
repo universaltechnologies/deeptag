@@ -7,11 +7,10 @@ stars: 94156
 topics: [automation, chrome, chromium, developer-tools, firefox, headless-chrome, node-module, testing, web]
 starred_at: "2026-04-08T08:04:23Z"
 tags:
-  - coding
-  - automation
   - web
+  - api
+  - mcp
   - library
-  - tool
 ---
 
 # puppeteer/puppeteer

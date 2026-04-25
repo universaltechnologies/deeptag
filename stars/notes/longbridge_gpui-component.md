@@ -8,11 +8,10 @@ topics: [desktop-application, gpui, rust, uikit]
 starred_at: "2025-11-01T03:35:30Z"
 tags:
   - coding
-  - desktop
   - gui
-  - rust
-  - library
+  - desktop
   - cross-platform
+  - library
 ---
 
 # longbridge/gpui-component

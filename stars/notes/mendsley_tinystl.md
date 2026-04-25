@@ -8,10 +8,10 @@ topics: []
 starred_at: "2021-07-22T07:29:24Z"
 tags:
   - coding
-  - cpp
+  - language
   - stl
-  - library
   - header-only
+  - library
 ---
 
 # mendsley/tinystl

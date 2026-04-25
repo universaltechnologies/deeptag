@@ -7,12 +7,11 @@ stars: 13428
 topics: [blackwell, cuda, llm-serving, moe, pytorch]
 starred_at: "2026-01-20T02:26:14Z"
 tags:
-  - coding
   - ai
-  - llm
   - inference
+  - llm
   - cuda
-  - library
+  - framework
   - performance
 ---
 

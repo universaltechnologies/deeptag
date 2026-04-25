@@ -7,10 +7,10 @@ stars: 4057
 topics: []
 starred_at: "2016-01-26T05:35:36Z"
 tags:
-  - coding
   - web
+  - frontend
+  - ui
   - plugin
-  - javascript
 ---
 
 # arielsalminen/responsive-nav.js

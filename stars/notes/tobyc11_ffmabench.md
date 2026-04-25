@@ -10,8 +10,8 @@ tags:
   - coding
   - systems
   - cuda
-  - tool
   - benchmark
+  - tool
 ---
 
 # tobyc11/ffmabench

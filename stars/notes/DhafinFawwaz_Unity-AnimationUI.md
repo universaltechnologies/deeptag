@@ -13,6 +13,7 @@ tags:
   - animation
   - ui
   - library
+  - tool
 ---
 
 # DhafinFawwaz/Unity-AnimationUI

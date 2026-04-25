@@ -7,9 +7,10 @@ stars: 55101
 topics: [claude-code, context-engineering, meta-prompting, spec-driven-development]
 starred_at: "2026-03-20T10:30:45Z"
 tags:
-  - coding
   - ai
   - prompt
+  - context
+  - spec
   - tool
 ---
 

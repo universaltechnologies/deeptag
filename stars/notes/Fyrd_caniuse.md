@@ -7,11 +7,10 @@ stars: 5831
 topics: []
 starred_at: "2025-05-23T01:49:30Z"
 tags:
+  - coding
   - web
   - data
-  - json
-  - tool
-  - awesome
+  - library
 ---
 
 # Fyrd/caniuse

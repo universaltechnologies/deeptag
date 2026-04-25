@@ -8,11 +8,7 @@ topics: []
 starred_at: "2023-02-23T17:30:20Z"
 tags:
   - coding
-  - language
-  - cpp
-  - graphic
-  - ui
-  - tool
+  - gui
   - library
 ---
 

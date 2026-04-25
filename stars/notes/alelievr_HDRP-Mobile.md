@@ -10,10 +10,8 @@ tags:
   - coding
   - engine
   - unity
-  - graphic
-  - plugin
-  - platform
   - mobile
+  - plugin
 ---
 
 # alelievr/HDRP-Mobile

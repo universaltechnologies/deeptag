@@ -7,12 +7,14 @@ stars: 89205
 topics: [bun, bundler, javascript, javascriptcore, jsx, nodejs, npm, react, transpiler, typescript, zig, ziglang]
 starred_at: "2023-08-31T18:33:25Z"
 tags:
-  - coding
-  - language
-  - runtime
   - javascript
   - typescript
+  - runtime
+  - package
+  - test
+  - cli
   - tool
+  - performance
 ---
 
 # oven-sh/bun

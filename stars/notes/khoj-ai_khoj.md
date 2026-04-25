@@ -7,11 +7,11 @@ stars: 34163
 topics: [agent, ai, assistant, chat, chatgpt, emacs, image-generation, llama3, llamacpp, llm, obsidian, obsidian-md, offline-llm, productivity, rag, research, self-hosted, semantic-search, stt, whatsapp-ai]
 starred_at: "2025-12-21T02:52:17Z"
 tags:
-  - coding
   - ai
-  - llm
+  - agent
   - rag
   - self-hosted
+  - tool
 ---
 
 # khoj-ai/khoj

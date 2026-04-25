@@ -9,6 +9,7 @@ starred_at: "2023-11-02T07:35:43Z"
 tags:
   - coding
   - gui
+  - python
   - library
 ---
 

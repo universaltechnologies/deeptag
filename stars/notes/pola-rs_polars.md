@@ -9,8 +9,9 @@ starred_at: "2023-11-23T13:43:10Z"
 tags:
   - coding
   - data
-  - performance
   - library
+  - performance
+  - cross-platform
 ---
 
 # pola-rs/polars

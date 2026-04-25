@@ -10,8 +10,6 @@ tags:
   - graphic
   - shader
   - hlsl
-  - platform
-  - directx
   - compiler
   - tool
 ---

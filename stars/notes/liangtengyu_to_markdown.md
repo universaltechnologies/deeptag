@@ -8,7 +8,6 @@ topics: [csdn, pic, segmentfault, springboot, vue]
 starred_at: "2022-05-12T00:21:34Z"
 tags:
   - coding
-  - web
   - parser
   - markdown
   - tool

@@ -7,11 +7,9 @@ stars: 41346
 topics: [hacktoberfest, hexo, javascript, nodejs, static-site-generator, typescript]
 starred_at: "2023-11-17T16:24:11Z"
 tags:
-  - coding
-  - web
   - nodejs
+  - markdown
   - framework
-  - tool
 ---
 
 # hexojs/hexo

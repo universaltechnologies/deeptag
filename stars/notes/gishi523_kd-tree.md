@@ -7,11 +7,10 @@ stars: 187
 topics: []
 starred_at: "2024-12-12T16:25:13Z"
 tags:
-  - coding
   - algorithm
   - cpp
-  - library
   - header-only
+  - library
 ---
 
 # gishi523/kd-tree

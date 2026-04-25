@@ -7,10 +7,10 @@ stars: 4062
 topics: [cloud, devtool, whiteboard]
 starred_at: "2026-01-18T07:51:40Z"
 tags:
-  - coding
-  - ide
   - web
+  - ide
   - cloud
+  - self-hosted
   - tool
 ---
 

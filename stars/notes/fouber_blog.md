@@ -7,11 +7,10 @@ stars: 22633
 topics: []
 starred_at: "2022-02-18T12:31:07Z"
 tags:
-  - coding
   - web
   - frontend
   - practice
-  - tutorial
+  - book
 ---
 
 # fouber/blog

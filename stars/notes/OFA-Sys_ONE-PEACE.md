@@ -7,11 +7,8 @@ stars: 1062
 topics: [audio-language, contrastive-loss, foundation-models, multimodal, representation-learning, vision-and-language, vision-language, vision-transformer]
 starred_at: "2025-01-07T14:07:43Z"
 tags:
-  - coding
   - ai
-  - ml
   - deep-learning
-  - cv
   - library
 ---
 

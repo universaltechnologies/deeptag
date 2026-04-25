@@ -8,10 +8,8 @@ topics: []
 starred_at: "2022-10-14T17:55:33Z"
 tags:
   - graphic
-  - rasterization
-  - ray-tracing
-  - vulkan
-  - directx
+  - rendering
+  - tutorial
 ---
 
 # NVIDIA-RTX/Donut-Samples

@@ -9,10 +9,7 @@ starred_at: "2023-03-17T22:06:23Z"
 tags:
   - coding
   - game
-  - engine
-  - 3d
-  - rendering
-  - rasterization
+  - library
 ---
 
 # id-Software/Quake-III-Arena

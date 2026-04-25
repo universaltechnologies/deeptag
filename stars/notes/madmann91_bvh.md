@@ -8,10 +8,9 @@ topics: [bvh, c11, construction-algorithms, cpp20, header-only, raytracing, trav
 starred_at: "2023-05-25T05:45:19Z"
 tags:
   - graphic
-  - rendering
-  - ray-tracing
+  - scene
+  - geometry
   - library
-  - header-only
   - performance
 ---
 

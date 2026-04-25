@@ -9,10 +9,9 @@ starred_at: "2019-12-04T01:47:30Z"
 tags:
   - coding
   - data
+  - database
   - dotnet
-  - library
-  - performance
-  - cross-platform
+  - framework
 ---
 
 # DotNetNext/SqlSugar

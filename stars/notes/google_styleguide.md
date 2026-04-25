@@ -7,8 +7,8 @@ stars: 39217
 topics: [cpplint, style-guide, styleguide]
 starred_at: "2020-09-27T08:37:25Z"
 tags:
-  - coding
-  - lint
+  - practice
+  - book
 ---
 
 # google/styleguide

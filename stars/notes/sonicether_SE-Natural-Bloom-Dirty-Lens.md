@@ -7,12 +7,13 @@ stars: 169
 topics: []
 starred_at: "2023-03-17T21:45:10Z"
 tags:
-  - graphic
-  - post-processing
   - coding
   - engine
   - unity
-  - shader
+  - graphic
+  - post-processing
+  - bloom
+  - plugin
 ---
 
 # sonicether/SE-Natural-Bloom-Dirty-Lens

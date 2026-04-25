@@ -8,9 +8,7 @@ topics: [apng, astc, bmp, crop, dds, dear-imgui, exr, gif, hdr, image, image-pro
 starred_at: "2025-05-14T02:00:54Z"
 tags:
   - coding
-  - media
   - image-processing
-  - image
   - tool
 ---
 

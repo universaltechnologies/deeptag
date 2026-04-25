@@ -7,8 +7,9 @@ stars: 163
 topics: [aob, aob-scan, game-hacking, hacking, hook, inline-hook, memory-scanning]
 starred_at: "2026-03-19T08:14:56Z"
 tags:
-  - coding
+  - reverse
   - cpp
+  - hook
   - library
 ---
 

@@ -8,10 +8,8 @@ topics: [diff, image-comparison, testing-tools]
 starred_at: "2023-11-10T12:02:50Z"
 tags:
   - coding
-  - image
   - image-processing
   - library
-  - javascript
 ---
 
 # mapbox/pixelmatch

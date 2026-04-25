@@ -7,10 +7,12 @@ stars: 5221
 topics: [best-practices, cpp, graphics, graphics-programming, khronos, tutorials, vulkan, vulkan-api, vulkan-samples]
 starred_at: "2024-10-23T13:37:29Z"
 tags:
-  - graphic
-  - platform
+  - coding
+  - engine
+  - api
   - vulkan
   - tutorial
+  - awesome
 ---
 
 # KhronosGroup/Vulkan-Samples

@@ -10,8 +10,6 @@ tags:
   - coding
   - engine
   - unity
-  - graphic
-  - rendering
   - tutorial
 ---
 

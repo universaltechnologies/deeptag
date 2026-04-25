@@ -7,10 +7,8 @@ stars: 13547
 topics: [3d, 3d-aigc, 3d-generation, diffusion-models, hunyuan3d, image-to-3d, shape, shape-generation, text-to-3d, texture-generation]
 starred_at: "2025-02-20T12:57:51Z"
 tags:
-  - coding
   - ai
   - diffusion
-  - graphic
   - 3d
   - library
 ---

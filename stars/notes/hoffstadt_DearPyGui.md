@@ -11,7 +11,6 @@ tags:
   - gui
   - python
   - framework
-  - cross-platform
 ---
 
 # hoffstadt/DearPyGui

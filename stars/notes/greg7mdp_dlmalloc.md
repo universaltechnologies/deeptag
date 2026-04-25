@@ -8,9 +8,9 @@ topics: []
 starred_at: "2024-10-25T02:56:02Z"
 tags:
   - coding
-  - cpp
   - memory
   - library
+  - header-only
 ---
 
 # greg7mdp/dlmalloc

@@ -7,11 +7,8 @@ stars: 53652
 topics: [android, hacktoberfest, linux, terminal, termux]
 starred_at: "2023-07-21T12:31:51Z"
 tags:
-  - coding
   - android
-  - linux
   - terminal
-  - tool
 ---
 
 # termux/termux-app

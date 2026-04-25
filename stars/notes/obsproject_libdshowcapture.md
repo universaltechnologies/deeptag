@@ -8,9 +8,9 @@ topics: []
 starred_at: "2016-08-30T00:41:25Z"
 tags:
   - coding
-  - media
-  - windows
-  - cpp
+  - engine
+  - api
+  - directx
   - library
 ---
 

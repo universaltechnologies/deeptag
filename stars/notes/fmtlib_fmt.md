@@ -7,11 +7,9 @@ stars: 23441
 topics: [c-plus-plus, chrono, cpp, cross-platform, floating-point, formatting, multiplatform, output, performance, printf, ranges, unicode]
 starred_at: "2023-01-11T06:25:58Z"
 tags:
-  - coding
   - cpp
   - library
-  - cross-platform
-  - performance
+  - header-only
 ---
 
 # fmtlib/fmt

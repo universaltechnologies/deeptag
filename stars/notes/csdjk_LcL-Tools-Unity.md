@@ -11,9 +11,6 @@ tags:
   - engine
   - unity
   - tool
-  - shader
-  - profiler
-  - debug
 ---
 
 # csdjk/LcL-Tools-Unity

@@ -11,6 +11,7 @@ tags:
   - game
   - simulation
   - algorithm
+  - tutorial
 ---
 
 # SolasXer/boids

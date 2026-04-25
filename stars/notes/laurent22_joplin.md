@@ -8,9 +8,9 @@ topics: [android, dropbox, electron, enex-files, evernote, javascript, joplin, n
 starred_at: "2020-01-06T06:26:03Z"
 tags:
   - tools
+  - office
   - cross-platform
-  - desktop
-  - mobile
+  - tool
 ---
 
 # laurent22/joplin

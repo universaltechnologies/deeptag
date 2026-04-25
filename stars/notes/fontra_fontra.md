@@ -7,11 +7,9 @@ stars: 771
 topics: [browser, fonts, javascript, python]
 starred_at: "2025-11-14T03:47:14Z"
 tags:
-  - coding
-  - media
+  - editor
   - font
-  - web
-  - frontend
+  - cross-platform
   - tool
 ---
 

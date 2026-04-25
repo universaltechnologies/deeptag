@@ -8,10 +8,10 @@ topics: [0mq, binding, c-plus-plus, header-only, libzmq, zeromq]
 starred_at: "2015-11-13T02:04:53Z"
 tags:
   - coding
-  - cpp
-  - networking
-  - header-only
+  - network
   - binding
+  - header-only
+  - library
 ---
 
 # zeromq/cppzmq

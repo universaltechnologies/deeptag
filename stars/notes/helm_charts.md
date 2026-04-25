@@ -8,8 +8,7 @@ topics: [charts, helm, kubernetes]
 starred_at: "2023-11-25T06:23:36Z"
 tags:
   - coding
-  - systems
-  - cloud
+  - package
 ---
 
 # helm/charts

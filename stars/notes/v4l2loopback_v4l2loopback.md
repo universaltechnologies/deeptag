@@ -8,10 +8,9 @@ topics: []
 starred_at: "2025-02-07T12:23:34Z"
 tags:
   - coding
-  - systems
-  - linux
-  - driver
+  - kernel
   - video
+  - linux
 ---
 
 # v4l2loopback/v4l2loopback

@@ -10,9 +10,7 @@ tags:
   - coding
   - systems
   - distributed
-  - graphic
-  - rendering
-  - tool
+  - framework
 ---
 
 # AcademySoftwareFoundation/OpenCue
